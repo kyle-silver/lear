@@ -105,15 +105,18 @@ while lear.peek(None):
         staging = next(lear)
         scene_info = SceneInfo.from_html(act, tag, staging)
         current_scene.append(scene_info)
-        continue
-    # characters giving speeches
-    blockquote: Tag = next(lear)
-    dialogue = Dialogue.from_html(tag, blockquote)
-    current_scene.append(dialogue)
+    else:
+        # characters giving speeches
+        blockquote: Tag = next(lear)
+        dialogue = Dialogue.from_html(tag, blockquote)
+        current_scene.append(dialogue)
 
 for (index, scene) in enumerate(scenes):
-    print(f"{index:02d}.json")
-    file = path.join(working_dir, "scenes", f"{index:02d}.json")
-    with open(file, "w", encoding="utf-8") as f:
-        data = [block.to_dict() for block in scene]
-        json.dump(data, f)
+    print(index, len(scene))
+
+# for (index, scene) in enumerate(scenes):
+#     print(f"{index:02d}.json")
+#     file = path.join(working_dir, "scenes", f"{index:02d}.json")
+#     with open(file, "w", encoding="utf-8") as f:
+#         data = [block.to_dict() for block in scene]
+#         json.dump(data, f)

@@ -1,0 +1,385 @@
+[
+    {
+        "act": 4,
+        "setting": "SCENE III. The French camp near Dover.",
+        "staging": "Enter KENT and a Gentleman"
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 1,
+        "stop": 2,
+        "lines": [
+            {
+                "text": "Why the King of France is so suddenly gone back"
+            },
+            {
+                "text": "know you the reason?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 3,
+        "stop": 7,
+        "lines": [
+            {
+                "text": "Something he left imperfect in the"
+            },
+            {
+                "text": "state, which since his coming forth is thought"
+            },
+            {
+                "text": "of; which imports to the kingdom so much"
+            },
+            {
+                "text": "fear and danger, that his personal return was"
+            },
+            {
+                "text": "most required and necessary."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 8,
+        "stop": 8,
+        "lines": [
+            {
+                "text": "Who hath he left behind him general?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 9,
+        "stop": 9,
+        "lines": [
+            {
+                "text": "The Marshal of France, Monsieur La Far."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 10,
+        "stop": 11,
+        "lines": [
+            {
+                "text": "Did your letters pierce the queen to any"
+            },
+            {
+                "text": "demonstration of grief?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 12,
+        "stop": 16,
+        "lines": [
+            {
+                "text": "Ay, sir; she took them, read them in my presence;"
+            },
+            {
+                "text": "And now and then an ample tear trill'd down"
+            },
+            {
+                "text": "Her delicate cheek: it seem'd she was a queen"
+            },
+            {
+                "text": "Over her passion; who, most rebel-like,"
+            },
+            {
+                "text": "Sought to be king o'er her."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 17,
+        "stop": 17,
+        "lines": [
+            {
+                "text": "O, then it moved her."
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 18,
+        "stop": 26,
+        "lines": [
+            {
+                "text": "Not to a rage: patience and sorrow strove"
+            },
+            {
+                "text": "Who should express her goodliest. You have seen"
+            },
+            {
+                "text": "Sunshine and rain at once: her smiles and tears"
+            },
+            {
+                "text": "Were like a better way: those happy smilets,"
+            },
+            {
+                "text": "That play'd on her ripe lip, seem'd not to know"
+            },
+            {
+                "text": "What guests were in her eyes; which parted thence,"
+            },
+            {
+                "text": "As pearls from diamonds dropp'd. In brief,"
+            },
+            {
+                "text": "Sorrow would be a rarity most beloved,"
+            },
+            {
+                "text": "If all could so become it."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 27,
+        "stop": 27,
+        "lines": [
+            {
+                "text": "Made she no verbal question?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 28,
+        "stop": 35,
+        "lines": [
+            {
+                "text": "'Faith, once or twice she heaved the name of 'father'"
+            },
+            {
+                "text": "Pantingly forth, as if it press'd her heart:"
+            },
+            {
+                "text": "Cried 'Sisters! sisters! Shame of ladies! sisters!"
+            },
+            {
+                "text": "Kent! father! sisters! What, i' the storm? i' the night?"
+            },
+            {
+                "text": "Let pity not be believed!' There she shook"
+            },
+            {
+                "text": "The holy water from her heavenly eyes,"
+            },
+            {
+                "text": "And clamour moisten'd: then away she started"
+            },
+            {
+                "text": "To deal with grief alone."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 36,
+        "stop": 39,
+        "lines": [
+            {
+                "text": "It is the stars,"
+            },
+            {
+                "text": "The stars above us, govern our conditions;"
+            },
+            {
+                "text": "Else one self mate and mate could not beget"
+            },
+            {
+                "text": "Such different issues. You spoke not with her since?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 40,
+        "stop": 40,
+        "lines": [
+            {
+                "text": "No."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 41,
+        "stop": 41,
+        "lines": [
+            {
+                "text": "Was this before the king return'd?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 42,
+        "stop": 42,
+        "lines": [
+            {
+                "text": "No, since."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 43,
+        "stop": 46,
+        "lines": [
+            {
+                "text": "Well, sir, the poor distressed Lear's i' the town;"
+            },
+            {
+                "text": "Who sometime, in his better tune, remembers"
+            },
+            {
+                "text": "What we are come about, and by no means"
+            },
+            {
+                "text": "Will yield to see his daughter."
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 47,
+        "stop": 47,
+        "lines": [
+            {
+                "text": "Why, good sir?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 48,
+        "stop": 53,
+        "lines": [
+            {
+                "text": "A sovereign shame so elbows him: his own unkindness,"
+            },
+            {
+                "text": "That stripp'd her from his benediction, turn'd her"
+            },
+            {
+                "text": "To foreign casualties, gave her dear rights"
+            },
+            {
+                "text": "To his dog-hearted daughters, these things sting"
+            },
+            {
+                "text": "His mind so venomously, that burning shame"
+            },
+            {
+                "text": "Detains him from Cordelia."
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 54,
+        "stop": 54,
+        "lines": [
+            {
+                "text": "Alack, poor gentleman!"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 55,
+        "stop": 55,
+        "lines": [
+            {
+                "text": "Of Albany's and Cornwall's powers you heard not?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 4,
+        "scene": 3,
+        "start": 56,
+        "stop": 56,
+        "lines": [
+            {
+                "text": "'Tis so, they are afoot."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 4,
+        "scene": 3,
+        "start": 57,
+        "stop": 62,
+        "lines": [
+            {
+                "text": "Well, sir, I'll bring you to our master Lear,"
+            },
+            {
+                "text": "And leave you to attend him: some dear cause"
+            },
+            {
+                "text": "Will in concealment wrap me up awhile;"
+            },
+            {
+                "text": "When I am known aright, you shall not grieve"
+            },
+            {
+                "text": "Lending me this acquaintance. I pray you, go"
+            },
+            {
+                "text": "Along with me."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

@@ -1,0 +1,559 @@
+[
+    {
+        "act": 4,
+        "setting": "SCENE I. The heath.",
+        "staging": "Enter EDGAR"
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 1,
+        "stop": 12,
+        "lines": [
+            {
+                "text": "Yet better thus, and known to be contemn'd,"
+            },
+            {
+                "text": "Than still contemn'd and flatter'd. To be worst,"
+            },
+            {
+                "text": "The lowest and most dejected thing of fortune,"
+            },
+            {
+                "text": "Stands still in esperance, lives not in fear:"
+            },
+            {
+                "text": "The lamentable change is from the best;"
+            },
+            {
+                "text": "The worst returns to laughter. Welcome, then,"
+            },
+            {
+                "text": "Thou unsubstantial air that I embrace!"
+            },
+            {
+                "text": "The wretch that thou hast blown unto the worst"
+            },
+            {
+                "text": "Owes nothing to thy blasts. But who comes here?"
+            },
+            {
+                "direction": "Enter GLOUCESTER, led by an Old Man"
+            },
+            {
+                "text": "My father, poorly led? World, world, O world!"
+            },
+            {
+                "text": "But that thy strange mutations make us hate thee,"
+            },
+            {
+                "text": "Lie would not yield to age."
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 13,
+        "stop": 14,
+        "lines": [
+            {
+                "text": "O, my good lord, I have been your tenant, and"
+            },
+            {
+                "text": "your father's tenant, these fourscore years."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 15,
+        "stop": 17,
+        "lines": [
+            {
+                "text": "Away, get thee away; good friend, be gone:"
+            },
+            {
+                "text": "Thy comforts can do me no good at all;"
+            },
+            {
+                "text": "Thee they may hurt."
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 18,
+        "stop": 18,
+        "lines": [
+            {
+                "text": "Alack, sir, you cannot see your way."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 19,
+        "stop": 25,
+        "lines": [
+            {
+                "text": "I have no way, and therefore want no eyes;"
+            },
+            {
+                "text": "I stumbled when I saw: full oft 'tis seen,"
+            },
+            {
+                "text": "Our means secure us, and our mere defects"
+            },
+            {
+                "text": "Prove our commodities. O dear son Edgar,"
+            },
+            {
+                "text": "The food of thy abused father's wrath!"
+            },
+            {
+                "text": "Might I but live to see thee in my touch,"
+            },
+            {
+                "text": "I'ld say I had eyes again!"
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 26,
+        "stop": 26,
+        "lines": [
+            {
+                "text": "How now! Who's there?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 27,
+        "stop": 29,
+        "lines": [
+            {
+                "text": "[Aside] O gods! Who is't can say 'I am at"
+            },
+            {
+                "text": "the worst'?"
+            },
+            {
+                "text": "I am worse than e'er I was."
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 30,
+        "stop": 30,
+        "lines": [
+            {
+                "text": "'Tis poor mad Tom."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 31,
+        "stop": 32,
+        "lines": [
+            {
+                "text": "[Aside] And worse I may be yet: the worst is not"
+            },
+            {
+                "text": "So long as we can say 'This is the worst.'"
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 33,
+        "stop": 33,
+        "lines": [
+            {
+                "text": "Fellow, where goest?"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 34,
+        "stop": 34,
+        "lines": [
+            {
+                "text": "Is it a beggar-man?"
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 35,
+        "stop": 35,
+        "lines": [
+            {
+                "text": "Madman and beggar too."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 36,
+        "stop": 43,
+        "lines": [
+            {
+                "text": "He has some reason, else he could not beg."
+            },
+            {
+                "text": "I' the last night's storm I such a fellow saw;"
+            },
+            {
+                "text": "Which made me think a man a worm: my son"
+            },
+            {
+                "text": "Came then into my mind; and yet my mind"
+            },
+            {
+                "text": "Was then scarce friends with him: I have heard"
+            },
+            {
+                "text": "more since."
+            },
+            {
+                "text": "As flies to wanton boys, are we to the gods."
+            },
+            {
+                "text": "They kill us for their sport."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 44,
+        "stop": 46,
+        "lines": [
+            {
+                "text": "[Aside] How should this be?"
+            },
+            {
+                "text": "Bad is the trade that must play fool to sorrow,"
+            },
+            {
+                "text": "Angering itself and others.--Bless thee, master!"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 47,
+        "stop": 47,
+        "lines": [
+            {
+                "text": "Is that the naked fellow?"
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 48,
+        "stop": 48,
+        "lines": [
+            {
+                "text": "Ay, my lord."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 49,
+        "stop": 53,
+        "lines": [
+            {
+                "text": "Then, prithee, get thee gone: if, for my sake,"
+            },
+            {
+                "text": "Thou wilt o'ertake us, hence a mile or twain,"
+            },
+            {
+                "text": "I' the way toward Dover, do it for ancient love;"
+            },
+            {
+                "text": "And bring some covering for this naked soul,"
+            },
+            {
+                "text": "Who I'll entreat to lead me."
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 54,
+        "stop": 54,
+        "lines": [
+            {
+                "text": "Alack, sir, he is mad."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 55,
+        "stop": 57,
+        "lines": [
+            {
+                "text": "'Tis the times' plague, when madmen lead the blind."
+            },
+            {
+                "text": "Do as I bid thee, or rather do thy pleasure;"
+            },
+            {
+                "text": "Above the rest, be gone."
+            }
+        ]
+    },
+    {
+        "character": "Old Man",
+        "act": 4,
+        "scene": 1,
+        "start": 58,
+        "stop": 59,
+        "lines": [
+            {
+                "text": "I'll bring him the best 'parel that I have,"
+            },
+            {
+                "text": "Come on't what will."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 60,
+        "stop": 60,
+        "lines": [
+            {
+                "text": "Sirrah, naked fellow,--"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 61,
+        "stop": 62,
+        "lines": [
+            {
+                "text": "Poor Tom's a-cold."
+            },
+            {
+                "direction": "Aside"
+            },
+            {
+                "text": "I cannot daub it further."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 63,
+        "stop": 63,
+        "lines": [
+            {
+                "text": "Come hither, fellow."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 64,
+        "stop": 64,
+        "lines": [
+            {
+                "text": "[Aside] And yet I must.--Bless thy sweet eyes, they bleed."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 65,
+        "stop": 65,
+        "lines": [
+            {
+                "text": "Know'st thou the way to Dover?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 66,
+        "stop": 73,
+        "lines": [
+            {
+                "text": "Both stile and gate, horse-way and foot-path. Poor"
+            },
+            {
+                "text": "Tom hath been scared out of his good wits: bless"
+            },
+            {
+                "text": "thee, good man's son, from the foul fiend! five"
+            },
+            {
+                "text": "fiends have been in poor Tom at once; of lust, as"
+            },
+            {
+                "text": "Obidicut; Hobbididence, prince of dumbness; Mahu, of"
+            },
+            {
+                "text": "stealing; Modo, of murder; Flibbertigibbet, of"
+            },
+            {
+                "text": "mopping and mowing, who since possesses chambermaids"
+            },
+            {
+                "text": "and waiting-women. So, bless thee, master!"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 74,
+        "stop": 81,
+        "lines": [
+            {
+                "text": "Here, take this purse, thou whom the heavens' plagues"
+            },
+            {
+                "text": "Have humbled to all strokes: that I am wretched"
+            },
+            {
+                "text": "Makes thee the happier: heavens, deal so still!"
+            },
+            {
+                "text": "Let the superfluous and lust-dieted man,"
+            },
+            {
+                "text": "That slaves your ordinance, that will not see"
+            },
+            {
+                "text": "Because he doth not feel, feel your power quickly;"
+            },
+            {
+                "text": "So distribution should undo excess,"
+            },
+            {
+                "text": "And each man have enough. Dost thou know Dover?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 82,
+        "stop": 82,
+        "lines": [
+            {
+                "text": "Ay, master."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 4,
+        "scene": 1,
+        "start": 83,
+        "stop": 88,
+        "lines": [
+            {
+                "text": "There is a cliff, whose high and bending head"
+            },
+            {
+                "text": "Looks fearfully in the confined deep:"
+            },
+            {
+                "text": "Bring me but to the very brim of it,"
+            },
+            {
+                "text": "And I'll repair the misery thou dost bear"
+            },
+            {
+                "text": "With something rich about me: from that place"
+            },
+            {
+                "text": "I shall no leading need."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 4,
+        "scene": 1,
+        "start": 89,
+        "stop": 90,
+        "lines": [
+            {
+                "text": "Give me thy arm:"
+            },
+            {
+                "text": "Poor Tom shall lead thee."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

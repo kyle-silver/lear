@@ -1,0 +1,124 @@
+[
+    {
+        "act": 3,
+        "setting": "SCENE III. Gloucester's castle.",
+        "staging": "Enter GLOUCESTER and EDMUND"
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 3,
+        "start": 1,
+        "stop": 6,
+        "lines": [
+            {
+                "text": "Alack, alack, Edmund, I like not this unnatural"
+            },
+            {
+                "text": "dealing. When I desire their leave that I might"
+            },
+            {
+                "text": "pity him, they took from me the use of mine own"
+            },
+            {
+                "text": "house; charged me, on pain of their perpetual"
+            },
+            {
+                "text": "displeasure, neither to speak of him, entreat for"
+            },
+            {
+                "text": "him, nor any way sustain him."
+            }
+        ]
+    },
+    {
+        "character": "EDMUND",
+        "act": 3,
+        "scene": 3,
+        "start": 7,
+        "stop": 7,
+        "lines": [
+            {
+                "text": "Most savage and unnatural!"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 3,
+        "start": 8,
+        "stop": 20,
+        "lines": [
+            {
+                "text": "Go to; say you nothing. There's a division betwixt"
+            },
+            {
+                "text": "the dukes; and a worse matter than that: I have"
+            },
+            {
+                "text": "received a letter this night; 'tis dangerous to be"
+            },
+            {
+                "text": "spoken; I have locked the letter in my closet:"
+            },
+            {
+                "text": "these injuries the king now bears will be revenged"
+            },
+            {
+                "text": "home; there's part of a power already footed: we"
+            },
+            {
+                "text": "must incline to the king. I will seek him, and"
+            },
+            {
+                "text": "privily relieve him: go you and maintain talk with"
+            },
+            {
+                "text": "the duke, that my charity be not of him perceived:"
+            },
+            {
+                "text": "if he ask for me. I am ill, and gone to bed."
+            },
+            {
+                "text": "Though I die for it, as no less is threatened me,"
+            },
+            {
+                "text": "the king my old master must be relieved. There is"
+            },
+            {
+                "text": "some strange thing toward, Edmund; pray you, be careful."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    },
+    {
+        "character": "EDMUND",
+        "act": 3,
+        "scene": 3,
+        "start": 21,
+        "stop": 25,
+        "lines": [
+            {
+                "text": "This courtesy, forbid thee, shall the duke"
+            },
+            {
+                "text": "Instantly know; and of that letter too:"
+            },
+            {
+                "text": "This seems a fair deserving, and must draw me"
+            },
+            {
+                "text": "That which my father loses; no less than all:"
+            },
+            {
+                "text": "The younger rises when the old doth fall."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    }
+]

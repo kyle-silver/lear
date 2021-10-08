@@ -1,0 +1,1123 @@
+[
+    {
+        "act": 3,
+        "setting": "SCENE IV. The heath. Before a hovel.",
+        "staging": "Enter KING LEAR, KENT, and Fool"
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 1,
+        "stop": 3,
+        "lines": [
+            {
+                "text": "Here is the place, my lord; good my lord, enter:"
+            },
+            {
+                "text": "The tyranny of the open night's too rough"
+            },
+            {
+                "text": "For nature to endure."
+            },
+            {
+                "direction": "Storm still"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 4,
+        "stop": 4,
+        "lines": [
+            {
+                "text": "Let me alone."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 5,
+        "stop": 5,
+        "lines": [
+            {
+                "text": "Good my lord, enter here."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 6,
+        "stop": 6,
+        "lines": [
+            {
+                "text": "Wilt break my heart?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 7,
+        "stop": 7,
+        "lines": [
+            {
+                "text": "I had rather break mine own. Good my lord, enter."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 8,
+        "stop": 25,
+        "lines": [
+            {
+                "text": "Thou think'st 'tis much that this contentious storm"
+            },
+            {
+                "text": "Invades us to the skin: so 'tis to thee;"
+            },
+            {
+                "text": "But where the greater malady is fix'd,"
+            },
+            {
+                "text": "The lesser is scarce felt. Thou'ldst shun a bear;"
+            },
+            {
+                "text": "But if thy flight lay toward the raging sea,"
+            },
+            {
+                "text": "Thou'ldst meet the bear i' the mouth. When the"
+            },
+            {
+                "text": "mind's free,"
+            },
+            {
+                "text": "The body's delicate: the tempest in my mind"
+            },
+            {
+                "text": "Doth from my senses take all feeling else"
+            },
+            {
+                "text": "Save what beats there. Filial ingratitude!"
+            },
+            {
+                "text": "Is it not as this mouth should tear this hand"
+            },
+            {
+                "text": "For lifting food to't? But I will punish home:"
+            },
+            {
+                "text": "No, I will weep no more. In such a night"
+            },
+            {
+                "text": "To shut me out! Pour on; I will endure."
+            },
+            {
+                "text": "In such a night as this! O Regan, Goneril!"
+            },
+            {
+                "text": "Your old kind father, whose frank heart gave all,--"
+            },
+            {
+                "text": "O, that way madness lies; let me shun that;"
+            },
+            {
+                "text": "No more of that."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 26,
+        "stop": 26,
+        "lines": [
+            {
+                "text": " Good my lord, enter here."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 27,
+        "stop": 40,
+        "lines": [
+            {
+                "text": "Prithee, go in thyself: seek thine own ease:"
+            },
+            {
+                "text": "This tempest will not give me leave to ponder"
+            },
+            {
+                "text": "On things would hurt me more. But I'll go in."
+            },
+            {
+                "direction": "To the Fool"
+            },
+            {
+                "text": "In, boy; go first. You houseless poverty,--"
+            },
+            {
+                "text": "Nay, get thee in. I'll pray, and then I'll sleep."
+            },
+            {
+                "direction": "Fool goes in"
+            },
+            {
+                "text": "Poor naked wretches, whereso'er you are,"
+            },
+            {
+                "text": "That bide the pelting of this pitiless storm,"
+            },
+            {
+                "text": "How shall your houseless heads and unfed sides,"
+            },
+            {
+                "text": "Your loop'd and window'd raggedness, defend you"
+            },
+            {
+                "text": "From seasons such as these? O, I have ta'en"
+            },
+            {
+                "text": "Too little care of this! Take physic, pomp;"
+            },
+            {
+                "text": "Expose thyself to feel what wretches feel,"
+            },
+            {
+                "text": "That thou mayst shake the superflux to them,"
+            },
+            {
+                "text": "And show the heavens more just."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 41,
+        "stop": 41,
+        "lines": [
+            {
+                "text": "[Within] Fathom and half, fathom and half! Poor Tom!"
+            },
+            {
+                "direction": "The Fool runs out from the hovel"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 4,
+        "start": 42,
+        "stop": 43,
+        "lines": [
+            {
+                "text": "Come not in here, nuncle, here's a spirit"
+            },
+            {
+                "text": "Help me, help me!"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 44,
+        "stop": 44,
+        "lines": [
+            {
+                "text": "Give me thy hand. Who's there?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 4,
+        "start": 45,
+        "stop": 45,
+        "lines": [
+            {
+                "text": "A spirit, a spirit: he says his name's poor Tom."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 46,
+        "stop": 47,
+        "lines": [
+            {
+                "text": "What art thou that dost grumble there i' the straw?"
+            },
+            {
+                "text": "Come forth."
+            },
+            {
+                "direction": "Enter EDGAR disguised as a mad man"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 48,
+        "stop": 50,
+        "lines": [
+            {
+                "text": "Away! the foul fiend follows me!"
+            },
+            {
+                "text": "Through the sharp hawthorn blows the cold wind."
+            },
+            {
+                "text": "Hum! go to thy cold bed, and warm thee."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 51,
+        "stop": 52,
+        "lines": [
+            {
+                "text": "Hast thou given all to thy two daughters?"
+            },
+            {
+                "text": "And art thou come to this?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 53,
+        "stop": 64,
+        "lines": [
+            {
+                "text": "Who gives any thing to poor Tom? whom the foul"
+            },
+            {
+                "text": "fiend hath led through fire and through flame, and"
+            },
+            {
+                "text": "through ford and whirlipool e'er bog and quagmire;"
+            },
+            {
+                "text": "that hath laid knives under his pillow, and halters"
+            },
+            {
+                "text": "in his pew; set ratsbane by his porridge; made film"
+            },
+            {
+                "text": "proud of heart, to ride on a bay trotting-horse over"
+            },
+            {
+                "text": "four-inched bridges, to course his own shadow for a"
+            },
+            {
+                "text": "traitor. Bless thy five wits! Tom's a-cold,--O, do"
+            },
+            {
+                "text": "de, do de, do de. Bless thee from whirlwinds,"
+            },
+            {
+                "text": "star-blasting, and taking! Do poor Tom some"
+            },
+            {
+                "text": "charity, whom the foul fiend vexes: there could I"
+            },
+            {
+                "text": "have him now,--and there,--and there again, and there."
+            },
+            {
+                "direction": "Storm still"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 65,
+        "stop": 66,
+        "lines": [
+            {
+                "text": "What, have his daughters brought him to this pass?"
+            },
+            {
+                "text": "Couldst thou save nothing? Didst thou give them all?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 4,
+        "start": 67,
+        "stop": 67,
+        "lines": [
+            {
+                "text": "Nay, he reserved a blanket, else we had been all shamed."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 68,
+        "stop": 69,
+        "lines": [
+            {
+                "text": "Now, all the plagues that in the pendulous air"
+            },
+            {
+                "text": "Hang fated o'er men's faults light on thy daughters!"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 70,
+        "stop": 70,
+        "lines": [
+            {
+                "text": "He hath no daughters, sir."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 71,
+        "stop": 76,
+        "lines": [
+            {
+                "text": "Death, traitor! nothing could have subdued nature"
+            },
+            {
+                "text": "To such a lowness but his unkind daughters."
+            },
+            {
+                "text": "Is it the fashion, that discarded fathers"
+            },
+            {
+                "text": "Should have thus little mercy on their flesh?"
+            },
+            {
+                "text": "Judicious punishment! 'twas this flesh begot"
+            },
+            {
+                "text": "Those pelican daughters."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 77,
+        "stop": 78,
+        "lines": [
+            {
+                "text": "Pillicock sat on Pillicock-hill:"
+            },
+            {
+                "text": "Halloo, halloo, loo, loo!"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 4,
+        "start": 79,
+        "stop": 79,
+        "lines": [
+            {
+                "text": "This cold night will turn us all to fools and madmen."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 80,
+        "stop": 83,
+        "lines": [
+            {
+                "text": "Take heed o' the foul fiend: obey thy parents;"
+            },
+            {
+                "text": "keep thy word justly; swear not; commit not with"
+            },
+            {
+                "text": "man's sworn spouse; set not thy sweet heart on proud"
+            },
+            {
+                "text": "array. Tom's a-cold."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 84,
+        "stop": 84,
+        "lines": [
+            {
+                "text": "What hast thou been?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 85,
+        "stop": 101,
+        "lines": [
+            {
+                "text": "A serving-man, proud in heart and mind; that curled"
+            },
+            {
+                "text": "my hair; wore gloves in my cap; served the lust of"
+            },
+            {
+                "text": "my mistress' heart, and did the act of darkness with"
+            },
+            {
+                "text": "her; swore as many oaths as I spake words, and"
+            },
+            {
+                "text": "broke them in the sweet face of heaven: one that"
+            },
+            {
+                "text": "slept in the contriving of lust, and waked to do it:"
+            },
+            {
+                "text": "wine loved I deeply, dice dearly: and in woman"
+            },
+            {
+                "text": "out-paramoured the Turk: false of heart, light of"
+            },
+            {
+                "text": "ear, bloody of hand; hog in sloth, fox in stealth,"
+            },
+            {
+                "text": "wolf in greediness, dog in madness, lion in prey."
+            },
+            {
+                "text": "Let not the creaking of shoes nor the rustling of"
+            },
+            {
+                "text": "silks betray thy poor heart to woman: keep thy foot"
+            },
+            {
+                "text": "out of brothels, thy hand out of plackets, thy pen"
+            },
+            {
+                "text": "from lenders' books, and defy the foul fiend."
+            },
+            {
+                "text": "Still through the hawthorn blows the cold wind:"
+            },
+            {
+                "text": "Says suum, mun, ha, no, nonny."
+            },
+            {
+                "text": "Dolphin my boy, my boy, sessa! let him trot by."
+            },
+            {
+                "direction": "Storm still"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 102,
+        "stop": 110,
+        "lines": [
+            {
+                "text": "Why, thou wert better in thy grave than to answer"
+            },
+            {
+                "text": "with thy uncovered body this extremity of the skies."
+            },
+            {
+                "text": "Is man no more than this? Consider him well. Thou"
+            },
+            {
+                "text": "owest the worm no silk, the beast no hide, the sheep"
+            },
+            {
+                "text": "no wool, the cat no perfume. Ha! here's three on"
+            },
+            {
+                "text": "'s are sophisticated! Thou art the thing itself:"
+            },
+            {
+                "text": "unaccommodated man is no more but such a poor bare,"
+            },
+            {
+                "text": "forked animal as thou art. Off, off, you lendings!"
+            },
+            {
+                "text": "come unbutton here."
+            },
+            {
+                "direction": "Tearing off his clothes"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 4,
+        "start": 111,
+        "stop": 114,
+        "lines": [
+            {
+                "text": "Prithee, nuncle, be contented; 'tis a naughty night"
+            },
+            {
+                "text": "to swim in. Now a little fire in a wild field were"
+            },
+            {
+                "text": "like an old lecher's heart; a small spark, all the"
+            },
+            {
+                "text": "rest on's body cold. Look, here comes a walking fire."
+            },
+            {
+                "direction": "Enter GLOUCESTER, with a torch"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 115,
+        "stop": 124,
+        "lines": [
+            {
+                "text": "This is the foul fiend Flibbertigibbet: he begins"
+            },
+            {
+                "text": "at curfew, and walks till the first cock; he gives"
+            },
+            {
+                "text": "the web and the pin, squints the eye, and makes the"
+            },
+            {
+                "text": "hare-lip; mildews the white wheat, and hurts the"
+            },
+            {
+                "text": "poor creature of earth."
+            },
+            {
+                "text": "S. Withold footed thrice the old;"
+            },
+            {
+                "text": "He met the night-mare, and her nine-fold;"
+            },
+            {
+                "text": "Bid her alight,"
+            },
+            {
+                "text": "And her troth plight,"
+            },
+            {
+                "text": "And, aroint thee, witch, aroint thee!"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 125,
+        "stop": 125,
+        "lines": [
+            {
+                "text": "How fares your grace?"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 126,
+        "stop": 126,
+        "lines": [
+            {
+                "text": "What's he?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 127,
+        "stop": 127,
+        "lines": [
+            {
+                "text": "Who's there? What is't you seek?"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 128,
+        "stop": 128,
+        "lines": [
+            {
+                "text": "What are you there? Your names?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 129,
+        "stop": 140,
+        "lines": [
+            {
+                "text": "Poor Tom; that eats the swimming frog, the toad,"
+            },
+            {
+                "text": "the tadpole, the wall-newt and the water; that in"
+            },
+            {
+                "text": "the fury of his heart, when the foul fiend rages,"
+            },
+            {
+                "text": "eats cow-dung for sallets; swallows the old rat and"
+            },
+            {
+                "text": "the ditch-dog; drinks the green mantle of the"
+            },
+            {
+                "text": "standing pool; who is whipped from tithing to"
+            },
+            {
+                "text": "tithing, and stock- punished, and imprisoned; who"
+            },
+            {
+                "text": "hath had three suits to his back, six shirts to his"
+            },
+            {
+                "text": "body, horse to ride, and weapon to wear;"
+            },
+            {
+                "text": "But mice and rats, and such small deer,"
+            },
+            {
+                "text": "Have been Tom's food for seven long year."
+            },
+            {
+                "text": "Beware my follower. Peace, Smulkin; peace, thou fiend!"
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 141,
+        "stop": 141,
+        "lines": [
+            {
+                "text": "What, hath your grace no better company?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 142,
+        "stop": 143,
+        "lines": [
+            {
+                "text": "The prince of darkness is a gentleman:"
+            },
+            {
+                "text": "Modo he's call'd, and Mahu."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 144,
+        "stop": 145,
+        "lines": [
+            {
+                "text": "Our flesh and blood is grown so vile, my lord,"
+            },
+            {
+                "text": "That it doth hate what gets it."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 146,
+        "stop": 146,
+        "lines": [
+            {
+                "text": "Poor Tom's a-cold."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 147,
+        "stop": 152,
+        "lines": [
+            {
+                "text": "Go in with me: my duty cannot suffer"
+            },
+            {
+                "text": "To obey in all your daughters' hard commands:"
+            },
+            {
+                "text": "Though their injunction be to bar my doors,"
+            },
+            {
+                "text": "And let this tyrannous night take hold upon you,"
+            },
+            {
+                "text": "Yet have I ventured to come seek you out,"
+            },
+            {
+                "text": "And bring you where both fire and food is ready."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 153,
+        "stop": 154,
+        "lines": [
+            {
+                "text": "First let me talk with this philosopher."
+            },
+            {
+                "text": "What is the cause of thunder?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 155,
+        "stop": 155,
+        "lines": [
+            {
+                "text": "Good my lord, take his offer; go into the house."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 156,
+        "stop": 157,
+        "lines": [
+            {
+                "text": "I'll talk a word with this same learned Theban."
+            },
+            {
+                "text": "What is your study?"
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 158,
+        "stop": 158,
+        "lines": [
+            {
+                "text": "How to prevent the fiend, and to kill vermin."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 159,
+        "stop": 159,
+        "lines": [
+            {
+                "text": "Let me ask you one word in private."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 160,
+        "stop": 161,
+        "lines": [
+            {
+                "text": "Importune him once more to go, my lord;"
+            },
+            {
+                "text": "His wits begin to unsettle."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 162,
+        "stop": 171,
+        "lines": [
+            {
+                "text": "Canst thou blame him?"
+            },
+            {
+                "direction": "Storm still"
+            },
+            {
+                "text": "His daughters seek his death: ah, that good Kent!"
+            },
+            {
+                "text": "He said it would be thus, poor banish'd man!"
+            },
+            {
+                "text": "Thou say'st the king grows mad; I'll tell thee, friend,"
+            },
+            {
+                "text": "I am almost mad myself: I had a son,"
+            },
+            {
+                "text": "Now outlaw'd from my blood; he sought my life,"
+            },
+            {
+                "text": "But lately, very late: I loved him, friend;"
+            },
+            {
+                "text": "No father his son dearer: truth to tell thee,"
+            },
+            {
+                "text": "The grief hath crazed my wits. What a night's this!"
+            },
+            {
+                "text": "I do beseech your grace,--"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 172,
+        "stop": 173,
+        "lines": [
+            {
+                "text": "O, cry your mercy, sir."
+            },
+            {
+                "text": "Noble philosopher, your company."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 174,
+        "stop": 174,
+        "lines": [
+            {
+                "text": "Tom's a-cold."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 175,
+        "stop": 175,
+        "lines": [
+            {
+                "text": "In, fellow, there, into the hovel: keep thee warm."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 176,
+        "stop": 176,
+        "lines": [
+            {
+                "text": "Come let's in all."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 177,
+        "stop": 177,
+        "lines": [
+            {
+                "text": " This way, my lord."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 178,
+        "stop": 179,
+        "lines": [
+            {
+                "text": "With him;"
+            },
+            {
+                "text": "I will keep still with my philosopher."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 180,
+        "stop": 180,
+        "lines": [
+            {
+                "text": "Good my lord, soothe him; let him take the fellow."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 181,
+        "stop": 181,
+        "lines": [
+            {
+                "text": "Take him you on."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 4,
+        "start": 182,
+        "stop": 182,
+        "lines": [
+            {
+                "text": "Sirrah, come on; go along with us."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 4,
+        "start": 183,
+        "stop": 183,
+        "lines": [
+            {
+                "text": "Come, good Athenian."
+            }
+        ]
+    },
+    {
+        "character": "GLOUCESTER",
+        "act": 3,
+        "scene": 4,
+        "start": 184,
+        "stop": 184,
+        "lines": [
+            {
+                "text": "No words, no words: hush."
+            }
+        ]
+    },
+    {
+        "character": "EDGAR",
+        "act": 3,
+        "scene": 4,
+        "start": 185,
+        "stop": 187,
+        "lines": [
+            {
+                "text": " Child Rowland to the dark tower came,"
+            },
+            {
+                "text": "His word was still,--Fie, foh, and fum,"
+            },
+            {
+                "text": "I smell the blood of a British man."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

@@ -1,0 +1,625 @@
+[
+    {
+        "act": 4,
+        "setting": "SCENE II. Before ALBANY's palace.",
+        "staging": "Enter GONERIL and EDMUND"
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 1,
+        "stop": 3,
+        "lines": [
+            {
+                "text": "Welcome, my lord: I marvel our mild husband"
+            },
+            {
+                "text": "Not met us on the way."
+            },
+            {
+                "direction": "Enter OSWALD"
+            },
+            {
+                "text": "Now, where's your master'?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 2,
+        "start": 4,
+        "stop": 12,
+        "lines": [
+            {
+                "text": "Madam, within; but never man so changed."
+            },
+            {
+                "text": "I told him of the army that was landed;"
+            },
+            {
+                "text": "He smiled at it: I told him you were coming:"
+            },
+            {
+                "text": "His answer was 'The worse:' of Gloucester's treachery,"
+            },
+            {
+                "text": "And of the loyal service of his son,"
+            },
+            {
+                "text": "When I inform'd him, then he call'd me sot,"
+            },
+            {
+                "text": "And told me I had turn'd the wrong side out:"
+            },
+            {
+                "text": "What most he should dislike seems pleasant to him;"
+            },
+            {
+                "text": "What like, offensive."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 13,
+        "stop": 26,
+        "lines": [
+            {
+                "text": "[To EDMUND] Then shall you go no further."
+            },
+            {
+                "text": "It is the cowish terror of his spirit,"
+            },
+            {
+                "text": "That dares not undertake: he'll not feel wrongs"
+            },
+            {
+                "text": "Which tie him to an answer. Our wishes on the way"
+            },
+            {
+                "text": "May prove effects. Back, Edmund, to my brother;"
+            },
+            {
+                "text": "Hasten his musters and conduct his powers:"
+            },
+            {
+                "text": "I must change arms at home, and give the distaff"
+            },
+            {
+                "text": "Into my husband's hands. This trusty servant"
+            },
+            {
+                "text": "Shall pass between us: ere long you are like to hear,"
+            },
+            {
+                "text": "If you dare venture in your own behalf,"
+            },
+            {
+                "text": "A mistress's command. Wear this; spare speech;"
+            },
+            {
+                "direction": "Giving a favour"
+            },
+            {
+                "text": "Decline your head: this kiss, if it durst speak,"
+            },
+            {
+                "text": "Would stretch thy spirits up into the air:"
+            },
+            {
+                "text": "Conceive, and fare thee well."
+            }
+        ]
+    },
+    {
+        "character": "EDMUND",
+        "act": 4,
+        "scene": 2,
+        "start": 27,
+        "stop": 27,
+        "lines": [
+            {
+                "text": "Yours in the ranks of death."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 28,
+        "stop": 31,
+        "lines": [
+            {
+                "text": "My most dear Gloucester!"
+            },
+            {
+                "direction": "Exit EDMUND"
+            },
+            {
+                "text": "O, the difference of man and man!"
+            },
+            {
+                "text": "To thee a woman's services are due:"
+            },
+            {
+                "text": "My fool usurps my body."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 2,
+        "start": 32,
+        "stop": 32,
+        "lines": [
+            {
+                "text": "Madam, here comes my lord."
+            },
+            {
+                "direction": "Exit"
+            },
+            {
+                "direction": "Enter ALBANY"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 33,
+        "stop": 33,
+        "lines": [
+            {
+                "text": "I have been worth the whistle."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 34,
+        "stop": 41,
+        "lines": [
+            {
+                "text": "O Goneril!"
+            },
+            {
+                "text": "You are not worth the dust which the rude wind"
+            },
+            {
+                "text": "Blows in your face. I fear your disposition:"
+            },
+            {
+                "text": "That nature, which contemns its origin,"
+            },
+            {
+                "text": "Cannot be border'd certain in itself;"
+            },
+            {
+                "text": "She that herself will sliver and disbranch"
+            },
+            {
+                "text": "From her material sap, perforce must wither"
+            },
+            {
+                "text": "And come to deadly use."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 42,
+        "stop": 42,
+        "lines": [
+            {
+                "text": "No more; the text is foolish."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 43,
+        "stop": 55,
+        "lines": [
+            {
+                "text": "Wisdom and goodness to the vile seem vile:"
+            },
+            {
+                "text": "Filths savour but themselves. What have you done?"
+            },
+            {
+                "text": "Tigers, not daughters, what have you perform'd?"
+            },
+            {
+                "text": "A father, and a gracious aged man,"
+            },
+            {
+                "text": "Whose reverence even the head-lugg'd bear would lick,"
+            },
+            {
+                "text": "Most barbarous, most degenerate! have you madded."
+            },
+            {
+                "text": "Could my good brother suffer you to do it?"
+            },
+            {
+                "text": "A man, a prince, by him so benefited!"
+            },
+            {
+                "text": "If that the heavens do not their visible spirits"
+            },
+            {
+                "text": "Send quickly down to tame these vile offences,"
+            },
+            {
+                "text": "It will come,"
+            },
+            {
+                "text": "Humanity must perforce prey on itself,"
+            },
+            {
+                "text": "Like monsters of the deep."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 56,
+        "stop": 65,
+        "lines": [
+            {
+                "text": "Milk-liver'd man!"
+            },
+            {
+                "text": "That bear'st a cheek for blows, a head for wrongs;"
+            },
+            {
+                "text": "Who hast not in thy brows an eye discerning"
+            },
+            {
+                "text": "Thine honour from thy suffering; that not know'st"
+            },
+            {
+                "text": "Fools do those villains pity who are punish'd"
+            },
+            {
+                "text": "Ere they have done their mischief. Where's thy drum?"
+            },
+            {
+                "text": "France spreads his banners in our noiseless land;"
+            },
+            {
+                "text": "With plumed helm thy slayer begins threats;"
+            },
+            {
+                "text": "Whiles thou, a moral fool, sit'st still, and criest"
+            },
+            {
+                "text": "'Alack, why does he so?'"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 66,
+        "stop": 68,
+        "lines": [
+            {
+                "text": "See thyself, devil!"
+            },
+            {
+                "text": "Proper deformity seems not in the fiend"
+            },
+            {
+                "text": "So horrid as in woman."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 69,
+        "stop": 69,
+        "lines": [
+            {
+                "text": "O vain fool!"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 70,
+        "stop": 75,
+        "lines": [
+            {
+                "text": "Thou changed and self-cover'd thing, for shame,"
+            },
+            {
+                "text": "Be-monster not thy feature. Were't my fitness"
+            },
+            {
+                "text": "To let these hands obey my blood,"
+            },
+            {
+                "text": "They are apt enough to dislocate and tear"
+            },
+            {
+                "text": "Thy flesh and bones: howe'er thou art a fiend,"
+            },
+            {
+                "text": "A woman's shape doth shield thee."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 76,
+        "stop": 76,
+        "lines": [
+            {
+                "text": "Marry, your manhood now--"
+            },
+            {
+                "direction": "Enter a Messenger"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 77,
+        "stop": 77,
+        "lines": [
+            {
+                "text": "What news?"
+            }
+        ]
+    },
+    {
+        "character": "Messenger",
+        "act": 4,
+        "scene": 2,
+        "start": 78,
+        "stop": 80,
+        "lines": [
+            {
+                "text": "O, my good lord, the Duke of Cornwall's dead:"
+            },
+            {
+                "text": "Slain by his servant, going to put out"
+            },
+            {
+                "text": "The other eye of Gloucester."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 81,
+        "stop": 81,
+        "lines": [
+            {
+                "text": "Gloucester's eye!"
+            }
+        ]
+    },
+    {
+        "character": "Messenger",
+        "act": 4,
+        "scene": 2,
+        "start": 82,
+        "stop": 87,
+        "lines": [
+            {
+                "text": "A servant that he bred, thrill'd with remorse,"
+            },
+            {
+                "text": "Opposed against the act, bending his sword"
+            },
+            {
+                "text": "To his great master; who, thereat enraged,"
+            },
+            {
+                "text": "Flew on him, and amongst them fell'd him dead;"
+            },
+            {
+                "text": "But not without that harmful stroke, which since"
+            },
+            {
+                "text": "Hath pluck'd him after."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 88,
+        "stop": 91,
+        "lines": [
+            {
+                "text": "This shows you are above,"
+            },
+            {
+                "text": "You justicers, that these our nether crimes"
+            },
+            {
+                "text": "So speedily can venge! But, O poor Gloucester!"
+            },
+            {
+                "text": "Lost he his other eye?"
+            }
+        ]
+    },
+    {
+        "character": "Messenger",
+        "act": 4,
+        "scene": 2,
+        "start": 92,
+        "stop": 94,
+        "lines": [
+            {
+                "text": "Both, both, my lord."
+            },
+            {
+                "text": "This letter, madam, craves a speedy answer;"
+            },
+            {
+                "text": "'Tis from your sister."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 4,
+        "scene": 2,
+        "start": 95,
+        "stop": 99,
+        "lines": [
+            {
+                "text": "[Aside] One way I like this well;"
+            },
+            {
+                "text": "But being widow, and my Gloucester with her,"
+            },
+            {
+                "text": "May all the building in my fancy pluck"
+            },
+            {
+                "text": "Upon my hateful life: another way,"
+            },
+            {
+                "text": "The news is not so tart.--I'll read, and answer."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 100,
+        "stop": 100,
+        "lines": [
+            {
+                "text": "Where was his son when they did take his eyes?"
+            }
+        ]
+    },
+    {
+        "character": "Messenger",
+        "act": 4,
+        "scene": 2,
+        "start": 101,
+        "stop": 101,
+        "lines": [
+            {
+                "text": "Come with my lady hither."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 102,
+        "stop": 102,
+        "lines": [
+            {
+                "text": "He is not here."
+            }
+        ]
+    },
+    {
+        "character": "Messenger",
+        "act": 4,
+        "scene": 2,
+        "start": 103,
+        "stop": 103,
+        "lines": [
+            {
+                "text": "No, my good lord; I met him back again."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 104,
+        "stop": 104,
+        "lines": [
+            {
+                "text": "Knows he the wickedness?"
+            }
+        ]
+    },
+    {
+        "character": "Messenger",
+        "act": 4,
+        "scene": 2,
+        "start": 105,
+        "stop": 107,
+        "lines": [
+            {
+                "text": "Ay, my good lord; 'twas he inform'd against him;"
+            },
+            {
+                "text": "And quit the house on purpose, that their punishment"
+            },
+            {
+                "text": "Might have the freer course."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 4,
+        "scene": 2,
+        "start": 108,
+        "stop": 111,
+        "lines": [
+            {
+                "text": "Gloucester, I live"
+            },
+            {
+                "text": "To thank thee for the love thou show'dst the king,"
+            },
+            {
+                "text": "And to revenge thine eyes. Come hither, friend:"
+            },
+            {
+                "text": "Tell me what more thou know'st."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

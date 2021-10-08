@@ -1,0 +1,316 @@
+[
+    {
+        "act": 4,
+        "setting": "SCENE V. Gloucester's castle.",
+        "staging": "Enter REGAN and OSWALD"
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 1,
+        "stop": 1,
+        "lines": [
+            {
+                "text": "But are my brother's powers set forth?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 2,
+        "stop": 2,
+        "lines": [
+            {
+                "text": "Ay, madam."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 3,
+        "stop": 3,
+        "lines": [
+            {
+                "text": "Himself in person there?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 4,
+        "stop": 5,
+        "lines": [
+            {
+                "text": "Madam, with much ado:"
+            },
+            {
+                "text": "Your sister is the better soldier."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 6,
+        "stop": 6,
+        "lines": [
+            {
+                "text": "Lord Edmund spake not with your lord at home?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 7,
+        "stop": 7,
+        "lines": [
+            {
+                "text": "No, madam."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 8,
+        "stop": 8,
+        "lines": [
+            {
+                "text": "What might import my sister's letter to him?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 9,
+        "stop": 9,
+        "lines": [
+            {
+                "text": "I know not, lady."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 10,
+        "stop": 16,
+        "lines": [
+            {
+                "text": "'Faith, he is posted hence on serious matter."
+            },
+            {
+                "text": "It was great ignorance, Gloucester's eyes being out,"
+            },
+            {
+                "text": "To let him live: where he arrives he moves"
+            },
+            {
+                "text": "All hearts against us: Edmund, I think, is gone,"
+            },
+            {
+                "text": "In pity of his misery, to dispatch"
+            },
+            {
+                "text": "His nighted life: moreover, to descry"
+            },
+            {
+                "text": "The strength o' the enemy."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 17,
+        "stop": 17,
+        "lines": [
+            {
+                "text": "I must needs after him, madam, with my letter."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 18,
+        "stop": 19,
+        "lines": [
+            {
+                "text": "Our troops set forth to-morrow: stay with us;"
+            },
+            {
+                "text": "The ways are dangerous."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 20,
+        "stop": 21,
+        "lines": [
+            {
+                "text": "I may not, madam:"
+            },
+            {
+                "text": "My lady charged my duty in this business."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 22,
+        "stop": 25,
+        "lines": [
+            {
+                "text": "Why should she write to Edmund? Might not you"
+            },
+            {
+                "text": "Transport her purposes by word? Belike,"
+            },
+            {
+                "text": "Something--I know not what: I'll love thee much,"
+            },
+            {
+                "text": "Let me unseal the letter."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 26,
+        "stop": 26,
+        "lines": [
+            {
+                "text": "Madam, I had rather--"
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 27,
+        "stop": 30,
+        "lines": [
+            {
+                "text": "I know your lady does not love her husband;"
+            },
+            {
+                "text": "I am sure of that: and at her late being here"
+            },
+            {
+                "text": "She gave strange oeillades and most speaking looks"
+            },
+            {
+                "text": "To noble Edmund. I know you are of her bosom."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 31,
+        "stop": 31,
+        "lines": [
+            {
+                "text": "I, madam?"
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 32,
+        "stop": 42,
+        "lines": [
+            {
+                "text": "I speak in understanding; you are; I know't:"
+            },
+            {
+                "text": "Therefore I do advise you, take this note:"
+            },
+            {
+                "text": "My lord is dead; Edmund and I have talk'd;"
+            },
+            {
+                "text": "And more convenient is he for my hand"
+            },
+            {
+                "text": "Than for your lady's: you may gather more."
+            },
+            {
+                "text": "If you do find him, pray you, give him this;"
+            },
+            {
+                "text": "And when your mistress hears thus much from you,"
+            },
+            {
+                "text": "I pray, desire her call her wisdom to her."
+            },
+            {
+                "text": "So, fare you well."
+            },
+            {
+                "text": "If you do chance to hear of that blind traitor,"
+            },
+            {
+                "text": "Preferment falls on him that cuts him off."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 4,
+        "scene": 5,
+        "start": 43,
+        "stop": 44,
+        "lines": [
+            {
+                "text": "Would I could meet him, madam! I should show"
+            },
+            {
+                "text": "What party I do follow."
+            }
+        ]
+    },
+    {
+        "character": "REGAN",
+        "act": 4,
+        "scene": 5,
+        "start": 45,
+        "stop": 45,
+        "lines": [
+            {
+                "text": "Fare thee well."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

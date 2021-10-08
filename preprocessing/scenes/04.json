@@ -1,0 +1,2143 @@
+[
+    {
+        "act": 1,
+        "setting": "SCENE IV. A hall in the same.",
+        "staging": "Enter KENT, disguised"
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 1,
+        "stop": 7,
+        "lines": [
+            {
+                "text": "If but as well I other accents borrow,"
+            },
+            {
+                "text": "That can my speech defuse, my good intent"
+            },
+            {
+                "text": "May carry through itself to that full issue"
+            },
+            {
+                "text": "For which I razed my likeness. Now, banish'd Kent,"
+            },
+            {
+                "text": "If thou canst serve where thou dost stand condemn'd,"
+            },
+            {
+                "text": "So may it come, thy master, whom thou lovest,"
+            },
+            {
+                "text": "Shall find thee full of labours."
+            },
+            {
+                "direction": "Horns within. Enter KING LEAR, Knights, and Attendants"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 8,
+        "stop": 9,
+        "lines": [
+            {
+                "text": "Let me not stay a jot for dinner; go get it ready."
+            },
+            {
+                "direction": "Exit an Attendant"
+            },
+            {
+                "text": "How now! what art thou?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 10,
+        "stop": 10,
+        "lines": [
+            {
+                "text": "A man, sir."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 11,
+        "stop": 11,
+        "lines": [
+            {
+                "text": "What dost thou profess? what wouldst thou with us?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 12,
+        "stop": 16,
+        "lines": [
+            {
+                "text": "I do profess to be no less than I seem; to serve"
+            },
+            {
+                "text": "him truly that will put me in trust: to love him"
+            },
+            {
+                "text": "that is honest; to converse with him that is wise,"
+            },
+            {
+                "text": "and says little; to fear judgment; to fight when I"
+            },
+            {
+                "text": "cannot choose; and to eat no fish."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 17,
+        "stop": 17,
+        "lines": [
+            {
+                "text": "What art thou?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 18,
+        "stop": 18,
+        "lines": [
+            {
+                "text": "A very honest-hearted fellow, and as poor as the king."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 19,
+        "stop": 20,
+        "lines": [
+            {
+                "text": "If thou be as poor for a subject as he is for a"
+            },
+            {
+                "text": "king, thou art poor enough. What wouldst thou?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 21,
+        "stop": 21,
+        "lines": [
+            {
+                "text": "Service."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 22,
+        "stop": 22,
+        "lines": [
+            {
+                "text": "Who wouldst thou serve?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 23,
+        "stop": 23,
+        "lines": [
+            {
+                "text": "You."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 24,
+        "stop": 24,
+        "lines": [
+            {
+                "text": "Dost thou know me, fellow?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 25,
+        "stop": 26,
+        "lines": [
+            {
+                "text": "No, sir; but you have that in your countenance"
+            },
+            {
+                "text": "which I would fain call master."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 27,
+        "stop": 27,
+        "lines": [
+            {
+                "text": "What's that?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 28,
+        "stop": 28,
+        "lines": [
+            {
+                "text": "Authority."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 29,
+        "stop": 29,
+        "lines": [
+            {
+                "text": "What services canst thou do?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 30,
+        "stop": 33,
+        "lines": [
+            {
+                "text": "I can keep honest counsel, ride, run, mar a curious"
+            },
+            {
+                "text": "tale in telling it, and deliver a plain message"
+            },
+            {
+                "text": "bluntly: that which ordinary men are fit for, I am"
+            },
+            {
+                "text": "qualified in; and the best of me is diligence."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 34,
+        "stop": 34,
+        "lines": [
+            {
+                "text": "How old art thou?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 35,
+        "stop": 37,
+        "lines": [
+            {
+                "text": "Not so young, sir, to love a woman for singing, nor"
+            },
+            {
+                "text": "so old to dote on her for any thing: I have years"
+            },
+            {
+                "text": "on my back forty eight."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 38,
+        "stop": 42,
+        "lines": [
+            {
+                "text": "Follow me; thou shalt serve me: if I like thee no"
+            },
+            {
+                "text": "worse after dinner, I will not part from thee yet."
+            },
+            {
+                "text": "Dinner, ho, dinner! Where's my knave? my fool?"
+            },
+            {
+                "text": "Go you, and call my fool hither."
+            },
+            {
+                "direction": "Exit an Attendant"
+            },
+            {
+                "direction": "Enter OSWALD"
+            },
+            {
+                "text": "You, you, sirrah, where's my daughter?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 4,
+        "start": 43,
+        "stop": 43,
+        "lines": [
+            {
+                "text": "So please you,--"
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 44,
+        "stop": 46,
+        "lines": [
+            {
+                "text": "What says the fellow there? Call the clotpoll back."
+            },
+            {
+                "direction": "Exit a Knight"
+            },
+            {
+                "text": "Where's my fool, ho? I think the world's asleep."
+            },
+            {
+                "direction": "Re-enter Knight"
+            },
+            {
+                "text": "How now! where's that mongrel?"
+            }
+        ]
+    },
+    {
+        "character": "Knight",
+        "act": 1,
+        "scene": 4,
+        "start": 47,
+        "stop": 47,
+        "lines": [
+            {
+                "text": "He says, my lord, your daughter is not well."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 48,
+        "stop": 48,
+        "lines": [
+            {
+                "text": "Why came not the slave back to me when I called him."
+            }
+        ]
+    },
+    {
+        "character": "Knight",
+        "act": 1,
+        "scene": 4,
+        "start": 49,
+        "stop": 50,
+        "lines": [
+            {
+                "text": "Sir, he answered me in the roundest manner, he would"
+            },
+            {
+                "text": "not."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 51,
+        "stop": 51,
+        "lines": [
+            {
+                "text": "He would not!"
+            }
+        ]
+    },
+    {
+        "character": "Knight",
+        "act": 1,
+        "scene": 4,
+        "start": 52,
+        "stop": 57,
+        "lines": [
+            {
+                "text": "My lord, I know not what the matter is; but, to my"
+            },
+            {
+                "text": "judgment, your highness is not entertained with that"
+            },
+            {
+                "text": "ceremonious affection as you were wont; there's a"
+            },
+            {
+                "text": "great abatement of kindness appears as well in the"
+            },
+            {
+                "text": "general dependants as in the duke himself also and"
+            },
+            {
+                "text": "your daughter."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 58,
+        "stop": 58,
+        "lines": [
+            {
+                "text": "Ha! sayest thou so?"
+            }
+        ]
+    },
+    {
+        "character": "Knight",
+        "act": 1,
+        "scene": 4,
+        "start": 59,
+        "stop": 61,
+        "lines": [
+            {
+                "text": "I beseech you, pardon me, my lord, if I be mistaken;"
+            },
+            {
+                "text": "for my duty cannot be silent when I think your"
+            },
+            {
+                "text": "highness wronged."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 62,
+        "stop": 67,
+        "lines": [
+            {
+                "text": "Thou but rememberest me of mine own conception: I"
+            },
+            {
+                "text": "have perceived a most faint neglect of late; which I"
+            },
+            {
+                "text": "have rather blamed as mine own jealous curiosity"
+            },
+            {
+                "text": "than as a very pretence and purpose of unkindness:"
+            },
+            {
+                "text": "I will look further into't. But where's my fool? I"
+            },
+            {
+                "text": "have not seen him this two days."
+            }
+        ]
+    },
+    {
+        "character": "Knight",
+        "act": 1,
+        "scene": 4,
+        "start": 68,
+        "stop": 69,
+        "lines": [
+            {
+                "text": "Since my young lady's going into France, sir, the"
+            },
+            {
+                "text": "fool hath much pined away."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 70,
+        "stop": 74,
+        "lines": [
+            {
+                "text": "No more of that; I have noted it well. Go you, and"
+            },
+            {
+                "text": "tell my daughter I would speak with her."
+            },
+            {
+                "direction": "Exit an Attendant"
+            },
+            {
+                "text": "Go you, call hither my fool."
+            },
+            {
+                "direction": "Exit an Attendant"
+            },
+            {
+                "direction": "Re-enter OSWALD"
+            },
+            {
+                "text": "O, you sir, you, come you hither, sir: who am I,"
+            },
+            {
+                "text": "sir?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 4,
+        "start": 75,
+        "stop": 75,
+        "lines": [
+            {
+                "text": "My lady's father."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 76,
+        "stop": 77,
+        "lines": [
+            {
+                "text": "'My lady's father'! my lord's knave: your"
+            },
+            {
+                "text": "whoreson dog! you slave! you cur!"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 4,
+        "start": 78,
+        "stop": 78,
+        "lines": [
+            {
+                "text": "I am none of these, my lord; I beseech your pardon."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 79,
+        "stop": 79,
+        "lines": [
+            {
+                "text": "Do you bandy looks with me, you rascal?"
+            },
+            {
+                "direction": "Striking him"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 4,
+        "start": 80,
+        "stop": 80,
+        "lines": [
+            {
+                "text": "I'll not be struck, my lord."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 81,
+        "stop": 81,
+        "lines": [
+            {
+                "text": "Nor tripped neither, you base football player."
+            },
+            {
+                "direction": "Tripping up his heels"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 82,
+        "stop": 83,
+        "lines": [
+            {
+                "text": "I thank thee, fellow; thou servest me, and I'll"
+            },
+            {
+                "text": "love thee."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 84,
+        "stop": 87,
+        "lines": [
+            {
+                "text": "Come, sir, arise, away! I'll teach you differences:"
+            },
+            {
+                "text": "away, away! if you will measure your lubber's"
+            },
+            {
+                "text": "length again, tarry: but away! go to; have you"
+            },
+            {
+                "text": "wisdom? so."
+            },
+            {
+                "direction": "Pushes OSWALD out"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 88,
+        "stop": 89,
+        "lines": [
+            {
+                "text": "Now, my friendly knave, I thank thee: there's"
+            },
+            {
+                "text": "earnest of thy service."
+            },
+            {
+                "direction": "Giving KENT money"
+            },
+            {
+                "direction": "Enter Fool"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 90,
+        "stop": 90,
+        "lines": [
+            {
+                "text": "Let me hire him too: here's my coxcomb."
+            },
+            {
+                "direction": "Offering KENT his cap"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 91,
+        "stop": 91,
+        "lines": [
+            {
+                "text": "How now, my pretty knave! how dost thou?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 92,
+        "stop": 92,
+        "lines": [
+            {
+                "text": "Sirrah, you were best take my coxcomb."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 93,
+        "stop": 93,
+        "lines": [
+            {
+                "text": "Why, fool?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 94,
+        "stop": 100,
+        "lines": [
+            {
+                "text": "Why, for taking one's part that's out of favour:"
+            },
+            {
+                "text": "nay, an thou canst not smile as the wind sits,"
+            },
+            {
+                "text": "thou'lt catch cold shortly: there, take my coxcomb:"
+            },
+            {
+                "text": "why, this fellow has banished two on's daughters,"
+            },
+            {
+                "text": "and did the third a blessing against his will; if"
+            },
+            {
+                "text": "thou follow him, thou must needs wear my coxcomb."
+            },
+            {
+                "text": "How now, nuncle! Would I had two coxcombs and two daughters!"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 101,
+        "stop": 101,
+        "lines": [
+            {
+                "text": "Why, my boy?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 102,
+        "stop": 103,
+        "lines": [
+            {
+                "text": "If I gave them all my living, I'ld keep my coxcombs"
+            },
+            {
+                "text": "myself. There's mine; beg another of thy daughters."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 104,
+        "stop": 104,
+        "lines": [
+            {
+                "text": "Take heed, sirrah; the whip."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 105,
+        "stop": 106,
+        "lines": [
+            {
+                "text": "Truth's a dog must to kennel; he must be whipped"
+            },
+            {
+                "text": "out, when Lady the brach may stand by the fire and stink."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 107,
+        "stop": 107,
+        "lines": [
+            {
+                "text": "A pestilent gall to me!"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 108,
+        "stop": 108,
+        "lines": [
+            {
+                "text": "Sirrah, I'll teach thee a speech."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 109,
+        "stop": 109,
+        "lines": [
+            {
+                "text": "Do."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 110,
+        "stop": 120,
+        "lines": [
+            {
+                "text": "Mark it, nuncle:"
+            },
+            {
+                "text": "Have more than thou showest,"
+            },
+            {
+                "text": "Speak less than thou knowest,"
+            },
+            {
+                "text": "Lend less than thou owest,"
+            },
+            {
+                "text": "Ride more than thou goest,"
+            },
+            {
+                "text": "Learn more than thou trowest,"
+            },
+            {
+                "text": "Set less than thou throwest;"
+            },
+            {
+                "text": "Leave thy drink and thy whore,"
+            },
+            {
+                "text": "And keep in-a-door,"
+            },
+            {
+                "text": "And thou shalt have more"
+            },
+            {
+                "text": "Than two tens to a score."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 121,
+        "stop": 121,
+        "lines": [
+            {
+                "text": "This is nothing, fool."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 122,
+        "stop": 124,
+        "lines": [
+            {
+                "text": "Then 'tis like the breath of an unfee'd lawyer; you"
+            },
+            {
+                "text": "gave me nothing for't. Can you make no use of"
+            },
+            {
+                "text": "nothing, nuncle?"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 125,
+        "stop": 125,
+        "lines": [
+            {
+                "text": "Why, no, boy; nothing can be made out of nothing."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 126,
+        "stop": 127,
+        "lines": [
+            {
+                "text": "[To KENT] Prithee, tell him, so much the rent of"
+            },
+            {
+                "text": "his land comes to: he will not believe a fool."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 128,
+        "stop": 128,
+        "lines": [
+            {
+                "text": "A bitter fool!"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 129,
+        "stop": 130,
+        "lines": [
+            {
+                "text": "Dost thou know the difference, my boy, between a"
+            },
+            {
+                "text": "bitter fool and a sweet fool?"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 131,
+        "stop": 131,
+        "lines": [
+            {
+                "text": "No, lad; teach me."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 132,
+        "stop": 139,
+        "lines": [
+            {
+                "text": "That lord that counsell'd thee"
+            },
+            {
+                "text": "To give away thy land,"
+            },
+            {
+                "text": "Come place him here by me,"
+            },
+            {
+                "text": "Do thou for him stand:"
+            },
+            {
+                "text": "The sweet and bitter fool"
+            },
+            {
+                "text": "Will presently appear;"
+            },
+            {
+                "text": "The one in motley here,"
+            },
+            {
+                "text": "The other found out there."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 140,
+        "stop": 140,
+        "lines": [
+            {
+                "text": "Dost thou call me fool, boy?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 141,
+        "stop": 142,
+        "lines": [
+            {
+                "text": "All thy other titles thou hast given away; that"
+            },
+            {
+                "text": "thou wast born with."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 1,
+        "scene": 4,
+        "start": 143,
+        "stop": 143,
+        "lines": [
+            {
+                "text": "This is not altogether fool, my lord."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 144,
+        "stop": 148,
+        "lines": [
+            {
+                "text": "No, faith, lords and great men will not let me; if"
+            },
+            {
+                "text": "I had a monopoly out, they would have part on't:"
+            },
+            {
+                "text": "and ladies too, they will not let me have all fool"
+            },
+            {
+                "text": "to myself; they'll be snatching. Give me an egg,"
+            },
+            {
+                "text": "nuncle, and I'll give thee two crowns."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 149,
+        "stop": 149,
+        "lines": [
+            {
+                "text": "What two crowns shall they be?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 150,
+        "stop": 161,
+        "lines": [
+            {
+                "text": "Why, after I have cut the egg i' the middle, and eat"
+            },
+            {
+                "text": "up the meat, the two crowns of the egg. When thou"
+            },
+            {
+                "text": "clovest thy crown i' the middle, and gavest away"
+            },
+            {
+                "text": "both parts, thou borest thy ass on thy back o'er"
+            },
+            {
+                "text": "the dirt: thou hadst little wit in thy bald crown,"
+            },
+            {
+                "text": "when thou gavest thy golden one away. If I speak"
+            },
+            {
+                "text": "like myself in this, let him be whipped that first"
+            },
+            {
+                "text": "finds it so."
+            },
+            {
+                "direction": "Singing"
+            },
+            {
+                "text": "Fools had ne'er less wit in a year;"
+            },
+            {
+                "text": "For wise men are grown foppish,"
+            },
+            {
+                "text": "They know not how their wits to wear,"
+            },
+            {
+                "text": "Their manners are so apish."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 162,
+        "stop": 162,
+        "lines": [
+            {
+                "text": "When were you wont to be so full of songs, sirrah?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 163,
+        "stop": 171,
+        "lines": [
+            {
+                "text": "I have used it, nuncle, ever since thou madest thy"
+            },
+            {
+                "text": "daughters thy mothers: for when thou gavest them"
+            },
+            {
+                "text": "the rod, and put'st down thine own breeches,"
+            },
+            {
+                "direction": "Singing"
+            },
+            {
+                "text": "Then they for sudden joy did weep,"
+            },
+            {
+                "text": "And I for sorrow sung,"
+            },
+            {
+                "text": "That such a king should play bo-peep,"
+            },
+            {
+                "text": "And go the fools among."
+            },
+            {
+                "text": "Prithee, nuncle, keep a schoolmaster that can teach"
+            },
+            {
+                "text": "thy fool to lie: I would fain learn to lie."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 172,
+        "stop": 172,
+        "lines": [
+            {
+                "text": "An you lie, sirrah, we'll have you whipped."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 173,
+        "stop": 180,
+        "lines": [
+            {
+                "text": "I marvel what kin thou and thy daughters are:"
+            },
+            {
+                "text": "they'll have me whipped for speaking true, thou'lt"
+            },
+            {
+                "text": "have me whipped for lying; and sometimes I am"
+            },
+            {
+                "text": "whipped for holding my peace. I had rather be any"
+            },
+            {
+                "text": "kind o' thing than a fool: and yet I would not be"
+            },
+            {
+                "text": "thee, nuncle; thou hast pared thy wit o' both sides,"
+            },
+            {
+                "text": "and left nothing i' the middle: here comes one o'"
+            },
+            {
+                "text": "the parings."
+            },
+            {
+                "direction": "Enter GONERIL"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 181,
+        "stop": 182,
+        "lines": [
+            {
+                "text": "How now, daughter! what makes that frontlet on?"
+            },
+            {
+                "text": "Methinks you are too much of late i' the frown."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 183,
+        "stop": 191,
+        "lines": [
+            {
+                "text": "Thou wast a pretty fellow when thou hadst no need to"
+            },
+            {
+                "text": "care for her frowning; now thou art an O without a"
+            },
+            {
+                "text": "figure: I am better than thou art now; I am a fool,"
+            },
+            {
+                "text": "thou art nothing."
+            },
+            {
+                "direction": "To GONERIL"
+            },
+            {
+                "text": "Yes, forsooth, I will hold my tongue; so your face"
+            },
+            {
+                "text": "bids me, though you say nothing. Mum, mum,"
+            },
+            {
+                "text": "He that keeps nor crust nor crum,"
+            },
+            {
+                "text": "Weary of all, shall want some."
+            },
+            {
+                "direction": "Pointing to KING LEAR"
+            },
+            {
+                "text": "That's a shealed peascod."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 192,
+        "stop": 205,
+        "lines": [
+            {
+                "text": "Not only, sir, this your all-licensed fool,"
+            },
+            {
+                "text": "But other of your insolent retinue"
+            },
+            {
+                "text": "Do hourly carp and quarrel; breaking forth"
+            },
+            {
+                "text": "In rank and not-to-be endured riots. Sir,"
+            },
+            {
+                "text": "I had thought, by making this well known unto you,"
+            },
+            {
+                "text": "To have found a safe redress; but now grow fearful,"
+            },
+            {
+                "text": "By what yourself too late have spoke and done."
+            },
+            {
+                "text": "That you protect this course, and put it on"
+            },
+            {
+                "text": "By your allowance; which if you should, the fault"
+            },
+            {
+                "text": "Would not 'scape censure, nor the redresses sleep,"
+            },
+            {
+                "text": "Which, in the tender of a wholesome weal,"
+            },
+            {
+                "text": "Might in their working do you that offence,"
+            },
+            {
+                "text": "Which else were shame, that then necessity"
+            },
+            {
+                "text": "Will call discreet proceeding."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 206,
+        "stop": 209,
+        "lines": [
+            {
+                "text": "For, you trow, nuncle,"
+            },
+            {
+                "text": "The hedge-sparrow fed the cuckoo so long,"
+            },
+            {
+                "text": "That it's had it head bit off by it young."
+            },
+            {
+                "text": "So, out went the candle, and we were left darkling."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 210,
+        "stop": 210,
+        "lines": [
+            {
+                "text": "Are you our daughter?"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 211,
+        "stop": 215,
+        "lines": [
+            {
+                "text": "Come, sir,"
+            },
+            {
+                "text": "I would you would make use of that good wisdom,"
+            },
+            {
+                "text": "Whereof I know you are fraught; and put away"
+            },
+            {
+                "text": "These dispositions, that of late transform you"
+            },
+            {
+                "text": "From what you rightly are."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 216,
+        "stop": 217,
+        "lines": [
+            {
+                "text": "May not an ass know when the cart"
+            },
+            {
+                "text": "draws the horse? Whoop, Jug! I love thee."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 218,
+        "stop": 222,
+        "lines": [
+            {
+                "text": "Doth any here know me? This is not Lear:"
+            },
+            {
+                "text": "Doth Lear walk thus? speak thus? Where are his eyes?"
+            },
+            {
+                "text": "Either his notion weakens, his discernings"
+            },
+            {
+                "text": "Are lethargied--Ha! waking? 'tis not so."
+            },
+            {
+                "text": "Who is it that can tell me who I am?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 223,
+        "stop": 223,
+        "lines": [
+            {
+                "text": "Lear's shadow."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 224,
+        "stop": 226,
+        "lines": [
+            {
+                "text": "I would learn that; for, by the"
+            },
+            {
+                "text": "marks of sovereignty, knowledge, and reason,"
+            },
+            {
+                "text": "I should be false persuaded I had daughters."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 227,
+        "stop": 227,
+        "lines": [
+            {
+                "text": "Which they will make an obedient father."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 228,
+        "stop": 228,
+        "lines": [
+            {
+                "text": "Your name, fair gentlewoman?"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 229,
+        "stop": 244,
+        "lines": [
+            {
+                "text": "This admiration, sir, is much o' the savour"
+            },
+            {
+                "text": "Of other your new pranks. I do beseech you"
+            },
+            {
+                "text": "To understand my purposes aright:"
+            },
+            {
+                "text": "As you are old and reverend, you should be wise."
+            },
+            {
+                "text": "Here do you keep a hundred knights and squires;"
+            },
+            {
+                "text": "Men so disorder'd, so debosh'd and bold,"
+            },
+            {
+                "text": "That this our court, infected with their manners,"
+            },
+            {
+                "text": "Shows like a riotous inn: epicurism and lust"
+            },
+            {
+                "text": "Make it more like a tavern or a brothel"
+            },
+            {
+                "text": "Than a graced palace. The shame itself doth speak"
+            },
+            {
+                "text": "For instant remedy: be then desired"
+            },
+            {
+                "text": "By her, that else will take the thing she begs,"
+            },
+            {
+                "text": "A little to disquantity your train;"
+            },
+            {
+                "text": "And the remainder, that shall still depend,"
+            },
+            {
+                "text": "To be such men as may besort your age,"
+            },
+            {
+                "text": "And know themselves and you."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 245,
+        "stop": 248,
+        "lines": [
+            {
+                "text": "Darkness and devils!"
+            },
+            {
+                "text": "Saddle my horses; call my train together:"
+            },
+            {
+                "text": "Degenerate bastard! I'll not trouble thee."
+            },
+            {
+                "text": "Yet have I left a daughter."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 249,
+        "stop": 250,
+        "lines": [
+            {
+                "text": "You strike my people; and your disorder'd rabble"
+            },
+            {
+                "text": "Make servants of their betters."
+            },
+            {
+                "direction": "Enter ALBANY"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 251,
+        "stop": 256,
+        "lines": [
+            {
+                "text": "Woe, that too late repents,--"
+            },
+            {
+                "direction": "To ALBANY"
+            },
+            {
+                "text": "O, sir, are you come?"
+            },
+            {
+                "text": "Is it your will? Speak, sir. Prepare my horses."
+            },
+            {
+                "text": "Ingratitude, thou marble-hearted fiend,"
+            },
+            {
+                "text": "More hideous when thou show'st thee in a child"
+            },
+            {
+                "text": "Than the sea-monster!"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 257,
+        "stop": 257,
+        "lines": [
+            {
+                "text": "Pray, sir, be patient."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 258,
+        "stop": 268,
+        "lines": [
+            {
+                "text": "[To GONERIL] Detested kite! thou liest."
+            },
+            {
+                "text": "My train are men of choice and rarest parts,"
+            },
+            {
+                "text": "That all particulars of duty know,"
+            },
+            {
+                "text": "And in the most exact regard support"
+            },
+            {
+                "text": "The worships of their name. O most small fault,"
+            },
+            {
+                "text": "How ugly didst thou in Cordelia show!"
+            },
+            {
+                "text": "That, like an engine, wrench'd my frame of nature"
+            },
+            {
+                "text": "From the fix'd place; drew from heart all love,"
+            },
+            {
+                "text": "And added to the gall. O Lear, Lear, Lear!"
+            },
+            {
+                "text": "Beat at this gate, that let thy folly in,"
+            },
+            {
+                "direction": "Striking his head"
+            },
+            {
+                "text": "And thy dear judgment out! Go, go, my people."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 269,
+        "stop": 270,
+        "lines": [
+            {
+                "text": "My lord, I am guiltless, as I am ignorant"
+            },
+            {
+                "text": "Of what hath moved you."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 271,
+        "stop": 286,
+        "lines": [
+            {
+                "text": "It may be so, my lord."
+            },
+            {
+                "text": "Hear, nature, hear; dear goddess, hear!"
+            },
+            {
+                "text": "Suspend thy purpose, if thou didst intend"
+            },
+            {
+                "text": "To make this creature fruitful!"
+            },
+            {
+                "text": "Into her womb convey sterility!"
+            },
+            {
+                "text": "Dry up in her the organs of increase;"
+            },
+            {
+                "text": "And from her derogate body never spring"
+            },
+            {
+                "text": "A babe to honour her! If she must teem,"
+            },
+            {
+                "text": "Create her child of spleen; that it may live,"
+            },
+            {
+                "text": "And be a thwart disnatured torment to her!"
+            },
+            {
+                "text": "Let it stamp wrinkles in her brow of youth;"
+            },
+            {
+                "text": "With cadent tears fret channels in her cheeks;"
+            },
+            {
+                "text": "Turn all her mother's pains and benefits"
+            },
+            {
+                "text": "To laughter and contempt; that she may feel"
+            },
+            {
+                "text": "How sharper than a serpent's tooth it is"
+            },
+            {
+                "text": "To have a thankless child! Away, away!"
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 287,
+        "stop": 287,
+        "lines": [
+            {
+                "text": "Now, gods that we adore, whereof comes this?"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 288,
+        "stop": 290,
+        "lines": [
+            {
+                "text": "Never afflict yourself to know the cause;"
+            },
+            {
+                "text": "But let his disposition have that scope"
+            },
+            {
+                "text": "That dotage gives it."
+            },
+            {
+                "direction": "Re-enter KING LEAR"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 291,
+        "stop": 292,
+        "lines": [
+            {
+                "text": "What, fifty of my followers at a clap!"
+            },
+            {
+                "text": "Within a fortnight!"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 293,
+        "stop": 293,
+        "lines": [
+            {
+                "text": "What's the matter, sir?"
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 1,
+        "scene": 4,
+        "start": 294,
+        "stop": 310,
+        "lines": [
+            {
+                "text": "I'll tell thee:"
+            },
+            {
+                "direction": "To GONERIL"
+            },
+            {
+                "text": "Life and death! I am ashamed"
+            },
+            {
+                "text": "That thou hast power to shake my manhood thus;"
+            },
+            {
+                "text": "That these hot tears, which break from me perforce,"
+            },
+            {
+                "text": "Should make thee worth them. Blasts and fogs upon thee!"
+            },
+            {
+                "text": "The untented woundings of a father's curse"
+            },
+            {
+                "text": "Pierce every sense about thee! Old fond eyes,"
+            },
+            {
+                "text": "Beweep this cause again, I'll pluck ye out,"
+            },
+            {
+                "text": "And cast you, with the waters that you lose,"
+            },
+            {
+                "text": "To temper clay. Yea, it is come to this?"
+            },
+            {
+                "text": "Let is be so: yet have I left a daughter,"
+            },
+            {
+                "text": "Who, I am sure, is kind and comfortable:"
+            },
+            {
+                "text": "When she shall hear this of thee, with her nails"
+            },
+            {
+                "text": "She'll flay thy wolvish visage. Thou shalt find"
+            },
+            {
+                "text": "That I'll resume the shape which thou dost think"
+            },
+            {
+                "text": "I have cast off for ever: thou shalt,"
+            },
+            {
+                "text": "I warrant thee."
+            },
+            {
+                "direction": "Exeunt KING LEAR, KENT, and Attendants"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 311,
+        "stop": 311,
+        "lines": [
+            {
+                "text": "Do you mark that, my lord?"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 312,
+        "stop": 313,
+        "lines": [
+            {
+                "text": "I cannot be so partial, Goneril,"
+            },
+            {
+                "text": "To the great love I bear you,--"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 314,
+        "stop": 315,
+        "lines": [
+            {
+                "text": "Pray you, content. What, Oswald, ho!"
+            },
+            {
+                "direction": "To the Fool"
+            },
+            {
+                "text": "You, sir, more knave than fool, after your master."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 1,
+        "scene": 4,
+        "start": 316,
+        "stop": 322,
+        "lines": [
+            {
+                "text": "Nuncle Lear, nuncle Lear, tarry and take the fool"
+            },
+            {
+                "text": "with thee."
+            },
+            {
+                "text": "A fox, when one has caught her,"
+            },
+            {
+                "text": "And such a daughter,"
+            },
+            {
+                "text": "Should sure to the slaughter,"
+            },
+            {
+                "text": "If my cap would buy a halter:"
+            },
+            {
+                "text": "So the fool follows after."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 323,
+        "stop": 328,
+        "lines": [
+            {
+                "text": "This man hath had good counsel:--a hundred knights!"
+            },
+            {
+                "text": "'Tis politic and safe to let him keep"
+            },
+            {
+                "text": "At point a hundred knights: yes, that, on every dream,"
+            },
+            {
+                "text": "Each buzz, each fancy, each complaint, dislike,"
+            },
+            {
+                "text": "He may enguard his dotage with their powers,"
+            },
+            {
+                "text": "And hold our lives in mercy. Oswald, I say!"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 329,
+        "stop": 329,
+        "lines": [
+            {
+                "text": "Well, you may fear too far."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 330,
+        "stop": 337,
+        "lines": [
+            {
+                "text": "Safer than trust too far:"
+            },
+            {
+                "text": "Let me still take away the harms I fear,"
+            },
+            {
+                "text": "Not fear still to be taken: I know his heart."
+            },
+            {
+                "text": "What he hath utter'd I have writ my sister"
+            },
+            {
+                "text": "If she sustain him and his hundred knights"
+            },
+            {
+                "text": "When I have show'd the unfitness,--"
+            },
+            {
+                "direction": "Re-enter OSWALD"
+            },
+            {
+                "text": "How now, Oswald!"
+            },
+            {
+                "text": "What, have you writ that letter to my sister?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 4,
+        "start": 338,
+        "stop": 338,
+        "lines": [
+            {
+                "text": "Yes, madam."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 339,
+        "stop": 348,
+        "lines": [
+            {
+                "text": "Take you some company, and away to horse:"
+            },
+            {
+                "text": "Inform her full of my particular fear;"
+            },
+            {
+                "text": "And thereto add such reasons of your own"
+            },
+            {
+                "text": "As may compact it more. Get you gone;"
+            },
+            {
+                "text": "And hasten your return."
+            },
+            {
+                "direction": "Exit OSWALD"
+            },
+            {
+                "text": "No, no, my lord,"
+            },
+            {
+                "text": "This milky gentleness and course of yours"
+            },
+            {
+                "text": "Though I condemn not, yet, under pardon,"
+            },
+            {
+                "text": "You are much more attask'd for want of wisdom"
+            },
+            {
+                "text": "Than praised for harmful mildness."
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 349,
+        "stop": 350,
+        "lines": [
+            {
+                "text": "How far your eyes may pierce I can not tell:"
+            },
+            {
+                "text": "Striving to better, oft we mar what's well."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 4,
+        "start": 351,
+        "stop": 351,
+        "lines": [
+            {
+                "text": "Nay, then--"
+            }
+        ]
+    },
+    {
+        "character": "ALBANY",
+        "act": 1,
+        "scene": 4,
+        "start": 352,
+        "stop": 352,
+        "lines": [
+            {
+                "text": "Well, well; the event."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

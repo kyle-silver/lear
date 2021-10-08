@@ -1,0 +1,442 @@
+[
+    {
+        "act": 3,
+        "setting": "SCENE II. Another part of the heath. Storm still.",
+        "staging": "Enter KING LEAR and Fool"
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 2,
+        "start": 1,
+        "stop": 9,
+        "lines": [
+            {
+                "text": "Blow, winds, and crack your cheeks! rage! blow!"
+            },
+            {
+                "text": "You cataracts and hurricanoes, spout"
+            },
+            {
+                "text": "Till you have drench'd our steeples, drown'd the cocks!"
+            },
+            {
+                "text": "You sulphurous and thought-executing fires,"
+            },
+            {
+                "text": "Vaunt-couriers to oak-cleaving thunderbolts,"
+            },
+            {
+                "text": "Singe my white head! And thou, all-shaking thunder,"
+            },
+            {
+                "text": "Smite flat the thick rotundity o' the world!"
+            },
+            {
+                "text": "Crack nature's moulds, an germens spill at once,"
+            },
+            {
+                "text": "That make ingrateful man!"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 2,
+        "start": 10,
+        "stop": 13,
+        "lines": [
+            {
+                "text": "O nuncle, court holy-water in a dry"
+            },
+            {
+                "text": "house is better than this rain-water out o' door."
+            },
+            {
+                "text": "Good nuncle, in, and ask thy daughters' blessing:"
+            },
+            {
+                "text": "here's a night pities neither wise man nor fool."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 2,
+        "start": 14,
+        "stop": 24,
+        "lines": [
+            {
+                "text": "Rumble thy bellyful! Spit, fire! spout, rain!"
+            },
+            {
+                "text": "Nor rain, wind, thunder, fire, are my daughters:"
+            },
+            {
+                "text": "I tax not you, you elements, with unkindness;"
+            },
+            {
+                "text": "I never gave you kingdom, call'd you children,"
+            },
+            {
+                "text": "You owe me no subscription: then let fall"
+            },
+            {
+                "text": "Your horrible pleasure: here I stand, your slave,"
+            },
+            {
+                "text": "A poor, infirm, weak, and despised old man:"
+            },
+            {
+                "text": "But yet I call you servile ministers,"
+            },
+            {
+                "text": "That have with two pernicious daughters join'd"
+            },
+            {
+                "text": "Your high engender'd battles 'gainst a head"
+            },
+            {
+                "text": "So old and white as this. O! O! 'tis foul!"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 2,
+        "start": 25,
+        "stop": 36,
+        "lines": [
+            {
+                "text": "He that has a house to put's head in has a good"
+            },
+            {
+                "text": "head-piece."
+            },
+            {
+                "text": "The cod-piece that will house"
+            },
+            {
+                "text": "Before the head has any,"
+            },
+            {
+                "text": "The head and he shall louse;"
+            },
+            {
+                "text": "So beggars marry many."
+            },
+            {
+                "text": "The man that makes his toe"
+            },
+            {
+                "text": "What he his heart should make"
+            },
+            {
+                "text": "Shall of a corn cry woe,"
+            },
+            {
+                "text": "And turn his sleep to wake."
+            },
+            {
+                "text": "For there was never yet fair woman but she made"
+            },
+            {
+                "text": "mouths in a glass."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 2,
+        "start": 37,
+        "stop": 38,
+        "lines": [
+            {
+                "text": "No, I will be the pattern of all patience;"
+            },
+            {
+                "text": "I will say nothing."
+            },
+            {
+                "direction": "Enter KENT"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 2,
+        "start": 39,
+        "stop": 39,
+        "lines": [
+            {
+                "text": "Who's there?"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 2,
+        "start": 40,
+        "stop": 41,
+        "lines": [
+            {
+                "text": "Marry, here's grace and a cod-piece; that's a wise"
+            },
+            {
+                "text": "man and a fool."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 2,
+        "start": 42,
+        "stop": 49,
+        "lines": [
+            {
+                "text": "Alas, sir, are you here? things that love night"
+            },
+            {
+                "text": "Love not such nights as these; the wrathful skies"
+            },
+            {
+                "text": "Gallow the very wanderers of the dark,"
+            },
+            {
+                "text": "And make them keep their caves: since I was man,"
+            },
+            {
+                "text": "Such sheets of fire, such bursts of horrid thunder,"
+            },
+            {
+                "text": "Such groans of roaring wind and rain, I never"
+            },
+            {
+                "text": "Remember to have heard: man's nature cannot carry"
+            },
+            {
+                "text": "The affliction nor the fear."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 2,
+        "start": 50,
+        "stop": 61,
+        "lines": [
+            {
+                "text": "Let the great gods,"
+            },
+            {
+                "text": "That keep this dreadful pother o'er our heads,"
+            },
+            {
+                "text": "Find out their enemies now. Tremble, thou wretch,"
+            },
+            {
+                "text": "That hast within thee undivulged crimes,"
+            },
+            {
+                "text": "Unwhipp'd of justice: hide thee, thou bloody hand;"
+            },
+            {
+                "text": "Thou perjured, and thou simular man of virtue"
+            },
+            {
+                "text": "That art incestuous: caitiff, to pieces shake,"
+            },
+            {
+                "text": "That under covert and convenient seeming"
+            },
+            {
+                "text": "Hast practised on man's life: close pent-up guilts,"
+            },
+            {
+                "text": "Rive your concealing continents, and cry"
+            },
+            {
+                "text": "These dreadful summoners grace. I am a man"
+            },
+            {
+                "text": "More sinn'd against than sinning."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 2,
+        "start": 62,
+        "stop": 69,
+        "lines": [
+            {
+                "text": "Alack, bare-headed!"
+            },
+            {
+                "text": "Gracious my lord, hard by here is a hovel;"
+            },
+            {
+                "text": "Some friendship will it lend you 'gainst the tempest:"
+            },
+            {
+                "text": "Repose you there; while I to this hard house--"
+            },
+            {
+                "text": "More harder than the stones whereof 'tis raised;"
+            },
+            {
+                "text": "Which even but now, demanding after you,"
+            },
+            {
+                "text": "Denied me to come in--return, and force"
+            },
+            {
+                "text": "Their scanted courtesy."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 2,
+        "start": 70,
+        "stop": 77,
+        "lines": [
+            {
+                "text": "My wits begin to turn."
+            },
+            {
+                "text": "Come on, my boy: how dost, my boy? art cold?"
+            },
+            {
+                "text": "I am cold myself. Where is this straw, my fellow?"
+            },
+            {
+                "text": "The art of our necessities is strange,"
+            },
+            {
+                "text": "That can make vile things precious. Come,"
+            },
+            {
+                "text": "your hovel."
+            },
+            {
+                "text": "Poor fool and knave, I have one part in my heart"
+            },
+            {
+                "text": "That's sorry yet for thee."
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 2,
+        "start": 78,
+        "stop": 82,
+        "lines": [
+            {
+                "text": "[Singing]"
+            },
+            {
+                "text": "He that has and a little tiny wit--"
+            },
+            {
+                "text": "With hey, ho, the wind and the rain,--"
+            },
+            {
+                "text": "Must make content with his fortunes fit,"
+            },
+            {
+                "text": "For the rain it raineth every day."
+            }
+        ]
+    },
+    {
+        "character": "KING LEAR",
+        "act": 3,
+        "scene": 2,
+        "start": 83,
+        "stop": 83,
+        "lines": [
+            {
+                "text": "True, my good boy. Come, bring us to this hovel."
+            },
+            {
+                "direction": "Exeunt KING LEAR and KENT"
+            }
+        ]
+    },
+    {
+        "character": "Fool",
+        "act": 3,
+        "scene": 2,
+        "start": 84,
+        "stop": 100,
+        "lines": [
+            {
+                "text": "This is a brave night to cool a courtezan."
+            },
+            {
+                "text": "I'll speak a prophecy ere I go:"
+            },
+            {
+                "text": "When priests are more in word than matter;"
+            },
+            {
+                "text": "When brewers mar their malt with water;"
+            },
+            {
+                "text": "When nobles are their tailors' tutors;"
+            },
+            {
+                "text": "No heretics burn'd, but wenches' suitors;"
+            },
+            {
+                "text": "When every case in law is right;"
+            },
+            {
+                "text": "No squire in debt, nor no poor knight;"
+            },
+            {
+                "text": "When slanders do not live in tongues;"
+            },
+            {
+                "text": "Nor cutpurses come not to throngs;"
+            },
+            {
+                "text": "When usurers tell their gold i' the field;"
+            },
+            {
+                "text": "And bawds and whores do churches build;"
+            },
+            {
+                "text": "Then shall the realm of Albion"
+            },
+            {
+                "text": "Come to great confusion:"
+            },
+            {
+                "text": "Then comes the time, who lives to see't,"
+            },
+            {
+                "text": "That going shall be used with feet."
+            },
+            {
+                "text": "This prophecy Merlin shall make; for I live before his time."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    }
+]

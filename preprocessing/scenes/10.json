@@ -1,0 +1,283 @@
+[
+    {
+        "act": 3,
+        "setting": "SCENE I. A heath.",
+        "staging": "Storm still. Enter KENT and a Gentleman, meeting"
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 1,
+        "start": 1,
+        "stop": 1,
+        "lines": [
+            {
+                "text": "Who's there, besides foul weather?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 3,
+        "scene": 1,
+        "start": 2,
+        "stop": 2,
+        "lines": [
+            {
+                "text": "One minded like the weather, most unquietly."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 1,
+        "start": 3,
+        "stop": 3,
+        "lines": [
+            {
+                "text": "I know you. Where's the king?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 3,
+        "scene": 1,
+        "start": 4,
+        "stop": 15,
+        "lines": [
+            {
+                "text": "Contending with the fretful element:"
+            },
+            {
+                "text": "Bids the winds blow the earth into the sea,"
+            },
+            {
+                "text": "Or swell the curled water 'bove the main,"
+            },
+            {
+                "text": "That things might change or cease; tears his white hair,"
+            },
+            {
+                "text": "Which the impetuous blasts, with eyeless rage,"
+            },
+            {
+                "text": "Catch in their fury, and make nothing of;"
+            },
+            {
+                "text": "Strives in his little world of man to out-scorn"
+            },
+            {
+                "text": "The to-and-fro-conflicting wind and rain."
+            },
+            {
+                "text": "This night, wherein the cub-drawn bear would couch,"
+            },
+            {
+                "text": "The lion and the belly-pinched wolf"
+            },
+            {
+                "text": "Keep their fur dry, unbonneted he runs,"
+            },
+            {
+                "text": "And bids what will take all."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 1,
+        "start": 16,
+        "stop": 16,
+        "lines": [
+            {
+                "text": "But who is with him?"
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 3,
+        "scene": 1,
+        "start": 17,
+        "stop": 18,
+        "lines": [
+            {
+                "text": "None but the fool; who labours to out-jest"
+            },
+            {
+                "text": "His heart-struck injuries."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 1,
+        "start": 19,
+        "stop": 44,
+        "lines": [
+            {
+                "text": "Sir, I do know you;"
+            },
+            {
+                "text": "And dare, upon the warrant of my note,"
+            },
+            {
+                "text": "Commend a dear thing to you. There is division,"
+            },
+            {
+                "text": "Although as yet the face of it be cover'd"
+            },
+            {
+                "text": "With mutual cunning, 'twixt Albany and Cornwall;"
+            },
+            {
+                "text": "Who have--as who have not, that their great stars"
+            },
+            {
+                "text": "Throned and set high?--servants, who seem no less,"
+            },
+            {
+                "text": "Which are to France the spies and speculations"
+            },
+            {
+                "text": "Intelligent of our state; what hath been seen,"
+            },
+            {
+                "text": "Either in snuffs and packings of the dukes,"
+            },
+            {
+                "text": "Or the hard rein which both of them have borne"
+            },
+            {
+                "text": "Against the old kind king; or something deeper,"
+            },
+            {
+                "text": "Whereof perchance these are but furnishings;"
+            },
+            {
+                "text": "But, true it is, from France there comes a power"
+            },
+            {
+                "text": "Into this scatter'd kingdom; who already,"
+            },
+            {
+                "text": "Wise in our negligence, have secret feet"
+            },
+            {
+                "text": "In some of our best ports, and are at point"
+            },
+            {
+                "text": "To show their open banner. Now to you:"
+            },
+            {
+                "text": "If on my credit you dare build so far"
+            },
+            {
+                "text": "To make your speed to Dover, you shall find"
+            },
+            {
+                "text": "Some that will thank you, making just report"
+            },
+            {
+                "text": "Of how unnatural and bemadding sorrow"
+            },
+            {
+                "text": "The king hath cause to plain."
+            },
+            {
+                "text": "I am a gentleman of blood and breeding;"
+            },
+            {
+                "text": "And, from some knowledge and assurance, offer"
+            },
+            {
+                "text": "This office to you."
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 3,
+        "scene": 1,
+        "start": 45,
+        "stop": 45,
+        "lines": [
+            {
+                "text": "I will talk further with you."
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 1,
+        "start": 46,
+        "stop": 53,
+        "lines": [
+            {
+                "text": "No, do not."
+            },
+            {
+                "text": "For confirmation that I am much more"
+            },
+            {
+                "text": "Than my out-wall, open this purse, and take"
+            },
+            {
+                "text": "What it contains. If you shall see Cordelia,--"
+            },
+            {
+                "text": "As fear not but you shall,--show her this ring;"
+            },
+            {
+                "text": "And she will tell you who your fellow is"
+            },
+            {
+                "text": "That yet you do not know. Fie on this storm!"
+            },
+            {
+                "text": "I will go seek the king."
+            }
+        ]
+    },
+    {
+        "character": "Gentleman",
+        "act": 3,
+        "scene": 1,
+        "start": 54,
+        "stop": 54,
+        "lines": [
+            {
+                "text": "Give me your hand: have you no more to say?"
+            }
+        ]
+    },
+    {
+        "character": "KENT",
+        "act": 3,
+        "scene": 1,
+        "start": 55,
+        "stop": 58,
+        "lines": [
+            {
+                "text": "Few words, but, to effect, more than all yet;"
+            },
+            {
+                "text": "That, when we have found the king,--in which your pain"
+            },
+            {
+                "text": "That way, I'll this,--he that first lights on him"
+            },
+            {
+                "text": "Holla the other."
+            },
+            {
+                "direction": "Exeunt severally"
+            }
+        ]
+    }
+]

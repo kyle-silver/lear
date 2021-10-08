@@ -1,0 +1,157 @@
+[
+    {
+        "act": 1,
+        "setting": "SCENE III. The Duke of Albany's palace.",
+        "staging": "Enter GONERIL, and OSWALD, her steward"
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 3,
+        "start": 1,
+        "stop": 1,
+        "lines": [
+            {
+                "text": "Did my father strike my gentleman for chiding of his fool?"
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 3,
+        "start": 2,
+        "stop": 2,
+        "lines": [
+            {
+                "text": "Yes, madam."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 3,
+        "start": 3,
+        "stop": 10,
+        "lines": [
+            {
+                "text": "By day and night he wrongs me; every hour"
+            },
+            {
+                "text": "He flashes into one gross crime or other,"
+            },
+            {
+                "text": "That sets us all at odds: I'll not endure it:"
+            },
+            {
+                "text": "His knights grow riotous, and himself upbraids us"
+            },
+            {
+                "text": "On every trifle. When he returns from hunting,"
+            },
+            {
+                "text": "I will not speak with him; say I am sick:"
+            },
+            {
+                "text": "If you come slack of former services,"
+            },
+            {
+                "text": "You shall do well; the fault of it I'll answer."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 3,
+        "start": 11,
+        "stop": 11,
+        "lines": [
+            {
+                "text": "He's coming, madam; I hear him."
+            },
+            {
+                "direction": "Horns within"
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 3,
+        "start": 12,
+        "stop": 21,
+        "lines": [
+            {
+                "text": "Put on what weary negligence you please,"
+            },
+            {
+                "text": "You and your fellows; I'll have it come to question:"
+            },
+            {
+                "text": "If he dislike it, let him to our sister,"
+            },
+            {
+                "text": "Whose mind and mine, I know, in that are one,"
+            },
+            {
+                "text": "Not to be over-ruled. Idle old man,"
+            },
+            {
+                "text": "That still would manage those authorities"
+            },
+            {
+                "text": "That he hath given away! Now, by my life,"
+            },
+            {
+                "text": "Old fools are babes again; and must be used"
+            },
+            {
+                "text": "With cheques as flatteries,--when they are seen abused."
+            },
+            {
+                "text": "Remember what I tell you."
+            }
+        ]
+    },
+    {
+        "character": "OSWALD",
+        "act": 1,
+        "scene": 3,
+        "start": 22,
+        "stop": 22,
+        "lines": [
+            {
+                "text": "Well, madam."
+            }
+        ]
+    },
+    {
+        "character": "GONERIL",
+        "act": 1,
+        "scene": 3,
+        "start": 23,
+        "stop": 27,
+        "lines": [
+            {
+                "text": "And let his knights have colder looks among you;"
+            },
+            {
+                "text": "What grows of it, no matter; advise your fellows so:"
+            },
+            {
+                "text": "I would breed from hence occasions, and I shall,"
+            },
+            {
+                "text": "That I may speak: I'll write straight to my sister,"
+            },
+            {
+                "text": "To hold my very course. Prepare for dinner."
+            },
+            {
+                "direction": "Exeunt"
+            }
+        ]
+    }
+]

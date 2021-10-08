@@ -1,0 +1,82 @@
+[
+    {
+        "act": 2,
+        "setting": "SCENE III. A wood.",
+        "staging": "Enter EDGAR"
+    },
+    {
+        "character": "EDGAR",
+        "act": 2,
+        "scene": 3,
+        "start": 1,
+        "stop": 21,
+        "lines": [
+            {
+                "text": "I heard myself proclaim'd;"
+            },
+            {
+                "text": "And by the happy hollow of a tree"
+            },
+            {
+                "text": "Escaped the hunt. No port is free; no place,"
+            },
+            {
+                "text": "That guard, and most unusual vigilance,"
+            },
+            {
+                "text": "Does not attend my taking. Whiles I may 'scape,"
+            },
+            {
+                "text": "I will preserve myself: and am bethought"
+            },
+            {
+                "text": "To take the basest and most poorest shape"
+            },
+            {
+                "text": "That ever penury, in contempt of man,"
+            },
+            {
+                "text": "Brought near to beast: my face I'll grime with filth;"
+            },
+            {
+                "text": "Blanket my loins: elf all my hair in knots;"
+            },
+            {
+                "text": "And with presented nakedness out-face"
+            },
+            {
+                "text": "The winds and persecutions of the sky."
+            },
+            {
+                "text": "The country gives me proof and precedent"
+            },
+            {
+                "text": "Of Bedlam beggars, who, with roaring voices,"
+            },
+            {
+                "text": "Strike in their numb'd and mortified bare arms"
+            },
+            {
+                "text": "Pins, wooden pricks, nails, sprigs of rosemary;"
+            },
+            {
+                "text": "And with this horrible object, from low farms,"
+            },
+            {
+                "text": "Poor pelting villages, sheep-cotes, and mills,"
+            },
+            {
+                "text": "Sometime with lunatic bans, sometime with prayers,"
+            },
+            {
+                "text": "Enforce their charity. Poor Turlygod! poor Tom!"
+            },
+            {
+                "text": "That's something yet: Edgar I nothing am."
+            },
+            {
+                "direction": "Exit"
+            }
+        ]
+    }
+]

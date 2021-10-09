@@ -49,3 +49,7 @@ A homebrew installation is hopefully coming soon.
 ## Contributing
 
 If you would like to contribute to this tool, please open an issue or submit a pull request
+
+## License
+
+This project is dual licensed under MIT and Apache 2.0.

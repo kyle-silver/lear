@@ -197,7 +197,7 @@ pub fn display_contents() {
         style::Reset
     );
     for line in &METADATA {
-        if line.act != "" {
+        if !line.act.is_empty() {
             println!("{:-^19}", "");
         }
         println!("{: ^5}{: ^7}{: ^7}", line.act, line.scene, line.lines,);
@@ -337,7 +337,7 @@ impl Dialogue {
             .filter(|(_, line)| matches!(line, Line::Text(_)))
             .find(|(i, _)| i + self.start >= *end_line)?;
         // grab only the lines we want to display
-        let mut lines: Vec<Line> = self.lines[start..=end].iter().cloned().collect();
+        let mut lines: Vec<Line> = self.lines[start..=end].to_vec();
         // omit empty dialogue blocks
         if lines.is_empty() {
             return None;
@@ -367,9 +367,10 @@ impl Display for &Dialogue {
             self.character,
             style::Reset
         ))?;
-        let mut iter = self.lines.iter().peekable();
+        let iter = self.lines.iter().peekable();
         let mut prev = None;
-        while let Some(line) = iter.next() {
+        // while let Some(line) = iter.next() {
+        for line in iter {
             if let Some(&Line::Direction(_)) = prev {
                 match line {
                     Line::Text(text) => f.write_fmt(format_args!("\n\t{}\n", text))?,
@@ -428,7 +429,7 @@ pub fn blocks_to_show(rng: &mut ThreadRng) -> Result<Vec<Block>, std::io::Error>
     let blocks_to_show = rng.gen_range(2..=min(5, blocks.len())) as usize;
     // the fact that scene 8 is so short complicates things...
     let range = 0..(blocks.len() - blocks_to_show);
-    let start = if range.len() == 0 {
+    let start = if range.is_empty() {
         0
     } else {
         rng.gen_range(range)
@@ -458,11 +459,7 @@ pub fn text(
         .filter_map(|b| b.selection(&lines))
         .collect();
     if blocks.is_empty() {
-        return Err(LearError::InvalidLines {
-            act,
-            scene,
-            lines: lines.clone(),
-        });
+        return Err(LearError::InvalidLines { act, scene, lines });
     }
     Ok(blocks)
 }

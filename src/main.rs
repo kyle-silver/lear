@@ -1,5 +1,4 @@
 use clap::{App, Arg, SubCommand};
-use rand;
 use std::error::Error;
 
 /// If we can't parse out the user input, exit with a nice error
@@ -13,7 +12,7 @@ fn extract_to_usize_or_exit(input: Option<&str>) -> usize {
     };
     match input.parse() {
         Ok(number) => number,
-        Err(error) => {
+        Err(_) => {
             eprintln!("Could not parse input \"{}\" to a number", input);
             std::process::exit(1);
         }

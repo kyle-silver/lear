@@ -44,7 +44,7 @@ impl Display for &Heading {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         write!(
             f,
-            "{}{}, {}{}\n{}\n\n\t{}{}{}\n",
+            "{}{}, {}{}\n{}\n\n\t{}{}{}\n\n",
             style::Bold,
             self.act,
             self.scene,
@@ -83,9 +83,6 @@ impl Display for &Dialogue {
             self.character,
             style::Reset
         ))?;
-        // for line in &self.lines {
-        //     f.write_fmt(format_args!("{}", line))?;
-        // }
         let mut iter = self.lines.iter().peekable();
         let mut prev = None;
         while let Some(line) = iter.next() {
@@ -123,6 +120,15 @@ pub enum Block {
     Dialogue(Dialogue),
 }
 
+impl Display for &Block {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        match self {
+            Block::Heading(heading) => write!(f, "{}", heading),
+            Block::Dialogue(dialogue) => write!(f, "{}", dialogue),
+        }
+    }
+}
+
 pub fn blocks_to_show(rng: &mut ThreadRng) -> Result<Vec<Block>, std::io::Error> {
     let scene = rng.gen_range(0..25) as usize;
     let blocks: Vec<Block> = serde_json::from_str(SCENES[scene])?;
@@ -142,18 +148,36 @@ pub fn blocks_to_show(rng: &mut ThreadRng) -> Result<Vec<Block>, std::io::Error>
     Ok(blocks)
 }
 
+fn attribution(blocks: &[Block]) -> Option<String> {
+    let dialogue: Vec<_> = blocks
+        .iter()
+        .filter_map(|b| match b {
+            Block::Heading(_) => None,
+            Block::Dialogue(dialogue) => Some(dialogue),
+        })
+        .collect();
+    let first = dialogue.first()?;
+    let act = first.act;
+    let scene = first.scene;
+    let start = first.start;
+    let stop = dialogue.last()?.stop;
+    Some(format!(
+        "({}Lr.{} {}.{}.{}-{})",
+        style::Italic,
+        style::Reset,
+        act,
+        scene,
+        start,
+        stop
+    ))
+}
+
 pub fn display(blocks: &[Block]) {
+    let attribution = attribution(blocks);
     for block in blocks {
-        match block {
-            Block::Heading(heading) => {
-                // println!("{}{}{}", style::Bold, heading.act, style::Reset);
-                // println!("{}{}{}", style::Bold, heading.setting, style::Reset);
-                // println!("{}{}{}", style::Italic, heading.staging, style::Reset);
-                println!("{}", heading);
-            }
-            Block::Dialogue(dialogue) => {
-                print!("{}", dialogue);
-            }
-        }
+        print!("{}", block);
+    }
+    if let Some(attr) = attribution {
+        println!("{: >80}", attr);
     }
 }

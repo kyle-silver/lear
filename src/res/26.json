@@ -1,0 +1,2622 @@
+[
+    {
+        "Heading": {
+            "act": "Act V",
+            "scene": "Scene III",
+            "setting": "The British camp near Dover.",
+            "staging": "Enter, in conquest, with drum and colours, EDMUND, KING LEAR and CORDELIA, prisoners; Captain, Soldiers,\n                  & c"
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 1,
+            "stop": 3,
+            "lines": [
+                {
+                    "text": "Some officers take them away: good guard,"
+                },
+                {
+                    "text": "Until their greater pleasures first be known"
+                },
+                {
+                    "text": "That are to censure them."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 5,
+            "scene": 3,
+            "start": 4,
+            "stop": 8,
+            "lines": [
+                {
+                    "text": "We are not the first"
+                },
+                {
+                    "text": "Who, with best meaning, have incurr'd the worst."
+                },
+                {
+                    "text": "For thee, oppressed king, am I cast down;"
+                },
+                {
+                    "text": "Myself could else out-frown false fortune's frown."
+                },
+                {
+                    "text": "Shall we not see these daughters and these sisters?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 9,
+            "stop": 20,
+            "lines": [
+                {
+                    "text": "No, no, no, no! Come, let's away to prison:"
+                },
+                {
+                    "text": "We two alone will sing like birds i' the cage:"
+                },
+                {
+                    "text": "When thou dost ask me blessing, I'll kneel down,"
+                },
+                {
+                    "text": "And ask of thee forgiveness: so we'll live,"
+                },
+                {
+                    "text": "And pray, and sing, and tell old tales, and laugh"
+                },
+                {
+                    "text": "At gilded butterflies, and hear poor rogues"
+                },
+                {
+                    "text": "Talk of court news; and we'll talk with them too,"
+                },
+                {
+                    "text": "Who loses and who wins; who's in, who's out;"
+                },
+                {
+                    "text": "And take upon's the mystery of things,"
+                },
+                {
+                    "text": "As if we were God's spies: and we'll wear out,"
+                },
+                {
+                    "text": "In a wall'd prison, packs and sects of great ones,"
+                },
+                {
+                    "text": "That ebb and flow by the moon."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 21,
+            "stop": 21,
+            "lines": [
+                {
+                    "text": "Take them away."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 22,
+            "stop": 28,
+            "lines": [
+                {
+                    "text": "Upon such sacrifices, my Cordelia,"
+                },
+                {
+                    "text": "The gods themselves throw incense. Have I caught thee?"
+                },
+                {
+                    "text": "He that parts us shall bring a brand from heaven,"
+                },
+                {
+                    "text": "And fire us hence like foxes. Wipe thine eyes;"
+                },
+                {
+                    "text": "The good-years shall devour them, flesh and fell,"
+                },
+                {
+                    "text": "Ere they shall make us weep: we'll see 'em starve"
+                },
+                {
+                    "text": "first. Come."
+                },
+                {
+                    "direction": "Exeunt KING LEAR and CORDELIA, guarded"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 29,
+            "stop": 38,
+            "lines": [
+                {
+                    "text": "Come hither, captain; hark."
+                },
+                {
+                    "text": "Take thou this note;"
+                },
+                {
+                    "direction": "Giving a paper"
+                },
+                {
+                    "text": "go follow them to prison:"
+                },
+                {
+                    "text": "One step I have advanced thee; if thou dost"
+                },
+                {
+                    "text": "As this instructs thee, thou dost make thy way"
+                },
+                {
+                    "text": "To noble fortunes: know thou this, that men"
+                },
+                {
+                    "text": "Are as the time is: to be tender-minded"
+                },
+                {
+                    "text": "Does not become a sword: thy great employment"
+                },
+                {
+                    "text": "Will not bear question; either say thou'lt do 't,"
+                },
+                {
+                    "text": "Or thrive by other means."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Captain",
+            "act": 5,
+            "scene": 3,
+            "start": 39,
+            "stop": 39,
+            "lines": [
+                {
+                    "text": "I'll do 't, my lord."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 40,
+            "stop": 42,
+            "lines": [
+                {
+                    "text": "About it; and write happy when thou hast done."
+                },
+                {
+                    "text": "Mark, I say, instantly; and carry it so"
+                },
+                {
+                    "text": "As I have set it down."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Captain",
+            "act": 5,
+            "scene": 3,
+            "start": 43,
+            "stop": 44,
+            "lines": [
+                {
+                    "text": "I cannot draw a cart, nor eat dried oats;"
+                },
+                {
+                    "text": "If it be man's work, I'll do 't."
+                },
+                {
+                    "direction": "Exit"
+                },
+                {
+                    "direction": "Flourish. Enter ALBANY, GONERIL, REGAN, another Captain, and Soldiers"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 45,
+            "stop": 50,
+            "lines": [
+                {
+                    "text": "Sir, you have shown to-day your valiant strain,"
+                },
+                {
+                    "text": "And fortune led you well: you have the captives"
+                },
+                {
+                    "text": "That were the opposites of this day's strife:"
+                },
+                {
+                    "text": "We do require them of you, so to use them"
+                },
+                {
+                    "text": "As we shall find their merits and our safety"
+                },
+                {
+                    "text": "May equally determine."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 51,
+            "stop": 65,
+            "lines": [
+                {
+                    "text": "Sir, I thought it fit"
+                },
+                {
+                    "text": "To send the old and miserable king"
+                },
+                {
+                    "text": "To some retention and appointed guard;"
+                },
+                {
+                    "text": "Whose age has charms in it, whose title more,"
+                },
+                {
+                    "text": "To pluck the common bosom on his side,"
+                },
+                {
+                    "text": "An turn our impress'd lances in our eyes"
+                },
+                {
+                    "text": "Which do command them. With him I sent the queen;"
+                },
+                {
+                    "text": "My reason all the same; and they are ready"
+                },
+                {
+                    "text": "To-morrow, or at further space, to appear"
+                },
+                {
+                    "text": "Where you shall hold your session. At this time"
+                },
+                {
+                    "text": "We sweat and bleed: the friend hath lost his friend;"
+                },
+                {
+                    "text": "And the best quarrels, in the heat, are cursed"
+                },
+                {
+                    "text": "By those that feel their sharpness:"
+                },
+                {
+                    "text": "The question of Cordelia and her father"
+                },
+                {
+                    "text": "Requires a fitter place."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 66,
+            "stop": 68,
+            "lines": [
+                {
+                    "text": "Sir, by your patience,"
+                },
+                {
+                    "text": "I hold you but a subject of this war,"
+                },
+                {
+                    "text": "Not as a brother."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 69,
+            "stop": 74,
+            "lines": [
+                {
+                    "text": " That's as we list to grace him."
+                },
+                {
+                    "text": "Methinks our pleasure might have been demanded,"
+                },
+                {
+                    "text": "Ere you had spoke so far. He led our powers;"
+                },
+                {
+                    "text": "Bore the commission of my place and person;"
+                },
+                {
+                    "text": "The which immediacy may well stand up,"
+                },
+                {
+                    "text": "And call itself your brother."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 75,
+            "stop": 77,
+            "lines": [
+                {
+                    "text": "Not so hot:"
+                },
+                {
+                    "text": "In his own grace he doth exalt himself,"
+                },
+                {
+                    "text": "More than in your addition."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 78,
+            "stop": 79,
+            "lines": [
+                {
+                    "text": "In my rights,"
+                },
+                {
+                    "text": "By me invested, he compeers the best."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 80,
+            "stop": 80,
+            "lines": [
+                {
+                    "text": "That were the most, if he should husband you."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 81,
+            "stop": 81,
+            "lines": [
+                {
+                    "text": "Jesters do oft prove prophets."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 82,
+            "stop": 83,
+            "lines": [
+                {
+                    "text": "Holla, holla!"
+                },
+                {
+                    "text": "That eye that told you so look'd but a-squint."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 84,
+            "stop": 89,
+            "lines": [
+                {
+                    "text": "Lady, I am not well; else I should answer"
+                },
+                {
+                    "text": "From a full-flowing stomach. General,"
+                },
+                {
+                    "text": "Take thou my soldiers, prisoners, patrimony;"
+                },
+                {
+                    "text": "Dispose of them, of me; the walls are thine:"
+                },
+                {
+                    "text": "Witness the world, that I create thee here"
+                },
+                {
+                    "text": "My lord and master."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 90,
+            "stop": 90,
+            "lines": [
+                {
+                    "text": "Mean you to enjoy him?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 91,
+            "stop": 91,
+            "lines": [
+                {
+                    "text": "The let-alone lies not in your good will."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 92,
+            "stop": 92,
+            "lines": [
+                {
+                    "text": "Nor in thine, lord."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 93,
+            "stop": 93,
+            "lines": [
+                {
+                    "text": "Half-blooded fellow, yes."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 94,
+            "stop": 94,
+            "lines": [
+                {
+                    "text": "[To EDMUND] Let the drum strike, and prove my title thine."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 95,
+            "stop": 103,
+            "lines": [
+                {
+                    "text": "Stay yet; hear reason. Edmund, I arrest thee"
+                },
+                {
+                    "text": "On capital treason; and, in thine attaint,"
+                },
+                {
+                    "text": "This gilded serpent"
+                },
+                {
+                    "direction": "Pointing to Goneril"
+                },
+                {
+                    "text": "For your claim, fair sister,"
+                },
+                {
+                    "text": "I bar it in the interest of my wife:"
+                },
+                {
+                    "text": "'Tis she is sub-contracted to this lord,"
+                },
+                {
+                    "text": "And I, her husband, contradict your bans."
+                },
+                {
+                    "text": "If you will marry, make your loves to me,"
+                },
+                {
+                    "text": "My lady is bespoke."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 104,
+            "stop": 104,
+            "lines": [
+                {
+                    "text": "An interlude!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 105,
+            "stop": 111,
+            "lines": [
+                {
+                    "text": "Thou art arm'd, Gloucester: let the trumpet sound:"
+                },
+                {
+                    "text": "If none appear to prove upon thy head"
+                },
+                {
+                    "text": "Thy heinous, manifest, and many treasons,"
+                },
+                {
+                    "text": "There is my pledge;"
+                },
+                {
+                    "direction": "Throwing down a glove"
+                },
+                {
+                    "text": "I'll prove it on thy heart,"
+                },
+                {
+                    "text": "Ere I taste bread, thou art in nothing less"
+                },
+                {
+                    "text": "Than I have here proclaim'd thee."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 112,
+            "stop": 112,
+            "lines": [
+                {
+                    "text": "Sick, O, sick!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 113,
+            "stop": 113,
+            "lines": [
+                {
+                    "text": "[Aside] If not, I'll ne'er trust medicine."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 114,
+            "stop": 119,
+            "lines": [
+                {
+                    "text": "There's my exchange:"
+                },
+                {
+                    "direction": "Throwing down a glove"
+                },
+                {
+                    "text": "what in the world he is"
+                },
+                {
+                    "text": "That names me traitor, villain-like he lies:"
+                },
+                {
+                    "text": "Call by thy trumpet: he that dares approach,"
+                },
+                {
+                    "text": "On him, on you, who not? I will maintain"
+                },
+                {
+                    "text": "My truth and honour firmly."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 120,
+            "stop": 120,
+            "lines": [
+                {
+                    "text": "A herald, ho!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 121,
+            "stop": 121,
+            "lines": [
+                {
+                    "text": " A herald, ho, a herald!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 122,
+            "stop": 124,
+            "lines": [
+                {
+                    "text": "Trust to thy single virtue; for thy soldiers,"
+                },
+                {
+                    "text": "All levied in my name, have in my name"
+                },
+                {
+                    "text": "Took their discharge."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 3,
+            "start": 125,
+            "stop": 125,
+            "lines": [
+                {
+                    "text": "My sickness grows upon me."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 126,
+            "stop": 128,
+            "lines": [
+                {
+                    "text": "She is not well; convey her to my tent."
+                },
+                {
+                    "direction": "Exit Regan, led"
+                },
+                {
+                    "direction": "Enter a Herald"
+                },
+                {
+                    "text": "Come hither, herald,--Let the trumpet sound,"
+                },
+                {
+                    "text": "And read out this."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Captain",
+            "act": 5,
+            "scene": 3,
+            "start": 129,
+            "stop": 129,
+            "lines": [
+                {
+                    "text": "Sound, trumpet!"
+                },
+                {
+                    "direction": "A trumpet sounds"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Herald",
+            "act": 5,
+            "scene": 3,
+            "start": 130,
+            "stop": 134,
+            "lines": [
+                {
+                    "text": "[Reads] 'If any man of quality or degree within"
+                },
+                {
+                    "text": "the lists of the army will maintain upon Edmund,"
+                },
+                {
+                    "text": "supposed Earl of Gloucester, that he is a manifold"
+                },
+                {
+                    "text": "traitor, let him appear by the third sound of the"
+                },
+                {
+                    "text": "trumpet: he is bold in his defence.'"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 135,
+            "stop": 135,
+            "lines": [
+                {
+                    "text": "Sound!"
+                },
+                {
+                    "direction": "First trumpet"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Herald",
+            "act": 5,
+            "scene": 3,
+            "start": 136,
+            "stop": 136,
+            "lines": [
+                {
+                    "text": "Again!"
+                },
+                {
+                    "direction": "Second trumpet"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Herald",
+            "act": 5,
+            "scene": 3,
+            "start": 137,
+            "stop": 137,
+            "lines": [
+                {
+                    "text": "Again!"
+                },
+                {
+                    "direction": "Third trumpet"
+                },
+                {
+                    "direction": "Trumpet answers within"
+                },
+                {
+                    "direction": "Enter EDGAR, at the third sound, armed, with a trumpet before him"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 138,
+            "stop": 139,
+            "lines": [
+                {
+                    "text": "Ask him his purposes, why he appears"
+                },
+                {
+                    "text": "Upon this call o' the trumpet."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Herald",
+            "act": 5,
+            "scene": 3,
+            "start": 140,
+            "stop": 142,
+            "lines": [
+                {
+                    "text": "What are you?"
+                },
+                {
+                    "text": "Your name, your quality? and why you answer"
+                },
+                {
+                    "text": "This present summons?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 143,
+            "stop": 146,
+            "lines": [
+                {
+                    "text": "Know, my name is lost;"
+                },
+                {
+                    "text": "By treason's tooth bare-gnawn and canker-bit:"
+                },
+                {
+                    "text": "Yet am I noble as the adversary"
+                },
+                {
+                    "text": "I come to cope."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 147,
+            "stop": 147,
+            "lines": [
+                {
+                    "text": " Which is that adversary?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 148,
+            "stop": 148,
+            "lines": [
+                {
+                    "text": "What's he that speaks for Edmund Earl of Gloucester?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 149,
+            "stop": 149,
+            "lines": [
+                {
+                    "text": "Himself: what say'st thou to him?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 150,
+            "stop": 165,
+            "lines": [
+                {
+                    "text": "Draw thy sword,"
+                },
+                {
+                    "text": "That, if my speech offend a noble heart,"
+                },
+                {
+                    "text": "Thy arm may do thee justice: here is mine."
+                },
+                {
+                    "text": "Behold, it is the privilege of mine honours,"
+                },
+                {
+                    "text": "My oath, and my profession: I protest,"
+                },
+                {
+                    "text": "Maugre thy strength, youth, place, and eminence,"
+                },
+                {
+                    "text": "Despite thy victor sword and fire-new fortune,"
+                },
+                {
+                    "text": "Thy valour and thy heart, thou art a traitor;"
+                },
+                {
+                    "text": "False to thy gods, thy brother, and thy father;"
+                },
+                {
+                    "text": "Conspirant 'gainst this high-illustrious prince;"
+                },
+                {
+                    "text": "And, from the extremest upward of thy head"
+                },
+                {
+                    "text": "To the descent and dust below thy foot,"
+                },
+                {
+                    "text": "A most toad-spotted traitor. Say thou 'No,'"
+                },
+                {
+                    "text": "This sword, this arm, and my best spirits, are bent"
+                },
+                {
+                    "text": "To prove upon thy heart, whereto I speak,"
+                },
+                {
+                    "text": "Thou liest."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 166,
+            "stop": 175,
+            "lines": [
+                {
+                    "text": "In wisdom I should ask thy name;"
+                },
+                {
+                    "text": "But, since thy outside looks so fair and warlike,"
+                },
+                {
+                    "text": "And that thy tongue some say of breeding breathes,"
+                },
+                {
+                    "text": "What safe and nicely I might well delay"
+                },
+                {
+                    "text": "By rule of knighthood, I disdain and spurn:"
+                },
+                {
+                    "text": "Back do I toss these treasons to thy head;"
+                },
+                {
+                    "text": "With the hell-hated lie o'erwhelm thy heart;"
+                },
+                {
+                    "text": "Which, for they yet glance by and scarcely bruise,"
+                },
+                {
+                    "text": "This sword of mine shall give them instant way,"
+                },
+                {
+                    "text": "Where they shall rest for ever. Trumpets, speak!"
+                },
+                {
+                    "direction": "Alarums. They fight. EDMUND falls"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 176,
+            "stop": 176,
+            "lines": [
+                {
+                    "text": "Save him, save him!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 177,
+            "stop": 180,
+            "lines": [
+                {
+                    "text": "This is practise, Gloucester:"
+                },
+                {
+                    "text": "By the law of arms thou wast not bound to answer"
+                },
+                {
+                    "text": "An unknown opposite; thou art not vanquish'd,"
+                },
+                {
+                    "text": "But cozen'd and beguiled."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 181,
+            "stop": 184,
+            "lines": [
+                {
+                    "text": "Shut your mouth, dame,"
+                },
+                {
+                    "text": "Or with this paper shall I stop it: Hold, sir:"
+                },
+                {
+                    "text": "Thou worse than any name, read thine own evil:"
+                },
+                {
+                    "text": "No tearing, lady: I perceive you know it."
+                },
+                {
+                    "direction": "Gives the letter to EDMUND"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 185,
+            "stop": 186,
+            "lines": [
+                {
+                    "text": "Say, if I do, the laws are mine, not thine:"
+                },
+                {
+                    "text": "Who can arraign me for't."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 187,
+            "stop": 188,
+            "lines": [
+                {
+                    "text": "Most monstrous! oh!"
+                },
+                {
+                    "text": "Know'st thou this paper?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 3,
+            "start": 189,
+            "stop": 189,
+            "lines": [
+                {
+                    "text": "Ask me not what I know."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 190,
+            "stop": 190,
+            "lines": [
+                {
+                    "text": "Go after her: she's desperate; govern her."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 191,
+            "stop": 195,
+            "lines": [
+                {
+                    "text": "What you have charged me with, that have I done;"
+                },
+                {
+                    "text": "And more, much more; the time will bring it out:"
+                },
+                {
+                    "text": "'Tis past, and so am I. But what art thou"
+                },
+                {
+                    "text": "That hast this fortune on me? If thou'rt noble,"
+                },
+                {
+                    "text": "I do forgive thee."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 196,
+            "stop": 203,
+            "lines": [
+                {
+                    "text": " Let's exchange charity."
+                },
+                {
+                    "text": "I am no less in blood than thou art, Edmund;"
+                },
+                {
+                    "text": "If more, the more thou hast wrong'd me."
+                },
+                {
+                    "text": "My name is Edgar, and thy father's son."
+                },
+                {
+                    "text": "The gods are just, and of our pleasant vices"
+                },
+                {
+                    "text": "Make instruments to plague us:"
+                },
+                {
+                    "text": "The dark and vicious place where thee he got"
+                },
+                {
+                    "text": "Cost him his eyes."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 204,
+            "stop": 205,
+            "lines": [
+                {
+                    "text": " Thou hast spoken right, 'tis true;"
+                },
+                {
+                    "text": "The wheel is come full circle: I am here."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 206,
+            "stop": 209,
+            "lines": [
+                {
+                    "text": "Methought thy very gait did prophesy"
+                },
+                {
+                    "text": "A royal nobleness: I must embrace thee:"
+                },
+                {
+                    "text": "Let sorrow split my heart, if ever I"
+                },
+                {
+                    "text": "Did hate thee or thy father!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 210,
+            "stop": 210,
+            "lines": [
+                {
+                    "text": "Worthy prince, I know't."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 211,
+            "stop": 212,
+            "lines": [
+                {
+                    "text": "Where have you hid yourself?"
+                },
+                {
+                    "text": "How have you known the miseries of your father?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 213,
+            "stop": 231,
+            "lines": [
+                {
+                    "text": "By nursing them, my lord. List a brief tale;"
+                },
+                {
+                    "text": "And when 'tis told, O, that my heart would burst!"
+                },
+                {
+                    "text": "The bloody proclamation to escape,"
+                },
+                {
+                    "text": "That follow'd me so near,--O, our lives' sweetness!"
+                },
+                {
+                    "text": "That we the pain of death would hourly die"
+                },
+                {
+                    "text": "Rather than die at once!--taught me to shift"
+                },
+                {
+                    "text": "Into a madman's rags; to assume a semblance"
+                },
+                {
+                    "text": "That very dogs disdain'd: and in this habit"
+                },
+                {
+                    "text": "Met I my father with his bleeding rings,"
+                },
+                {
+                    "text": "Their precious stones new lost: became his guide,"
+                },
+                {
+                    "text": "Led him, begg'd for him, saved him from despair;"
+                },
+                {
+                    "text": "Never,--O fault!--reveal'd myself unto him,"
+                },
+                {
+                    "text": "Until some half-hour past, when I was arm'd:"
+                },
+                {
+                    "text": "Not sure, though hoping, of this good success,"
+                },
+                {
+                    "text": "I ask'd his blessing, and from first to last"
+                },
+                {
+                    "text": "Told him my pilgrimage: but his flaw'd heart,"
+                },
+                {
+                    "text": "Alack, too weak the conflict to support!"
+                },
+                {
+                    "text": "'Twixt two extremes of passion, joy and grief,"
+                },
+                {
+                    "text": "Burst smilingly."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 232,
+            "stop": 234,
+            "lines": [
+                {
+                    "text": "This speech of yours hath moved me,"
+                },
+                {
+                    "text": "And shall perchance do good: but speak you on;"
+                },
+                {
+                    "text": "You look as you had something more to say."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 235,
+            "stop": 237,
+            "lines": [
+                {
+                    "text": "If there be more, more woeful, hold it in;"
+                },
+                {
+                    "text": "For I am almost ready to dissolve,"
+                },
+                {
+                    "text": "Hearing of this."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 238,
+            "stop": 252,
+            "lines": [
+                {
+                    "text": " This would have seem'd a period"
+                },
+                {
+                    "text": "To such as love not sorrow; but another,"
+                },
+                {
+                    "text": "To amplify too much, would make much more,"
+                },
+                {
+                    "text": "And top extremity."
+                },
+                {
+                    "text": "Whilst I was big in clamour came there in a man,"
+                },
+                {
+                    "text": "Who, having seen me in my worst estate,"
+                },
+                {
+                    "text": "Shunn'd my abhorr'd society; but then, finding"
+                },
+                {
+                    "text": "Who 'twas that so endured, with his strong arms"
+                },
+                {
+                    "text": "He fastened on my neck, and bellow'd out"
+                },
+                {
+                    "text": "As he'ld burst heaven; threw him on my father;"
+                },
+                {
+                    "text": "Told the most piteous tale of Lear and him"
+                },
+                {
+                    "text": "That ever ear received: which in recounting"
+                },
+                {
+                    "text": "His grief grew puissant and the strings of life"
+                },
+                {
+                    "text": "Began to crack: twice then the trumpets sounded,"
+                },
+                {
+                    "text": "And there I left him tranced."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 253,
+            "stop": 253,
+            "lines": [
+                {
+                    "text": "But who was this?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 254,
+            "stop": 256,
+            "lines": [
+                {
+                    "text": "Kent, sir, the banish'd Kent; who in disguise"
+                },
+                {
+                    "text": "Follow'd his enemy king, and did him service"
+                },
+                {
+                    "text": "Improper for a slave."
+                },
+                {
+                    "direction": "Enter a Gentleman, with a bloody knife"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 5,
+            "scene": 3,
+            "start": 257,
+            "stop": 257,
+            "lines": [
+                {
+                    "text": "Help, help, O, help!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 258,
+            "stop": 258,
+            "lines": [
+                {
+                    "text": "What kind of help?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 259,
+            "stop": 259,
+            "lines": [
+                {
+                    "text": "Speak, man."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 260,
+            "stop": 260,
+            "lines": [
+                {
+                    "text": "What means that bloody knife?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 5,
+            "scene": 3,
+            "start": 261,
+            "stop": 262,
+            "lines": [
+                {
+                    "text": "'Tis hot, it smokes;"
+                },
+                {
+                    "text": "It came even from the heart of--O, she's dead!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 263,
+            "stop": 263,
+            "lines": [
+                {
+                    "text": "Who dead? speak, man."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 5,
+            "scene": 3,
+            "start": 264,
+            "stop": 265,
+            "lines": [
+                {
+                    "text": "Your lady, sir, your lady: and her sister"
+                },
+                {
+                    "text": "By her is poisoned; she hath confess'd it."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 266,
+            "stop": 267,
+            "lines": [
+                {
+                    "text": "I was contracted to them both: all three"
+                },
+                {
+                    "text": "Now marry in an instant."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 268,
+            "stop": 268,
+            "lines": [
+                {
+                    "text": "Here comes Kent."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 269,
+            "stop": 274,
+            "lines": [
+                {
+                    "text": "Produce their bodies, be they alive or dead:"
+                },
+                {
+                    "text": "This judgment of the heavens, that makes us tremble,"
+                },
+                {
+                    "text": "Touches us not with pity."
+                },
+                {
+                    "direction": "Exit Gentleman"
+                },
+                {
+                    "direction": "Enter KENT"
+                },
+                {
+                    "text": "O, is this he?"
+                },
+                {
+                    "text": "The time will not allow the compliment"
+                },
+                {
+                    "text": "Which very manners urges."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 275,
+            "stop": 277,
+            "lines": [
+                {
+                    "text": "I am come"
+                },
+                {
+                    "text": "To bid my king and master aye good night:"
+                },
+                {
+                    "text": "Is he not here?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 278,
+            "stop": 280,
+            "lines": [
+                {
+                    "text": " Great thing of us forgot!"
+                },
+                {
+                    "text": "Speak, Edmund, where's the king? and where's Cordelia?"
+                },
+                {
+                    "text": "See'st thou this object, Kent?"
+                },
+                {
+                    "direction": "The bodies of GONERIL and REGAN are brought in"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 281,
+            "stop": 281,
+            "lines": [
+                {
+                    "text": "Alack, why thus?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 282,
+            "stop": 284,
+            "lines": [
+                {
+                    "text": " Yet Edmund was beloved:"
+                },
+                {
+                    "text": "The one the other poison'd for my sake,"
+                },
+                {
+                    "text": "And after slew herself."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 285,
+            "stop": 285,
+            "lines": [
+                {
+                    "text": "Even so. Cover their faces."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 286,
+            "stop": 290,
+            "lines": [
+                {
+                    "text": "I pant for life: some good I mean to do,"
+                },
+                {
+                    "text": "Despite of mine own nature. Quickly send,"
+                },
+                {
+                    "text": "Be brief in it, to the castle; for my writ"
+                },
+                {
+                    "text": "Is on the life of Lear and on Cordelia:"
+                },
+                {
+                    "text": "Nay, send in time."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 291,
+            "stop": 291,
+            "lines": [
+                {
+                    "text": " Run, run, O, run!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 292,
+            "stop": 293,
+            "lines": [
+                {
+                    "text": "To who, my lord? Who hath the office? send"
+                },
+                {
+                    "text": "Thy token of reprieve."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 294,
+            "stop": 295,
+            "lines": [
+                {
+                    "text": "Well thought on: take my sword,"
+                },
+                {
+                    "text": "Give it the captain."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 296,
+            "stop": 296,
+            "lines": [
+                {
+                    "text": "Haste thee, for thy life."
+                },
+                {
+                    "direction": "Exit EDGAR"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 3,
+            "start": 297,
+            "stop": 300,
+            "lines": [
+                {
+                    "text": "He hath commission from thy wife and me"
+                },
+                {
+                    "text": "To hang Cordelia in the prison, and"
+                },
+                {
+                    "text": "To lay the blame upon her own despair,"
+                },
+                {
+                    "text": "That she fordid herself."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 301,
+            "stop": 301,
+            "lines": [
+                {
+                    "text": "The gods defend her! Bear him hence awhile."
+                },
+                {
+                    "direction": "EDMUND is borne off"
+                },
+                {
+                    "direction": "Re-enter KING LEAR, with CORDELIA dead in his arms; EDGAR, Captain, and others following"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 302,
+            "stop": 308,
+            "lines": [
+                {
+                    "text": "Howl, howl, howl, howl! O, you are men of stones:"
+                },
+                {
+                    "text": "Had I your tongues and eyes, I'ld use them so"
+                },
+                {
+                    "text": "That heaven's vault should crack. She's gone for ever!"
+                },
+                {
+                    "text": "I know when one is dead, and when one lives;"
+                },
+                {
+                    "text": "She's dead as earth. Lend me a looking-glass;"
+                },
+                {
+                    "text": "If that her breath will mist or stain the stone,"
+                },
+                {
+                    "text": "Why, then she lives."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 309,
+            "stop": 309,
+            "lines": [
+                {
+                    "text": "Is this the promised end"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 310,
+            "stop": 310,
+            "lines": [
+                {
+                    "text": "Or image of that horror?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 311,
+            "stop": 311,
+            "lines": [
+                {
+                    "text": "Fall, and cease!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 312,
+            "stop": 314,
+            "lines": [
+                {
+                    "text": "This feather stirs; she lives! if it be so,"
+                },
+                {
+                    "text": "It is a chance which does redeem all sorrows"
+                },
+                {
+                    "text": "That ever I have felt."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 315,
+            "stop": 315,
+            "lines": [
+                {
+                    "text": "[Kneeling] O my good master!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 316,
+            "stop": 316,
+            "lines": [
+                {
+                    "text": "Prithee, away."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 317,
+            "stop": 317,
+            "lines": [
+                {
+                    "text": "'Tis noble Kent, your friend."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 318,
+            "stop": 323,
+            "lines": [
+                {
+                    "text": "A plague upon you, murderers, traitors all!"
+                },
+                {
+                    "text": "I might have saved her; now she's gone for ever!"
+                },
+                {
+                    "text": "Cordelia, Cordelia! stay a little. Ha!"
+                },
+                {
+                    "text": "What is't thou say'st? Her voice was ever soft,"
+                },
+                {
+                    "text": "Gentle, and low, an excellent thing in woman."
+                },
+                {
+                    "text": "I kill'd the slave that was a-hanging thee."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Captain",
+            "act": 5,
+            "scene": 3,
+            "start": 324,
+            "stop": 324,
+            "lines": [
+                {
+                    "text": "'Tis true, my lords, he did."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 325,
+            "stop": 329,
+            "lines": [
+                {
+                    "text": "Did I not, fellow?"
+                },
+                {
+                    "text": "I have seen the day, with my good biting falchion"
+                },
+                {
+                    "text": "I would have made them skip: I am old now,"
+                },
+                {
+                    "text": "And these same crosses spoil me. Who are you?"
+                },
+                {
+                    "text": "Mine eyes are not o' the best: I'll tell you straight."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 330,
+            "stop": 331,
+            "lines": [
+                {
+                    "text": "If fortune brag of two she loved and hated,"
+                },
+                {
+                    "text": "One of them we behold."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 332,
+            "stop": 332,
+            "lines": [
+                {
+                    "text": "This is a dull sight. Are you not Kent?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 333,
+            "stop": 334,
+            "lines": [
+                {
+                    "text": "The same,"
+                },
+                {
+                    "text": "Your servant Kent: Where is your servant Caius?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 335,
+            "stop": 336,
+            "lines": [
+                {
+                    "text": "He's a good fellow, I can tell you that;"
+                },
+                {
+                    "text": "He'll strike, and quickly too: he's dead and rotten."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 337,
+            "stop": 337,
+            "lines": [
+                {
+                    "text": "No, my good lord; I am the very man,--"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 338,
+            "stop": 338,
+            "lines": [
+                {
+                    "text": "I'll see that straight."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 339,
+            "stop": 340,
+            "lines": [
+                {
+                    "text": "That, from your first of difference and decay,"
+                },
+                {
+                    "text": "Have follow'd your sad steps."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 341,
+            "stop": 341,
+            "lines": [
+                {
+                    "text": "You are welcome hither."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 342,
+            "stop": 344,
+            "lines": [
+                {
+                    "text": "Nor no man else: all's cheerless, dark, and deadly."
+                },
+                {
+                    "text": "Your eldest daughters have fordone them selves,"
+                },
+                {
+                    "text": "And desperately are dead."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 345,
+            "stop": 345,
+            "lines": [
+                {
+                    "text": "Ay, so I think."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 346,
+            "stop": 347,
+            "lines": [
+                {
+                    "text": "He knows not what he says: and vain it is"
+                },
+                {
+                    "text": "That we present us to him."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 348,
+            "stop": 348,
+            "lines": [
+                {
+                    "text": "Very bootless."
+                },
+                {
+                    "direction": "Enter a Captain"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Captain",
+            "act": 5,
+            "scene": 3,
+            "start": 349,
+            "stop": 349,
+            "lines": [
+                {
+                    "text": "Edmund is dead, my lord."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 350,
+            "stop": 360,
+            "lines": [
+                {
+                    "text": "That's but a trifle here."
+                },
+                {
+                    "text": "You lords and noble friends, know our intent."
+                },
+                {
+                    "text": "What comfort to this great decay may come"
+                },
+                {
+                    "text": "Shall be applied: for us we will resign,"
+                },
+                {
+                    "text": "During the life of this old majesty,"
+                },
+                {
+                    "text": "To him our absolute power:"
+                },
+                {
+                    "direction": "To EDGAR and KENT"
+                },
+                {
+                    "text": "you, to your rights:"
+                },
+                {
+                    "text": "With boot, and such addition as your honours"
+                },
+                {
+                    "text": "Have more than merited. All friends shall taste"
+                },
+                {
+                    "text": "The wages of their virtue, and all foes"
+                },
+                {
+                    "text": "The cup of their deservings. O, see, see!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 5,
+            "scene": 3,
+            "start": 361,
+            "stop": 367,
+            "lines": [
+                {
+                    "text": "And my poor fool is hang'd! No, no, no life!"
+                },
+                {
+                    "text": "Why should a dog, a horse, a rat, have life,"
+                },
+                {
+                    "text": "And thou no breath at all? Thou'lt come no more,"
+                },
+                {
+                    "text": "Never, never, never, never, never!"
+                },
+                {
+                    "text": "Pray you, undo this button: thank you, sir."
+                },
+                {
+                    "text": "Do you see this? Look on her, look, her lips,"
+                },
+                {
+                    "text": "Look there, look there!"
+                },
+                {
+                    "direction": "Dies"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 368,
+            "stop": 368,
+            "lines": [
+                {
+                    "text": "He faints! My lord, my lord!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 369,
+            "stop": 369,
+            "lines": [
+                {
+                    "text": "Break, heart; I prithee, break!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 370,
+            "stop": 370,
+            "lines": [
+                {
+                    "text": "Look up, my lord."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 371,
+            "stop": 373,
+            "lines": [
+                {
+                    "text": "Vex not his ghost: O, let him pass! he hates him much"
+                },
+                {
+                    "text": "That would upon the rack of this tough world"
+                },
+                {
+                    "text": "Stretch him out longer."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 3,
+            "start": 374,
+            "stop": 374,
+            "lines": [
+                {
+                    "text": "He is gone, indeed."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 375,
+            "stop": 376,
+            "lines": [
+                {
+                    "text": "The wonder is, he hath endured so long:"
+                },
+                {
+                    "text": "He but usurp'd his life."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 377,
+            "stop": 380,
+            "lines": [
+                {
+                    "text": "Bear them from hence. Our present business"
+                },
+                {
+                    "text": "Is general woe."
+                },
+                {
+                    "direction": "To KENT and EDGAR"
+                },
+                {
+                    "text": "Friends of my soul, you twain"
+                },
+                {
+                    "text": "Rule in this realm, and the gored state sustain."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KENT",
+            "act": 5,
+            "scene": 3,
+            "start": 381,
+            "stop": 382,
+            "lines": [
+                {
+                    "text": "I have a journey, sir, shortly to go;"
+                },
+                {
+                    "text": "My master calls me, I must not say no."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 3,
+            "start": 383,
+            "stop": 386,
+            "lines": [
+                {
+                    "text": "The weight of this sad time we must obey;"
+                },
+                {
+                    "text": "Speak what we feel, not what we ought to say."
+                },
+                {
+                    "text": "The oldest hath borne most: we that are young"
+                },
+                {
+                    "text": "Shall never see so much, nor live so long."
+                },
+                {
+                    "direction": "Exeunt, with a dead march"
+                }
+            ]
+        }
+    }
+]

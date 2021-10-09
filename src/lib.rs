@@ -1,10 +1,14 @@
-use std::{cmp::min, fmt::Display};
+use std::{
+    cmp::{max, min},
+    fmt::Display,
+    ops::RangeInclusive,
+};
 
 use rand::{prelude::ThreadRng, Rng};
 use serde::Deserialize;
 use termion::style;
 
-const SCENES: [&str; 25] = [
+const SCENES: [&str; 26] = [
     include_str!("res/01.json"),
     include_str!("res/02.json"),
     include_str!("res/03.json"),
@@ -30,15 +34,83 @@ const SCENES: [&str; 25] = [
     include_str!("res/23.json"),
     include_str!("res/24.json"),
     include_str!("res/25.json"),
+    include_str!("res/26.json"),
 ];
 
-#[derive(Debug, Deserialize)]
+struct TableEntry {
+    start: usize,
+    scenes: RangeInclusive<usize>,
+}
+
+impl TableEntry {
+    fn index(&self, scene: usize) -> Option<usize> {
+        if self.scenes.contains(&scene) {
+            Some(self.start + scene - 1)
+        } else {
+            None
+        }
+    }
+}
+
+const TABLE_OF_CONTENTS: [TableEntry; 5] = [
+    TableEntry {
+        start: 0,
+        scenes: (1..=5),
+    },
+    TableEntry {
+        start: 5,
+        scenes: (1..=4),
+    },
+    TableEntry {
+        start: 9,
+        scenes: (1..=7),
+    },
+    TableEntry {
+        start: 16,
+        scenes: (1..=7),
+    },
+    TableEntry {
+        start: 23,
+        scenes: (1..=3),
+    },
+];
+
+#[derive(Debug, Deserialize, Clone)]
 pub struct Heading {
     act: String,
     scene: String,
     setting: String,
     staging: String,
 }
+
+#[derive(Debug)]
+pub enum LearError {
+    IoError(std::io::Error),
+    InvalidAct(usize),
+    InvalidScene {
+        act: usize,
+        scene: usize,
+    },
+    InvalidLines {
+        act: usize,
+        scene: usize,
+        lines: RangeInclusive<usize>,
+    },
+}
+
+impl From<serde_json::Error> for LearError {
+    fn from(e: serde_json::Error) -> Self {
+        LearError::IoError(e.into())
+    }
+}
+
+impl Display for LearError {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{:?}", self)
+    }
+}
+
+impl std::error::Error for LearError {}
 
 impl Display for &Heading {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
@@ -57,7 +129,7 @@ impl Display for &Heading {
     }
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Clone)]
 pub enum Line {
     #[serde(rename(deserialize = "text"))]
     Text(String),
@@ -65,14 +137,59 @@ pub enum Line {
     Direction(String),
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Clone)]
 pub struct Dialogue {
     character: String,
     lines: Vec<Line>,
-    act: i32,
-    scene: i32,
-    start: i32,
-    stop: i32,
+    act: usize,
+    scene: usize,
+    start: usize,
+    stop: usize,
+}
+
+impl Dialogue {
+    fn selection(&self, range: &RangeInclusive<usize>) -> Option<Dialogue> {
+        // no overlap
+        if self.start > *range.end() || self.stop < *range.start() {
+            return None;
+        }
+        // the line numbers from the selection
+        let start_line = max(range.start(), &self.start);
+        let stop_line = min(range.end(), &self.stop);
+        // the start and stop indexes in self.lines
+        let (start, _) = self
+            .lines
+            .iter()
+            .enumerate()
+            .filter(|(_, line)| matches!(line, Line::Text(_)))
+            .find(|(i, _)| i + self.start >= *start_line)?;
+        let (stop, _) = self
+            .lines
+            .iter()
+            .enumerate()
+            .filter(|(_, line)| matches!(line, Line::Text(_)))
+            .find(|(i, _)| i + self.start >= *stop_line)?;
+        // grab only the lines we want to display
+        let mut lines: Vec<Line> = self.lines[start..=stop].iter().cloned().collect();
+        // omit empty dialogue blocks
+        if lines.is_empty() {
+            return None;
+        }
+        // if we truncated a dialogue block, add leading and/or trailing ellipses
+        if range.start() > &self.start {
+            lines.insert(0, Line::Text("...".into()));
+        }
+        if range.end() < &self.stop {
+            lines.push(Line::Text("...".into()));
+        }
+        Some(Dialogue {
+            lines,
+            start: *start_line,
+            stop: *stop_line,
+            character: self.character.clone(),
+            ..*self
+        })
+    }
 }
 
 impl Display for &Dialogue {
@@ -114,10 +231,19 @@ impl Display for &Dialogue {
     }
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Clone)]
 pub enum Block {
     Heading(Heading),
     Dialogue(Dialogue),
+}
+
+impl Block {
+    fn selection(&self, range: &RangeInclusive<usize>) -> Option<Block> {
+        match self {
+            Block::Heading(_) => None,
+            Block::Dialogue(d) => Some(Block::Dialogue(d.selection(range)?)),
+        }
+    }
 }
 
 impl Display for &Block {
@@ -145,6 +271,32 @@ pub fn blocks_to_show(rng: &mut ThreadRng) -> Result<Vec<Block>, std::io::Error>
         .skip(start)
         .take(blocks_to_show)
         .collect();
+    Ok(blocks)
+}
+
+pub fn text(
+    act: usize,
+    scene: usize,
+    lines: RangeInclusive<usize>,
+) -> Result<Vec<Block>, LearError> {
+    let scene_index = TABLE_OF_CONTENTS
+        .get(act - 1)
+        .ok_or(LearError::InvalidAct(act))?
+        .index(scene)
+        .ok_or(LearError::InvalidScene { act, scene })?;
+    let blocks: Vec<Block> = serde_json::from_str(SCENES[scene_index])?;
+    let blocks: Vec<Block> = blocks
+        // .get(lines.clone())
+        .iter()
+        .filter_map(|b| b.selection(&lines))
+        .collect();
+    if blocks.is_empty() {
+        return Err(LearError::InvalidLines {
+            act,
+            scene,
+            lines: lines.clone(),
+        });
+    }
     Ok(blocks)
 }
 

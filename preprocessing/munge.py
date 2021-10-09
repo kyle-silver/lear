@@ -122,6 +122,8 @@ while lear.peek(None):
         dialogue = Dialogue.from_html(tag, blockquote)
         current_scene.append(dialogue)
 
+scenes.append(current_scene)
+
 for (index, scene) in enumerate(scenes):
     print(f"{index:02d}.json")
     file = path.join(working_dir, "scenes", f"{index:02d}.json")

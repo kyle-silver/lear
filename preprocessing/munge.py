@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 from dataclasses import dataclass
 from os import path
-from typing import List
+from typing import Any, Dict, List
 
 from bs4 import BeautifulSoup
 from bs4.element import Tag
@@ -20,14 +20,14 @@ class Line(DataClassJsonMixin):
 
 
 @dataclass(frozen=True)
-class SpokenLine(Line):
+class Text(Line):
     """Spoken text"""
 
     text: str
 
 
 @dataclass(frozen=True)
-class StageDirection(Line):
+class Direction(Line):
     """A stage direction, which will be formatted differently"""
 
     direction: str
@@ -64,21 +64,28 @@ class Dialogue(TextBlock):
         contents: List[Line] = []
         for line in lines:
             if line.name == "a":
-                contents.append(SpokenLine(line.text))
+                contents.append(Text(line.text))
             elif line.name == "p":
-                contents.append(StageDirection(line.text))
+                contents.append(Direction(line.text))
         return Dialogue(character, act, scene, start, end, contents)
+
+    def to_dict(self, encode_json=False) -> Dict[str, Any]:
+        return {"Dialogue": super().to_dict(encode_json=encode_json)}
 
 
 @dataclass(frozen=True)
-class SceneInfo(TextBlock):
+class Heading(TextBlock):
     act: int
     setting: str
-    staging: StageDirection
+    staging: Direction
 
     @staticmethod
-    def from_html(act: int, setting: Tag, staging: Tag) -> SceneInfo:
-        return SceneInfo(act, setting.text.strip(), staging.text.strip())
+    def from_html(act: int, setting: Tag, staging: Tag) -> Heading:
+        return Heading(act, setting.text.strip(), staging.text.strip())
+
+    def to_dict(self, encode_json=False) -> Dict[str, Any]:
+        # return super().to_dict(encode_json=encode_json)
+        return {"Heading": super().to_dict(encode_json=encode_json)}
 
 
 # read file
@@ -104,7 +111,7 @@ while lear.peek(None):
             act = act + 1
             tag = next(lear)
         staging = next(lear)
-        scene_info = SceneInfo.from_html(act, tag, staging)
+        scene_info = Heading.from_html(act, tag, staging)
         current_scene.append(scene_info)
     else:
         # characters giving speeches
@@ -116,5 +123,5 @@ for (index, scene) in enumerate(scenes):
     print(f"{index:02d}.json")
     file = path.join(working_dir, "scenes", f"{index:02d}.json")
     with open(file, "w", encoding="utf-8") as f:
-        data = [block.to_dict() for block in scene]
+        data = [block.to_dict(encode_json=True) for block in scene]
         json.dump(data, f, indent=4)

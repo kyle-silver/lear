@@ -1,544 +1,608 @@
 [
     {
-        "act": 5,
-        "setting": "SCENE I. The British camp, near Dover.",
-        "staging": "Enter, with drum and colours, EDMUND, REGAN, Gentlemen, and Soldiers."
+        "Heading": {
+            "act": 5,
+            "setting": "SCENE I. The British camp, near Dover.",
+            "staging": "Enter, with drum and colours, EDMUND, REGAN, Gentlemen, and Soldiers."
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 1,
-        "stop": 4,
-        "lines": [
-            {
-                "text": "Know of the duke if his last purpose hold,"
-            },
-            {
-                "text": "Or whether since he is advised by aught"
-            },
-            {
-                "text": "To change the course: he's full of alteration"
-            },
-            {
-                "text": "And self-reproving: bring his constant pleasure."
-            },
-            {
-                "direction": "To a Gentleman, who goes out"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 1,
+            "stop": 4,
+            "lines": [
+                {
+                    "text": "Know of the duke if his last purpose hold,"
+                },
+                {
+                    "text": "Or whether since he is advised by aught"
+                },
+                {
+                    "text": "To change the course: he's full of alteration"
+                },
+                {
+                    "text": "And self-reproving: bring his constant pleasure."
+                },
+                {
+                    "direction": "To a Gentleman, who goes out"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 5,
-        "stop": 5,
-        "lines": [
-            {
-                "text": "Our sister's man is certainly miscarried."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 5,
+            "stop": 5,
+            "lines": [
+                {
+                    "text": "Our sister's man is certainly miscarried."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 6,
-        "stop": 6,
-        "lines": [
-            {
-                "text": "'Tis to be doubted, madam."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 6,
+            "stop": 6,
+            "lines": [
+                {
+                    "text": "'Tis to be doubted, madam."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 7,
-        "stop": 10,
-        "lines": [
-            {
-                "text": "Now, sweet lord,"
-            },
-            {
-                "text": "You know the goodness I intend upon you:"
-            },
-            {
-                "text": "Tell me--but truly--but then speak the truth,"
-            },
-            {
-                "text": "Do you not love my sister?"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 7,
+            "stop": 10,
+            "lines": [
+                {
+                    "text": "Now, sweet lord,"
+                },
+                {
+                    "text": "You know the goodness I intend upon you:"
+                },
+                {
+                    "text": "Tell me--but truly--but then speak the truth,"
+                },
+                {
+                    "text": "Do you not love my sister?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 11,
-        "stop": 11,
-        "lines": [
-            {
-                "text": "In honour'd love."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 11,
+            "stop": 11,
+            "lines": [
+                {
+                    "text": "In honour'd love."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 12,
-        "stop": 13,
-        "lines": [
-            {
-                "text": "But have you never found my brother's way"
-            },
-            {
-                "text": "To the forfended place?"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 12,
+            "stop": 13,
+            "lines": [
+                {
+                    "text": "But have you never found my brother's way"
+                },
+                {
+                    "text": "To the forfended place?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 14,
-        "stop": 14,
-        "lines": [
-            {
-                "text": "That thought abuses you."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 14,
+            "stop": 14,
+            "lines": [
+                {
+                    "text": "That thought abuses you."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 15,
-        "stop": 16,
-        "lines": [
-            {
-                "text": "I am doubtful that you have been conjunct"
-            },
-            {
-                "text": "And bosom'd with her, as far as we call hers."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 15,
+            "stop": 16,
+            "lines": [
+                {
+                    "text": "I am doubtful that you have been conjunct"
+                },
+                {
+                    "text": "And bosom'd with her, as far as we call hers."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 17,
-        "stop": 17,
-        "lines": [
-            {
-                "text": "No, by mine honour, madam."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 17,
+            "stop": 17,
+            "lines": [
+                {
+                    "text": "No, by mine honour, madam."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 18,
-        "stop": 19,
-        "lines": [
-            {
-                "text": "I never shall endure her: dear my lord,"
-            },
-            {
-                "text": "Be not familiar with her."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 18,
+            "stop": 19,
+            "lines": [
+                {
+                    "text": "I never shall endure her: dear my lord,"
+                },
+                {
+                    "text": "Be not familiar with her."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 20,
-        "stop": 21,
-        "lines": [
-            {
-                "text": "Fear me not:"
-            },
-            {
-                "text": "She and the duke her husband!"
-            },
-            {
-                "direction": "Enter, with drum and colours, ALBANY, GONERIL, and Soldiers"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 20,
+            "stop": 21,
+            "lines": [
+                {
+                    "text": "Fear me not:"
+                },
+                {
+                    "text": "She and the duke her husband!"
+                },
+                {
+                    "direction": "Enter, with drum and colours, ALBANY, GONERIL, and Soldiers"
+                }
+            ]
+        }
     },
     {
-        "character": "GONERIL",
-        "act": 5,
-        "scene": 1,
-        "start": 22,
-        "stop": 23,
-        "lines": [
-            {
-                "text": "[Aside] I had rather lose the battle than that sister"
-            },
-            {
-                "text": "Should loosen him and me."
-            }
-        ]
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 1,
+            "start": 22,
+            "stop": 23,
+            "lines": [
+                {
+                    "text": "[Aside] I had rather lose the battle than that sister"
+                },
+                {
+                    "text": "Should loosen him and me."
+                }
+            ]
+        }
     },
     {
-        "character": "ALBANY",
-        "act": 5,
-        "scene": 1,
-        "start": 24,
-        "stop": 31,
-        "lines": [
-            {
-                "text": "Our very loving sister, well be-met."
-            },
-            {
-                "text": "Sir, this I hear; the king is come to his daughter,"
-            },
-            {
-                "text": "With others whom the rigor of our state"
-            },
-            {
-                "text": "Forced to cry out. Where I could not be honest,"
-            },
-            {
-                "text": "I never yet was valiant: for this business,"
-            },
-            {
-                "text": "It toucheth us, as France invades our land,"
-            },
-            {
-                "text": "Not bolds the king, with others, whom, I fear,"
-            },
-            {
-                "text": "Most just and heavy causes make oppose."
-            }
-        ]
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 1,
+            "start": 24,
+            "stop": 31,
+            "lines": [
+                {
+                    "text": "Our very loving sister, well be-met."
+                },
+                {
+                    "text": "Sir, this I hear; the king is come to his daughter,"
+                },
+                {
+                    "text": "With others whom the rigor of our state"
+                },
+                {
+                    "text": "Forced to cry out. Where I could not be honest,"
+                },
+                {
+                    "text": "I never yet was valiant: for this business,"
+                },
+                {
+                    "text": "It toucheth us, as France invades our land,"
+                },
+                {
+                    "text": "Not bolds the king, with others, whom, I fear,"
+                },
+                {
+                    "text": "Most just and heavy causes make oppose."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 32,
-        "stop": 32,
-        "lines": [
-            {
-                "text": "Sir, you speak nobly."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 32,
+            "stop": 32,
+            "lines": [
+                {
+                    "text": "Sir, you speak nobly."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 33,
-        "stop": 33,
-        "lines": [
-            {
-                "text": "Why is this reason'd?"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 33,
+            "stop": 33,
+            "lines": [
+                {
+                    "text": "Why is this reason'd?"
+                }
+            ]
+        }
     },
     {
-        "character": "GONERIL",
-        "act": 5,
-        "scene": 1,
-        "start": 34,
-        "stop": 36,
-        "lines": [
-            {
-                "text": "Combine together 'gainst the enemy;"
-            },
-            {
-                "text": "For these domestic and particular broils"
-            },
-            {
-                "text": "Are not the question here."
-            }
-        ]
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 1,
+            "start": 34,
+            "stop": 36,
+            "lines": [
+                {
+                    "text": "Combine together 'gainst the enemy;"
+                },
+                {
+                    "text": "For these domestic and particular broils"
+                },
+                {
+                    "text": "Are not the question here."
+                }
+            ]
+        }
     },
     {
-        "character": "ALBANY",
-        "act": 5,
-        "scene": 1,
-        "start": 37,
-        "stop": 38,
-        "lines": [
-            {
-                "text": "Let's then determine"
-            },
-            {
-                "text": "With the ancient of war on our proceedings."
-            }
-        ]
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 1,
+            "start": 37,
+            "stop": 38,
+            "lines": [
+                {
+                    "text": "Let's then determine"
+                },
+                {
+                    "text": "With the ancient of war on our proceedings."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 39,
-        "stop": 39,
-        "lines": [
-            {
-                "text": "I shall attend you presently at your tent."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 39,
+            "stop": 39,
+            "lines": [
+                {
+                    "text": "I shall attend you presently at your tent."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 40,
-        "stop": 40,
-        "lines": [
-            {
-                "text": "Sister, you'll go with us?"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 40,
+            "stop": 40,
+            "lines": [
+                {
+                    "text": "Sister, you'll go with us?"
+                }
+            ]
+        }
     },
     {
-        "character": "GONERIL",
-        "act": 5,
-        "scene": 1,
-        "start": 41,
-        "stop": 41,
-        "lines": [
-            {
-                "text": "No."
-            }
-        ]
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 1,
+            "start": 41,
+            "stop": 41,
+            "lines": [
+                {
+                    "text": "No."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 5,
-        "scene": 1,
-        "start": 42,
-        "stop": 42,
-        "lines": [
-            {
-                "text": "'Tis most convenient; pray you, go with us."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 5,
+            "scene": 1,
+            "start": 42,
+            "stop": 42,
+            "lines": [
+                {
+                    "text": "'Tis most convenient; pray you, go with us."
+                }
+            ]
+        }
     },
     {
-        "character": "GONERIL",
-        "act": 5,
-        "scene": 1,
-        "start": 43,
-        "stop": 43,
-        "lines": [
-            {
-                "text": "[Aside] O, ho, I know the riddle.--I will go."
-            },
-            {
-                "direction": "As they are going out, enter EDGAR disguised"
-            }
-        ]
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 5,
+            "scene": 1,
+            "start": 43,
+            "stop": 43,
+            "lines": [
+                {
+                    "text": "[Aside] O, ho, I know the riddle.--I will go."
+                },
+                {
+                    "direction": "As they are going out, enter EDGAR disguised"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 5,
-        "scene": 1,
-        "start": 44,
-        "stop": 45,
-        "lines": [
-            {
-                "text": "If e'er your grace had speech with man so poor,"
-            },
-            {
-                "text": "Hear me one word."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 1,
+            "start": 44,
+            "stop": 45,
+            "lines": [
+                {
+                    "text": "If e'er your grace had speech with man so poor,"
+                },
+                {
+                    "text": "Hear me one word."
+                }
+            ]
+        }
     },
     {
-        "character": "ALBANY",
-        "act": 5,
-        "scene": 1,
-        "start": 46,
-        "stop": 46,
-        "lines": [
-            {
-                "text": " I'll overtake you. Speak."
-            },
-            {
-                "direction": "Exeunt all but ALBANY and EDGAR"
-            }
-        ]
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 1,
+            "start": 46,
+            "stop": 46,
+            "lines": [
+                {
+                    "text": " I'll overtake you. Speak."
+                },
+                {
+                    "direction": "Exeunt all but ALBANY and EDGAR"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 5,
-        "scene": 1,
-        "start": 47,
-        "stop": 53,
-        "lines": [
-            {
-                "text": "Before you fight the battle, ope this letter."
-            },
-            {
-                "text": "If you have victory, let the trumpet sound"
-            },
-            {
-                "text": "For him that brought it: wretched though I seem,"
-            },
-            {
-                "text": "I can produce a champion that will prove"
-            },
-            {
-                "text": "What is avouched there. If you miscarry,"
-            },
-            {
-                "text": "Your business of the world hath so an end,"
-            },
-            {
-                "text": "And machination ceases. Fortune love you."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 1,
+            "start": 47,
+            "stop": 53,
+            "lines": [
+                {
+                    "text": "Before you fight the battle, ope this letter."
+                },
+                {
+                    "text": "If you have victory, let the trumpet sound"
+                },
+                {
+                    "text": "For him that brought it: wretched though I seem,"
+                },
+                {
+                    "text": "I can produce a champion that will prove"
+                },
+                {
+                    "text": "What is avouched there. If you miscarry,"
+                },
+                {
+                    "text": "Your business of the world hath so an end,"
+                },
+                {
+                    "text": "And machination ceases. Fortune love you."
+                }
+            ]
+        }
     },
     {
-        "character": "ALBANY",
-        "act": 5,
-        "scene": 1,
-        "start": 54,
-        "stop": 54,
-        "lines": [
-            {
-                "text": "Stay till I have read the letter."
-            }
-        ]
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 1,
+            "start": 54,
+            "stop": 54,
+            "lines": [
+                {
+                    "text": "Stay till I have read the letter."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 5,
-        "scene": 1,
-        "start": 55,
-        "stop": 57,
-        "lines": [
-            {
-                "text": "I was forbid it."
-            },
-            {
-                "text": "When time shall serve, let but the herald cry,"
-            },
-            {
-                "text": "And I'll appear again."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 1,
+            "start": 55,
+            "stop": 57,
+            "lines": [
+                {
+                    "text": "I was forbid it."
+                },
+                {
+                    "text": "When time shall serve, let but the herald cry,"
+                },
+                {
+                    "text": "And I'll appear again."
+                }
+            ]
+        }
     },
     {
-        "character": "ALBANY",
-        "act": 5,
-        "scene": 1,
-        "start": 58,
-        "stop": 58,
-        "lines": [
-            {
-                "text": "Why, fare thee well: I will o'erlook thy paper."
-            },
-            {
-                "direction": "Exit EDGAR"
-            },
-            {
-                "direction": "Re-enter EDMUND"
-            }
-        ]
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 1,
+            "start": 58,
+            "stop": 58,
+            "lines": [
+                {
+                    "text": "Why, fare thee well: I will o'erlook thy paper."
+                },
+                {
+                    "direction": "Exit EDGAR"
+                },
+                {
+                    "direction": "Re-enter EDMUND"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 59,
-        "stop": 62,
-        "lines": [
-            {
-                "text": "The enemy's in view; draw up your powers."
-            },
-            {
-                "text": "Here is the guess of their true strength and forces"
-            },
-            {
-                "text": "By diligent discovery; but your haste"
-            },
-            {
-                "text": "Is now urged on you."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 59,
+            "stop": 62,
+            "lines": [
+                {
+                    "text": "The enemy's in view; draw up your powers."
+                },
+                {
+                    "text": "Here is the guess of their true strength and forces"
+                },
+                {
+                    "text": "By diligent discovery; but your haste"
+                },
+                {
+                    "text": "Is now urged on you."
+                }
+            ]
+        }
     },
     {
-        "character": "ALBANY",
-        "act": 5,
-        "scene": 1,
-        "start": 63,
-        "stop": 63,
-        "lines": [
-            {
-                "text": "We will greet the time."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "ALBANY",
+            "act": 5,
+            "scene": 1,
+            "start": 63,
+            "stop": 63,
+            "lines": [
+                {
+                    "text": "We will greet the time."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 5,
-        "scene": 1,
-        "start": 64,
-        "stop": 78,
-        "lines": [
-            {
-                "text": "To both these sisters have I sworn my love;"
-            },
-            {
-                "text": "Each jealous of the other, as the stung"
-            },
-            {
-                "text": "Are of the adder. Which of them shall I take?"
-            },
-            {
-                "text": "Both? one? or neither? Neither can be enjoy'd,"
-            },
-            {
-                "text": "If both remain alive: to take the widow"
-            },
-            {
-                "text": "Exasperates, makes mad her sister Goneril;"
-            },
-            {
-                "text": "And hardly shall I carry out my side,"
-            },
-            {
-                "text": "Her husband being alive. Now then we'll use"
-            },
-            {
-                "text": "His countenance for the battle; which being done,"
-            },
-            {
-                "text": "Let her who would be rid of him devise"
-            },
-            {
-                "text": "His speedy taking off. As for the mercy"
-            },
-            {
-                "text": "Which he intends to Lear and to Cordelia,"
-            },
-            {
-                "text": "The battle done, and they within our power,"
-            },
-            {
-                "text": "Shall never see his pardon; for my state"
-            },
-            {
-                "text": "Stands on me to defend, not to debate."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 5,
+            "scene": 1,
+            "start": 64,
+            "stop": 78,
+            "lines": [
+                {
+                    "text": "To both these sisters have I sworn my love;"
+                },
+                {
+                    "text": "Each jealous of the other, as the stung"
+                },
+                {
+                    "text": "Are of the adder. Which of them shall I take?"
+                },
+                {
+                    "text": "Both? one? or neither? Neither can be enjoy'd,"
+                },
+                {
+                    "text": "If both remain alive: to take the widow"
+                },
+                {
+                    "text": "Exasperates, makes mad her sister Goneril;"
+                },
+                {
+                    "text": "And hardly shall I carry out my side,"
+                },
+                {
+                    "text": "Her husband being alive. Now then we'll use"
+                },
+                {
+                    "text": "His countenance for the battle; which being done,"
+                },
+                {
+                    "text": "Let her who would be rid of him devise"
+                },
+                {
+                    "text": "His speedy taking off. As for the mercy"
+                },
+                {
+                    "text": "Which he intends to Lear and to Cordelia,"
+                },
+                {
+                    "text": "The battle done, and they within our power,"
+                },
+                {
+                    "text": "Shall never see his pardon; for my state"
+                },
+                {
+                    "text": "Stands on me to defend, not to debate."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     }
 ]

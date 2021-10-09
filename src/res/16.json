@@ -1,877 +1,985 @@
 [
     {
-        "act": 3,
-        "setting": "SCENE VII. Gloucester's castle.",
-        "staging": "Enter CORNWALL, REGAN, GONERIL, EDMUND, and Servants"
+        "Heading": {
+            "act": 3,
+            "setting": "SCENE VII. Gloucester's castle.",
+            "staging": "Enter CORNWALL, REGAN, GONERIL, EDMUND, and Servants"
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 1,
-        "stop": 3,
-        "lines": [
-            {
-                "text": "Post speedily to my lord your husband; show him"
-            },
-            {
-                "text": "this letter: the army of France is landed. Seek"
-            },
-            {
-                "text": "out the villain Gloucester."
-            },
-            {
-                "direction": "Exeunt some of the Servants"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 1,
+            "stop": 3,
+            "lines": [
+                {
+                    "text": "Post speedily to my lord your husband; show him"
+                },
+                {
+                    "text": "this letter: the army of France is landed. Seek"
+                },
+                {
+                    "text": "out the villain Gloucester."
+                },
+                {
+                    "direction": "Exeunt some of the Servants"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 4,
-        "stop": 4,
-        "lines": [
-            {
-                "text": "Hang him instantly."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 4,
+            "stop": 4,
+            "lines": [
+                {
+                    "text": "Hang him instantly."
+                }
+            ]
+        }
     },
     {
-        "character": "GONERIL",
-        "act": 3,
-        "scene": 7,
-        "start": 5,
-        "stop": 5,
-        "lines": [
-            {
-                "text": "Pluck out his eyes."
-            }
-        ]
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 3,
+            "scene": 7,
+            "start": 5,
+            "stop": 5,
+            "lines": [
+                {
+                    "text": "Pluck out his eyes."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 6,
-        "stop": 14,
-        "lines": [
-            {
-                "text": "Leave him to my displeasure. Edmund, keep you our"
-            },
-            {
-                "text": "sister company: the revenges we are bound to take"
-            },
-            {
-                "text": "upon your traitorous father are not fit for your"
-            },
-            {
-                "text": "beholding. Advise the duke, where you are going, to"
-            },
-            {
-                "text": "a most festinate preparation: we are bound to the"
-            },
-            {
-                "text": "like. Our posts shall be swift and intelligent"
-            },
-            {
-                "text": "betwixt us. Farewell, dear sister: farewell, my"
-            },
-            {
-                "text": "lord of Gloucester."
-            },
-            {
-                "direction": "Enter OSWALD"
-            },
-            {
-                "text": "How now! where's the king?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 6,
+            "stop": 14,
+            "lines": [
+                {
+                    "text": "Leave him to my displeasure. Edmund, keep you our"
+                },
+                {
+                    "text": "sister company: the revenges we are bound to take"
+                },
+                {
+                    "text": "upon your traitorous father are not fit for your"
+                },
+                {
+                    "text": "beholding. Advise the duke, where you are going, to"
+                },
+                {
+                    "text": "a most festinate preparation: we are bound to the"
+                },
+                {
+                    "text": "like. Our posts shall be swift and intelligent"
+                },
+                {
+                    "text": "betwixt us. Farewell, dear sister: farewell, my"
+                },
+                {
+                    "text": "lord of Gloucester."
+                },
+                {
+                    "direction": "Enter OSWALD"
+                },
+                {
+                    "text": "How now! where's the king?"
+                }
+            ]
+        }
     },
     {
-        "character": "OSWALD",
-        "act": 3,
-        "scene": 7,
-        "start": 15,
-        "stop": 20,
-        "lines": [
-            {
-                "text": "My lord of Gloucester hath convey'd him hence:"
-            },
-            {
-                "text": "Some five or six and thirty of his knights,"
-            },
-            {
-                "text": "Hot questrists after him, met him at gate;"
-            },
-            {
-                "text": "Who, with some other of the lords dependants,"
-            },
-            {
-                "text": "Are gone with him towards Dover; where they boast"
-            },
-            {
-                "text": "To have well-armed friends."
-            }
-        ]
+        "Dialogue": {
+            "character": "OSWALD",
+            "act": 3,
+            "scene": 7,
+            "start": 15,
+            "stop": 20,
+            "lines": [
+                {
+                    "text": "My lord of Gloucester hath convey'd him hence:"
+                },
+                {
+                    "text": "Some five or six and thirty of his knights,"
+                },
+                {
+                    "text": "Hot questrists after him, met him at gate;"
+                },
+                {
+                    "text": "Who, with some other of the lords dependants,"
+                },
+                {
+                    "text": "Are gone with him towards Dover; where they boast"
+                },
+                {
+                    "text": "To have well-armed friends."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 21,
-        "stop": 21,
-        "lines": [
-            {
-                "text": "Get horses for your mistress."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 21,
+            "stop": 21,
+            "lines": [
+                {
+                    "text": "Get horses for your mistress."
+                }
+            ]
+        }
     },
     {
-        "character": "GONERIL",
-        "act": 3,
-        "scene": 7,
-        "start": 22,
-        "stop": 22,
-        "lines": [
-            {
-                "text": "Farewell, sweet lord, and sister."
-            }
-        ]
+        "Dialogue": {
+            "character": "GONERIL",
+            "act": 3,
+            "scene": 7,
+            "start": 22,
+            "stop": 22,
+            "lines": [
+                {
+                    "text": "Farewell, sweet lord, and sister."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 23,
-        "stop": 29,
-        "lines": [
-            {
-                "text": "Edmund, farewell."
-            },
-            {
-                "direction": "Exeunt GONERIL, EDMUND, and OSWALD"
-            },
-            {
-                "text": "Go seek the traitor Gloucester,"
-            },
-            {
-                "text": "Pinion him like a thief, bring him before us."
-            },
-            {
-                "direction": "Exeunt other Servants"
-            },
-            {
-                "text": "Though well we may not pass upon his life"
-            },
-            {
-                "text": "Without the form of justice, yet our power"
-            },
-            {
-                "text": "Shall do a courtesy to our wrath, which men"
-            },
-            {
-                "text": "May blame, but not control. Who's there? the traitor?"
-            },
-            {
-                "direction": "Enter GLOUCESTER, brought in by two or three"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 23,
+            "stop": 29,
+            "lines": [
+                {
+                    "text": "Edmund, farewell."
+                },
+                {
+                    "direction": "Exeunt GONERIL, EDMUND, and OSWALD"
+                },
+                {
+                    "text": "Go seek the traitor Gloucester,"
+                },
+                {
+                    "text": "Pinion him like a thief, bring him before us."
+                },
+                {
+                    "direction": "Exeunt other Servants"
+                },
+                {
+                    "text": "Though well we may not pass upon his life"
+                },
+                {
+                    "text": "Without the form of justice, yet our power"
+                },
+                {
+                    "text": "Shall do a courtesy to our wrath, which men"
+                },
+                {
+                    "text": "May blame, but not control. Who's there? the traitor?"
+                },
+                {
+                    "direction": "Enter GLOUCESTER, brought in by two or three"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 30,
-        "stop": 30,
-        "lines": [
-            {
-                "text": "Ingrateful fox! 'tis he."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 30,
+            "stop": 30,
+            "lines": [
+                {
+                    "text": "Ingrateful fox! 'tis he."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 31,
-        "stop": 31,
-        "lines": [
-            {
-                "text": "Bind fast his corky arms."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 31,
+            "stop": 31,
+            "lines": [
+                {
+                    "text": "Bind fast his corky arms."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 32,
-        "stop": 33,
-        "lines": [
-            {
-                "text": "What mean your graces? Good my friends, consider"
-            },
-            {
-                "text": "You are my guests: do me no foul play, friends."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 32,
+            "stop": 33,
+            "lines": [
+                {
+                    "text": "What mean your graces? Good my friends, consider"
+                },
+                {
+                    "text": "You are my guests: do me no foul play, friends."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 34,
-        "stop": 34,
-        "lines": [
-            {
-                "text": "Bind him, I say."
-            },
-            {
-                "direction": "Servants bind him"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 34,
+            "stop": 34,
+            "lines": [
+                {
+                    "text": "Bind him, I say."
+                },
+                {
+                    "direction": "Servants bind him"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 35,
-        "stop": 35,
-        "lines": [
-            {
-                "text": " Hard, hard. O filthy traitor!"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 35,
+            "stop": 35,
+            "lines": [
+                {
+                    "text": " Hard, hard. O filthy traitor!"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 36,
-        "stop": 36,
-        "lines": [
-            {
-                "text": "Unmerciful lady as you are, I'm none."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 36,
+            "stop": 36,
+            "lines": [
+                {
+                    "text": "Unmerciful lady as you are, I'm none."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 37,
-        "stop": 37,
-        "lines": [
-            {
-                "text": "To this chair bind him. Villain, thou shalt find--"
-            },
-            {
-                "direction": "REGAN plucks his beard"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 37,
+            "stop": 37,
+            "lines": [
+                {
+                    "text": "To this chair bind him. Villain, thou shalt find--"
+                },
+                {
+                    "direction": "REGAN plucks his beard"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 38,
-        "stop": 39,
-        "lines": [
-            {
-                "text": "By the kind gods, 'tis most ignobly done"
-            },
-            {
-                "text": "To pluck me by the beard."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 38,
+            "stop": 39,
+            "lines": [
+                {
+                    "text": "By the kind gods, 'tis most ignobly done"
+                },
+                {
+                    "text": "To pluck me by the beard."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 40,
-        "stop": 40,
-        "lines": [
-            {
-                "text": "So white, and such a traitor!"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 40,
+            "stop": 40,
+            "lines": [
+                {
+                    "text": "So white, and such a traitor!"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 41,
-        "stop": 45,
-        "lines": [
-            {
-                "text": "Naughty lady,"
-            },
-            {
-                "text": "These hairs, which thou dost ravish from my chin,"
-            },
-            {
-                "text": "Will quicken, and accuse thee: I am your host:"
-            },
-            {
-                "text": "With robbers' hands my hospitable favours"
-            },
-            {
-                "text": "You should not ruffle thus. What will you do?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 41,
+            "stop": 45,
+            "lines": [
+                {
+                    "text": "Naughty lady,"
+                },
+                {
+                    "text": "These hairs, which thou dost ravish from my chin,"
+                },
+                {
+                    "text": "Will quicken, and accuse thee: I am your host:"
+                },
+                {
+                    "text": "With robbers' hands my hospitable favours"
+                },
+                {
+                    "text": "You should not ruffle thus. What will you do?"
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 46,
-        "stop": 46,
-        "lines": [
-            {
-                "text": "Come, sir, what letters had you late from France?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 46,
+            "stop": 46,
+            "lines": [
+                {
+                    "text": "Come, sir, what letters had you late from France?"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 47,
-        "stop": 47,
-        "lines": [
-            {
-                "text": "Be simple answerer, for we know the truth."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 47,
+            "stop": 47,
+            "lines": [
+                {
+                    "text": "Be simple answerer, for we know the truth."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 48,
-        "stop": 49,
-        "lines": [
-            {
-                "text": "And what confederacy have you with the traitors"
-            },
-            {
-                "text": "Late footed in the kingdom?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 48,
+            "stop": 49,
+            "lines": [
+                {
+                    "text": "And what confederacy have you with the traitors"
+                },
+                {
+                    "text": "Late footed in the kingdom?"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 50,
-        "stop": 50,
-        "lines": [
-            {
-                "text": "To whose hands have you sent the lunatic king? Speak."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 50,
+            "stop": 50,
+            "lines": [
+                {
+                    "text": "To whose hands have you sent the lunatic king? Speak."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 51,
-        "stop": 53,
-        "lines": [
-            {
-                "text": "I have a letter guessingly set down,"
-            },
-            {
-                "text": "Which came from one that's of a neutral heart,"
-            },
-            {
-                "text": "And not from one opposed."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 51,
+            "stop": 53,
+            "lines": [
+                {
+                    "text": "I have a letter guessingly set down,"
+                },
+                {
+                    "text": "Which came from one that's of a neutral heart,"
+                },
+                {
+                    "text": "And not from one opposed."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 54,
-        "stop": 54,
-        "lines": [
-            {
-                "text": "Cunning."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 54,
+            "stop": 54,
+            "lines": [
+                {
+                    "text": "Cunning."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 55,
-        "stop": 55,
-        "lines": [
-            {
-                "text": "And false."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 55,
+            "stop": 55,
+            "lines": [
+                {
+                    "text": "And false."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 56,
-        "stop": 56,
-        "lines": [
-            {
-                "text": "Where hast thou sent the king?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 56,
+            "stop": 56,
+            "lines": [
+                {
+                    "text": "Where hast thou sent the king?"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 57,
-        "stop": 57,
-        "lines": [
-            {
-                "text": "To Dover."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 57,
+            "stop": 57,
+            "lines": [
+                {
+                    "text": "To Dover."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 58,
-        "stop": 58,
-        "lines": [
-            {
-                "text": "Wherefore to Dover? Wast thou not charged at peril--"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 58,
+            "stop": 58,
+            "lines": [
+                {
+                    "text": "Wherefore to Dover? Wast thou not charged at peril--"
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 59,
-        "stop": 59,
-        "lines": [
-            {
-                "text": "Wherefore to Dover? Let him first answer that."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 59,
+            "stop": 59,
+            "lines": [
+                {
+                    "text": "Wherefore to Dover? Let him first answer that."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 60,
-        "stop": 60,
-        "lines": [
-            {
-                "text": "I am tied to the stake, and I must stand the course."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 60,
+            "stop": 60,
+            "lines": [
+                {
+                    "text": "I am tied to the stake, and I must stand the course."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 61,
-        "stop": 61,
-        "lines": [
-            {
-                "text": "Wherefore to Dover, sir?"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 61,
+            "stop": 61,
+            "lines": [
+                {
+                    "text": "Wherefore to Dover, sir?"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 62,
-        "stop": 72,
-        "lines": [
-            {
-                "text": "Because I would not see thy cruel nails"
-            },
-            {
-                "text": "Pluck out his poor old eyes; nor thy fierce sister"
-            },
-            {
-                "text": "In his anointed flesh stick boarish fangs."
-            },
-            {
-                "text": "The sea, with such a storm as his bare head"
-            },
-            {
-                "text": "In hell-black night endured, would have buoy'd up,"
-            },
-            {
-                "text": "And quench'd the stelled fires:"
-            },
-            {
-                "text": "Yet, poor old heart, he holp the heavens to rain."
-            },
-            {
-                "text": "If wolves had at thy gate howl'd that stern time,"
-            },
-            {
-                "text": "Thou shouldst have said 'Good porter, turn the key,'"
-            },
-            {
-                "text": "All cruels else subscribed: but I shall see"
-            },
-            {
-                "text": "The winged vengeance overtake such children."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 62,
+            "stop": 72,
+            "lines": [
+                {
+                    "text": "Because I would not see thy cruel nails"
+                },
+                {
+                    "text": "Pluck out his poor old eyes; nor thy fierce sister"
+                },
+                {
+                    "text": "In his anointed flesh stick boarish fangs."
+                },
+                {
+                    "text": "The sea, with such a storm as his bare head"
+                },
+                {
+                    "text": "In hell-black night endured, would have buoy'd up,"
+                },
+                {
+                    "text": "And quench'd the stelled fires:"
+                },
+                {
+                    "text": "Yet, poor old heart, he holp the heavens to rain."
+                },
+                {
+                    "text": "If wolves had at thy gate howl'd that stern time,"
+                },
+                {
+                    "text": "Thou shouldst have said 'Good porter, turn the key,'"
+                },
+                {
+                    "text": "All cruels else subscribed: but I shall see"
+                },
+                {
+                    "text": "The winged vengeance overtake such children."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 73,
-        "stop": 74,
-        "lines": [
-            {
-                "text": "See't shalt thou never. Fellows, hold the chair."
-            },
-            {
-                "text": "Upon these eyes of thine I'll set my foot."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 73,
+            "stop": 74,
+            "lines": [
+                {
+                    "text": "See't shalt thou never. Fellows, hold the chair."
+                },
+                {
+                    "text": "Upon these eyes of thine I'll set my foot."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 75,
-        "stop": 76,
-        "lines": [
-            {
-                "text": "He that will think to live till he be old,"
-            },
-            {
-                "text": "Give me some help! O cruel! O you gods!"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 75,
+            "stop": 76,
+            "lines": [
+                {
+                    "text": "He that will think to live till he be old,"
+                },
+                {
+                    "text": "Give me some help! O cruel! O you gods!"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 77,
-        "stop": 77,
-        "lines": [
-            {
-                "text": "One side will mock another; the other too."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 77,
+            "stop": 77,
+            "lines": [
+                {
+                    "text": "One side will mock another; the other too."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 78,
-        "stop": 78,
-        "lines": [
-            {
-                "text": "If you see vengeance,--"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 78,
+            "stop": 78,
+            "lines": [
+                {
+                    "text": "If you see vengeance,--"
+                }
+            ]
+        }
     },
     {
-        "character": "First Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 79,
-        "stop": 82,
-        "lines": [
-            {
-                "text": "Hold your hand, my lord:"
-            },
-            {
-                "text": "I have served you ever since I was a child;"
-            },
-            {
-                "text": "But better service have I never done you"
-            },
-            {
-                "text": "Than now to bid you hold."
-            }
-        ]
+        "Dialogue": {
+            "character": "First Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 79,
+            "stop": 82,
+            "lines": [
+                {
+                    "text": "Hold your hand, my lord:"
+                },
+                {
+                    "text": "I have served you ever since I was a child;"
+                },
+                {
+                    "text": "But better service have I never done you"
+                },
+                {
+                    "text": "Than now to bid you hold."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 83,
-        "stop": 83,
-        "lines": [
-            {
-                "text": "How now, you dog!"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 83,
+            "stop": 83,
+            "lines": [
+                {
+                    "text": "How now, you dog!"
+                }
+            ]
+        }
     },
     {
-        "character": "First Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 84,
-        "stop": 85,
-        "lines": [
-            {
-                "text": "If you did wear a beard upon your chin,"
-            },
-            {
-                "text": "I'd shake it on this quarrel. What do you mean?"
-            }
-        ]
+        "Dialogue": {
+            "character": "First Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 84,
+            "stop": 85,
+            "lines": [
+                {
+                    "text": "If you did wear a beard upon your chin,"
+                },
+                {
+                    "text": "I'd shake it on this quarrel. What do you mean?"
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 86,
-        "stop": 86,
-        "lines": [
-            {
-                "text": "My villain!"
-            },
-            {
-                "direction": "They draw and fight"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 86,
+            "stop": 86,
+            "lines": [
+                {
+                    "text": "My villain!"
+                },
+                {
+                    "direction": "They draw and fight"
+                }
+            ]
+        }
     },
     {
-        "character": "First Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 87,
-        "stop": 87,
-        "lines": [
-            {
-                "text": "Nay, then, come on, and take the chance of anger."
-            }
-        ]
+        "Dialogue": {
+            "character": "First Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 87,
+            "stop": 87,
+            "lines": [
+                {
+                    "text": "Nay, then, come on, and take the chance of anger."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 88,
-        "stop": 88,
-        "lines": [
-            {
-                "text": "Give me thy sword. A peasant stand up thus!"
-            },
-            {
-                "direction": "Takes a sword, and runs at him behind"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 88,
+            "stop": 88,
+            "lines": [
+                {
+                    "text": "Give me thy sword. A peasant stand up thus!"
+                },
+                {
+                    "direction": "Takes a sword, and runs at him behind"
+                }
+            ]
+        }
     },
     {
-        "character": "First Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 89,
-        "stop": 90,
-        "lines": [
-            {
-                "text": "O, I am slain! My lord, you have one eye left"
-            },
-            {
-                "text": "To see some mischief on him. O!"
-            },
-            {
-                "direction": "Dies"
-            }
-        ]
+        "Dialogue": {
+            "character": "First Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 89,
+            "stop": 90,
+            "lines": [
+                {
+                    "text": "O, I am slain! My lord, you have one eye left"
+                },
+                {
+                    "text": "To see some mischief on him. O!"
+                },
+                {
+                    "direction": "Dies"
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 91,
-        "stop": 92,
-        "lines": [
-            {
-                "text": "Lest it see more, prevent it. Out, vile jelly!"
-            },
-            {
-                "text": "Where is thy lustre now?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 91,
+            "stop": 92,
+            "lines": [
+                {
+                    "text": "Lest it see more, prevent it. Out, vile jelly!"
+                },
+                {
+                    "text": "Where is thy lustre now?"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 93,
-        "stop": 95,
-        "lines": [
-            {
-                "text": "All dark and comfortless. Where's my son Edmund?"
-            },
-            {
-                "text": "Edmund, enkindle all the sparks of nature,"
-            },
-            {
-                "text": "To quit this horrid act."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 93,
+            "stop": 95,
+            "lines": [
+                {
+                    "text": "All dark and comfortless. Where's my son Edmund?"
+                },
+                {
+                    "text": "Edmund, enkindle all the sparks of nature,"
+                },
+                {
+                    "text": "To quit this horrid act."
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 96,
-        "stop": 99,
-        "lines": [
-            {
-                "text": "Out, treacherous villain!"
-            },
-            {
-                "text": "Thou call'st on him that hates thee: it was he"
-            },
-            {
-                "text": "That made the overture of thy treasons to us;"
-            },
-            {
-                "text": "Who is too good to pity thee."
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 96,
+            "stop": 99,
+            "lines": [
+                {
+                    "text": "Out, treacherous villain!"
+                },
+                {
+                    "text": "Thou call'st on him that hates thee: it was he"
+                },
+                {
+                    "text": "That made the overture of thy treasons to us;"
+                },
+                {
+                    "text": "Who is too good to pity thee."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 7,
-        "start": 100,
-        "stop": 101,
-        "lines": [
-            {
-                "text": "O my follies! then Edgar was abused."
-            },
-            {
-                "text": "Kind gods, forgive me that, and prosper him!"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 7,
+            "start": 100,
+            "stop": 101,
+            "lines": [
+                {
+                    "text": "O my follies! then Edgar was abused."
+                },
+                {
+                    "text": "Kind gods, forgive me that, and prosper him!"
+                }
+            ]
+        }
     },
     {
-        "character": "REGAN",
-        "act": 3,
-        "scene": 7,
-        "start": 102,
-        "stop": 104,
-        "lines": [
-            {
-                "text": "Go thrust him out at gates, and let him smell"
-            },
-            {
-                "text": "His way to Dover."
-            },
-            {
-                "direction": "Exit one with GLOUCESTER"
-            },
-            {
-                "text": "How is't, my lord? how look you?"
-            }
-        ]
+        "Dialogue": {
+            "character": "REGAN",
+            "act": 3,
+            "scene": 7,
+            "start": 102,
+            "stop": 104,
+            "lines": [
+                {
+                    "text": "Go thrust him out at gates, and let him smell"
+                },
+                {
+                    "text": "His way to Dover."
+                },
+                {
+                    "direction": "Exit one with GLOUCESTER"
+                },
+                {
+                    "text": "How is't, my lord? how look you?"
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 7,
-        "start": 105,
-        "stop": 108,
-        "lines": [
-            {
-                "text": "I have received a hurt: follow me, lady."
-            },
-            {
-                "text": "Turn out that eyeless villain; throw this slave"
-            },
-            {
-                "text": "Upon the dunghill. Regan, I bleed apace:"
-            },
-            {
-                "text": "Untimely comes this hurt: give me your arm."
-            },
-            {
-                "direction": "Exit CORNWALL, led by REGAN"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 7,
+            "start": 105,
+            "stop": 108,
+            "lines": [
+                {
+                    "text": "I have received a hurt: follow me, lady."
+                },
+                {
+                    "text": "Turn out that eyeless villain; throw this slave"
+                },
+                {
+                    "text": "Upon the dunghill. Regan, I bleed apace:"
+                },
+                {
+                    "text": "Untimely comes this hurt: give me your arm."
+                },
+                {
+                    "direction": "Exit CORNWALL, led by REGAN"
+                }
+            ]
+        }
     },
     {
-        "character": "Second Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 109,
-        "stop": 110,
-        "lines": [
-            {
-                "text": "I'll never care what wickedness I do,"
-            },
-            {
-                "text": "If this man come to good."
-            }
-        ]
+        "Dialogue": {
+            "character": "Second Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 109,
+            "stop": 110,
+            "lines": [
+                {
+                    "text": "I'll never care what wickedness I do,"
+                },
+                {
+                    "text": "If this man come to good."
+                }
+            ]
+        }
     },
     {
-        "character": "Third Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 111,
-        "stop": 113,
-        "lines": [
-            {
-                "text": "If she live long,"
-            },
-            {
-                "text": "And in the end meet the old course of death,"
-            },
-            {
-                "text": "Women will all turn monsters."
-            }
-        ]
+        "Dialogue": {
+            "character": "Third Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 111,
+            "stop": 113,
+            "lines": [
+                {
+                    "text": "If she live long,"
+                },
+                {
+                    "text": "And in the end meet the old course of death,"
+                },
+                {
+                    "text": "Women will all turn monsters."
+                }
+            ]
+        }
     },
     {
-        "character": "Second Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 114,
-        "stop": 116,
-        "lines": [
-            {
-                "text": "Let's follow the old earl, and get the Bedlam"
-            },
-            {
-                "text": "To lead him where he would: his roguish madness"
-            },
-            {
-                "text": "Allows itself to any thing."
-            }
-        ]
+        "Dialogue": {
+            "character": "Second Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 114,
+            "stop": 116,
+            "lines": [
+                {
+                    "text": "Let's follow the old earl, and get the Bedlam"
+                },
+                {
+                    "text": "To lead him where he would: his roguish madness"
+                },
+                {
+                    "text": "Allows itself to any thing."
+                }
+            ]
+        }
     },
     {
-        "character": "Third Servant",
-        "act": 3,
-        "scene": 7,
-        "start": 117,
-        "stop": 118,
-        "lines": [
-            {
-                "text": "Go thou: I'll fetch some flax and whites of eggs"
-            },
-            {
-                "text": "To apply to his bleeding face. Now, heaven help him!"
-            },
-            {
-                "direction": "Exeunt severally"
-            }
-        ]
+        "Dialogue": {
+            "character": "Third Servant",
+            "act": 3,
+            "scene": 7,
+            "start": 117,
+            "stop": 118,
+            "lines": [
+                {
+                    "text": "Go thou: I'll fetch some flax and whites of eggs"
+                },
+                {
+                    "text": "To apply to his bleeding face. Now, heaven help him!"
+                },
+                {
+                    "direction": "Exeunt severally"
+                }
+            ]
+        }
     }
 ]

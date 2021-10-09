@@ -1,166 +1,186 @@
 [
     {
-        "act": 3,
-        "setting": "SCENE V. Gloucester's castle.",
-        "staging": "Enter CORNWALL and EDMUND"
+        "Heading": {
+            "act": 3,
+            "setting": "SCENE V. Gloucester's castle.",
+            "staging": "Enter CORNWALL and EDMUND"
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 5,
-        "start": 1,
-        "stop": 1,
-        "lines": [
-            {
-                "text": "I will have my revenge ere I depart his house."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 5,
+            "start": 1,
+            "stop": 1,
+            "lines": [
+                {
+                    "text": "I will have my revenge ere I depart his house."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 3,
-        "scene": 5,
-        "start": 2,
-        "stop": 4,
-        "lines": [
-            {
-                "text": "How, my lord, I may be censured, that nature thus"
-            },
-            {
-                "text": "gives way to loyalty, something fears me to think"
-            },
-            {
-                "text": "of."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 3,
+            "scene": 5,
+            "start": 2,
+            "stop": 4,
+            "lines": [
+                {
+                    "text": "How, my lord, I may be censured, that nature thus"
+                },
+                {
+                    "text": "gives way to loyalty, something fears me to think"
+                },
+                {
+                    "text": "of."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 5,
-        "start": 5,
-        "stop": 8,
-        "lines": [
-            {
-                "text": "I now perceive, it was not altogether your"
-            },
-            {
-                "text": "brother's evil disposition made him seek his death;"
-            },
-            {
-                "text": "but a provoking merit, set a-work by a reprovable"
-            },
-            {
-                "text": "badness in himself."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 5,
+            "start": 5,
+            "stop": 8,
+            "lines": [
+                {
+                    "text": "I now perceive, it was not altogether your"
+                },
+                {
+                    "text": "brother's evil disposition made him seek his death;"
+                },
+                {
+                    "text": "but a provoking merit, set a-work by a reprovable"
+                },
+                {
+                    "text": "badness in himself."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 3,
-        "scene": 5,
-        "start": 9,
-        "stop": 13,
-        "lines": [
-            {
-                "text": "How malicious is my fortune, that I must repent to"
-            },
-            {
-                "text": "be just! This is the letter he spoke of, which"
-            },
-            {
-                "text": "approves him an intelligent party to the advantages"
-            },
-            {
-                "text": "of France: O heavens! that this treason were not,"
-            },
-            {
-                "text": "or not I the detector!"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 3,
+            "scene": 5,
+            "start": 9,
+            "stop": 13,
+            "lines": [
+                {
+                    "text": "How malicious is my fortune, that I must repent to"
+                },
+                {
+                    "text": "be just! This is the letter he spoke of, which"
+                },
+                {
+                    "text": "approves him an intelligent party to the advantages"
+                },
+                {
+                    "text": "of France: O heavens! that this treason were not,"
+                },
+                {
+                    "text": "or not I the detector!"
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 5,
-        "start": 14,
-        "stop": 14,
-        "lines": [
-            {
-                "text": "o with me to the duchess."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 5,
+            "start": 14,
+            "stop": 14,
+            "lines": [
+                {
+                    "text": "o with me to the duchess."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 3,
-        "scene": 5,
-        "start": 15,
-        "stop": 16,
-        "lines": [
-            {
-                "text": "If the matter of this paper be certain, you have"
-            },
-            {
-                "text": "mighty business in hand."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 3,
+            "scene": 5,
+            "start": 15,
+            "stop": 16,
+            "lines": [
+                {
+                    "text": "If the matter of this paper be certain, you have"
+                },
+                {
+                    "text": "mighty business in hand."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 5,
-        "start": 17,
-        "stop": 19,
-        "lines": [
-            {
-                "text": "True or false, it hath made thee earl of"
-            },
-            {
-                "text": "Gloucester. Seek out where thy father is, that he"
-            },
-            {
-                "text": "may be ready for our apprehension."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 5,
+            "start": 17,
+            "stop": 19,
+            "lines": [
+                {
+                    "text": "True or false, it hath made thee earl of"
+                },
+                {
+                    "text": "Gloucester. Seek out where thy father is, that he"
+                },
+                {
+                    "text": "may be ready for our apprehension."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 3,
-        "scene": 5,
-        "start": 20,
-        "stop": 23,
-        "lines": [
-            {
-                "text": "[Aside] If I find him comforting the king, it will"
-            },
-            {
-                "text": "stuff his suspicion more fully.--I will persevere in"
-            },
-            {
-                "text": "my course of loyalty, though the conflict be sore"
-            },
-            {
-                "text": "between that and my blood."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 3,
+            "scene": 5,
+            "start": 20,
+            "stop": 23,
+            "lines": [
+                {
+                    "text": "[Aside] If I find him comforting the king, it will"
+                },
+                {
+                    "text": "stuff his suspicion more fully.--I will persevere in"
+                },
+                {
+                    "text": "my course of loyalty, though the conflict be sore"
+                },
+                {
+                    "text": "between that and my blood."
+                }
+            ]
+        }
     },
     {
-        "character": "CORNWALL",
-        "act": 3,
-        "scene": 5,
-        "start": 24,
-        "stop": 25,
-        "lines": [
-            {
-                "text": "I will lay trust upon thee; and thou shalt find a"
-            },
-            {
-                "text": "dearer father in my love."
-            },
-            {
-                "direction": "Exeunt"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORNWALL",
+            "act": 3,
+            "scene": 5,
+            "start": 24,
+            "stop": 25,
+            "lines": [
+                {
+                    "text": "I will lay trust upon thee; and thou shalt find a"
+                },
+                {
+                    "text": "dearer father in my love."
+                },
+                {
+                    "direction": "Exeunt"
+                }
+            ]
+        }
     }
 ]

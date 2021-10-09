@@ -1,715 +1,789 @@
 [
     {
-        "act": 3,
-        "setting": "SCENE VI. A chamber in a farmhouse adjoining the castle.",
-        "staging": "Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR"
+        "Heading": {
+            "act": 3,
+            "setting": "SCENE VI. A chamber in a farmhouse adjoining the castle.",
+            "staging": "Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR"
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 6,
-        "start": 1,
-        "stop": 3,
-        "lines": [
-            {
-                "text": "Here is better than the open air; take it"
-            },
-            {
-                "text": "thankfully. I will piece out the comfort with what"
-            },
-            {
-                "text": "addition I can: I will not be long from you."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 6,
+            "start": 1,
+            "stop": 3,
+            "lines": [
+                {
+                    "text": "Here is better than the open air; take it"
+                },
+                {
+                    "text": "thankfully. I will piece out the comfort with what"
+                },
+                {
+                    "text": "addition I can: I will not be long from you."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 3,
-        "scene": 6,
-        "start": 4,
-        "stop": 5,
-        "lines": [
-            {
-                "text": "All the power of his wits have given way to his"
-            },
-            {
-                "text": "impatience: the gods reward your kindness!"
-            },
-            {
-                "direction": "Exit GLOUCESTER"
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 3,
+            "scene": 6,
+            "start": 4,
+            "stop": 5,
+            "lines": [
+                {
+                    "text": "All the power of his wits have given way to his"
+                },
+                {
+                    "text": "impatience: the gods reward your kindness!"
+                },
+                {
+                    "direction": "Exit GLOUCESTER"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 6,
-        "stop": 8,
-        "lines": [
-            {
-                "text": "Frateretto calls me; and tells me"
-            },
-            {
-                "text": "Nero is an angler in the lake of darkness."
-            },
-            {
-                "text": "Pray, innocent, and beware the foul fiend."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 6,
+            "stop": 8,
+            "lines": [
+                {
+                    "text": "Frateretto calls me; and tells me"
+                },
+                {
+                    "text": "Nero is an angler in the lake of darkness."
+                },
+                {
+                    "text": "Pray, innocent, and beware the foul fiend."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 9,
-        "stop": 10,
-        "lines": [
-            {
-                "text": "Prithee, nuncle, tell me whether a madman be a"
-            },
-            {
-                "text": "gentleman or a yeoman?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 9,
+            "stop": 10,
+            "lines": [
+                {
+                    "text": "Prithee, nuncle, tell me whether a madman be a"
+                },
+                {
+                    "text": "gentleman or a yeoman?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 11,
-        "stop": 11,
-        "lines": [
-            {
-                "text": "A king, a king!"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 11,
+            "stop": 11,
+            "lines": [
+                {
+                    "text": "A king, a king!"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 12,
-        "stop": 14,
-        "lines": [
-            {
-                "text": "No, he's a yeoman that has a gentleman to his son;"
-            },
-            {
-                "text": "for he's a mad yeoman that sees his son a gentleman"
-            },
-            {
-                "text": "before him."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 12,
+            "stop": 14,
+            "lines": [
+                {
+                    "text": "No, he's a yeoman that has a gentleman to his son;"
+                },
+                {
+                    "text": "for he's a mad yeoman that sees his son a gentleman"
+                },
+                {
+                    "text": "before him."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 15,
-        "stop": 16,
-        "lines": [
-            {
-                "text": "To have a thousand with red burning spits"
-            },
-            {
-                "text": "Come hissing in upon 'em,--"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 15,
+            "stop": 16,
+            "lines": [
+                {
+                    "text": "To have a thousand with red burning spits"
+                },
+                {
+                    "text": "Come hissing in upon 'em,--"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 17,
-        "stop": 17,
-        "lines": [
-            {
-                "text": "The foul fiend bites my back."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 17,
+            "stop": 17,
+            "lines": [
+                {
+                    "text": "The foul fiend bites my back."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 18,
-        "stop": 19,
-        "lines": [
-            {
-                "text": "He's mad that trusts in the tameness of a wolf, a"
-            },
-            {
-                "text": "horse's health, a boy's love, or a whore's oath."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 18,
+            "stop": 19,
+            "lines": [
+                {
+                    "text": "He's mad that trusts in the tameness of a wolf, a"
+                },
+                {
+                    "text": "horse's health, a boy's love, or a whore's oath."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 20,
-        "stop": 22,
-        "lines": [
-            {
-                "text": "It shall be done; I will arraign them straight."
-            },
-            {
-                "direction": "To EDGAR"
-            },
-            {
-                "text": "Come, sit thou here, most learned justicer;"
-            },
-            {
-                "direction": "To the Fool"
-            },
-            {
-                "text": "Thou, sapient sir, sit here. Now, you she foxes!"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 20,
+            "stop": 22,
+            "lines": [
+                {
+                    "text": "It shall be done; I will arraign them straight."
+                },
+                {
+                    "direction": "To EDGAR"
+                },
+                {
+                    "text": "Come, sit thou here, most learned justicer;"
+                },
+                {
+                    "direction": "To the Fool"
+                },
+                {
+                    "text": "Thou, sapient sir, sit here. Now, you she foxes!"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 23,
-        "stop": 25,
-        "lines": [
-            {
-                "text": " Look, where he stands and glares!"
-            },
-            {
-                "text": "Wantest thou eyes at trial, madam?"
-            },
-            {
-                "text": "Come o'er the bourn, Bessy, to me,--"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 23,
+            "stop": 25,
+            "lines": [
+                {
+                    "text": " Look, where he stands and glares!"
+                },
+                {
+                    "text": "Wantest thou eyes at trial, madam?"
+                },
+                {
+                    "text": "Come o'er the bourn, Bessy, to me,--"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 26,
-        "stop": 28,
-        "lines": [
-            {
-                "text": " Her boat hath a leak,"
-            },
-            {
-                "text": "And she must not speak"
-            },
-            {
-                "text": "Why she dares not come over to thee."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 26,
+            "stop": 28,
+            "lines": [
+                {
+                    "text": " Her boat hath a leak,"
+                },
+                {
+                    "text": "And she must not speak"
+                },
+                {
+                    "text": "Why she dares not come over to thee."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 29,
-        "stop": 32,
-        "lines": [
-            {
-                "text": "The foul fiend haunts poor Tom in the voice of a"
-            },
-            {
-                "text": "nightingale. Hopdance cries in Tom's belly for two"
-            },
-            {
-                "text": "white herring. Croak not, black angel; I have no"
-            },
-            {
-                "text": "food for thee."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 29,
+            "stop": 32,
+            "lines": [
+                {
+                    "text": "The foul fiend haunts poor Tom in the voice of a"
+                },
+                {
+                    "text": "nightingale. Hopdance cries in Tom's belly for two"
+                },
+                {
+                    "text": "white herring. Croak not, black angel; I have no"
+                },
+                {
+                    "text": "food for thee."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 3,
-        "scene": 6,
-        "start": 33,
-        "stop": 34,
-        "lines": [
-            {
-                "text": "How do you, sir? Stand you not so amazed:"
-            },
-            {
-                "text": "Will you lie down and rest upon the cushions?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 3,
+            "scene": 6,
+            "start": 33,
+            "stop": 34,
+            "lines": [
+                {
+                    "text": "How do you, sir? Stand you not so amazed:"
+                },
+                {
+                    "text": "Will you lie down and rest upon the cushions?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 35,
-        "stop": 40,
-        "lines": [
-            {
-                "text": "I'll see their trial first. Bring in the evidence."
-            },
-            {
-                "direction": "To EDGAR"
-            },
-            {
-                "text": "Thou robed man of justice, take thy place;"
-            },
-            {
-                "direction": "To the Fool"
-            },
-            {
-                "text": "And thou, his yoke-fellow of equity,"
-            },
-            {
-                "text": "Bench by his side:"
-            },
-            {
-                "direction": "To KENT"
-            },
-            {
-                "text": "you are o' the commission,"
-            },
-            {
-                "text": "Sit you too."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 35,
+            "stop": 40,
+            "lines": [
+                {
+                    "text": "I'll see their trial first. Bring in the evidence."
+                },
+                {
+                    "direction": "To EDGAR"
+                },
+                {
+                    "text": "Thou robed man of justice, take thy place;"
+                },
+                {
+                    "direction": "To the Fool"
+                },
+                {
+                    "text": "And thou, his yoke-fellow of equity,"
+                },
+                {
+                    "text": "Bench by his side:"
+                },
+                {
+                    "direction": "To KENT"
+                },
+                {
+                    "text": "you are o' the commission,"
+                },
+                {
+                    "text": "Sit you too."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 41,
-        "stop": 46,
-        "lines": [
-            {
-                "text": "Let us deal justly."
-            },
-            {
-                "text": "Sleepest or wakest thou, jolly shepherd?"
-            },
-            {
-                "text": "Thy sheep be in the corn;"
-            },
-            {
-                "text": "And for one blast of thy minikin mouth,"
-            },
-            {
-                "text": "Thy sheep shall take no harm."
-            },
-            {
-                "text": "Pur! the cat is gray."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 41,
+            "stop": 46,
+            "lines": [
+                {
+                    "text": "Let us deal justly."
+                },
+                {
+                    "text": "Sleepest or wakest thou, jolly shepherd?"
+                },
+                {
+                    "text": "Thy sheep be in the corn;"
+                },
+                {
+                    "text": "And for one blast of thy minikin mouth,"
+                },
+                {
+                    "text": "Thy sheep shall take no harm."
+                },
+                {
+                    "text": "Pur! the cat is gray."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 47,
-        "stop": 49,
-        "lines": [
-            {
-                "text": "Arraign her first; 'tis Goneril. I here take my"
-            },
-            {
-                "text": "oath before this honourable assembly, she kicked the"
-            },
-            {
-                "text": "poor king her father."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 47,
+            "stop": 49,
+            "lines": [
+                {
+                    "text": "Arraign her first; 'tis Goneril. I here take my"
+                },
+                {
+                    "text": "oath before this honourable assembly, she kicked the"
+                },
+                {
+                    "text": "poor king her father."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 50,
-        "stop": 50,
-        "lines": [
-            {
-                "text": "Come hither, mistress. Is your name Goneril?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 50,
+            "stop": 50,
+            "lines": [
+                {
+                    "text": "Come hither, mistress. Is your name Goneril?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 51,
-        "stop": 51,
-        "lines": [
-            {
-                "text": "She cannot deny it."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 51,
+            "stop": 51,
+            "lines": [
+                {
+                    "text": "She cannot deny it."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 52,
-        "stop": 52,
-        "lines": [
-            {
-                "text": "Cry you mercy, I took you for a joint-stool."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 52,
+            "stop": 52,
+            "lines": [
+                {
+                    "text": "Cry you mercy, I took you for a joint-stool."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 53,
-        "stop": 56,
-        "lines": [
-            {
-                "text": "And here's another, whose warp'd looks proclaim"
-            },
-            {
-                "text": "What store her heart is made on. Stop her there!"
-            },
-            {
-                "text": "Arms, arms, sword, fire! Corruption in the place!"
-            },
-            {
-                "text": "False justicer, why hast thou let her 'scape?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 53,
+            "stop": 56,
+            "lines": [
+                {
+                    "text": "And here's another, whose warp'd looks proclaim"
+                },
+                {
+                    "text": "What store her heart is made on. Stop her there!"
+                },
+                {
+                    "text": "Arms, arms, sword, fire! Corruption in the place!"
+                },
+                {
+                    "text": "False justicer, why hast thou let her 'scape?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 57,
-        "stop": 57,
-        "lines": [
-            {
-                "text": "Bless thy five wits!"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 57,
+            "stop": 57,
+            "lines": [
+                {
+                    "text": "Bless thy five wits!"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 3,
-        "scene": 6,
-        "start": 58,
-        "stop": 59,
-        "lines": [
-            {
-                "text": "O pity! Sir, where is the patience now,"
-            },
-            {
-                "text": "That thou so oft have boasted to retain?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 3,
+            "scene": 6,
+            "start": 58,
+            "stop": 59,
+            "lines": [
+                {
+                    "text": "O pity! Sir, where is the patience now,"
+                },
+                {
+                    "text": "That thou so oft have boasted to retain?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 60,
-        "stop": 61,
-        "lines": [
-            {
-                "text": "[Aside] My tears begin to take his part so much,"
-            },
-            {
-                "text": "They'll mar my counterfeiting."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 60,
+            "stop": 61,
+            "lines": [
+                {
+                    "text": "[Aside] My tears begin to take his part so much,"
+                },
+                {
+                    "text": "They'll mar my counterfeiting."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 62,
-        "stop": 63,
-        "lines": [
-            {
-                "text": "The little dogs and all, Tray, Blanch, and"
-            },
-            {
-                "text": "Sweet-heart, see, they bark at me."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 62,
+            "stop": 63,
+            "lines": [
+                {
+                    "text": "The little dogs and all, Tray, Blanch, and"
+                },
+                {
+                    "text": "Sweet-heart, see, they bark at me."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 64,
-        "stop": 74,
-        "lines": [
-            {
-                "text": "Tom will throw his head at them. Avaunt, you curs!"
-            },
-            {
-                "text": "Be thy mouth or black or white,"
-            },
-            {
-                "text": "Tooth that poisons if it bite;"
-            },
-            {
-                "text": "Mastiff, grey-hound, mongrel grim,"
-            },
-            {
-                "text": "Hound or spaniel, brach or lym,"
-            },
-            {
-                "text": "Or bobtail tike or trundle-tail,"
-            },
-            {
-                "text": "Tom will make them weep and wail:"
-            },
-            {
-                "text": "For, with throwing thus my head,"
-            },
-            {
-                "text": "Dogs leap the hatch, and all are fled."
-            },
-            {
-                "text": "Do de, de, de. Sessa! Come, march to wakes and"
-            },
-            {
-                "text": "fairs and market-towns. Poor Tom, thy horn is dry."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 64,
+            "stop": 74,
+            "lines": [
+                {
+                    "text": "Tom will throw his head at them. Avaunt, you curs!"
+                },
+                {
+                    "text": "Be thy mouth or black or white,"
+                },
+                {
+                    "text": "Tooth that poisons if it bite;"
+                },
+                {
+                    "text": "Mastiff, grey-hound, mongrel grim,"
+                },
+                {
+                    "text": "Hound or spaniel, brach or lym,"
+                },
+                {
+                    "text": "Or bobtail tike or trundle-tail,"
+                },
+                {
+                    "text": "Tom will make them weep and wail:"
+                },
+                {
+                    "text": "For, with throwing thus my head,"
+                },
+                {
+                    "text": "Dogs leap the hatch, and all are fled."
+                },
+                {
+                    "text": "Do de, de, de. Sessa! Come, march to wakes and"
+                },
+                {
+                    "text": "fairs and market-towns. Poor Tom, thy horn is dry."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 75,
-        "stop": 80,
-        "lines": [
-            {
-                "text": "Then let them anatomize Regan; see what breeds"
-            },
-            {
-                "text": "about her heart. Is there any cause in nature that"
-            },
-            {
-                "text": "makes these hard hearts?"
-            },
-            {
-                "direction": "To EDGAR"
-            },
-            {
-                "text": "You, sir, I entertain for one of my hundred; only I"
-            },
-            {
-                "text": "do not like the fashion of your garments: you will"
-            },
-            {
-                "text": "say they are Persian attire: but let them be changed."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 75,
+            "stop": 80,
+            "lines": [
+                {
+                    "text": "Then let them anatomize Regan; see what breeds"
+                },
+                {
+                    "text": "about her heart. Is there any cause in nature that"
+                },
+                {
+                    "text": "makes these hard hearts?"
+                },
+                {
+                    "direction": "To EDGAR"
+                },
+                {
+                    "text": "You, sir, I entertain for one of my hundred; only I"
+                },
+                {
+                    "text": "do not like the fashion of your garments: you will"
+                },
+                {
+                    "text": "say they are Persian attire: but let them be changed."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 3,
-        "scene": 6,
-        "start": 81,
-        "stop": 81,
-        "lines": [
-            {
-                "text": "Now, good my lord, lie here and rest awhile."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 3,
+            "scene": 6,
+            "start": 81,
+            "stop": 81,
+            "lines": [
+                {
+                    "text": "Now, good my lord, lie here and rest awhile."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 3,
-        "scene": 6,
-        "start": 82,
-        "stop": 83,
-        "lines": [
-            {
-                "text": "Make no noise, make no noise; draw the curtains:"
-            },
-            {
-                "text": "so, so, so. We'll go to supper i' he morning. So, so, so."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 3,
+            "scene": 6,
+            "start": 82,
+            "stop": 83,
+            "lines": [
+                {
+                    "text": "Make no noise, make no noise; draw the curtains:"
+                },
+                {
+                    "text": "so, so, so. We'll go to supper i' he morning. So, so, so."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 3,
-        "scene": 6,
-        "start": 84,
-        "stop": 84,
-        "lines": [
-            {
-                "text": "And I'll go to bed at noon."
-            },
-            {
-                "direction": "Re-enter GLOUCESTER"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 3,
+            "scene": 6,
+            "start": 84,
+            "stop": 84,
+            "lines": [
+                {
+                    "text": "And I'll go to bed at noon."
+                },
+                {
+                    "direction": "Re-enter GLOUCESTER"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 6,
-        "start": 85,
-        "stop": 85,
-        "lines": [
-            {
-                "text": "Come hither, friend: where is the king my master?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 6,
+            "start": 85,
+            "stop": 85,
+            "lines": [
+                {
+                    "text": "Come hither, friend: where is the king my master?"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 3,
-        "scene": 6,
-        "start": 86,
-        "stop": 86,
-        "lines": [
-            {
-                "text": "Here, sir; but trouble him not, his wits are gone."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 3,
+            "scene": 6,
+            "start": 86,
+            "stop": 86,
+            "lines": [
+                {
+                    "text": "Here, sir; but trouble him not, his wits are gone."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 6,
-        "start": 87,
-        "stop": 96,
-        "lines": [
-            {
-                "text": "Good friend, I prithee, take him in thy arms;"
-            },
-            {
-                "text": "I have o'erheard a plot of death upon him:"
-            },
-            {
-                "text": "There is a litter ready; lay him in 't,"
-            },
-            {
-                "text": "And drive towards Dover, friend, where thou shalt meet"
-            },
-            {
-                "text": "Both welcome and protection. Take up thy master:"
-            },
-            {
-                "text": "If thou shouldst dally half an hour, his life,"
-            },
-            {
-                "text": "With thine, and all that offer to defend him,"
-            },
-            {
-                "text": "Stand in assured loss: take up, take up;"
-            },
-            {
-                "text": "And follow me, that will to some provision"
-            },
-            {
-                "text": "Give thee quick conduct."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 6,
+            "start": 87,
+            "stop": 96,
+            "lines": [
+                {
+                    "text": "Good friend, I prithee, take him in thy arms;"
+                },
+                {
+                    "text": "I have o'erheard a plot of death upon him:"
+                },
+                {
+                    "text": "There is a litter ready; lay him in 't,"
+                },
+                {
+                    "text": "And drive towards Dover, friend, where thou shalt meet"
+                },
+                {
+                    "text": "Both welcome and protection. Take up thy master:"
+                },
+                {
+                    "text": "If thou shouldst dally half an hour, his life,"
+                },
+                {
+                    "text": "With thine, and all that offer to defend him,"
+                },
+                {
+                    "text": "Stand in assured loss: take up, take up;"
+                },
+                {
+                    "text": "And follow me, that will to some provision"
+                },
+                {
+                    "text": "Give thee quick conduct."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 3,
-        "scene": 6,
-        "start": 97,
-        "stop": 102,
-        "lines": [
-            {
-                "text": "Oppressed nature sleeps:"
-            },
-            {
-                "text": "This rest might yet have balm'd thy broken senses,"
-            },
-            {
-                "text": "Which, if convenience will not allow,"
-            },
-            {
-                "text": "Stand in hard cure."
-            },
-            {
-                "direction": "To the Fool"
-            },
-            {
-                "text": "Come, help to bear thy master;"
-            },
-            {
-                "text": "Thou must not stay behind."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 3,
+            "scene": 6,
+            "start": 97,
+            "stop": 102,
+            "lines": [
+                {
+                    "text": "Oppressed nature sleeps:"
+                },
+                {
+                    "text": "This rest might yet have balm'd thy broken senses,"
+                },
+                {
+                    "text": "Which, if convenience will not allow,"
+                },
+                {
+                    "text": "Stand in hard cure."
+                },
+                {
+                    "direction": "To the Fool"
+                },
+                {
+                    "text": "Come, help to bear thy master;"
+                },
+                {
+                    "text": "Thou must not stay behind."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 3,
-        "scene": 6,
-        "start": 103,
-        "stop": 103,
-        "lines": [
-            {
-                "text": "Come, come, away."
-            },
-            {
-                "direction": "Exeunt all but EDGAR"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 3,
+            "scene": 6,
+            "start": 103,
+            "stop": 103,
+            "lines": [
+                {
+                    "text": "Come, come, away."
+                },
+                {
+                    "direction": "Exeunt all but EDGAR"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 3,
-        "scene": 6,
-        "start": 104,
-        "stop": 117,
-        "lines": [
-            {
-                "text": "When we our betters see bearing our woes,"
-            },
-            {
-                "text": "We scarcely think our miseries our foes."
-            },
-            {
-                "text": "Who alone suffers suffers most i' the mind,"
-            },
-            {
-                "text": "Leaving free things and happy shows behind:"
-            },
-            {
-                "text": "But then the mind much sufferance doth o'er skip,"
-            },
-            {
-                "text": "When grief hath mates, and bearing fellowship."
-            },
-            {
-                "text": "How light and portable my pain seems now,"
-            },
-            {
-                "text": "When that which makes me bend makes the king bow,"
-            },
-            {
-                "text": "He childed as I father'd! Tom, away!"
-            },
-            {
-                "text": "Mark the high noises; and thyself bewray,"
-            },
-            {
-                "text": "When false opinion, whose wrong thought defiles thee,"
-            },
-            {
-                "text": "In thy just proof, repeals and reconciles thee."
-            },
-            {
-                "text": "What will hap more to-night, safe 'scape the king!"
-            },
-            {
-                "text": "Lurk, lurk."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 3,
+            "scene": 6,
+            "start": 104,
+            "stop": 117,
+            "lines": [
+                {
+                    "text": "When we our betters see bearing our woes,"
+                },
+                {
+                    "text": "We scarcely think our miseries our foes."
+                },
+                {
+                    "text": "Who alone suffers suffers most i' the mind,"
+                },
+                {
+                    "text": "Leaving free things and happy shows behind:"
+                },
+                {
+                    "text": "But then the mind much sufferance doth o'er skip,"
+                },
+                {
+                    "text": "When grief hath mates, and bearing fellowship."
+                },
+                {
+                    "text": "How light and portable my pain seems now,"
+                },
+                {
+                    "text": "When that which makes me bend makes the king bow,"
+                },
+                {
+                    "text": "He childed as I father'd! Tom, away!"
+                },
+                {
+                    "text": "Mark the high noises; and thyself bewray,"
+                },
+                {
+                    "text": "When false opinion, whose wrong thought defiles thee,"
+                },
+                {
+                    "text": "In thy just proof, repeals and reconciles thee."
+                },
+                {
+                    "text": "What will hap more to-night, safe 'scape the king!"
+                },
+                {
+                    "text": "Lurk, lurk."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     }
 ]

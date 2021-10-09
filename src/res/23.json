@@ -1,733 +1,821 @@
 [
     {
-        "act": 4,
-        "setting": "SCENE VII. A tent in the French camp. LEAR on a bed asleep,",
-        "staging": "soft music playing; Gentleman, and others attending.\nEnter CORDELIA, KENT, and Doctor"
+        "Heading": {
+            "act": 4,
+            "setting": "SCENE VII. A tent in the French camp. LEAR on a bed asleep,",
+            "staging": "soft music playing; Gentleman, and others attending.\nEnter CORDELIA, KENT, and Doctor"
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 2,
-        "stop": 4,
-        "lines": [
-            {
-                "text": "O thou good Kent, how shall I live and work,"
-            },
-            {
-                "text": "To match thy goodness? My life will be too short,"
-            },
-            {
-                "text": "And every measure fail me."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 2,
+            "stop": 4,
+            "lines": [
+                {
+                    "text": "O thou good Kent, how shall I live and work,"
+                },
+                {
+                    "text": "To match thy goodness? My life will be too short,"
+                },
+                {
+                    "text": "And every measure fail me."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 5,
-        "stop": 7,
-        "lines": [
-            {
-                "text": "To be acknowledged, madam, is o'erpaid."
-            },
-            {
-                "text": "All my reports go with the modest truth;"
-            },
-            {
-                "text": "Nor more nor clipp'd, but so."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 5,
+            "stop": 7,
+            "lines": [
+                {
+                    "text": "To be acknowledged, madam, is o'erpaid."
+                },
+                {
+                    "text": "All my reports go with the modest truth;"
+                },
+                {
+                    "text": "Nor more nor clipp'd, but so."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 8,
-        "stop": 10,
-        "lines": [
-            {
-                "text": "Be better suited:"
-            },
-            {
-                "text": "These weeds are memories of those worser hours:"
-            },
-            {
-                "text": "I prithee, put them off."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 8,
+            "stop": 10,
+            "lines": [
+                {
+                    "text": "Be better suited:"
+                },
+                {
+                    "text": "These weeds are memories of those worser hours:"
+                },
+                {
+                    "text": "I prithee, put them off."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 11,
-        "stop": 14,
-        "lines": [
-            {
-                "text": "Pardon me, dear madam;"
-            },
-            {
-                "text": "Yet to be known shortens my made intent:"
-            },
-            {
-                "text": "My boon I make it, that you know me not"
-            },
-            {
-                "text": "Till time and I think meet."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 11,
+            "stop": 14,
+            "lines": [
+                {
+                    "text": "Pardon me, dear madam;"
+                },
+                {
+                    "text": "Yet to be known shortens my made intent:"
+                },
+                {
+                    "text": "My boon I make it, that you know me not"
+                },
+                {
+                    "text": "Till time and I think meet."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 15,
-        "stop": 16,
-        "lines": [
-            {
-                "text": "Then be't so, my good lord."
-            },
-            {
-                "direction": "To the Doctor"
-            },
-            {
-                "text": "How does the king?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 15,
+            "stop": 16,
+            "lines": [
+                {
+                    "text": "Then be't so, my good lord."
+                },
+                {
+                    "direction": "To the Doctor"
+                },
+                {
+                    "text": "How does the king?"
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 17,
-        "stop": 17,
-        "lines": [
-            {
-                "text": "Madam, sleeps still."
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 17,
+            "stop": 17,
+            "lines": [
+                {
+                    "text": "Madam, sleeps still."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 18,
-        "stop": 21,
-        "lines": [
-            {
-                "text": "O you kind gods,"
-            },
-            {
-                "text": "Cure this great breach in his abused nature!"
-            },
-            {
-                "text": "The untuned and jarring senses, O, wind up"
-            },
-            {
-                "text": "Of this child-changed father!"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 18,
+            "stop": 21,
+            "lines": [
+                {
+                    "text": "O you kind gods,"
+                },
+                {
+                    "text": "Cure this great breach in his abused nature!"
+                },
+                {
+                    "text": "The untuned and jarring senses, O, wind up"
+                },
+                {
+                    "text": "Of this child-changed father!"
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 22,
-        "stop": 23,
-        "lines": [
-            {
-                "text": "So please your majesty"
-            },
-            {
-                "text": "That we may wake the king: he hath slept long."
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 22,
+            "stop": 23,
+            "lines": [
+                {
+                    "text": "So please your majesty"
+                },
+                {
+                    "text": "That we may wake the king: he hath slept long."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 24,
-        "stop": 25,
-        "lines": [
-            {
-                "text": "Be govern'd by your knowledge, and proceed"
-            },
-            {
-                "text": "I' the sway of your own will. Is he array'd?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 24,
+            "stop": 25,
+            "lines": [
+                {
+                    "text": "Be govern'd by your knowledge, and proceed"
+                },
+                {
+                    "text": "I' the sway of your own will. Is he array'd?"
+                }
+            ]
+        }
     },
     {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 7,
-        "start": 26,
-        "stop": 27,
-        "lines": [
-            {
-                "text": "Ay, madam; in the heaviness of his sleep"
-            },
-            {
-                "text": "We put fresh garments on him."
-            }
-        ]
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 7,
+            "start": 26,
+            "stop": 27,
+            "lines": [
+                {
+                    "text": "Ay, madam; in the heaviness of his sleep"
+                },
+                {
+                    "text": "We put fresh garments on him."
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 28,
-        "stop": 29,
-        "lines": [
-            {
-                "text": "Be by, good madam, when we do awake him;"
-            },
-            {
-                "text": "I doubt not of his temperance."
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 28,
+            "stop": 29,
+            "lines": [
+                {
+                    "text": "Be by, good madam, when we do awake him;"
+                },
+                {
+                    "text": "I doubt not of his temperance."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 30,
-        "stop": 30,
-        "lines": [
-            {
-                "text": "Very well."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 30,
+            "stop": 30,
+            "lines": [
+                {
+                    "text": "Very well."
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 31,
-        "stop": 31,
-        "lines": [
-            {
-                "text": "Please you, draw near. Louder the music there!"
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 31,
+            "stop": 31,
+            "lines": [
+                {
+                    "text": "Please you, draw near. Louder the music there!"
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 32,
-        "stop": 35,
-        "lines": [
-            {
-                "text": "O my dear father! Restoration hang"
-            },
-            {
-                "text": "Thy medicine on my lips; and let this kiss"
-            },
-            {
-                "text": "Repair those violent harms that my two sisters"
-            },
-            {
-                "text": "Have in thy reverence made!"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 32,
+            "stop": 35,
+            "lines": [
+                {
+                    "text": "O my dear father! Restoration hang"
+                },
+                {
+                    "text": "Thy medicine on my lips; and let this kiss"
+                },
+                {
+                    "text": "Repair those violent harms that my two sisters"
+                },
+                {
+                    "text": "Have in thy reverence made!"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 36,
-        "stop": 36,
-        "lines": [
-            {
-                "text": "Kind and dear princess!"
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 36,
+            "stop": 36,
+            "lines": [
+                {
+                    "text": "Kind and dear princess!"
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 37,
-        "stop": 49,
-        "lines": [
-            {
-                "text": "Had you not been their father, these white flakes"
-            },
-            {
-                "text": "Had challenged pity of them. Was this a face"
-            },
-            {
-                "text": "To be opposed against the warring winds?"
-            },
-            {
-                "text": "To stand against the deep dread-bolted thunder?"
-            },
-            {
-                "text": "In the most terrible and nimble stroke"
-            },
-            {
-                "text": "Of quick, cross lightning? to watch--poor perdu!--"
-            },
-            {
-                "text": "With this thin helm? Mine enemy's dog,"
-            },
-            {
-                "text": "Though he had bit me, should have stood that night"
-            },
-            {
-                "text": "Against my fire; and wast thou fain, poor father,"
-            },
-            {
-                "text": "To hovel thee with swine, and rogues forlorn,"
-            },
-            {
-                "text": "In short and musty straw? Alack, alack!"
-            },
-            {
-                "text": "'Tis wonder that thy life and wits at once"
-            },
-            {
-                "text": "Had not concluded all. He wakes; speak to him."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 37,
+            "stop": 49,
+            "lines": [
+                {
+                    "text": "Had you not been their father, these white flakes"
+                },
+                {
+                    "text": "Had challenged pity of them. Was this a face"
+                },
+                {
+                    "text": "To be opposed against the warring winds?"
+                },
+                {
+                    "text": "To stand against the deep dread-bolted thunder?"
+                },
+                {
+                    "text": "In the most terrible and nimble stroke"
+                },
+                {
+                    "text": "Of quick, cross lightning? to watch--poor perdu!--"
+                },
+                {
+                    "text": "With this thin helm? Mine enemy's dog,"
+                },
+                {
+                    "text": "Though he had bit me, should have stood that night"
+                },
+                {
+                    "text": "Against my fire; and wast thou fain, poor father,"
+                },
+                {
+                    "text": "To hovel thee with swine, and rogues forlorn,"
+                },
+                {
+                    "text": "In short and musty straw? Alack, alack!"
+                },
+                {
+                    "text": "'Tis wonder that thy life and wits at once"
+                },
+                {
+                    "text": "Had not concluded all. He wakes; speak to him."
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 50,
-        "stop": 50,
-        "lines": [
-            {
-                "text": "Madam, do you; 'tis fittest."
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 50,
+            "stop": 50,
+            "lines": [
+                {
+                    "text": "Madam, do you; 'tis fittest."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 51,
-        "stop": 51,
-        "lines": [
-            {
-                "text": "How does my royal lord? How fares your majesty?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 51,
+            "stop": 51,
+            "lines": [
+                {
+                    "text": "How does my royal lord? How fares your majesty?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 52,
-        "stop": 55,
-        "lines": [
-            {
-                "text": "You do me wrong to take me out o' the grave:"
-            },
-            {
-                "text": "Thou art a soul in bliss; but I am bound"
-            },
-            {
-                "text": "Upon a wheel of fire, that mine own tears"
-            },
-            {
-                "text": "Do scald like moulten lead."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 52,
+            "stop": 55,
+            "lines": [
+                {
+                    "text": "You do me wrong to take me out o' the grave:"
+                },
+                {
+                    "text": "Thou art a soul in bliss; but I am bound"
+                },
+                {
+                    "text": "Upon a wheel of fire, that mine own tears"
+                },
+                {
+                    "text": "Do scald like moulten lead."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 56,
-        "stop": 56,
-        "lines": [
-            {
-                "text": "Sir, do you know me?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 56,
+            "stop": 56,
+            "lines": [
+                {
+                    "text": "Sir, do you know me?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 57,
-        "stop": 57,
-        "lines": [
-            {
-                "text": "You are a spirit, I know: when did you die?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 57,
+            "stop": 57,
+            "lines": [
+                {
+                    "text": "You are a spirit, I know: when did you die?"
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 58,
-        "stop": 58,
-        "lines": [
-            {
-                "text": "Still, still, far wide!"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 58,
+            "stop": 58,
+            "lines": [
+                {
+                    "text": "Still, still, far wide!"
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 59,
-        "stop": 59,
-        "lines": [
-            {
-                "text": "He's scarce awake: let him alone awhile."
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 59,
+            "stop": 59,
+            "lines": [
+                {
+                    "text": "He's scarce awake: let him alone awhile."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 60,
-        "stop": 65,
-        "lines": [
-            {
-                "text": "Where have I been? Where am I? Fair daylight?"
-            },
-            {
-                "text": "I am mightily abused. I should e'en die with pity,"
-            },
-            {
-                "text": "To see another thus. I know not what to say."
-            },
-            {
-                "text": "I will not swear these are my hands: let's see;"
-            },
-            {
-                "text": "I feel this pin prick. Would I were assured"
-            },
-            {
-                "text": "Of my condition!"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 60,
+            "stop": 65,
+            "lines": [
+                {
+                    "text": "Where have I been? Where am I? Fair daylight?"
+                },
+                {
+                    "text": "I am mightily abused. I should e'en die with pity,"
+                },
+                {
+                    "text": "To see another thus. I know not what to say."
+                },
+                {
+                    "text": "I will not swear these are my hands: let's see;"
+                },
+                {
+                    "text": "I feel this pin prick. Would I were assured"
+                },
+                {
+                    "text": "Of my condition!"
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 66,
-        "stop": 68,
-        "lines": [
-            {
-                "text": " O, look upon me, sir,"
-            },
-            {
-                "text": "And hold your hands in benediction o'er me:"
-            },
-            {
-                "text": "No, sir, you must not kneel."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 66,
+            "stop": 68,
+            "lines": [
+                {
+                    "text": " O, look upon me, sir,"
+                },
+                {
+                    "text": "And hold your hands in benediction o'er me:"
+                },
+                {
+                    "text": "No, sir, you must not kneel."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 69,
-        "stop": 80,
-        "lines": [
-            {
-                "text": "Pray, do not mock me:"
-            },
-            {
-                "text": "I am a very foolish fond old man,"
-            },
-            {
-                "text": "Fourscore and upward, not an hour more nor less;"
-            },
-            {
-                "text": "And, to deal plainly,"
-            },
-            {
-                "text": "I fear I am not in my perfect mind."
-            },
-            {
-                "text": "Methinks I should know you, and know this man;"
-            },
-            {
-                "text": "Yet I am doubtful for I am mainly ignorant"
-            },
-            {
-                "text": "What place this is; and all the skill I have"
-            },
-            {
-                "text": "Remembers not these garments; nor I know not"
-            },
-            {
-                "text": "Where I did lodge last night. Do not laugh at me;"
-            },
-            {
-                "text": "For, as I am a man, I think this lady"
-            },
-            {
-                "text": "To be my child Cordelia."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 69,
+            "stop": 80,
+            "lines": [
+                {
+                    "text": "Pray, do not mock me:"
+                },
+                {
+                    "text": "I am a very foolish fond old man,"
+                },
+                {
+                    "text": "Fourscore and upward, not an hour more nor less;"
+                },
+                {
+                    "text": "And, to deal plainly,"
+                },
+                {
+                    "text": "I fear I am not in my perfect mind."
+                },
+                {
+                    "text": "Methinks I should know you, and know this man;"
+                },
+                {
+                    "text": "Yet I am doubtful for I am mainly ignorant"
+                },
+                {
+                    "text": "What place this is; and all the skill I have"
+                },
+                {
+                    "text": "Remembers not these garments; nor I know not"
+                },
+                {
+                    "text": "Where I did lodge last night. Do not laugh at me;"
+                },
+                {
+                    "text": "For, as I am a man, I think this lady"
+                },
+                {
+                    "text": "To be my child Cordelia."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 81,
-        "stop": 81,
-        "lines": [
-            {
-                "text": "And so I am, I am."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 81,
+            "stop": 81,
+            "lines": [
+                {
+                    "text": "And so I am, I am."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 82,
-        "stop": 86,
-        "lines": [
-            {
-                "text": "Be your tears wet? yes, 'faith. I pray, weep not:"
-            },
-            {
-                "text": "If you have poison for me, I will drink it."
-            },
-            {
-                "text": "I know you do not love me; for your sisters"
-            },
-            {
-                "text": "Have, as I do remember, done me wrong:"
-            },
-            {
-                "text": "You have some cause, they have not."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 82,
+            "stop": 86,
+            "lines": [
+                {
+                    "text": "Be your tears wet? yes, 'faith. I pray, weep not:"
+                },
+                {
+                    "text": "If you have poison for me, I will drink it."
+                },
+                {
+                    "text": "I know you do not love me; for your sisters"
+                },
+                {
+                    "text": "Have, as I do remember, done me wrong:"
+                },
+                {
+                    "text": "You have some cause, they have not."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 87,
-        "stop": 87,
-        "lines": [
-            {
-                "text": "No cause, no cause."
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 87,
+            "stop": 87,
+            "lines": [
+                {
+                    "text": "No cause, no cause."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 88,
-        "stop": 88,
-        "lines": [
-            {
-                "text": "Am I in France?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 88,
+            "stop": 88,
+            "lines": [
+                {
+                    "text": "Am I in France?"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 89,
-        "stop": 89,
-        "lines": [
-            {
-                "text": " In your own kingdom, sir."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 89,
+            "stop": 89,
+            "lines": [
+                {
+                    "text": " In your own kingdom, sir."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 90,
-        "stop": 90,
-        "lines": [
-            {
-                "text": "Do not abuse me."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 90,
+            "stop": 90,
+            "lines": [
+                {
+                    "text": "Do not abuse me."
+                }
+            ]
+        }
     },
     {
-        "character": "Doctor",
-        "act": 4,
-        "scene": 7,
-        "start": 91,
-        "stop": 95,
-        "lines": [
-            {
-                "text": "Be comforted, good madam: the great rage,"
-            },
-            {
-                "text": "You see, is kill'd in him: and yet it is danger"
-            },
-            {
-                "text": "To make him even o'er the time he has lost."
-            },
-            {
-                "text": "Desire him to go in; trouble him no more"
-            },
-            {
-                "text": "Till further settling."
-            }
-        ]
+        "Dialogue": {
+            "character": "Doctor",
+            "act": 4,
+            "scene": 7,
+            "start": 91,
+            "stop": 95,
+            "lines": [
+                {
+                    "text": "Be comforted, good madam: the great rage,"
+                },
+                {
+                    "text": "You see, is kill'd in him: and yet it is danger"
+                },
+                {
+                    "text": "To make him even o'er the time he has lost."
+                },
+                {
+                    "text": "Desire him to go in; trouble him no more"
+                },
+                {
+                    "text": "Till further settling."
+                }
+            ]
+        }
     },
     {
-        "character": "CORDELIA",
-        "act": 4,
-        "scene": 7,
-        "start": 96,
-        "stop": 96,
-        "lines": [
-            {
-                "text": "Will't please your highness walk?"
-            }
-        ]
+        "Dialogue": {
+            "character": "CORDELIA",
+            "act": 4,
+            "scene": 7,
+            "start": 96,
+            "stop": 96,
+            "lines": [
+                {
+                    "text": "Will't please your highness walk?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 7,
-        "start": 97,
-        "stop": 98,
-        "lines": [
-            {
-                "text": "You must bear with me:"
-            },
-            {
-                "text": "Pray you now, forget and forgive: I am old and foolish."
-            },
-            {
-                "direction": "Exeunt all but KENT and Gentleman"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 7,
+            "start": 97,
+            "stop": 98,
+            "lines": [
+                {
+                    "text": "You must bear with me:"
+                },
+                {
+                    "text": "Pray you now, forget and forgive: I am old and foolish."
+                },
+                {
+                    "direction": "Exeunt all but KENT and Gentleman"
+                }
+            ]
+        }
     },
     {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 7,
-        "start": 99,
-        "stop": 99,
-        "lines": [
-            {
-                "text": "Holds it true, sir, that the Duke of Cornwall was so slain?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 7,
+            "start": 99,
+            "stop": 99,
+            "lines": [
+                {
+                    "text": "Holds it true, sir, that the Duke of Cornwall was so slain?"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 100,
-        "stop": 100,
-        "lines": [
-            {
-                "text": "Most certain, sir."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 100,
+            "stop": 100,
+            "lines": [
+                {
+                    "text": "Most certain, sir."
+                }
+            ]
+        }
     },
     {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 7,
-        "start": 101,
-        "stop": 101,
-        "lines": [
-            {
-                "text": "Who is conductor of his people?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 7,
+            "start": 101,
+            "stop": 101,
+            "lines": [
+                {
+                    "text": "Who is conductor of his people?"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 102,
-        "stop": 102,
-        "lines": [
-            {
-                "text": "As 'tis said, the bastard son of Gloucester."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 102,
+            "stop": 102,
+            "lines": [
+                {
+                    "text": "As 'tis said, the bastard son of Gloucester."
+                }
+            ]
+        }
     },
     {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 7,
-        "start": 103,
-        "stop": 104,
-        "lines": [
-            {
-                "text": "They say Edgar, his banished son, is with the Earl"
-            },
-            {
-                "text": "of Kent in Germany."
-            }
-        ]
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 7,
+            "start": 103,
+            "stop": 104,
+            "lines": [
+                {
+                    "text": "They say Edgar, his banished son, is with the Earl"
+                },
+                {
+                    "text": "of Kent in Germany."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 105,
-        "stop": 106,
-        "lines": [
-            {
-                "text": "Report is changeable. 'Tis time to look about; the"
-            },
-            {
-                "text": "powers of the kingdom approach apace."
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 105,
+            "stop": 106,
+            "lines": [
+                {
+                    "text": "Report is changeable. 'Tis time to look about; the"
+                },
+                {
+                    "text": "powers of the kingdom approach apace."
+                }
+            ]
+        }
     },
     {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 7,
-        "start": 107,
-        "stop": 108,
-        "lines": [
-            {
-                "text": "The arbitrement is like to be bloody. Fare you"
-            },
-            {
-                "text": "well, sir."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 7,
+            "start": 107,
+            "stop": 108,
+            "lines": [
+                {
+                    "text": "The arbitrement is like to be bloody. Fare you"
+                },
+                {
+                    "text": "well, sir."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 4,
-        "scene": 7,
-        "start": 109,
-        "stop": 110,
-        "lines": [
-            {
-                "text": "My point and period will be throughly wrought,"
-            },
-            {
-                "text": "Or well or ill, as this day's battle's fought."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 4,
+            "scene": 7,
+            "start": 109,
+            "stop": 110,
+            "lines": [
+                {
+                    "text": "My point and period will be throughly wrought,"
+                },
+                {
+                    "text": "Or well or ill, as this day's battle's fought."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     }
 ]

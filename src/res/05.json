@@ -1,421 +1,481 @@
 [
     {
-        "act": 1,
-        "setting": "SCENE V. Court before the same.",
-        "staging": "Enter KING LEAR, KENT, and Fool"
+        "Heading": {
+            "act": 1,
+            "setting": "SCENE V. Court before the same.",
+            "staging": "Enter KING LEAR, KENT, and Fool"
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 1,
-        "stop": 4,
-        "lines": [
-            {
-                "text": "Go you before to Gloucester with these letters."
-            },
-            {
-                "text": "Acquaint my daughter no further with any thing you"
-            },
-            {
-                "text": "know than comes from her demand out of the letter."
-            },
-            {
-                "text": "If your diligence be not speedy, I shall be there afore you."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 1,
+            "stop": 4,
+            "lines": [
+                {
+                    "text": "Go you before to Gloucester with these letters."
+                },
+                {
+                    "text": "Acquaint my daughter no further with any thing you"
+                },
+                {
+                    "text": "know than comes from her demand out of the letter."
+                },
+                {
+                    "text": "If your diligence be not speedy, I shall be there afore you."
+                }
+            ]
+        }
     },
     {
-        "character": "KENT",
-        "act": 1,
-        "scene": 5,
-        "start": 5,
-        "stop": 6,
-        "lines": [
-            {
-                "text": "I will not sleep, my lord, till I have delivered"
-            },
-            {
-                "text": "your letter."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "KENT",
+            "act": 1,
+            "scene": 5,
+            "start": 5,
+            "stop": 6,
+            "lines": [
+                {
+                    "text": "I will not sleep, my lord, till I have delivered"
+                },
+                {
+                    "text": "your letter."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 7,
-        "stop": 8,
-        "lines": [
-            {
-                "text": "If a man's brains were in's heels, were't not in"
-            },
-            {
-                "text": "danger of kibes?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 7,
+            "stop": 8,
+            "lines": [
+                {
+                    "text": "If a man's brains were in's heels, were't not in"
+                },
+                {
+                    "text": "danger of kibes?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 9,
-        "stop": 9,
-        "lines": [
-            {
-                "text": "Ay, boy."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 9,
+            "stop": 9,
+            "lines": [
+                {
+                    "text": "Ay, boy."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 10,
-        "stop": 11,
-        "lines": [
-            {
-                "text": "Then, I prithee, be merry; thy wit shall ne'er go"
-            },
-            {
-                "text": "slip-shod."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 10,
+            "stop": 11,
+            "lines": [
+                {
+                    "text": "Then, I prithee, be merry; thy wit shall ne'er go"
+                },
+                {
+                    "text": "slip-shod."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 12,
-        "stop": 12,
-        "lines": [
-            {
-                "text": "Ha, ha, ha!"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 12,
+            "stop": 12,
+            "lines": [
+                {
+                    "text": "Ha, ha, ha!"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 13,
-        "stop": 15,
-        "lines": [
-            {
-                "text": "Shalt see thy other daughter will use thee kindly;"
-            },
-            {
-                "text": "for though she's as like this as a crab's like an"
-            },
-            {
-                "text": "apple, yet I can tell what I can tell."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 13,
+            "stop": 15,
+            "lines": [
+                {
+                    "text": "Shalt see thy other daughter will use thee kindly;"
+                },
+                {
+                    "text": "for though she's as like this as a crab's like an"
+                },
+                {
+                    "text": "apple, yet I can tell what I can tell."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 16,
-        "stop": 16,
-        "lines": [
-            {
-                "text": "Why, what canst thou tell, my boy?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 16,
+            "stop": 16,
+            "lines": [
+                {
+                    "text": "Why, what canst thou tell, my boy?"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 17,
-        "stop": 19,
-        "lines": [
-            {
-                "text": "She will taste as like this as a crab does to a"
-            },
-            {
-                "text": "crab. Thou canst tell why one's nose stands i'"
-            },
-            {
-                "text": "the middle on's face?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 17,
+            "stop": 19,
+            "lines": [
+                {
+                    "text": "She will taste as like this as a crab does to a"
+                },
+                {
+                    "text": "crab. Thou canst tell why one's nose stands i'"
+                },
+                {
+                    "text": "the middle on's face?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 20,
-        "stop": 20,
-        "lines": [
-            {
-                "text": "No."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 20,
+            "stop": 20,
+            "lines": [
+                {
+                    "text": "No."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 21,
-        "stop": 22,
-        "lines": [
-            {
-                "text": "Why, to keep one's eyes of either side's nose; that"
-            },
-            {
-                "text": "what a man cannot smell out, he may spy into."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 21,
+            "stop": 22,
+            "lines": [
+                {
+                    "text": "Why, to keep one's eyes of either side's nose; that"
+                },
+                {
+                    "text": "what a man cannot smell out, he may spy into."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 23,
-        "stop": 23,
-        "lines": [
-            {
-                "text": "I did her wrong--"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 23,
+            "stop": 23,
+            "lines": [
+                {
+                    "text": "I did her wrong--"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 24,
-        "stop": 24,
-        "lines": [
-            {
-                "text": "Canst tell how an oyster makes his shell?"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 24,
+            "stop": 24,
+            "lines": [
+                {
+                    "text": "Canst tell how an oyster makes his shell?"
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 25,
-        "stop": 25,
-        "lines": [
-            {
-                "text": "No."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 25,
+            "stop": 25,
+            "lines": [
+                {
+                    "text": "No."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 26,
-        "stop": 26,
-        "lines": [
-            {
-                "text": "Nor I neither; but I can tell why a snail has a house."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 26,
+            "stop": 26,
+            "lines": [
+                {
+                    "text": "Nor I neither; but I can tell why a snail has a house."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 27,
-        "stop": 27,
-        "lines": [
-            {
-                "text": "Why?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 27,
+            "stop": 27,
+            "lines": [
+                {
+                    "text": "Why?"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 28,
-        "stop": 29,
-        "lines": [
-            {
-                "text": "Why, to put his head in; not to give it away to his"
-            },
-            {
-                "text": "daughters, and leave his horns without a case."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 28,
+            "stop": 29,
+            "lines": [
+                {
+                    "text": "Why, to put his head in; not to give it away to his"
+                },
+                {
+                    "text": "daughters, and leave his horns without a case."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 30,
-        "stop": 31,
-        "lines": [
-            {
-                "text": "I will forget my nature. So kind a father! Be my"
-            },
-            {
-                "text": "horses ready?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 30,
+            "stop": 31,
+            "lines": [
+                {
+                    "text": "I will forget my nature. So kind a father! Be my"
+                },
+                {
+                    "text": "horses ready?"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 32,
-        "stop": 33,
-        "lines": [
-            {
-                "text": "Thy asses are gone about 'em. The reason why the"
-            },
-            {
-                "text": "seven stars are no more than seven is a pretty reason."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 32,
+            "stop": 33,
+            "lines": [
+                {
+                    "text": "Thy asses are gone about 'em. The reason why the"
+                },
+                {
+                    "text": "seven stars are no more than seven is a pretty reason."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 34,
-        "stop": 34,
-        "lines": [
-            {
-                "text": "Because they are not eight?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 34,
+            "stop": 34,
+            "lines": [
+                {
+                    "text": "Because they are not eight?"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 35,
-        "stop": 35,
-        "lines": [
-            {
-                "text": "Yes, indeed: thou wouldst make a good fool."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 35,
+            "stop": 35,
+            "lines": [
+                {
+                    "text": "Yes, indeed: thou wouldst make a good fool."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 36,
-        "stop": 36,
-        "lines": [
-            {
-                "text": "To take 't again perforce! Monster ingratitude!"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 36,
+            "stop": 36,
+            "lines": [
+                {
+                    "text": "To take 't again perforce! Monster ingratitude!"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 37,
-        "stop": 38,
-        "lines": [
-            {
-                "text": "If thou wert my fool, nuncle, I'ld have thee beaten"
-            },
-            {
-                "text": "for being old before thy time."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 37,
+            "stop": 38,
+            "lines": [
+                {
+                    "text": "If thou wert my fool, nuncle, I'ld have thee beaten"
+                },
+                {
+                    "text": "for being old before thy time."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 39,
-        "stop": 39,
-        "lines": [
-            {
-                "text": "How's that?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 39,
+            "stop": 39,
+            "lines": [
+                {
+                    "text": "How's that?"
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 40,
-        "stop": 41,
-        "lines": [
-            {
-                "text": "Thou shouldst not have been old till thou hadst"
-            },
-            {
-                "text": "been wise."
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 40,
+            "stop": 41,
+            "lines": [
+                {
+                    "text": "Thou shouldst not have been old till thou hadst"
+                },
+                {
+                    "text": "been wise."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 42,
-        "stop": 44,
-        "lines": [
-            {
-                "text": "O, let me not be mad, not mad, sweet heaven"
-            },
-            {
-                "text": "Keep me in temper: I would not be mad!"
-            },
-            {
-                "direction": "Enter Gentleman"
-            },
-            {
-                "text": "How now! are the horses ready?"
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 42,
+            "stop": 44,
+            "lines": [
+                {
+                    "text": "O, let me not be mad, not mad, sweet heaven"
+                },
+                {
+                    "text": "Keep me in temper: I would not be mad!"
+                },
+                {
+                    "direction": "Enter Gentleman"
+                },
+                {
+                    "text": "How now! are the horses ready?"
+                }
+            ]
+        }
     },
     {
-        "character": "Gentleman",
-        "act": 1,
-        "scene": 5,
-        "start": 45,
-        "stop": 45,
-        "lines": [
-            {
-                "text": "Ready, my lord."
-            }
-        ]
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 1,
+            "scene": 5,
+            "start": 45,
+            "stop": 45,
+            "lines": [
+                {
+                    "text": "Ready, my lord."
+                }
+            ]
+        }
     },
     {
-        "character": "KING LEAR",
-        "act": 1,
-        "scene": 5,
-        "start": 46,
-        "stop": 46,
-        "lines": [
-            {
-                "text": "Come, boy."
-            }
-        ]
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 1,
+            "scene": 5,
+            "start": 46,
+            "stop": 46,
+            "lines": [
+                {
+                    "text": "Come, boy."
+                }
+            ]
+        }
     },
     {
-        "character": "Fool",
-        "act": 1,
-        "scene": 5,
-        "start": 47,
-        "stop": 48,
-        "lines": [
-            {
-                "text": "She that's a maid now, and laughs at my departure,"
-            },
-            {
-                "text": "Shall not be a maid long, unless things be cut shorter."
-            },
-            {
-                "direction": "Exeunt"
-            }
-        ]
+        "Dialogue": {
+            "character": "Fool",
+            "act": 1,
+            "scene": 5,
+            "start": 47,
+            "stop": 48,
+            "lines": [
+                {
+                    "text": "She that's a maid now, and laughs at my departure,"
+                },
+                {
+                    "text": "Shall not be a maid long, unless things be cut shorter."
+                },
+                {
+                    "direction": "Exeunt"
+                }
+            ]
+        }
     }
 ]

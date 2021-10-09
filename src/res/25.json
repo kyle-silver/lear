@@ -1,109 +1,123 @@
 [
     {
-        "act": 5,
-        "setting": "SCENE II. A field between the two camps.",
-        "staging": "Alarum within. Enter, with drum and colours, KING LEAR, CORDELIA, and Soldiers, over the stage; and exeunt. Enter EDGAR and GLOUCESTER"
+        "Heading": {
+            "act": 5,
+            "setting": "SCENE II. A field between the two camps.",
+            "staging": "Alarum within. Enter, with drum and colours, KING LEAR, CORDELIA, and Soldiers, over the stage; and exeunt. Enter EDGAR and GLOUCESTER"
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 5,
-        "scene": 2,
-        "start": 1,
-        "stop": 4,
-        "lines": [
-            {
-                "text": "Here, father, take the shadow of this tree"
-            },
-            {
-                "text": "For your good host; pray that the right may thrive:"
-            },
-            {
-                "text": "If ever I return to you again,"
-            },
-            {
-                "text": "I'll bring you comfort."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 2,
+            "start": 1,
+            "stop": 4,
+            "lines": [
+                {
+                    "text": "Here, father, take the shadow of this tree"
+                },
+                {
+                    "text": "For your good host; pray that the right may thrive:"
+                },
+                {
+                    "text": "If ever I return to you again,"
+                },
+                {
+                    "text": "I'll bring you comfort."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 5,
-        "scene": 2,
-        "start": 5,
-        "stop": 5,
-        "lines": [
-            {
-                "text": "Grace go with you, sir!"
-            },
-            {
-                "direction": "Exit EDGAR"
-            },
-            {
-                "direction": "Alarum and retreat within. Re-enter EDGAR"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 5,
+            "scene": 2,
+            "start": 5,
+            "stop": 5,
+            "lines": [
+                {
+                    "text": "Grace go with you, sir!"
+                },
+                {
+                    "direction": "Exit EDGAR"
+                },
+                {
+                    "direction": "Alarum and retreat within. Re-enter EDGAR"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 5,
-        "scene": 2,
-        "start": 6,
-        "stop": 8,
-        "lines": [
-            {
-                "text": "Away, old man; give me thy hand; away!"
-            },
-            {
-                "text": "King Lear hath lost, he and his daughter ta'en:"
-            },
-            {
-                "text": "Give me thy hand; come on."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 2,
+            "start": 6,
+            "stop": 8,
+            "lines": [
+                {
+                    "text": "Away, old man; give me thy hand; away!"
+                },
+                {
+                    "text": "King Lear hath lost, he and his daughter ta'en:"
+                },
+                {
+                    "text": "Give me thy hand; come on."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 5,
-        "scene": 2,
-        "start": 9,
-        "stop": 9,
-        "lines": [
-            {
-                "text": "No farther, sir; a man may rot even here."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 5,
+            "scene": 2,
+            "start": 9,
+            "stop": 9,
+            "lines": [
+                {
+                    "text": "No farther, sir; a man may rot even here."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 5,
-        "scene": 2,
-        "start": 10,
-        "stop": 12,
-        "lines": [
-            {
-                "text": "What, in ill thoughts again? Men must endure"
-            },
-            {
-                "text": "Their going hence, even as their coming hither;"
-            },
-            {
-                "text": "Ripeness is all: come on."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 5,
+            "scene": 2,
+            "start": 10,
+            "stop": 12,
+            "lines": [
+                {
+                    "text": "What, in ill thoughts again? Men must endure"
+                },
+                {
+                    "text": "Their going hence, even as their coming hither;"
+                },
+                {
+                    "text": "Ripeness is all: come on."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 5,
-        "scene": 2,
-        "start": 13,
-        "stop": 13,
-        "lines": [
-            {
-                "text": "And that's true too."
-            },
-            {
-                "direction": "Exeunt"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 5,
+            "scene": 2,
+            "start": 13,
+            "stop": 13,
+            "lines": [
+                {
+                    "text": "And that's true too."
+                },
+                {
+                    "direction": "Exeunt"
+                }
+            ]
+        }
     }
 ]

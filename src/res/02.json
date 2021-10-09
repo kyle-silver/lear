@@ -1,1039 +1,1139 @@
 [
     {
-        "act": 1,
-        "setting": "SCENE II. The Earl of Gloucester's castle.",
-        "staging": "Enter EDMUND, with a letter"
+        "Heading": {
+            "act": 1,
+            "setting": "SCENE II. The Earl of Gloucester's castle.",
+            "staging": "Enter EDMUND, with a letter"
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 1,
-        "stop": 22,
-        "lines": [
-            {
-                "text": "Thou, nature, art my goddess; to thy law"
-            },
-            {
-                "text": "My services are bound. Wherefore should I"
-            },
-            {
-                "text": "Stand in the plague of custom, and permit"
-            },
-            {
-                "text": "The curiosity of nations to deprive me,"
-            },
-            {
-                "text": "For that I am some twelve or fourteen moon-shines"
-            },
-            {
-                "text": "Lag of a brother? Why bastard? wherefore base?"
-            },
-            {
-                "text": "When my dimensions are as well compact,"
-            },
-            {
-                "text": "My mind as generous, and my shape as true,"
-            },
-            {
-                "text": "As honest madam's issue? Why brand they us"
-            },
-            {
-                "text": "With base? with baseness? bastardy? base, base?"
-            },
-            {
-                "text": "Who, in the lusty stealth of nature, take"
-            },
-            {
-                "text": "More composition and fierce quality"
-            },
-            {
-                "text": "Than doth, within a dull, stale, tired bed,"
-            },
-            {
-                "text": "Go to the creating a whole tribe of fops,"
-            },
-            {
-                "text": "Got 'tween asleep and wake? Well, then,"
-            },
-            {
-                "text": "Legitimate Edgar, I must have your land:"
-            },
-            {
-                "text": "Our father's love is to the bastard Edmund"
-            },
-            {
-                "text": "As to the legitimate: fine word,--legitimate!"
-            },
-            {
-                "text": "Well, my legitimate, if this letter speed,"
-            },
-            {
-                "text": "And my invention thrive, Edmund the base"
-            },
-            {
-                "text": "Shall top the legitimate. I grow; I prosper:"
-            },
-            {
-                "text": "Now, gods, stand up for bastards!"
-            },
-            {
-                "direction": "Enter GLOUCESTER"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 1,
+            "stop": 22,
+            "lines": [
+                {
+                    "text": "Thou, nature, art my goddess; to thy law"
+                },
+                {
+                    "text": "My services are bound. Wherefore should I"
+                },
+                {
+                    "text": "Stand in the plague of custom, and permit"
+                },
+                {
+                    "text": "The curiosity of nations to deprive me,"
+                },
+                {
+                    "text": "For that I am some twelve or fourteen moon-shines"
+                },
+                {
+                    "text": "Lag of a brother? Why bastard? wherefore base?"
+                },
+                {
+                    "text": "When my dimensions are as well compact,"
+                },
+                {
+                    "text": "My mind as generous, and my shape as true,"
+                },
+                {
+                    "text": "As honest madam's issue? Why brand they us"
+                },
+                {
+                    "text": "With base? with baseness? bastardy? base, base?"
+                },
+                {
+                    "text": "Who, in the lusty stealth of nature, take"
+                },
+                {
+                    "text": "More composition and fierce quality"
+                },
+                {
+                    "text": "Than doth, within a dull, stale, tired bed,"
+                },
+                {
+                    "text": "Go to the creating a whole tribe of fops,"
+                },
+                {
+                    "text": "Got 'tween asleep and wake? Well, then,"
+                },
+                {
+                    "text": "Legitimate Edgar, I must have your land:"
+                },
+                {
+                    "text": "Our father's love is to the bastard Edmund"
+                },
+                {
+                    "text": "As to the legitimate: fine word,--legitimate!"
+                },
+                {
+                    "text": "Well, my legitimate, if this letter speed,"
+                },
+                {
+                    "text": "And my invention thrive, Edmund the base"
+                },
+                {
+                    "text": "Shall top the legitimate. I grow; I prosper:"
+                },
+                {
+                    "text": "Now, gods, stand up for bastards!"
+                },
+                {
+                    "direction": "Enter GLOUCESTER"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 23,
-        "stop": 26,
-        "lines": [
-            {
-                "text": "Kent banish'd thus! and France in choler parted!"
-            },
-            {
-                "text": "And the king gone to-night! subscribed his power!"
-            },
-            {
-                "text": "Confined to exhibition! All this done"
-            },
-            {
-                "text": "Upon the gad! Edmund, how now! what news?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 23,
+            "stop": 26,
+            "lines": [
+                {
+                    "text": "Kent banish'd thus! and France in choler parted!"
+                },
+                {
+                    "text": "And the king gone to-night! subscribed his power!"
+                },
+                {
+                    "text": "Confined to exhibition! All this done"
+                },
+                {
+                    "text": "Upon the gad! Edmund, how now! what news?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 27,
-        "stop": 27,
-        "lines": [
-            {
-                "text": "So please your lordship, none."
-            },
-            {
-                "direction": "Putting up the letter"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 27,
+            "stop": 27,
+            "lines": [
+                {
+                    "text": "So please your lordship, none."
+                },
+                {
+                    "direction": "Putting up the letter"
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 28,
-        "stop": 28,
-        "lines": [
-            {
-                "text": "Why so earnestly seek you to put up that letter?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 28,
+            "stop": 28,
+            "lines": [
+                {
+                    "text": "Why so earnestly seek you to put up that letter?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 29,
-        "stop": 29,
-        "lines": [
-            {
-                "text": "I know no news, my lord."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 29,
+            "stop": 29,
+            "lines": [
+                {
+                    "text": "I know no news, my lord."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 30,
-        "stop": 30,
-        "lines": [
-            {
-                "text": "What paper were you reading?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 30,
+            "stop": 30,
+            "lines": [
+                {
+                    "text": "What paper were you reading?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 31,
-        "stop": 31,
-        "lines": [
-            {
-                "text": "Nothing, my lord."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 31,
+            "stop": 31,
+            "lines": [
+                {
+                    "text": "Nothing, my lord."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 32,
-        "stop": 35,
-        "lines": [
-            {
-                "text": "No? What needed, then, that terrible dispatch of"
-            },
-            {
-                "text": "it into your pocket? the quality of nothing hath"
-            },
-            {
-                "text": "not such need to hide itself. Let's see: come,"
-            },
-            {
-                "text": "if it be nothing, I shall not need spectacles."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 32,
+            "stop": 35,
+            "lines": [
+                {
+                    "text": "No? What needed, then, that terrible dispatch of"
+                },
+                {
+                    "text": "it into your pocket? the quality of nothing hath"
+                },
+                {
+                    "text": "not such need to hide itself. Let's see: come,"
+                },
+                {
+                    "text": "if it be nothing, I shall not need spectacles."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 36,
-        "stop": 39,
-        "lines": [
-            {
-                "text": "I beseech you, sir, pardon me: it is a letter"
-            },
-            {
-                "text": "from my brother, that I have not all o'er-read;"
-            },
-            {
-                "text": "and for so much as I have perused, I find it not"
-            },
-            {
-                "text": "fit for your o'er-looking."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 36,
+            "stop": 39,
+            "lines": [
+                {
+                    "text": "I beseech you, sir, pardon me: it is a letter"
+                },
+                {
+                    "text": "from my brother, that I have not all o'er-read;"
+                },
+                {
+                    "text": "and for so much as I have perused, I find it not"
+                },
+                {
+                    "text": "fit for your o'er-looking."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 40,
-        "stop": 40,
-        "lines": [
-            {
-                "text": "Give me the letter, sir."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 40,
+            "stop": 40,
+            "lines": [
+                {
+                    "text": "Give me the letter, sir."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 41,
-        "stop": 42,
-        "lines": [
-            {
-                "text": "I shall offend, either to detain or give it. The"
-            },
-            {
-                "text": "contents, as in part I understand them, are to blame."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 41,
+            "stop": 42,
+            "lines": [
+                {
+                    "text": "I shall offend, either to detain or give it. The"
+                },
+                {
+                    "text": "contents, as in part I understand them, are to blame."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 43,
-        "stop": 43,
-        "lines": [
-            {
-                "text": "Let's see, let's see."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 43,
+            "stop": 43,
+            "lines": [
+                {
+                    "text": "Let's see, let's see."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 44,
-        "stop": 45,
-        "lines": [
-            {
-                "text": "I hope, for my brother's justification, he wrote"
-            },
-            {
-                "text": "this but as an essay or taste of my virtue."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 44,
+            "stop": 45,
+            "lines": [
+                {
+                    "text": "I hope, for my brother's justification, he wrote"
+                },
+                {
+                    "text": "this but as an essay or taste of my virtue."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 46,
-        "stop": 60,
-        "lines": [
-            {
-                "text": "[Reads] 'This policy and reverence of age makes"
-            },
-            {
-                "text": "the world bitter to the best of our times; keeps"
-            },
-            {
-                "text": "our fortunes from us till our oldness cannot relish"
-            },
-            {
-                "text": "them. I begin to find an idle and fond bondage"
-            },
-            {
-                "text": "in the oppression of aged tyranny; who sways, not"
-            },
-            {
-                "text": "as it hath power, but as it is suffered. Come to"
-            },
-            {
-                "text": "me, that of this I may speak more. If our father"
-            },
-            {
-                "text": "would sleep till I waked him, you should half his"
-            },
-            {
-                "text": "revenue for ever, and live the beloved of your"
-            },
-            {
-                "text": "brother, EDGAR.'"
-            },
-            {
-                "text": "Hum--conspiracy!--'Sleep till I waked him,--you"
-            },
-            {
-                "text": "should enjoy half his revenue,'--My son Edgar!"
-            },
-            {
-                "text": "Had he a hand to write this? a heart and brain"
-            },
-            {
-                "text": "to breed it in?--When came this to you? who"
-            },
-            {
-                "text": "brought it?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 46,
+            "stop": 60,
+            "lines": [
+                {
+                    "text": "[Reads] 'This policy and reverence of age makes"
+                },
+                {
+                    "text": "the world bitter to the best of our times; keeps"
+                },
+                {
+                    "text": "our fortunes from us till our oldness cannot relish"
+                },
+                {
+                    "text": "them. I begin to find an idle and fond bondage"
+                },
+                {
+                    "text": "in the oppression of aged tyranny; who sways, not"
+                },
+                {
+                    "text": "as it hath power, but as it is suffered. Come to"
+                },
+                {
+                    "text": "me, that of this I may speak more. If our father"
+                },
+                {
+                    "text": "would sleep till I waked him, you should half his"
+                },
+                {
+                    "text": "revenue for ever, and live the beloved of your"
+                },
+                {
+                    "text": "brother, EDGAR.'"
+                },
+                {
+                    "text": "Hum--conspiracy!--'Sleep till I waked him,--you"
+                },
+                {
+                    "text": "should enjoy half his revenue,'--My son Edgar!"
+                },
+                {
+                    "text": "Had he a hand to write this? a heart and brain"
+                },
+                {
+                    "text": "to breed it in?--When came this to you? who"
+                },
+                {
+                    "text": "brought it?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 61,
-        "stop": 63,
-        "lines": [
-            {
-                "text": "It was not brought me, my lord; there's the"
-            },
-            {
-                "text": "cunning of it; I found it thrown in at the"
-            },
-            {
-                "text": "casement of my closet."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 61,
+            "stop": 63,
+            "lines": [
+                {
+                    "text": "It was not brought me, my lord; there's the"
+                },
+                {
+                    "text": "cunning of it; I found it thrown in at the"
+                },
+                {
+                    "text": "casement of my closet."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 64,
-        "stop": 64,
-        "lines": [
-            {
-                "text": "You know the character to be your brother's?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 64,
+            "stop": 64,
+            "lines": [
+                {
+                    "text": "You know the character to be your brother's?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 65,
-        "stop": 67,
-        "lines": [
-            {
-                "text": "If the matter were good, my lord, I durst swear"
-            },
-            {
-                "text": "it were his; but, in respect of that, I would"
-            },
-            {
-                "text": "fain think it were not."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 65,
+            "stop": 67,
+            "lines": [
+                {
+                    "text": "If the matter were good, my lord, I durst swear"
+                },
+                {
+                    "text": "it were his; but, in respect of that, I would"
+                },
+                {
+                    "text": "fain think it were not."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 68,
-        "stop": 68,
-        "lines": [
-            {
-                "text": "It is his."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 68,
+            "stop": 68,
+            "lines": [
+                {
+                    "text": "It is his."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 69,
-        "stop": 70,
-        "lines": [
-            {
-                "text": "It is his hand, my lord; but I hope his heart is"
-            },
-            {
-                "text": "not in the contents."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 69,
+            "stop": 70,
+            "lines": [
+                {
+                    "text": "It is his hand, my lord; but I hope his heart is"
+                },
+                {
+                    "text": "not in the contents."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 71,
-        "stop": 71,
-        "lines": [
-            {
-                "text": "Hath he never heretofore sounded you in this business?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 71,
+            "stop": 71,
+            "lines": [
+                {
+                    "text": "Hath he never heretofore sounded you in this business?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 72,
-        "stop": 75,
-        "lines": [
-            {
-                "text": "Never, my lord: but I have heard him oft"
-            },
-            {
-                "text": "maintain it to be fit, that, sons at perfect age,"
-            },
-            {
-                "text": "and fathers declining, the father should be as"
-            },
-            {
-                "text": "ward to the son, and the son manage his revenue."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 72,
+            "stop": 75,
+            "lines": [
+                {
+                    "text": "Never, my lord: but I have heard him oft"
+                },
+                {
+                    "text": "maintain it to be fit, that, sons at perfect age,"
+                },
+                {
+                    "text": "and fathers declining, the father should be as"
+                },
+                {
+                    "text": "ward to the son, and the son manage his revenue."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 76,
-        "stop": 80,
-        "lines": [
-            {
-                "text": "O villain, villain! His very opinion in the"
-            },
-            {
-                "text": "letter! Abhorred villain! Unnatural, detested,"
-            },
-            {
-                "text": "brutish villain! worse than brutish! Go, sirrah,"
-            },
-            {
-                "text": "seek him; I'll apprehend him: abominable villain!"
-            },
-            {
-                "text": "Where is he?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 76,
+            "stop": 80,
+            "lines": [
+                {
+                    "text": "O villain, villain! His very opinion in the"
+                },
+                {
+                    "text": "letter! Abhorred villain! Unnatural, detested,"
+                },
+                {
+                    "text": "brutish villain! worse than brutish! Go, sirrah,"
+                },
+                {
+                    "text": "seek him; I'll apprehend him: abominable villain!"
+                },
+                {
+                    "text": "Where is he?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 81,
-        "stop": 91,
-        "lines": [
-            {
-                "text": "I do not well know, my lord. If it shall please"
-            },
-            {
-                "text": "you to suspend your indignation against my"
-            },
-            {
-                "text": "brother till you can derive from him better"
-            },
-            {
-                "text": "testimony of his intent, you shall run a certain"
-            },
-            {
-                "text": "course; where, if you violently proceed against"
-            },
-            {
-                "text": "him, mistaking his purpose, it would make a great"
-            },
-            {
-                "text": "gap in your own honour, and shake in pieces the"
-            },
-            {
-                "text": "heart of his obedience. I dare pawn down my life"
-            },
-            {
-                "text": "for him, that he hath wrote this to feel my"
-            },
-            {
-                "text": "affection to your honour, and to no further"
-            },
-            {
-                "text": "pretence of danger."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 81,
+            "stop": 91,
+            "lines": [
+                {
+                    "text": "I do not well know, my lord. If it shall please"
+                },
+                {
+                    "text": "you to suspend your indignation against my"
+                },
+                {
+                    "text": "brother till you can derive from him better"
+                },
+                {
+                    "text": "testimony of his intent, you shall run a certain"
+                },
+                {
+                    "text": "course; where, if you violently proceed against"
+                },
+                {
+                    "text": "him, mistaking his purpose, it would make a great"
+                },
+                {
+                    "text": "gap in your own honour, and shake in pieces the"
+                },
+                {
+                    "text": "heart of his obedience. I dare pawn down my life"
+                },
+                {
+                    "text": "for him, that he hath wrote this to feel my"
+                },
+                {
+                    "text": "affection to your honour, and to no further"
+                },
+                {
+                    "text": "pretence of danger."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 92,
-        "stop": 92,
-        "lines": [
-            {
-                "text": "Think you so?"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 92,
+            "stop": 92,
+            "lines": [
+                {
+                    "text": "Think you so?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 93,
-        "stop": 96,
-        "lines": [
-            {
-                "text": "If your honour judge it meet, I will place you"
-            },
-            {
-                "text": "where you shall hear us confer of this, and by an"
-            },
-            {
-                "text": "auricular assurance have your satisfaction; and"
-            },
-            {
-                "text": "that without any further delay than this very evening."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 93,
+            "stop": 96,
+            "lines": [
+                {
+                    "text": "If your honour judge it meet, I will place you"
+                },
+                {
+                    "text": "where you shall hear us confer of this, and by an"
+                },
+                {
+                    "text": "auricular assurance have your satisfaction; and"
+                },
+                {
+                    "text": "that without any further delay than this very evening."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 97,
-        "stop": 97,
-        "lines": [
-            {
-                "text": "He cannot be such a monster--"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 97,
+            "stop": 97,
+            "lines": [
+                {
+                    "text": "He cannot be such a monster--"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 98,
-        "stop": 98,
-        "lines": [
-            {
-                "text": "Nor is not, sure."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 98,
+            "stop": 98,
+            "lines": [
+                {
+                    "text": "Nor is not, sure."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 99,
-        "stop": 103,
-        "lines": [
-            {
-                "text": "To his father, that so tenderly and entirely"
-            },
-            {
-                "text": "loves him. Heaven and earth! Edmund, seek him"
-            },
-            {
-                "text": "out: wind me into him, I pray you: frame the"
-            },
-            {
-                "text": "business after your own wisdom. I would unstate"
-            },
-            {
-                "text": "myself, to be in a due resolution."
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 99,
+            "stop": 103,
+            "lines": [
+                {
+                    "text": "To his father, that so tenderly and entirely"
+                },
+                {
+                    "text": "loves him. Heaven and earth! Edmund, seek him"
+                },
+                {
+                    "text": "out: wind me into him, I pray you: frame the"
+                },
+                {
+                    "text": "business after your own wisdom. I would unstate"
+                },
+                {
+                    "text": "myself, to be in a due resolution."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 104,
-        "stop": 105,
-        "lines": [
-            {
-                "text": "I will seek him, sir, presently: convey the"
-            },
-            {
-                "text": "business as I shall find means and acquaint you withal."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 104,
+            "stop": 105,
+            "lines": [
+                {
+                    "text": "I will seek him, sir, presently: convey the"
+                },
+                {
+                    "text": "business as I shall find means and acquaint you withal."
+                }
+            ]
+        }
     },
     {
-        "character": "GLOUCESTER",
-        "act": 1,
-        "scene": 2,
-        "start": 106,
-        "stop": 122,
-        "lines": [
-            {
-                "text": "These late eclipses in the sun and moon portend"
-            },
-            {
-                "text": "no good to us: though the wisdom of nature can"
-            },
-            {
-                "text": "reason it thus and thus, yet nature finds itself"
-            },
-            {
-                "text": "scourged by the sequent effects: love cools,"
-            },
-            {
-                "text": "friendship falls off, brothers divide: in"
-            },
-            {
-                "text": "cities, mutinies; in countries, discord; in"
-            },
-            {
-                "text": "palaces, treason; and the bond cracked 'twixt son"
-            },
-            {
-                "text": "and father. This villain of mine comes under the"
-            },
-            {
-                "text": "prediction; there's son against father: the king"
-            },
-            {
-                "text": "falls from bias of nature; there's father against"
-            },
-            {
-                "text": "child. We have seen the best of our time:"
-            },
-            {
-                "text": "machinations, hollowness, treachery, and all"
-            },
-            {
-                "text": "ruinous disorders, follow us disquietly to our"
-            },
-            {
-                "text": "graves. Find out this villain, Edmund; it shall"
-            },
-            {
-                "text": "lose thee nothing; do it carefully. And the"
-            },
-            {
-                "text": "noble and true-hearted Kent banished! his"
-            },
-            {
-                "text": "offence, honesty! 'Tis strange."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 1,
+            "scene": 2,
+            "start": 106,
+            "stop": 122,
+            "lines": [
+                {
+                    "text": "These late eclipses in the sun and moon portend"
+                },
+                {
+                    "text": "no good to us: though the wisdom of nature can"
+                },
+                {
+                    "text": "reason it thus and thus, yet nature finds itself"
+                },
+                {
+                    "text": "scourged by the sequent effects: love cools,"
+                },
+                {
+                    "text": "friendship falls off, brothers divide: in"
+                },
+                {
+                    "text": "cities, mutinies; in countries, discord; in"
+                },
+                {
+                    "text": "palaces, treason; and the bond cracked 'twixt son"
+                },
+                {
+                    "text": "and father. This villain of mine comes under the"
+                },
+                {
+                    "text": "prediction; there's son against father: the king"
+                },
+                {
+                    "text": "falls from bias of nature; there's father against"
+                },
+                {
+                    "text": "child. We have seen the best of our time:"
+                },
+                {
+                    "text": "machinations, hollowness, treachery, and all"
+                },
+                {
+                    "text": "ruinous disorders, follow us disquietly to our"
+                },
+                {
+                    "text": "graves. Find out this villain, Edmund; it shall"
+                },
+                {
+                    "text": "lose thee nothing; do it carefully. And the"
+                },
+                {
+                    "text": "noble and true-hearted Kent banished! his"
+                },
+                {
+                    "text": "offence, honesty! 'Tis strange."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 123,
-        "stop": 144,
-        "lines": [
-            {
-                "text": "This is the excellent foppery of the world, that,"
-            },
-            {
-                "text": "when we are sick in fortune,--often the surfeit"
-            },
-            {
-                "text": "of our own behavior,--we make guilty of our"
-            },
-            {
-                "text": "disasters the sun, the moon, and the stars: as"
-            },
-            {
-                "text": "if we were villains by necessity; fools by"
-            },
-            {
-                "text": "heavenly compulsion; knaves, thieves, and"
-            },
-            {
-                "text": "treachers, by spherical predominance; drunkards,"
-            },
-            {
-                "text": "liars, and adulterers, by an enforced obedience of"
-            },
-            {
-                "text": "planetary influence; and all that we are evil in,"
-            },
-            {
-                "text": "by a divine thrusting on: an admirable evasion"
-            },
-            {
-                "text": "of whoremaster man, to lay his goatish"
-            },
-            {
-                "text": "disposition to the charge of a star! My"
-            },
-            {
-                "text": "father compounded with my mother under the"
-            },
-            {
-                "text": "dragon's tail; and my nativity was under Ursa"
-            },
-            {
-                "text": "major; so that it follows, I am rough and"
-            },
-            {
-                "text": "lecherous. Tut, I should have been that I am,"
-            },
-            {
-                "text": "had the maidenliest star in the firmament"
-            },
-            {
-                "text": "twinkled on my bastardizing. Edgar--"
-            },
-            {
-                "direction": "Enter EDGAR"
-            },
-            {
-                "text": "And pat he comes like the catastrophe of the old"
-            },
-            {
-                "text": "comedy: my cue is villanous melancholy, with a"
-            },
-            {
-                "text": "sigh like Tom o' Bedlam. O, these eclipses do"
-            },
-            {
-                "text": "portend these divisions! fa, sol, la, mi."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 123,
+            "stop": 144,
+            "lines": [
+                {
+                    "text": "This is the excellent foppery of the world, that,"
+                },
+                {
+                    "text": "when we are sick in fortune,--often the surfeit"
+                },
+                {
+                    "text": "of our own behavior,--we make guilty of our"
+                },
+                {
+                    "text": "disasters the sun, the moon, and the stars: as"
+                },
+                {
+                    "text": "if we were villains by necessity; fools by"
+                },
+                {
+                    "text": "heavenly compulsion; knaves, thieves, and"
+                },
+                {
+                    "text": "treachers, by spherical predominance; drunkards,"
+                },
+                {
+                    "text": "liars, and adulterers, by an enforced obedience of"
+                },
+                {
+                    "text": "planetary influence; and all that we are evil in,"
+                },
+                {
+                    "text": "by a divine thrusting on: an admirable evasion"
+                },
+                {
+                    "text": "of whoremaster man, to lay his goatish"
+                },
+                {
+                    "text": "disposition to the charge of a star! My"
+                },
+                {
+                    "text": "father compounded with my mother under the"
+                },
+                {
+                    "text": "dragon's tail; and my nativity was under Ursa"
+                },
+                {
+                    "text": "major; so that it follows, I am rough and"
+                },
+                {
+                    "text": "lecherous. Tut, I should have been that I am,"
+                },
+                {
+                    "text": "had the maidenliest star in the firmament"
+                },
+                {
+                    "text": "twinkled on my bastardizing. Edgar--"
+                },
+                {
+                    "direction": "Enter EDGAR"
+                },
+                {
+                    "text": "And pat he comes like the catastrophe of the old"
+                },
+                {
+                    "text": "comedy: my cue is villanous melancholy, with a"
+                },
+                {
+                    "text": "sigh like Tom o' Bedlam. O, these eclipses do"
+                },
+                {
+                    "text": "portend these divisions! fa, sol, la, mi."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 145,
-        "stop": 146,
-        "lines": [
-            {
-                "text": "How now, brother Edmund! what serious"
-            },
-            {
-                "text": "contemplation are you in?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 145,
+            "stop": 146,
+            "lines": [
+                {
+                    "text": "How now, brother Edmund! what serious"
+                },
+                {
+                    "text": "contemplation are you in?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 147,
-        "stop": 148,
-        "lines": [
-            {
-                "text": "I am thinking, brother, of a prediction I read"
-            },
-            {
-                "text": "this other day, what should follow these eclipses."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 147,
+            "stop": 148,
+            "lines": [
+                {
+                    "text": "I am thinking, brother, of a prediction I read"
+                },
+                {
+                    "text": "this other day, what should follow these eclipses."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 149,
-        "stop": 149,
-        "lines": [
-            {
-                "text": "Do you busy yourself about that?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 149,
+            "stop": 149,
+            "lines": [
+                {
+                    "text": "Do you busy yourself about that?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 150,
-        "stop": 156,
-        "lines": [
-            {
-                "text": "I promise you, the effects he writes of succeed"
-            },
-            {
-                "text": "unhappily; as of unnaturalness between the child"
-            },
-            {
-                "text": "and the parent; death, dearth, dissolutions of"
-            },
-            {
-                "text": "ancient amities; divisions in state, menaces and"
-            },
-            {
-                "text": "maledictions against king and nobles; needless"
-            },
-            {
-                "text": "diffidences, banishment of friends, dissipation"
-            },
-            {
-                "text": "of cohorts, nuptial breaches, and I know not what."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 150,
+            "stop": 156,
+            "lines": [
+                {
+                    "text": "I promise you, the effects he writes of succeed"
+                },
+                {
+                    "text": "unhappily; as of unnaturalness between the child"
+                },
+                {
+                    "text": "and the parent; death, dearth, dissolutions of"
+                },
+                {
+                    "text": "ancient amities; divisions in state, menaces and"
+                },
+                {
+                    "text": "maledictions against king and nobles; needless"
+                },
+                {
+                    "text": "diffidences, banishment of friends, dissipation"
+                },
+                {
+                    "text": "of cohorts, nuptial breaches, and I know not what."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 157,
-        "stop": 157,
-        "lines": [
-            {
-                "text": "How long have you been a sectary astronomical?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 157,
+            "stop": 157,
+            "lines": [
+                {
+                    "text": "How long have you been a sectary astronomical?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 158,
-        "stop": 158,
-        "lines": [
-            {
-                "text": "Come, come; when saw you my father last?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 158,
+            "stop": 158,
+            "lines": [
+                {
+                    "text": "Come, come; when saw you my father last?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 159,
-        "stop": 159,
-        "lines": [
-            {
-                "text": "Why, the night gone by."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 159,
+            "stop": 159,
+            "lines": [
+                {
+                    "text": "Why, the night gone by."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 160,
-        "stop": 160,
-        "lines": [
-            {
-                "text": "Spake you with him?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 160,
+            "stop": 160,
+            "lines": [
+                {
+                    "text": "Spake you with him?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 161,
-        "stop": 161,
-        "lines": [
-            {
-                "text": "Ay, two hours together."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 161,
+            "stop": 161,
+            "lines": [
+                {
+                    "text": "Ay, two hours together."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 162,
-        "stop": 163,
-        "lines": [
-            {
-                "text": "Parted you in good terms? Found you no"
-            },
-            {
-                "text": "displeasure in him by word or countenance?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 162,
+            "stop": 163,
+            "lines": [
+                {
+                    "text": "Parted you in good terms? Found you no"
+                },
+                {
+                    "text": "displeasure in him by word or countenance?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 164,
-        "stop": 164,
-        "lines": [
-            {
-                "text": "None at all."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 164,
+            "stop": 164,
+            "lines": [
+                {
+                    "text": "None at all."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 165,
-        "stop": 170,
-        "lines": [
-            {
-                "text": "Bethink yourself wherein you may have offended"
-            },
-            {
-                "text": "him: and at my entreaty forbear his presence"
-            },
-            {
-                "text": "till some little time hath qualified the heat of"
-            },
-            {
-                "text": "his displeasure; which at this instant so rageth"
-            },
-            {
-                "text": "in him, that with the mischief of your person it"
-            },
-            {
-                "text": "would scarcely allay."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 165,
+            "stop": 170,
+            "lines": [
+                {
+                    "text": "Bethink yourself wherein you may have offended"
+                },
+                {
+                    "text": "him: and at my entreaty forbear his presence"
+                },
+                {
+                    "text": "till some little time hath qualified the heat of"
+                },
+                {
+                    "text": "his displeasure; which at this instant so rageth"
+                },
+                {
+                    "text": "in him, that with the mischief of your person it"
+                },
+                {
+                    "text": "would scarcely allay."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 171,
-        "stop": 171,
-        "lines": [
-            {
-                "text": "Some villain hath done me wrong."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 171,
+            "stop": 171,
+            "lines": [
+                {
+                    "text": "Some villain hath done me wrong."
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 172,
-        "stop": 177,
-        "lines": [
-            {
-                "text": "That's my fear. I pray you, have a continent"
-            },
-            {
-                "text": "forbearance till the spied of his rage goes"
-            },
-            {
-                "text": "slower; and, as I say, retire with me to my"
-            },
-            {
-                "text": "lodging, from whence I will fitly bring you to"
-            },
-            {
-                "text": "hear my lord speak: pray ye, go; there's my key:"
-            },
-            {
-                "text": "if you do stir abroad, go armed."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 172,
+            "stop": 177,
+            "lines": [
+                {
+                    "text": "That's my fear. I pray you, have a continent"
+                },
+                {
+                    "text": "forbearance till the spied of his rage goes"
+                },
+                {
+                    "text": "slower; and, as I say, retire with me to my"
+                },
+                {
+                    "text": "lodging, from whence I will fitly bring you to"
+                },
+                {
+                    "text": "hear my lord speak: pray ye, go; there's my key:"
+                },
+                {
+                    "text": "if you do stir abroad, go armed."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 178,
-        "stop": 178,
-        "lines": [
-            {
-                "text": "Armed, brother!"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 178,
+            "stop": 178,
+            "lines": [
+                {
+                    "text": "Armed, brother!"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 179,
-        "stop": 183,
-        "lines": [
-            {
-                "text": "Brother, I advise you to the best; go armed: I"
-            },
-            {
-                "text": "am no honest man if there be any good meaning"
-            },
-            {
-                "text": "towards you: I have told you what I have seen"
-            },
-            {
-                "text": "and heard; but faintly, nothing like the image"
-            },
-            {
-                "text": "and horror of it: pray you, away."
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 179,
+            "stop": 183,
+            "lines": [
+                {
+                    "text": "Brother, I advise you to the best; go armed: I"
+                },
+                {
+                    "text": "am no honest man if there be any good meaning"
+                },
+                {
+                    "text": "towards you: I have told you what I have seen"
+                },
+                {
+                    "text": "and heard; but faintly, nothing like the image"
+                },
+                {
+                    "text": "and horror of it: pray you, away."
+                }
+            ]
+        }
     },
     {
-        "character": "EDGAR",
-        "act": 1,
-        "scene": 2,
-        "start": 184,
-        "stop": 184,
-        "lines": [
-            {
-                "text": "Shall I hear from you anon?"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 1,
+            "scene": 2,
+            "start": 184,
+            "stop": 184,
+            "lines": [
+                {
+                    "text": "Shall I hear from you anon?"
+                }
+            ]
+        }
     },
     {
-        "character": "EDMUND",
-        "act": 1,
-        "scene": 2,
-        "start": 185,
-        "stop": 191,
-        "lines": [
-            {
-                "text": "I do serve you in this business."
-            },
-            {
-                "direction": "Exit EDGAR"
-            },
-            {
-                "text": "A credulous father! and a brother noble,"
-            },
-            {
-                "text": "Whose nature is so far from doing harms,"
-            },
-            {
-                "text": "That he suspects none: on whose foolish honesty"
-            },
-            {
-                "text": "My practises ride easy! I see the business."
-            },
-            {
-                "text": "Let me, if not by birth, have lands by wit:"
-            },
-            {
-                "text": "All with me's meet that I can fashion fit."
-            },
-            {
-                "direction": "Exit"
-            }
-        ]
+        "Dialogue": {
+            "character": "EDMUND",
+            "act": 1,
+            "scene": 2,
+            "start": 185,
+            "stop": 191,
+            "lines": [
+                {
+                    "text": "I do serve you in this business."
+                },
+                {
+                    "direction": "Exit EDGAR"
+                },
+                {
+                    "text": "A credulous father! and a brother noble,"
+                },
+                {
+                    "text": "Whose nature is so far from doing harms,"
+                },
+                {
+                    "text": "That he suspects none: on whose foolish honesty"
+                },
+                {
+                    "text": "My practises ride easy! I see the business."
+                },
+                {
+                    "text": "Let me, if not by birth, have lands by wit:"
+                },
+                {
+                    "text": "All with me's meet that I can fashion fit."
+                },
+                {
+                    "direction": "Exit"
+                }
+            ]
+        }
     }
 ]

@@ -1,1822 +1,2010 @@
 [
     {
-        "act": 4,
-        "setting": "SCENE VI. Fields near Dover.",
-        "staging": "Enter GLOUCESTER, and EDGAR dressed like a peasant"
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 1,
-        "stop": 1,
-        "lines": [
-            {
-                "text": "When shall we come to the top of that same hill?"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 2,
-        "stop": 2,
-        "lines": [
-            {
-                "text": "You do climb up it now: look, how we labour."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 3,
-        "stop": 3,
-        "lines": [
-            {
-                "text": "Methinks the ground is even."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 4,
-        "stop": 5,
-        "lines": [
-            {
-                "text": "Horrible steep."
-            },
-            {
-                "text": "Hark, do you hear the sea?"
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 6,
-        "stop": 6,
-        "lines": [
-            {
-                "text": "No, truly."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 7,
-        "stop": 8,
-        "lines": [
-            {
-                "text": "Why, then, your other senses grow imperfect"
-            },
-            {
-                "text": "By your eyes' anguish."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 9,
-        "stop": 11,
-        "lines": [
-            {
-                "text": "So may it be, indeed:"
-            },
-            {
-                "text": "Methinks thy voice is alter'd; and thou speak'st"
-            },
-            {
-                "text": "In better phrase and matter than thou didst."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 12,
-        "stop": 13,
-        "lines": [
-            {
-                "text": "You're much deceived: in nothing am I changed"
-            },
-            {
-                "text": "But in my garments."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 14,
-        "stop": 14,
-        "lines": [
-            {
-                "text": "Methinks you're better spoken."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 15,
-        "stop": 28,
-        "lines": [
-            {
-                "text": "Come on, sir; here's the place: stand still. How fearful"
-            },
-            {
-                "text": "And dizzy 'tis, to cast one's eyes so low!"
-            },
-            {
-                "text": "The crows and choughs that wing the midway air"
-            },
-            {
-                "text": "Show scarce so gross as beetles: half way down"
-            },
-            {
-                "text": "Hangs one that gathers samphire, dreadful trade!"
-            },
-            {
-                "text": "Methinks he seems no bigger than his head:"
-            },
-            {
-                "text": "The fishermen, that walk upon the beach,"
-            },
-            {
-                "text": "Appear like mice; and yond tall anchoring bark,"
-            },
-            {
-                "text": "Diminish'd to her cock; her cock, a buoy"
-            },
-            {
-                "text": "Almost too small for sight: the murmuring surge,"
-            },
-            {
-                "text": "That on the unnumber'd idle pebbles chafes,"
-            },
-            {
-                "text": "Cannot be heard so high. I'll look no more;"
-            },
-            {
-                "text": "Lest my brain turn, and the deficient sight"
-            },
-            {
-                "text": "Topple down headlong."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 29,
-        "stop": 29,
-        "lines": [
-            {
-                "text": "Set me where you stand."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 30,
-        "stop": 32,
-        "lines": [
-            {
-                "text": "Give me your hand: you are now within a foot"
-            },
-            {
-                "text": "Of the extreme verge: for all beneath the moon"
-            },
-            {
-                "text": "Would I not leap upright."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 33,
-        "stop": 37,
-        "lines": [
-            {
-                "text": "Let go my hand."
-            },
-            {
-                "text": "Here, friend, 's another purse; in it a jewel"
-            },
-            {
-                "text": "Well worth a poor man's taking: fairies and gods"
-            },
-            {
-                "text": "Prosper it with thee! Go thou farther off;"
-            },
-            {
-                "text": "Bid me farewell, and let me hear thee going."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 38,
-        "stop": 38,
-        "lines": [
-            {
-                "text": "Now fare you well, good sir."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 39,
-        "stop": 39,
-        "lines": [
-            {
-                "text": "With all my heart."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 40,
-        "stop": 41,
-        "lines": [
-            {
-                "text": "Why I do trifle thus with his despair"
-            },
-            {
-                "text": "Is done to cure it."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 42,
-        "stop": 49,
-        "lines": [
-            {
-                "text": "[Kneeling] O you mighty gods!"
-            },
-            {
-                "text": "This world I do renounce, and, in your sights,"
-            },
-            {
-                "text": "Shake patiently my great affliction off:"
-            },
-            {
-                "text": "If I could bear it longer, and not fall"
-            },
-            {
-                "text": "To quarrel with your great opposeless wills,"
-            },
-            {
-                "text": "My snuff and loathed part of nature should"
-            },
-            {
-                "text": "Burn itself out. If Edgar live, O, bless him!"
-            },
-            {
-                "text": "Now, fellow, fare thee well."
-            },
-            {
-                "direction": "He falls forward"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 50,
-        "stop": 57,
-        "lines": [
-            {
-                "text": "Gone, sir: farewell."
-            },
-            {
-                "text": "And yet I know not how conceit may rob"
-            },
-            {
-                "text": "The treasury of life, when life itself"
-            },
-            {
-                "text": "Yields to the theft: had he been where he thought,"
-            },
-            {
-                "text": "By this, had thought been past. Alive or dead?"
-            },
-            {
-                "text": "Ho, you sir! friend! Hear you, sir! speak!"
-            },
-            {
-                "text": "Thus might he pass indeed: yet he revives."
-            },
-            {
-                "text": "What are you, sir?"
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 58,
-        "stop": 58,
-        "lines": [
-            {
-                "text": " Away, and let me die."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 59,
-        "stop": 65,
-        "lines": [
-            {
-                "text": "Hadst thou been aught but gossamer, feathers, air,"
-            },
-            {
-                "text": "So many fathom down precipitating,"
-            },
-            {
-                "text": "Thou'dst shiver'd like an egg: but thou dost breathe;"
-            },
-            {
-                "text": "Hast heavy substance; bleed'st not; speak'st; art sound."
-            },
-            {
-                "text": "Ten masts at each make not the altitude"
-            },
-            {
-                "text": "Which thou hast perpendicularly fell:"
-            },
-            {
-                "text": "Thy life's a miracle. Speak yet again."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 66,
-        "stop": 66,
-        "lines": [
-            {
-                "text": "But have I fall'n, or no?"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 67,
-        "stop": 69,
-        "lines": [
-            {
-                "text": "From the dread summit of this chalky bourn."
-            },
-            {
-                "text": "Look up a-height; the shrill-gorged lark so far"
-            },
-            {
-                "text": "Cannot be seen or heard: do but look up."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 70,
-        "stop": 74,
-        "lines": [
-            {
-                "text": "Alack, I have no eyes."
-            },
-            {
-                "text": "Is wretchedness deprived that benefit,"
-            },
-            {
-                "text": "To end itself by death? 'Twas yet some comfort,"
-            },
-            {
-                "text": "When misery could beguile the tyrant's rage,"
-            },
-            {
-                "text": "And frustrate his proud will."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 75,
-        "stop": 76,
-        "lines": [
-            {
-                "text": "Give me your arm:"
-            },
-            {
-                "text": "Up: so. How is 't? Feel you your legs? You stand."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 77,
-        "stop": 77,
-        "lines": [
-            {
-                "text": "Too well, too well."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 78,
-        "stop": 80,
-        "lines": [
-            {
-                "text": "This is above all strangeness."
-            },
-            {
-                "text": "Upon the crown o' the cliff, what thing was that"
-            },
-            {
-                "text": "Which parted from you?"
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 81,
-        "stop": 81,
-        "lines": [
-            {
-                "text": "A poor unfortunate beggar."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 82,
-        "stop": 87,
-        "lines": [
-            {
-                "text": "As I stood here below, methought his eyes"
-            },
-            {
-                "text": "Were two full moons; he had a thousand noses,"
-            },
-            {
-                "text": "Horns whelk'd and waved like the enridged sea:"
-            },
-            {
-                "text": "It was some fiend; therefore, thou happy father,"
-            },
-            {
-                "text": "Think that the clearest gods, who make them honours"
-            },
-            {
-                "text": "Of men's impossibilities, have preserved thee."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 88,
-        "stop": 92,
-        "lines": [
-            {
-                "text": "I do remember now: henceforth I'll bear"
-            },
-            {
-                "text": "Affliction till it do cry out itself"
-            },
-            {
-                "text": "'Enough, enough,' and die. That thing you speak of,"
-            },
-            {
-                "text": "I took it for a man; often 'twould say"
-            },
-            {
-                "text": "'The fiend, the fiend:' he led me to that place."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 93,
-        "stop": 95,
-        "lines": [
-            {
-                "text": "Bear free and patient thoughts. But who comes here?"
-            },
-            {
-                "direction": "Enter KING LEAR, fantastically dressed with wild flowers"
-            },
-            {
-                "text": "The safer sense will ne'er accommodate"
-            },
-            {
-                "text": "His master thus."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 96,
-        "stop": 97,
-        "lines": [
-            {
-                "text": "No, they cannot touch me for coining; I am the"
-            },
-            {
-                "text": "king himself."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 98,
-        "stop": 98,
-        "lines": [
-            {
-                "text": "O thou side-piercing sight!"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 99,
-        "stop": 106,
-        "lines": [
-            {
-                "text": "Nature's above art in that respect. There's your"
-            },
-            {
-                "text": "press-money. That fellow handles his bow like a"
-            },
-            {
-                "text": "crow-keeper: draw me a clothier's yard. Look,"
-            },
-            {
-                "text": "look, a mouse! Peace, peace; this piece of toasted"
-            },
-            {
-                "text": "cheese will do 't. There's my gauntlet; I'll prove"
-            },
-            {
-                "text": "it on a giant. Bring up the brown bills. O, well"
-            },
-            {
-                "text": "flown, bird! i' the clout, i' the clout: hewgh!"
-            },
-            {
-                "text": "Give the word."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 107,
-        "stop": 107,
-        "lines": [
-            {
-                "text": "Sweet marjoram."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 108,
-        "stop": 108,
-        "lines": [
-            {
-                "text": "Pass."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 109,
-        "stop": 109,
-        "lines": [
-            {
-                "text": "I know that voice."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 110,
-        "stop": 119,
-        "lines": [
-            {
-                "text": "Ha! Goneril, with a white beard! They flattered"
-            },
-            {
-                "text": "me like a dog; and told me I had white hairs in my"
-            },
-            {
-                "text": "beard ere the black ones were there. To say 'ay'"
-            },
-            {
-                "text": "and 'no' to every thing that I said!--'Ay' and 'no'"
-            },
-            {
-                "text": "too was no good divinity. When the rain came to"
-            },
-            {
-                "text": "wet me once, and the wind to make me chatter; when"
-            },
-            {
-                "text": "the thunder would not peace at my bidding; there I"
-            },
-            {
-                "text": "found 'em, there I smelt 'em out. Go to, they are"
-            },
-            {
-                "text": "not men o' their words: they told me I was every"
-            },
-            {
-                "text": "thing; 'tis a lie, I am not ague-proof."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 120,
-        "stop": 121,
-        "lines": [
-            {
-                "text": "The trick of that voice I do well remember:"
-            },
-            {
-                "text": "Is 't not the king?"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 122,
-        "stop": 147,
-        "lines": [
-            {
-                "text": "Ay, every inch a king:"
-            },
-            {
-                "text": "When I do stare, see how the subject quakes."
-            },
-            {
-                "text": "I pardon that man's life. What was thy cause? Adultery?"
-            },
-            {
-                "text": "Thou shalt not die: die for adultery! No:"
-            },
-            {
-                "text": "The wren goes to 't, and the small gilded fly"
-            },
-            {
-                "text": "Does lecher in my sight."
-            },
-            {
-                "text": "Let copulation thrive; for Gloucester's bastard son"
-            },
-            {
-                "text": "Was kinder to his father than my daughters"
-            },
-            {
-                "text": "Got 'tween the lawful sheets."
-            },
-            {
-                "text": "To 't, luxury, pell-mell! for I lack soldiers."
-            },
-            {
-                "text": "Behold yond simpering dame,"
-            },
-            {
-                "text": "Whose face between her forks presages snow;"
-            },
-            {
-                "text": "That minces virtue, and does shake the head"
-            },
-            {
-                "text": "To hear of pleasure's name;"
-            },
-            {
-                "text": "The fitchew, nor the soiled horse, goes to 't"
-            },
-            {
-                "text": "With a more riotous appetite."
-            },
-            {
-                "text": "Down from the waist they are Centaurs,"
-            },
-            {
-                "text": "Though women all above:"
-            },
-            {
-                "text": "But to the girdle do the gods inherit,"
-            },
-            {
-                "text": "Beneath is all the fiends';"
-            },
-            {
-                "text": "There's hell, there's darkness, there's the"
-            },
-            {
-                "text": "sulphurous pit,"
-            },
-            {
-                "text": "Burning, scalding, stench, consumption; fie,"
-            },
-            {
-                "text": "fie, fie! pah, pah! Give me an ounce of civet,"
-            },
-            {
-                "text": "good apothecary, to sweeten my imagination:"
-            },
-            {
-                "text": "there's money for thee."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 148,
-        "stop": 148,
-        "lines": [
-            {
-                "text": "O, let me kiss that hand!"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 149,
-        "stop": 149,
-        "lines": [
-            {
-                "text": "Let me wipe it first; it smells of mortality."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 150,
-        "stop": 151,
-        "lines": [
-            {
-                "text": "O ruin'd piece of nature! This great world"
-            },
-            {
-                "text": "Shall so wear out to nought. Dost thou know me?"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 152,
-        "stop": 155,
-        "lines": [
-            {
-                "text": "I remember thine eyes well enough. Dost thou squiny"
-            },
-            {
-                "text": "at me? No, do thy worst, blind Cupid! I'll not"
-            },
-            {
-                "text": "love. Read thou this challenge; mark but the"
-            },
-            {
-                "text": "penning of it."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 156,
-        "stop": 156,
-        "lines": [
-            {
-                "text": "Were all the letters suns, I could not see one."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 157,
-        "stop": 158,
-        "lines": [
-            {
-                "text": "I would not take this from report; it is,"
-            },
-            {
-                "text": "And my heart breaks at it."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 159,
-        "stop": 159,
-        "lines": [
-            {
-                "text": "Read."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 160,
-        "stop": 160,
-        "lines": [
-            {
-                "text": "What, with the case of eyes?"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 161,
-        "stop": 164,
-        "lines": [
-            {
-                "text": "O, ho, are you there with me? No eyes in your"
-            },
-            {
-                "text": "head, nor no money in your purse? Your eyes are in"
-            },
-            {
-                "text": "a heavy case, your purse in a light; yet you see how"
-            },
-            {
-                "text": "this world goes."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 165,
-        "stop": 165,
-        "lines": [
-            {
-                "text": "I see it feelingly."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 166,
-        "stop": 171,
-        "lines": [
-            {
-                "text": "What, art mad? A man may see how this world goes"
-            },
-            {
-                "text": "with no eyes. Look with thine ears: see how yond"
-            },
-            {
-                "text": "justice rails upon yond simple thief. Hark, in"
-            },
-            {
-                "text": "thine ear: change places; and, handy-dandy, which"
-            },
-            {
-                "text": "is the justice, which is the thief? Thou hast seen"
-            },
-            {
-                "text": "a farmer's dog bark at a beggar?"
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 172,
-        "stop": 172,
-        "lines": [
-            {
-                "text": "Ay, sir."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 173,
-        "stop": 189,
-        "lines": [
-            {
-                "text": "And the creature run from the cur? There thou"
-            },
-            {
-                "text": "mightst behold the great image of authority: a"
-            },
-            {
-                "text": "dog's obeyed in office."
-            },
-            {
-                "text": "Thou rascal beadle, hold thy bloody hand!"
-            },
-            {
-                "text": "Why dost thou lash that whore? Strip thine own back;"
-            },
-            {
-                "text": "Thou hotly lust'st to use her in that kind"
-            },
-            {
-                "text": "For which thou whipp'st her. The usurer hangs the cozener."
-            },
-            {
-                "text": "Through tatter'd clothes small vices do appear;"
-            },
-            {
-                "text": "Robes and furr'd gowns hide all. Plate sin with gold,"
-            },
-            {
-                "text": "And the strong lance of justice hurtless breaks:"
-            },
-            {
-                "text": "Arm it in rags, a pigmy's straw does pierce it."
-            },
-            {
-                "text": "None does offend, none, I say, none; I'll able 'em:"
-            },
-            {
-                "text": "Take that of me, my friend, who have the power"
-            },
-            {
-                "text": "To seal the accuser's lips. Get thee glass eyes;"
-            },
-            {
-                "text": "And like a scurvy politician, seem"
-            },
-            {
-                "text": "To see the things thou dost not. Now, now, now, now:"
-            },
-            {
-                "text": "Pull off my boots: harder, harder: so."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 190,
-        "stop": 190,
-        "lines": [
-            {
-                "text": "O, matter and impertinency mix'd! Reason in madness!"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 191,
-        "stop": 195,
-        "lines": [
-            {
-                "text": "If thou wilt weep my fortunes, take my eyes."
-            },
-            {
-                "text": "I know thee well enough; thy name is Gloucester:"
-            },
-            {
-                "text": "Thou must be patient; we came crying hither:"
-            },
-            {
-                "text": "Thou know'st, the first time that we smell the air,"
-            },
-            {
-                "text": "We wawl and cry. I will preach to thee: mark."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 196,
-        "stop": 196,
-        "lines": [
-            {
-                "text": "Alack, alack the day!"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 197,
-        "stop": 202,
-        "lines": [
-            {
-                "text": "When we are born, we cry that we are come"
-            },
-            {
-                "text": "To this great stage of fools: this a good block;"
-            },
-            {
-                "text": "It were a delicate stratagem, to shoe"
-            },
-            {
-                "text": "A troop of horse with felt: I'll put 't in proof;"
-            },
-            {
-                "text": "And when I have stol'n upon these sons-in-law,"
-            },
-            {
-                "text": "Then, kill, kill, kill, kill, kill, kill!"
-            },
-            {
-                "direction": "Enter a Gentleman, with Attendants"
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 203,
-        "stop": 204,
-        "lines": [
-            {
-                "text": "O, here he is: lay hand upon him. Sir,"
-            },
-            {
-                "text": "Your most dear daughter--"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 205,
-        "stop": 208,
-        "lines": [
-            {
-                "text": "No rescue? What, a prisoner? I am even"
-            },
-            {
-                "text": "The natural fool of fortune. Use me well;"
-            },
-            {
-                "text": "You shall have ransom. Let me have surgeons;"
-            },
-            {
-                "text": "I am cut to the brains."
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 209,
-        "stop": 209,
-        "lines": [
-            {
-                "text": "You shall have any thing."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 210,
-        "stop": 213,
-        "lines": [
-            {
-                "text": "No seconds? all myself?"
-            },
-            {
-                "text": "Why, this would make a man a man of salt,"
-            },
-            {
-                "text": "To use his eyes for garden water-pots,"
-            },
-            {
-                "text": "Ay, and laying autumn's dust."
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 214,
-        "stop": 214,
-        "lines": [
-            {
-                "text": "Good sir,--"
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 215,
-        "stop": 217,
-        "lines": [
-            {
-                "text": "I will die bravely, like a bridegroom. What!"
-            },
-            {
-                "text": "I will be jovial: come, come; I am a king,"
-            },
-            {
-                "text": "My masters, know you that."
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 218,
-        "stop": 218,
-        "lines": [
-            {
-                "text": "You are a royal one, and we obey you."
-            }
-        ]
-    },
-    {
-        "character": "KING LEAR",
-        "act": 4,
-        "scene": 6,
-        "start": 219,
-        "stop": 220,
-        "lines": [
-            {
-                "text": "Then there's life in't. Nay, if you get it, you"
-            },
-            {
-                "text": "shall get it with running. Sa, sa, sa, sa."
-            },
-            {
-                "direction": "Exit running; Attendants follow"
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 221,
-        "stop": 224,
-        "lines": [
-            {
-                "text": "A sight most pitiful in the meanest wretch,"
-            },
-            {
-                "text": "Past speaking of in a king! Thou hast one daughter,"
-            },
-            {
-                "text": "Who redeems nature from the general curse"
-            },
-            {
-                "text": "Which twain have brought her to."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 225,
-        "stop": 225,
-        "lines": [
-            {
-                "text": "Hail, gentle sir."
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 226,
-        "stop": 226,
-        "lines": [
-            {
-                "text": " Sir, speed you: what's your will?"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 227,
-        "stop": 227,
-        "lines": [
-            {
-                "text": "Do you hear aught, sir, of a battle toward?"
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 228,
-        "stop": 229,
-        "lines": [
-            {
-                "text": "Most sure and vulgar: every one hears that,"
-            },
-            {
-                "text": "Which can distinguish sound."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 230,
-        "stop": 231,
-        "lines": [
-            {
-                "text": "But, by your favour,"
-            },
-            {
-                "text": "How near's the other army?"
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 232,
-        "stop": 233,
-        "lines": [
-            {
-                "text": "Near and on speedy foot; the main descry"
-            },
-            {
-                "text": "Stands on the hourly thought."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 234,
-        "stop": 234,
-        "lines": [
-            {
-                "text": "I thank you, sir: that's all."
-            }
-        ]
-    },
-    {
-        "character": "Gentleman",
-        "act": 4,
-        "scene": 6,
-        "start": 235,
-        "stop": 236,
-        "lines": [
-            {
-                "text": "Though that the queen on special cause is here,"
-            },
-            {
-                "text": "Her army is moved on."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 237,
-        "stop": 237,
-        "lines": [
-            {
-                "text": "I thank you, sir."
-            },
-            {
-                "direction": "Exit Gentleman"
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 238,
-        "stop": 240,
-        "lines": [
-            {
-                "text": "You ever-gentle gods, take my breath from me:"
-            },
-            {
-                "text": "Let not my worser spirit tempt me again"
-            },
-            {
-                "text": "To die before you please!"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 241,
-        "stop": 241,
-        "lines": [
-            {
-                "text": "Well pray you, father."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 242,
-        "stop": 242,
-        "lines": [
-            {
-                "text": "Now, good sir, what are you?"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 243,
-        "stop": 246,
-        "lines": [
-            {
-                "text": "A most poor man, made tame to fortune's blows;"
-            },
-            {
-                "text": "Who, by the art of known and feeling sorrows,"
-            },
-            {
-                "text": "Am pregnant to good pity. Give me your hand,"
-            },
-            {
-                "text": "I'll lead you to some biding."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 247,
-        "stop": 249,
-        "lines": [
-            {
-                "text": "Hearty thanks:"
-            },
-            {
-                "text": "The bounty and the benison of heaven"
-            },
-            {
-                "text": "To boot, and boot!"
-            },
-            {
-                "direction": "Enter OSWALD"
-            }
-        ]
-    },
-    {
-        "character": "OSWALD",
-        "act": 4,
-        "scene": 6,
-        "start": 250,
-        "stop": 254,
-        "lines": [
-            {
-                "text": "A proclaim'd prize! Most happy!"
-            },
-            {
-                "text": "That eyeless head of thine was first framed flesh"
-            },
-            {
-                "text": "To raise my fortunes. Thou old unhappy traitor,"
-            },
-            {
-                "text": "Briefly thyself remember: the sword is out"
-            },
-            {
-                "text": "That must destroy thee."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 255,
-        "stop": 256,
-        "lines": [
-            {
-                "text": "Now let thy friendly hand"
-            },
-            {
-                "text": "Put strength enough to't."
-            },
-            {
-                "direction": "EDGAR interposes"
-            }
-        ]
-    },
-    {
-        "character": "OSWALD",
-        "act": 4,
-        "scene": 6,
-        "start": 257,
-        "stop": 260,
-        "lines": [
-            {
-                "text": "Wherefore, bold peasant,"
-            },
-            {
-                "text": "Darest thou support a publish'd traitor? Hence;"
-            },
-            {
-                "text": "Lest that the infection of his fortune take"
-            },
-            {
-                "text": "Like hold on thee. Let go his arm."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 261,
-        "stop": 261,
-        "lines": [
-            {
-                "text": "Ch'ill not let go, zir, without vurther 'casion."
-            }
-        ]
-    },
-    {
-        "character": "OSWALD",
-        "act": 4,
-        "scene": 6,
-        "start": 262,
-        "stop": 262,
-        "lines": [
-            {
-                "text": "Let go, slave, or thou diest!"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 263,
-        "stop": 268,
-        "lines": [
-            {
-                "text": "Good gentleman, go your gait, and let poor volk"
-            },
-            {
-                "text": "pass. An chud ha' bin zwaggered out of my life,"
-            },
-            {
-                "text": "'twould not ha' bin zo long as 'tis by a vortnight."
-            },
-            {
-                "text": "Nay, come not near th' old man; keep out, che vor"
-            },
-            {
-                "text": "ye, or ise try whether your costard or my ballow be"
-            },
-            {
-                "text": "the harder: ch'ill be plain with you."
-            }
-        ]
-    },
-    {
-        "character": "OSWALD",
-        "act": 4,
-        "scene": 6,
-        "start": 269,
-        "stop": 269,
-        "lines": [
-            {
-                "text": "Out, dunghill!"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 270,
-        "stop": 271,
-        "lines": [
-            {
-                "text": "Ch'ill pick your teeth, zir: come; no matter vor"
-            },
-            {
-                "text": "your foins."
-            },
-            {
-                "direction": "They fight, and EDGAR knocks him down"
-            }
-        ]
-    },
-    {
-        "character": "OSWALD",
-        "act": 4,
-        "scene": 6,
-        "start": 272,
-        "stop": 276,
-        "lines": [
-            {
-                "text": "Slave, thou hast slain me: villain, take my purse:"
-            },
-            {
-                "text": "If ever thou wilt thrive, bury my body;"
-            },
-            {
-                "text": "And give the letters which thou find'st about me"
-            },
-            {
-                "text": "To Edmund earl of Gloucester; seek him out"
-            },
-            {
-                "text": "Upon the British party: O, untimely death!"
-            },
-            {
-                "direction": "Dies"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 277,
-        "stop": 279,
-        "lines": [
-            {
-                "text": "I know thee well: a serviceable villain;"
-            },
-            {
-                "text": "As duteous to the vices of thy mistress"
-            },
-            {
-                "text": "As badness would desire."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 280,
-        "stop": 280,
-        "lines": [
-            {
-                "text": "What, is he dead?"
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 281,
-        "stop": 305,
-        "lines": [
-            {
-                "text": "Sit you down, father; rest you"
-            },
-            {
-                "text": "Let's see these pockets: the letters that he speaks of"
-            },
-            {
-                "text": "May be my friends. He's dead; I am only sorry"
-            },
-            {
-                "text": "He had no other death's-man. Let us see:"
-            },
-            {
-                "text": "Leave, gentle wax; and, manners, blame us not:"
-            },
-            {
-                "text": "To know our enemies' minds, we'ld rip their hearts;"
-            },
-            {
-                "text": "Their papers, is more lawful."
-            },
-            {
-                "direction": "Reads"
-            },
-            {
-                "text": "'Let our reciprocal vows be remembered. You have"
-            },
-            {
-                "text": "many opportunities to cut him off: if your will"
-            },
-            {
-                "text": "want not, time and place will be fruitfully offered."
-            },
-            {
-                "text": "There is nothing done, if he return the conqueror:"
-            },
-            {
-                "text": "then am I the prisoner, and his bed my goal; from"
-            },
-            {
-                "text": "the loathed warmth whereof deliver me, and supply"
-            },
-            {
-                "text": "the place for your labour."
-            },
-            {
-                "text": "'Your--wife, so I would say--"
-            },
-            {
-                "text": "'Affectionate servant,"
-            },
-            {
-                "text": "'GONERIL.'"
-            },
-            {
-                "text": "O undistinguish'd space of woman's will!"
-            },
-            {
-                "text": "A plot upon her virtuous husband's life;"
-            },
-            {
-                "text": "And the exchange my brother! Here, in the sands,"
-            },
-            {
-                "text": "Thee I'll rake up, the post unsanctified"
-            },
-            {
-                "text": "Of murderous lechers: and in the mature time"
-            },
-            {
-                "text": "With this ungracious paper strike the sight"
-            },
-            {
-                "text": "Of the death practised duke: for him 'tis well"
-            },
-            {
-                "text": "That of thy death and business I can tell."
-            }
-        ]
-    },
-    {
-        "character": "GLOUCESTER",
-        "act": 4,
-        "scene": 6,
-        "start": 306,
-        "stop": 311,
-        "lines": [
-            {
-                "text": "The king is mad: how stiff is my vile sense,"
-            },
-            {
-                "text": "That I stand up, and have ingenious feeling"
-            },
-            {
-                "text": "Of my huge sorrows! Better I were distract:"
-            },
-            {
-                "text": "So should my thoughts be sever'd from my griefs,"
-            },
-            {
-                "text": "And woes by wrong imaginations lose"
-            },
-            {
-                "text": "The knowledge of themselves."
-            }
-        ]
-    },
-    {
-        "character": "EDGAR",
-        "act": 4,
-        "scene": 6,
-        "start": 312,
-        "stop": 314,
-        "lines": [
-            {
-                "text": "Give me your hand:"
-            },
-            {
-                "direction": "Drum afar off"
-            },
-            {
-                "text": "Far off, methinks, I hear the beaten drum:"
-            },
-            {
-                "text": "Come, father, I'll bestow you with a friend."
-            },
-            {
-                "direction": "Exeunt"
-            }
-        ]
+        "Heading": {
+            "act": 4,
+            "setting": "SCENE VI. Fields near Dover.",
+            "staging": "Enter GLOUCESTER, and EDGAR dressed like a peasant"
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 1,
+            "stop": 1,
+            "lines": [
+                {
+                    "text": "When shall we come to the top of that same hill?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 2,
+            "stop": 2,
+            "lines": [
+                {
+                    "text": "You do climb up it now: look, how we labour."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 3,
+            "stop": 3,
+            "lines": [
+                {
+                    "text": "Methinks the ground is even."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 4,
+            "stop": 5,
+            "lines": [
+                {
+                    "text": "Horrible steep."
+                },
+                {
+                    "text": "Hark, do you hear the sea?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 6,
+            "stop": 6,
+            "lines": [
+                {
+                    "text": "No, truly."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 7,
+            "stop": 8,
+            "lines": [
+                {
+                    "text": "Why, then, your other senses grow imperfect"
+                },
+                {
+                    "text": "By your eyes' anguish."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 9,
+            "stop": 11,
+            "lines": [
+                {
+                    "text": "So may it be, indeed:"
+                },
+                {
+                    "text": "Methinks thy voice is alter'd; and thou speak'st"
+                },
+                {
+                    "text": "In better phrase and matter than thou didst."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 12,
+            "stop": 13,
+            "lines": [
+                {
+                    "text": "You're much deceived: in nothing am I changed"
+                },
+                {
+                    "text": "But in my garments."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 14,
+            "stop": 14,
+            "lines": [
+                {
+                    "text": "Methinks you're better spoken."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 15,
+            "stop": 28,
+            "lines": [
+                {
+                    "text": "Come on, sir; here's the place: stand still. How fearful"
+                },
+                {
+                    "text": "And dizzy 'tis, to cast one's eyes so low!"
+                },
+                {
+                    "text": "The crows and choughs that wing the midway air"
+                },
+                {
+                    "text": "Show scarce so gross as beetles: half way down"
+                },
+                {
+                    "text": "Hangs one that gathers samphire, dreadful trade!"
+                },
+                {
+                    "text": "Methinks he seems no bigger than his head:"
+                },
+                {
+                    "text": "The fishermen, that walk upon the beach,"
+                },
+                {
+                    "text": "Appear like mice; and yond tall anchoring bark,"
+                },
+                {
+                    "text": "Diminish'd to her cock; her cock, a buoy"
+                },
+                {
+                    "text": "Almost too small for sight: the murmuring surge,"
+                },
+                {
+                    "text": "That on the unnumber'd idle pebbles chafes,"
+                },
+                {
+                    "text": "Cannot be heard so high. I'll look no more;"
+                },
+                {
+                    "text": "Lest my brain turn, and the deficient sight"
+                },
+                {
+                    "text": "Topple down headlong."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 29,
+            "stop": 29,
+            "lines": [
+                {
+                    "text": "Set me where you stand."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 30,
+            "stop": 32,
+            "lines": [
+                {
+                    "text": "Give me your hand: you are now within a foot"
+                },
+                {
+                    "text": "Of the extreme verge: for all beneath the moon"
+                },
+                {
+                    "text": "Would I not leap upright."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 33,
+            "stop": 37,
+            "lines": [
+                {
+                    "text": "Let go my hand."
+                },
+                {
+                    "text": "Here, friend, 's another purse; in it a jewel"
+                },
+                {
+                    "text": "Well worth a poor man's taking: fairies and gods"
+                },
+                {
+                    "text": "Prosper it with thee! Go thou farther off;"
+                },
+                {
+                    "text": "Bid me farewell, and let me hear thee going."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 38,
+            "stop": 38,
+            "lines": [
+                {
+                    "text": "Now fare you well, good sir."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 39,
+            "stop": 39,
+            "lines": [
+                {
+                    "text": "With all my heart."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 40,
+            "stop": 41,
+            "lines": [
+                {
+                    "text": "Why I do trifle thus with his despair"
+                },
+                {
+                    "text": "Is done to cure it."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 42,
+            "stop": 49,
+            "lines": [
+                {
+                    "text": "[Kneeling] O you mighty gods!"
+                },
+                {
+                    "text": "This world I do renounce, and, in your sights,"
+                },
+                {
+                    "text": "Shake patiently my great affliction off:"
+                },
+                {
+                    "text": "If I could bear it longer, and not fall"
+                },
+                {
+                    "text": "To quarrel with your great opposeless wills,"
+                },
+                {
+                    "text": "My snuff and loathed part of nature should"
+                },
+                {
+                    "text": "Burn itself out. If Edgar live, O, bless him!"
+                },
+                {
+                    "text": "Now, fellow, fare thee well."
+                },
+                {
+                    "direction": "He falls forward"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 50,
+            "stop": 57,
+            "lines": [
+                {
+                    "text": "Gone, sir: farewell."
+                },
+                {
+                    "text": "And yet I know not how conceit may rob"
+                },
+                {
+                    "text": "The treasury of life, when life itself"
+                },
+                {
+                    "text": "Yields to the theft: had he been where he thought,"
+                },
+                {
+                    "text": "By this, had thought been past. Alive or dead?"
+                },
+                {
+                    "text": "Ho, you sir! friend! Hear you, sir! speak!"
+                },
+                {
+                    "text": "Thus might he pass indeed: yet he revives."
+                },
+                {
+                    "text": "What are you, sir?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 58,
+            "stop": 58,
+            "lines": [
+                {
+                    "text": " Away, and let me die."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 59,
+            "stop": 65,
+            "lines": [
+                {
+                    "text": "Hadst thou been aught but gossamer, feathers, air,"
+                },
+                {
+                    "text": "So many fathom down precipitating,"
+                },
+                {
+                    "text": "Thou'dst shiver'd like an egg: but thou dost breathe;"
+                },
+                {
+                    "text": "Hast heavy substance; bleed'st not; speak'st; art sound."
+                },
+                {
+                    "text": "Ten masts at each make not the altitude"
+                },
+                {
+                    "text": "Which thou hast perpendicularly fell:"
+                },
+                {
+                    "text": "Thy life's a miracle. Speak yet again."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 66,
+            "stop": 66,
+            "lines": [
+                {
+                    "text": "But have I fall'n, or no?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 67,
+            "stop": 69,
+            "lines": [
+                {
+                    "text": "From the dread summit of this chalky bourn."
+                },
+                {
+                    "text": "Look up a-height; the shrill-gorged lark so far"
+                },
+                {
+                    "text": "Cannot be seen or heard: do but look up."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 70,
+            "stop": 74,
+            "lines": [
+                {
+                    "text": "Alack, I have no eyes."
+                },
+                {
+                    "text": "Is wretchedness deprived that benefit,"
+                },
+                {
+                    "text": "To end itself by death? 'Twas yet some comfort,"
+                },
+                {
+                    "text": "When misery could beguile the tyrant's rage,"
+                },
+                {
+                    "text": "And frustrate his proud will."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 75,
+            "stop": 76,
+            "lines": [
+                {
+                    "text": "Give me your arm:"
+                },
+                {
+                    "text": "Up: so. How is 't? Feel you your legs? You stand."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 77,
+            "stop": 77,
+            "lines": [
+                {
+                    "text": "Too well, too well."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 78,
+            "stop": 80,
+            "lines": [
+                {
+                    "text": "This is above all strangeness."
+                },
+                {
+                    "text": "Upon the crown o' the cliff, what thing was that"
+                },
+                {
+                    "text": "Which parted from you?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 81,
+            "stop": 81,
+            "lines": [
+                {
+                    "text": "A poor unfortunate beggar."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 82,
+            "stop": 87,
+            "lines": [
+                {
+                    "text": "As I stood here below, methought his eyes"
+                },
+                {
+                    "text": "Were two full moons; he had a thousand noses,"
+                },
+                {
+                    "text": "Horns whelk'd and waved like the enridged sea:"
+                },
+                {
+                    "text": "It was some fiend; therefore, thou happy father,"
+                },
+                {
+                    "text": "Think that the clearest gods, who make them honours"
+                },
+                {
+                    "text": "Of men's impossibilities, have preserved thee."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 88,
+            "stop": 92,
+            "lines": [
+                {
+                    "text": "I do remember now: henceforth I'll bear"
+                },
+                {
+                    "text": "Affliction till it do cry out itself"
+                },
+                {
+                    "text": "'Enough, enough,' and die. That thing you speak of,"
+                },
+                {
+                    "text": "I took it for a man; often 'twould say"
+                },
+                {
+                    "text": "'The fiend, the fiend:' he led me to that place."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 93,
+            "stop": 95,
+            "lines": [
+                {
+                    "text": "Bear free and patient thoughts. But who comes here?"
+                },
+                {
+                    "direction": "Enter KING LEAR, fantastically dressed with wild flowers"
+                },
+                {
+                    "text": "The safer sense will ne'er accommodate"
+                },
+                {
+                    "text": "His master thus."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 96,
+            "stop": 97,
+            "lines": [
+                {
+                    "text": "No, they cannot touch me for coining; I am the"
+                },
+                {
+                    "text": "king himself."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 98,
+            "stop": 98,
+            "lines": [
+                {
+                    "text": "O thou side-piercing sight!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 99,
+            "stop": 106,
+            "lines": [
+                {
+                    "text": "Nature's above art in that respect. There's your"
+                },
+                {
+                    "text": "press-money. That fellow handles his bow like a"
+                },
+                {
+                    "text": "crow-keeper: draw me a clothier's yard. Look,"
+                },
+                {
+                    "text": "look, a mouse! Peace, peace; this piece of toasted"
+                },
+                {
+                    "text": "cheese will do 't. There's my gauntlet; I'll prove"
+                },
+                {
+                    "text": "it on a giant. Bring up the brown bills. O, well"
+                },
+                {
+                    "text": "flown, bird! i' the clout, i' the clout: hewgh!"
+                },
+                {
+                    "text": "Give the word."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 107,
+            "stop": 107,
+            "lines": [
+                {
+                    "text": "Sweet marjoram."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 108,
+            "stop": 108,
+            "lines": [
+                {
+                    "text": "Pass."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 109,
+            "stop": 109,
+            "lines": [
+                {
+                    "text": "I know that voice."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 110,
+            "stop": 119,
+            "lines": [
+                {
+                    "text": "Ha! Goneril, with a white beard! They flattered"
+                },
+                {
+                    "text": "me like a dog; and told me I had white hairs in my"
+                },
+                {
+                    "text": "beard ere the black ones were there. To say 'ay'"
+                },
+                {
+                    "text": "and 'no' to every thing that I said!--'Ay' and 'no'"
+                },
+                {
+                    "text": "too was no good divinity. When the rain came to"
+                },
+                {
+                    "text": "wet me once, and the wind to make me chatter; when"
+                },
+                {
+                    "text": "the thunder would not peace at my bidding; there I"
+                },
+                {
+                    "text": "found 'em, there I smelt 'em out. Go to, they are"
+                },
+                {
+                    "text": "not men o' their words: they told me I was every"
+                },
+                {
+                    "text": "thing; 'tis a lie, I am not ague-proof."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 120,
+            "stop": 121,
+            "lines": [
+                {
+                    "text": "The trick of that voice I do well remember:"
+                },
+                {
+                    "text": "Is 't not the king?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 122,
+            "stop": 147,
+            "lines": [
+                {
+                    "text": "Ay, every inch a king:"
+                },
+                {
+                    "text": "When I do stare, see how the subject quakes."
+                },
+                {
+                    "text": "I pardon that man's life. What was thy cause? Adultery?"
+                },
+                {
+                    "text": "Thou shalt not die: die for adultery! No:"
+                },
+                {
+                    "text": "The wren goes to 't, and the small gilded fly"
+                },
+                {
+                    "text": "Does lecher in my sight."
+                },
+                {
+                    "text": "Let copulation thrive; for Gloucester's bastard son"
+                },
+                {
+                    "text": "Was kinder to his father than my daughters"
+                },
+                {
+                    "text": "Got 'tween the lawful sheets."
+                },
+                {
+                    "text": "To 't, luxury, pell-mell! for I lack soldiers."
+                },
+                {
+                    "text": "Behold yond simpering dame,"
+                },
+                {
+                    "text": "Whose face between her forks presages snow;"
+                },
+                {
+                    "text": "That minces virtue, and does shake the head"
+                },
+                {
+                    "text": "To hear of pleasure's name;"
+                },
+                {
+                    "text": "The fitchew, nor the soiled horse, goes to 't"
+                },
+                {
+                    "text": "With a more riotous appetite."
+                },
+                {
+                    "text": "Down from the waist they are Centaurs,"
+                },
+                {
+                    "text": "Though women all above:"
+                },
+                {
+                    "text": "But to the girdle do the gods inherit,"
+                },
+                {
+                    "text": "Beneath is all the fiends';"
+                },
+                {
+                    "text": "There's hell, there's darkness, there's the"
+                },
+                {
+                    "text": "sulphurous pit,"
+                },
+                {
+                    "text": "Burning, scalding, stench, consumption; fie,"
+                },
+                {
+                    "text": "fie, fie! pah, pah! Give me an ounce of civet,"
+                },
+                {
+                    "text": "good apothecary, to sweeten my imagination:"
+                },
+                {
+                    "text": "there's money for thee."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 148,
+            "stop": 148,
+            "lines": [
+                {
+                    "text": "O, let me kiss that hand!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 149,
+            "stop": 149,
+            "lines": [
+                {
+                    "text": "Let me wipe it first; it smells of mortality."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 150,
+            "stop": 151,
+            "lines": [
+                {
+                    "text": "O ruin'd piece of nature! This great world"
+                },
+                {
+                    "text": "Shall so wear out to nought. Dost thou know me?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 152,
+            "stop": 155,
+            "lines": [
+                {
+                    "text": "I remember thine eyes well enough. Dost thou squiny"
+                },
+                {
+                    "text": "at me? No, do thy worst, blind Cupid! I'll not"
+                },
+                {
+                    "text": "love. Read thou this challenge; mark but the"
+                },
+                {
+                    "text": "penning of it."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 156,
+            "stop": 156,
+            "lines": [
+                {
+                    "text": "Were all the letters suns, I could not see one."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 157,
+            "stop": 158,
+            "lines": [
+                {
+                    "text": "I would not take this from report; it is,"
+                },
+                {
+                    "text": "And my heart breaks at it."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 159,
+            "stop": 159,
+            "lines": [
+                {
+                    "text": "Read."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 160,
+            "stop": 160,
+            "lines": [
+                {
+                    "text": "What, with the case of eyes?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 161,
+            "stop": 164,
+            "lines": [
+                {
+                    "text": "O, ho, are you there with me? No eyes in your"
+                },
+                {
+                    "text": "head, nor no money in your purse? Your eyes are in"
+                },
+                {
+                    "text": "a heavy case, your purse in a light; yet you see how"
+                },
+                {
+                    "text": "this world goes."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 165,
+            "stop": 165,
+            "lines": [
+                {
+                    "text": "I see it feelingly."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 166,
+            "stop": 171,
+            "lines": [
+                {
+                    "text": "What, art mad? A man may see how this world goes"
+                },
+                {
+                    "text": "with no eyes. Look with thine ears: see how yond"
+                },
+                {
+                    "text": "justice rails upon yond simple thief. Hark, in"
+                },
+                {
+                    "text": "thine ear: change places; and, handy-dandy, which"
+                },
+                {
+                    "text": "is the justice, which is the thief? Thou hast seen"
+                },
+                {
+                    "text": "a farmer's dog bark at a beggar?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 172,
+            "stop": 172,
+            "lines": [
+                {
+                    "text": "Ay, sir."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 173,
+            "stop": 189,
+            "lines": [
+                {
+                    "text": "And the creature run from the cur? There thou"
+                },
+                {
+                    "text": "mightst behold the great image of authority: a"
+                },
+                {
+                    "text": "dog's obeyed in office."
+                },
+                {
+                    "text": "Thou rascal beadle, hold thy bloody hand!"
+                },
+                {
+                    "text": "Why dost thou lash that whore? Strip thine own back;"
+                },
+                {
+                    "text": "Thou hotly lust'st to use her in that kind"
+                },
+                {
+                    "text": "For which thou whipp'st her. The usurer hangs the cozener."
+                },
+                {
+                    "text": "Through tatter'd clothes small vices do appear;"
+                },
+                {
+                    "text": "Robes and furr'd gowns hide all. Plate sin with gold,"
+                },
+                {
+                    "text": "And the strong lance of justice hurtless breaks:"
+                },
+                {
+                    "text": "Arm it in rags, a pigmy's straw does pierce it."
+                },
+                {
+                    "text": "None does offend, none, I say, none; I'll able 'em:"
+                },
+                {
+                    "text": "Take that of me, my friend, who have the power"
+                },
+                {
+                    "text": "To seal the accuser's lips. Get thee glass eyes;"
+                },
+                {
+                    "text": "And like a scurvy politician, seem"
+                },
+                {
+                    "text": "To see the things thou dost not. Now, now, now, now:"
+                },
+                {
+                    "text": "Pull off my boots: harder, harder: so."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 190,
+            "stop": 190,
+            "lines": [
+                {
+                    "text": "O, matter and impertinency mix'd! Reason in madness!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 191,
+            "stop": 195,
+            "lines": [
+                {
+                    "text": "If thou wilt weep my fortunes, take my eyes."
+                },
+                {
+                    "text": "I know thee well enough; thy name is Gloucester:"
+                },
+                {
+                    "text": "Thou must be patient; we came crying hither:"
+                },
+                {
+                    "text": "Thou know'st, the first time that we smell the air,"
+                },
+                {
+                    "text": "We wawl and cry. I will preach to thee: mark."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 196,
+            "stop": 196,
+            "lines": [
+                {
+                    "text": "Alack, alack the day!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 197,
+            "stop": 202,
+            "lines": [
+                {
+                    "text": "When we are born, we cry that we are come"
+                },
+                {
+                    "text": "To this great stage of fools: this a good block;"
+                },
+                {
+                    "text": "It were a delicate stratagem, to shoe"
+                },
+                {
+                    "text": "A troop of horse with felt: I'll put 't in proof;"
+                },
+                {
+                    "text": "And when I have stol'n upon these sons-in-law,"
+                },
+                {
+                    "text": "Then, kill, kill, kill, kill, kill, kill!"
+                },
+                {
+                    "direction": "Enter a Gentleman, with Attendants"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 203,
+            "stop": 204,
+            "lines": [
+                {
+                    "text": "O, here he is: lay hand upon him. Sir,"
+                },
+                {
+                    "text": "Your most dear daughter--"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 205,
+            "stop": 208,
+            "lines": [
+                {
+                    "text": "No rescue? What, a prisoner? I am even"
+                },
+                {
+                    "text": "The natural fool of fortune. Use me well;"
+                },
+                {
+                    "text": "You shall have ransom. Let me have surgeons;"
+                },
+                {
+                    "text": "I am cut to the brains."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 209,
+            "stop": 209,
+            "lines": [
+                {
+                    "text": "You shall have any thing."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 210,
+            "stop": 213,
+            "lines": [
+                {
+                    "text": "No seconds? all myself?"
+                },
+                {
+                    "text": "Why, this would make a man a man of salt,"
+                },
+                {
+                    "text": "To use his eyes for garden water-pots,"
+                },
+                {
+                    "text": "Ay, and laying autumn's dust."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 214,
+            "stop": 214,
+            "lines": [
+                {
+                    "text": "Good sir,--"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 215,
+            "stop": 217,
+            "lines": [
+                {
+                    "text": "I will die bravely, like a bridegroom. What!"
+                },
+                {
+                    "text": "I will be jovial: come, come; I am a king,"
+                },
+                {
+                    "text": "My masters, know you that."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 218,
+            "stop": 218,
+            "lines": [
+                {
+                    "text": "You are a royal one, and we obey you."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "KING LEAR",
+            "act": 4,
+            "scene": 6,
+            "start": 219,
+            "stop": 220,
+            "lines": [
+                {
+                    "text": "Then there's life in't. Nay, if you get it, you"
+                },
+                {
+                    "text": "shall get it with running. Sa, sa, sa, sa."
+                },
+                {
+                    "direction": "Exit running; Attendants follow"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 221,
+            "stop": 224,
+            "lines": [
+                {
+                    "text": "A sight most pitiful in the meanest wretch,"
+                },
+                {
+                    "text": "Past speaking of in a king! Thou hast one daughter,"
+                },
+                {
+                    "text": "Who redeems nature from the general curse"
+                },
+                {
+                    "text": "Which twain have brought her to."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 225,
+            "stop": 225,
+            "lines": [
+                {
+                    "text": "Hail, gentle sir."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 226,
+            "stop": 226,
+            "lines": [
+                {
+                    "text": " Sir, speed you: what's your will?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 227,
+            "stop": 227,
+            "lines": [
+                {
+                    "text": "Do you hear aught, sir, of a battle toward?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 228,
+            "stop": 229,
+            "lines": [
+                {
+                    "text": "Most sure and vulgar: every one hears that,"
+                },
+                {
+                    "text": "Which can distinguish sound."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 230,
+            "stop": 231,
+            "lines": [
+                {
+                    "text": "But, by your favour,"
+                },
+                {
+                    "text": "How near's the other army?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 232,
+            "stop": 233,
+            "lines": [
+                {
+                    "text": "Near and on speedy foot; the main descry"
+                },
+                {
+                    "text": "Stands on the hourly thought."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 234,
+            "stop": 234,
+            "lines": [
+                {
+                    "text": "I thank you, sir: that's all."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "Gentleman",
+            "act": 4,
+            "scene": 6,
+            "start": 235,
+            "stop": 236,
+            "lines": [
+                {
+                    "text": "Though that the queen on special cause is here,"
+                },
+                {
+                    "text": "Her army is moved on."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 237,
+            "stop": 237,
+            "lines": [
+                {
+                    "text": "I thank you, sir."
+                },
+                {
+                    "direction": "Exit Gentleman"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 238,
+            "stop": 240,
+            "lines": [
+                {
+                    "text": "You ever-gentle gods, take my breath from me:"
+                },
+                {
+                    "text": "Let not my worser spirit tempt me again"
+                },
+                {
+                    "text": "To die before you please!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 241,
+            "stop": 241,
+            "lines": [
+                {
+                    "text": "Well pray you, father."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 242,
+            "stop": 242,
+            "lines": [
+                {
+                    "text": "Now, good sir, what are you?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 243,
+            "stop": 246,
+            "lines": [
+                {
+                    "text": "A most poor man, made tame to fortune's blows;"
+                },
+                {
+                    "text": "Who, by the art of known and feeling sorrows,"
+                },
+                {
+                    "text": "Am pregnant to good pity. Give me your hand,"
+                },
+                {
+                    "text": "I'll lead you to some biding."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 247,
+            "stop": 249,
+            "lines": [
+                {
+                    "text": "Hearty thanks:"
+                },
+                {
+                    "text": "The bounty and the benison of heaven"
+                },
+                {
+                    "text": "To boot, and boot!"
+                },
+                {
+                    "direction": "Enter OSWALD"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "OSWALD",
+            "act": 4,
+            "scene": 6,
+            "start": 250,
+            "stop": 254,
+            "lines": [
+                {
+                    "text": "A proclaim'd prize! Most happy!"
+                },
+                {
+                    "text": "That eyeless head of thine was first framed flesh"
+                },
+                {
+                    "text": "To raise my fortunes. Thou old unhappy traitor,"
+                },
+                {
+                    "text": "Briefly thyself remember: the sword is out"
+                },
+                {
+                    "text": "That must destroy thee."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 255,
+            "stop": 256,
+            "lines": [
+                {
+                    "text": "Now let thy friendly hand"
+                },
+                {
+                    "text": "Put strength enough to't."
+                },
+                {
+                    "direction": "EDGAR interposes"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "OSWALD",
+            "act": 4,
+            "scene": 6,
+            "start": 257,
+            "stop": 260,
+            "lines": [
+                {
+                    "text": "Wherefore, bold peasant,"
+                },
+                {
+                    "text": "Darest thou support a publish'd traitor? Hence;"
+                },
+                {
+                    "text": "Lest that the infection of his fortune take"
+                },
+                {
+                    "text": "Like hold on thee. Let go his arm."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 261,
+            "stop": 261,
+            "lines": [
+                {
+                    "text": "Ch'ill not let go, zir, without vurther 'casion."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "OSWALD",
+            "act": 4,
+            "scene": 6,
+            "start": 262,
+            "stop": 262,
+            "lines": [
+                {
+                    "text": "Let go, slave, or thou diest!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 263,
+            "stop": 268,
+            "lines": [
+                {
+                    "text": "Good gentleman, go your gait, and let poor volk"
+                },
+                {
+                    "text": "pass. An chud ha' bin zwaggered out of my life,"
+                },
+                {
+                    "text": "'twould not ha' bin zo long as 'tis by a vortnight."
+                },
+                {
+                    "text": "Nay, come not near th' old man; keep out, che vor"
+                },
+                {
+                    "text": "ye, or ise try whether your costard or my ballow be"
+                },
+                {
+                    "text": "the harder: ch'ill be plain with you."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "OSWALD",
+            "act": 4,
+            "scene": 6,
+            "start": 269,
+            "stop": 269,
+            "lines": [
+                {
+                    "text": "Out, dunghill!"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 270,
+            "stop": 271,
+            "lines": [
+                {
+                    "text": "Ch'ill pick your teeth, zir: come; no matter vor"
+                },
+                {
+                    "text": "your foins."
+                },
+                {
+                    "direction": "They fight, and EDGAR knocks him down"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "OSWALD",
+            "act": 4,
+            "scene": 6,
+            "start": 272,
+            "stop": 276,
+            "lines": [
+                {
+                    "text": "Slave, thou hast slain me: villain, take my purse:"
+                },
+                {
+                    "text": "If ever thou wilt thrive, bury my body;"
+                },
+                {
+                    "text": "And give the letters which thou find'st about me"
+                },
+                {
+                    "text": "To Edmund earl of Gloucester; seek him out"
+                },
+                {
+                    "text": "Upon the British party: O, untimely death!"
+                },
+                {
+                    "direction": "Dies"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 277,
+            "stop": 279,
+            "lines": [
+                {
+                    "text": "I know thee well: a serviceable villain;"
+                },
+                {
+                    "text": "As duteous to the vices of thy mistress"
+                },
+                {
+                    "text": "As badness would desire."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 280,
+            "stop": 280,
+            "lines": [
+                {
+                    "text": "What, is he dead?"
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 281,
+            "stop": 305,
+            "lines": [
+                {
+                    "text": "Sit you down, father; rest you"
+                },
+                {
+                    "text": "Let's see these pockets: the letters that he speaks of"
+                },
+                {
+                    "text": "May be my friends. He's dead; I am only sorry"
+                },
+                {
+                    "text": "He had no other death's-man. Let us see:"
+                },
+                {
+                    "text": "Leave, gentle wax; and, manners, blame us not:"
+                },
+                {
+                    "text": "To know our enemies' minds, we'ld rip their hearts;"
+                },
+                {
+                    "text": "Their papers, is more lawful."
+                },
+                {
+                    "direction": "Reads"
+                },
+                {
+                    "text": "'Let our reciprocal vows be remembered. You have"
+                },
+                {
+                    "text": "many opportunities to cut him off: if your will"
+                },
+                {
+                    "text": "want not, time and place will be fruitfully offered."
+                },
+                {
+                    "text": "There is nothing done, if he return the conqueror:"
+                },
+                {
+                    "text": "then am I the prisoner, and his bed my goal; from"
+                },
+                {
+                    "text": "the loathed warmth whereof deliver me, and supply"
+                },
+                {
+                    "text": "the place for your labour."
+                },
+                {
+                    "text": "'Your--wife, so I would say--"
+                },
+                {
+                    "text": "'Affectionate servant,"
+                },
+                {
+                    "text": "'GONERIL.'"
+                },
+                {
+                    "text": "O undistinguish'd space of woman's will!"
+                },
+                {
+                    "text": "A plot upon her virtuous husband's life;"
+                },
+                {
+                    "text": "And the exchange my brother! Here, in the sands,"
+                },
+                {
+                    "text": "Thee I'll rake up, the post unsanctified"
+                },
+                {
+                    "text": "Of murderous lechers: and in the mature time"
+                },
+                {
+                    "text": "With this ungracious paper strike the sight"
+                },
+                {
+                    "text": "Of the death practised duke: for him 'tis well"
+                },
+                {
+                    "text": "That of thy death and business I can tell."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "GLOUCESTER",
+            "act": 4,
+            "scene": 6,
+            "start": 306,
+            "stop": 311,
+            "lines": [
+                {
+                    "text": "The king is mad: how stiff is my vile sense,"
+                },
+                {
+                    "text": "That I stand up, and have ingenious feeling"
+                },
+                {
+                    "text": "Of my huge sorrows! Better I were distract:"
+                },
+                {
+                    "text": "So should my thoughts be sever'd from my griefs,"
+                },
+                {
+                    "text": "And woes by wrong imaginations lose"
+                },
+                {
+                    "text": "The knowledge of themselves."
+                }
+            ]
+        }
+    },
+    {
+        "Dialogue": {
+            "character": "EDGAR",
+            "act": 4,
+            "scene": 6,
+            "start": 312,
+            "stop": 314,
+            "lines": [
+                {
+                    "text": "Give me your hand:"
+                },
+                {
+                    "direction": "Drum afar off"
+                },
+                {
+                    "text": "Far off, methinks, I hear the beaten drum:"
+                },
+                {
+                    "text": "Come, father, I'll bestow you with a friend."
+                },
+                {
+                    "direction": "Exeunt"
+                }
+            ]
+        }
     }
 ]

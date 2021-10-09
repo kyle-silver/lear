@@ -2,6 +2,14 @@
 name = "lear"
 version = "0.1.0"
 edition = "2018"
+authors = ["Kyle Silver"]
+license = "MIT OR Apache-2.0"
+description = "Prints a random passage from King Lear. For when you meant to type \"clear\""
+readme = "readme.md"
+homepage = "https://github.com/kyle-silver/lear"
+repository = "https://github.com/kyle-silver/lear"
+keywords = ["cli", "language", "fun"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

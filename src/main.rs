@@ -2,6 +2,24 @@ use clap::{App, Arg, SubCommand};
 use rand;
 use std::error::Error;
 
+/// If we can't parse out the user input, exit with a nice error
+fn extract_to_usize_or_exit(input: Option<&str>) -> usize {
+    let input = match input {
+        Some(token) => token,
+        None => {
+            eprintln!("No value provided for positional args");
+            std::process::exit(1);
+        }
+    };
+    match input.parse() {
+        Ok(number) => number,
+        Err(error) => {
+            eprintln!("Could not parse input \"{}\" to a number", input);
+            std::process::exit(1);
+        }
+    }
+}
+
 fn main() -> Result<(), Box<dyn Error>> {
     let matches = App::new("Lear")
         .version("0.2.0")
@@ -26,7 +44,7 @@ fn main() -> Result<(), Box<dyn Error>> {
                         .required(true),
                 )
                 .arg(
-                    Arg::with_name("stop")
+                    Arg::with_name("end")
                         .help("The last line of the excerpt")
                         .required(true),
                 ),
@@ -40,7 +58,39 @@ fn main() -> Result<(), Box<dyn Error>> {
             lear::display_contents();
         }
         ("quote", Some(arg_matches)) => {
-            let selection = lear::text(5, 4, 2..=1000).unwrap();
+            // pull out variables
+            let act = extract_to_usize_or_exit(arg_matches.value_of("act"));
+            let scene = extract_to_usize_or_exit(arg_matches.value_of("scene"));
+            let start = extract_to_usize_or_exit(arg_matches.value_of("start"));
+            let end = extract_to_usize_or_exit(arg_matches.value_of("end"));
+            // basic bounds checking
+            if end < start {
+                eprintln!("Line selection is invalid");
+                std::process::exit(1);
+            }
+            let selection = lear::text(act, scene, start..=end).unwrap_or_else(|err| {
+                match err {
+                    lear::LearError::IoError(e) => {
+                        eprintln!("Internal deserialization error {:?}", e);
+                    }
+                    lear::LearError::InvalidAct(act) => {
+                        eprintln!("Act {} is not present", act);
+                    }
+                    lear::LearError::InvalidScene { act, scene } => {
+                        eprintln!("Act {}, scene {} is not present", act, scene)
+                    }
+                    lear::LearError::InvalidLines { act, scene, lines } => {
+                        eprintln!(
+                            "Lines {}-{} are not present in act {}, scene {}",
+                            lines.start(),
+                            lines.end(),
+                            act,
+                            scene
+                        );
+                    }
+                };
+                std::process::exit(1);
+            });
             lear::display(&selection);
         }
         _ => {

@@ -13,7 +13,7 @@
             "act": 4,
             "scene": 7,
             "start": 2,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "O thou good Kent, how shall I live and work,"
@@ -33,7 +33,7 @@
             "act": 4,
             "scene": 7,
             "start": 5,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "To be acknowledged, madam, is o'erpaid."
@@ -53,7 +53,7 @@
             "act": 4,
             "scene": 7,
             "start": 8,
-            "stop": 10,
+            "end": 10,
             "lines": [
                 {
                     "text": "Be better suited:"
@@ -73,7 +73,7 @@
             "act": 4,
             "scene": 7,
             "start": 11,
-            "stop": 14,
+            "end": 14,
             "lines": [
                 {
                     "text": "Pardon me, dear madam;"
@@ -96,7 +96,7 @@
             "act": 4,
             "scene": 7,
             "start": 15,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "Then be't so, my good lord."
@@ -116,7 +116,7 @@
             "act": 4,
             "scene": 7,
             "start": 17,
-            "stop": 17,
+            "end": 17,
             "lines": [
                 {
                     "text": "Madam, sleeps still."
@@ -130,7 +130,7 @@
             "act": 4,
             "scene": 7,
             "start": 18,
-            "stop": 21,
+            "end": 21,
             "lines": [
                 {
                     "text": "O you kind gods,"
@@ -153,7 +153,7 @@
             "act": 4,
             "scene": 7,
             "start": 22,
-            "stop": 23,
+            "end": 23,
             "lines": [
                 {
                     "text": "So please your majesty"
@@ -170,7 +170,7 @@
             "act": 4,
             "scene": 7,
             "start": 24,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "Be govern'd by your knowledge, and proceed"
@@ -187,7 +187,7 @@
             "act": 4,
             "scene": 7,
             "start": 26,
-            "stop": 27,
+            "end": 27,
             "lines": [
                 {
                     "text": "Ay, madam; in the heaviness of his sleep"
@@ -204,7 +204,7 @@
             "act": 4,
             "scene": 7,
             "start": 28,
-            "stop": 29,
+            "end": 29,
             "lines": [
                 {
                     "text": "Be by, good madam, when we do awake him;"
@@ -221,7 +221,7 @@
             "act": 4,
             "scene": 7,
             "start": 30,
-            "stop": 30,
+            "end": 30,
             "lines": [
                 {
                     "text": "Very well."
@@ -235,7 +235,7 @@
             "act": 4,
             "scene": 7,
             "start": 31,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "Please you, draw near. Louder the music there!"
@@ -249,7 +249,7 @@
             "act": 4,
             "scene": 7,
             "start": 32,
-            "stop": 35,
+            "end": 35,
             "lines": [
                 {
                     "text": "O my dear father! Restoration hang"
@@ -272,7 +272,7 @@
             "act": 4,
             "scene": 7,
             "start": 36,
-            "stop": 36,
+            "end": 36,
             "lines": [
                 {
                     "text": "Kind and dear princess!"
@@ -286,7 +286,7 @@
             "act": 4,
             "scene": 7,
             "start": 37,
-            "stop": 49,
+            "end": 49,
             "lines": [
                 {
                     "text": "Had you not been their father, these white flakes"
@@ -336,7 +336,7 @@
             "act": 4,
             "scene": 7,
             "start": 50,
-            "stop": 50,
+            "end": 50,
             "lines": [
                 {
                     "text": "Madam, do you; 'tis fittest."
@@ -350,7 +350,7 @@
             "act": 4,
             "scene": 7,
             "start": 51,
-            "stop": 51,
+            "end": 51,
             "lines": [
                 {
                     "text": "How does my royal lord? How fares your majesty?"
@@ -364,7 +364,7 @@
             "act": 4,
             "scene": 7,
             "start": 52,
-            "stop": 55,
+            "end": 55,
             "lines": [
                 {
                     "text": "You do me wrong to take me out o' the grave:"
@@ -387,7 +387,7 @@
             "act": 4,
             "scene": 7,
             "start": 56,
-            "stop": 56,
+            "end": 56,
             "lines": [
                 {
                     "text": "Sir, do you know me?"
@@ -401,7 +401,7 @@
             "act": 4,
             "scene": 7,
             "start": 57,
-            "stop": 57,
+            "end": 57,
             "lines": [
                 {
                     "text": "You are a spirit, I know: when did you die?"
@@ -415,7 +415,7 @@
             "act": 4,
             "scene": 7,
             "start": 58,
-            "stop": 58,
+            "end": 58,
             "lines": [
                 {
                     "text": "Still, still, far wide!"
@@ -429,7 +429,7 @@
             "act": 4,
             "scene": 7,
             "start": 59,
-            "stop": 59,
+            "end": 59,
             "lines": [
                 {
                     "text": "He's scarce awake: let him alone awhile."
@@ -443,7 +443,7 @@
             "act": 4,
             "scene": 7,
             "start": 60,
-            "stop": 65,
+            "end": 65,
             "lines": [
                 {
                     "text": "Where have I been? Where am I? Fair daylight?"
@@ -472,7 +472,7 @@
             "act": 4,
             "scene": 7,
             "start": 66,
-            "stop": 68,
+            "end": 68,
             "lines": [
                 {
                     "text": " O, look upon me, sir,"
@@ -492,7 +492,7 @@
             "act": 4,
             "scene": 7,
             "start": 69,
-            "stop": 80,
+            "end": 80,
             "lines": [
                 {
                     "text": "Pray, do not mock me:"
@@ -539,7 +539,7 @@
             "act": 4,
             "scene": 7,
             "start": 81,
-            "stop": 81,
+            "end": 81,
             "lines": [
                 {
                     "text": "And so I am, I am."
@@ -553,7 +553,7 @@
             "act": 4,
             "scene": 7,
             "start": 82,
-            "stop": 86,
+            "end": 86,
             "lines": [
                 {
                     "text": "Be your tears wet? yes, 'faith. I pray, weep not:"
@@ -579,7 +579,7 @@
             "act": 4,
             "scene": 7,
             "start": 87,
-            "stop": 87,
+            "end": 87,
             "lines": [
                 {
                     "text": "No cause, no cause."
@@ -593,7 +593,7 @@
             "act": 4,
             "scene": 7,
             "start": 88,
-            "stop": 88,
+            "end": 88,
             "lines": [
                 {
                     "text": "Am I in France?"
@@ -607,7 +607,7 @@
             "act": 4,
             "scene": 7,
             "start": 89,
-            "stop": 89,
+            "end": 89,
             "lines": [
                 {
                     "text": " In your own kingdom, sir."
@@ -621,7 +621,7 @@
             "act": 4,
             "scene": 7,
             "start": 90,
-            "stop": 90,
+            "end": 90,
             "lines": [
                 {
                     "text": "Do not abuse me."
@@ -635,7 +635,7 @@
             "act": 4,
             "scene": 7,
             "start": 91,
-            "stop": 95,
+            "end": 95,
             "lines": [
                 {
                     "text": "Be comforted, good madam: the great rage,"
@@ -661,7 +661,7 @@
             "act": 4,
             "scene": 7,
             "start": 96,
-            "stop": 96,
+            "end": 96,
             "lines": [
                 {
                     "text": "Will't please your highness walk?"
@@ -675,7 +675,7 @@
             "act": 4,
             "scene": 7,
             "start": 97,
-            "stop": 98,
+            "end": 98,
             "lines": [
                 {
                     "text": "You must bear with me:"
@@ -695,7 +695,7 @@
             "act": 4,
             "scene": 7,
             "start": 99,
-            "stop": 99,
+            "end": 99,
             "lines": [
                 {
                     "text": "Holds it true, sir, that the Duke of Cornwall was so slain?"
@@ -709,7 +709,7 @@
             "act": 4,
             "scene": 7,
             "start": 100,
-            "stop": 100,
+            "end": 100,
             "lines": [
                 {
                     "text": "Most certain, sir."
@@ -723,7 +723,7 @@
             "act": 4,
             "scene": 7,
             "start": 101,
-            "stop": 101,
+            "end": 101,
             "lines": [
                 {
                     "text": "Who is conductor of his people?"
@@ -737,7 +737,7 @@
             "act": 4,
             "scene": 7,
             "start": 102,
-            "stop": 102,
+            "end": 102,
             "lines": [
                 {
                     "text": "As 'tis said, the bastard son of Gloucester."
@@ -751,7 +751,7 @@
             "act": 4,
             "scene": 7,
             "start": 103,
-            "stop": 104,
+            "end": 104,
             "lines": [
                 {
                     "text": "They say Edgar, his banished son, is with the Earl"
@@ -768,7 +768,7 @@
             "act": 4,
             "scene": 7,
             "start": 105,
-            "stop": 106,
+            "end": 106,
             "lines": [
                 {
                     "text": "Report is changeable. 'Tis time to look about; the"
@@ -785,7 +785,7 @@
             "act": 4,
             "scene": 7,
             "start": 107,
-            "stop": 108,
+            "end": 108,
             "lines": [
                 {
                     "text": "The arbitrement is like to be bloody. Fare you"
@@ -805,7 +805,7 @@
             "act": 4,
             "scene": 7,
             "start": 109,
-            "stop": 110,
+            "end": 110,
             "lines": [
                 {
                     "text": "My point and period will be throughly wrought,"

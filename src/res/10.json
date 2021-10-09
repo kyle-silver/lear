@@ -13,7 +13,7 @@
             "act": 3,
             "scene": 1,
             "start": 1,
-            "stop": 1,
+            "end": 1,
             "lines": [
                 {
                     "text": "Who's there, besides foul weather?"
@@ -27,7 +27,7 @@
             "act": 3,
             "scene": 1,
             "start": 2,
-            "stop": 2,
+            "end": 2,
             "lines": [
                 {
                     "text": "One minded like the weather, most unquietly."
@@ -41,7 +41,7 @@
             "act": 3,
             "scene": 1,
             "start": 3,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "I know you. Where's the king?"
@@ -55,7 +55,7 @@
             "act": 3,
             "scene": 1,
             "start": 4,
-            "stop": 15,
+            "end": 15,
             "lines": [
                 {
                     "text": "Contending with the fretful element:"
@@ -102,7 +102,7 @@
             "act": 3,
             "scene": 1,
             "start": 16,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "But who is with him?"
@@ -116,7 +116,7 @@
             "act": 3,
             "scene": 1,
             "start": 17,
-            "stop": 18,
+            "end": 18,
             "lines": [
                 {
                     "text": "None but the fool; who labours to out-jest"
@@ -133,7 +133,7 @@
             "act": 3,
             "scene": 1,
             "start": 19,
-            "stop": 44,
+            "end": 44,
             "lines": [
                 {
                     "text": "Sir, I do know you;"
@@ -222,7 +222,7 @@
             "act": 3,
             "scene": 1,
             "start": 45,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "I will talk further with you."
@@ -236,7 +236,7 @@
             "act": 3,
             "scene": 1,
             "start": 46,
-            "stop": 53,
+            "end": 53,
             "lines": [
                 {
                     "text": "No, do not."
@@ -271,7 +271,7 @@
             "act": 3,
             "scene": 1,
             "start": 54,
-            "stop": 54,
+            "end": 54,
             "lines": [
                 {
                     "text": "Give me your hand: have you no more to say?"
@@ -285,7 +285,7 @@
             "act": 3,
             "scene": 1,
             "start": 55,
-            "stop": 58,
+            "end": 58,
             "lines": [
                 {
                     "text": "Few words, but, to effect, more than all yet;"

@@ -13,7 +13,7 @@
             "act": 3,
             "scene": 7,
             "start": 1,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "Post speedily to my lord your husband; show him"
@@ -36,7 +36,7 @@
             "act": 3,
             "scene": 7,
             "start": 4,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "Hang him instantly."
@@ -50,7 +50,7 @@
             "act": 3,
             "scene": 7,
             "start": 5,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "Pluck out his eyes."
@@ -64,7 +64,7 @@
             "act": 3,
             "scene": 7,
             "start": 6,
-            "stop": 14,
+            "end": 14,
             "lines": [
                 {
                     "text": "Leave him to my displeasure. Edmund, keep you our"
@@ -105,7 +105,7 @@
             "act": 3,
             "scene": 7,
             "start": 15,
-            "stop": 20,
+            "end": 20,
             "lines": [
                 {
                     "text": "My lord of Gloucester hath convey'd him hence:"
@@ -134,7 +134,7 @@
             "act": 3,
             "scene": 7,
             "start": 21,
-            "stop": 21,
+            "end": 21,
             "lines": [
                 {
                     "text": "Get horses for your mistress."
@@ -148,7 +148,7 @@
             "act": 3,
             "scene": 7,
             "start": 22,
-            "stop": 22,
+            "end": 22,
             "lines": [
                 {
                     "text": "Farewell, sweet lord, and sister."
@@ -162,7 +162,7 @@
             "act": 3,
             "scene": 7,
             "start": 23,
-            "stop": 29,
+            "end": 29,
             "lines": [
                 {
                     "text": "Edmund, farewell."
@@ -203,7 +203,7 @@
             "act": 3,
             "scene": 7,
             "start": 30,
-            "stop": 30,
+            "end": 30,
             "lines": [
                 {
                     "text": "Ingrateful fox! 'tis he."
@@ -217,7 +217,7 @@
             "act": 3,
             "scene": 7,
             "start": 31,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "Bind fast his corky arms."
@@ -231,7 +231,7 @@
             "act": 3,
             "scene": 7,
             "start": 32,
-            "stop": 33,
+            "end": 33,
             "lines": [
                 {
                     "text": "What mean your graces? Good my friends, consider"
@@ -248,7 +248,7 @@
             "act": 3,
             "scene": 7,
             "start": 34,
-            "stop": 34,
+            "end": 34,
             "lines": [
                 {
                     "text": "Bind him, I say."
@@ -265,7 +265,7 @@
             "act": 3,
             "scene": 7,
             "start": 35,
-            "stop": 35,
+            "end": 35,
             "lines": [
                 {
                     "text": " Hard, hard. O filthy traitor!"
@@ -279,7 +279,7 @@
             "act": 3,
             "scene": 7,
             "start": 36,
-            "stop": 36,
+            "end": 36,
             "lines": [
                 {
                     "text": "Unmerciful lady as you are, I'm none."
@@ -293,7 +293,7 @@
             "act": 3,
             "scene": 7,
             "start": 37,
-            "stop": 37,
+            "end": 37,
             "lines": [
                 {
                     "text": "To this chair bind him. Villain, thou shalt find--"
@@ -310,7 +310,7 @@
             "act": 3,
             "scene": 7,
             "start": 38,
-            "stop": 39,
+            "end": 39,
             "lines": [
                 {
                     "text": "By the kind gods, 'tis most ignobly done"
@@ -327,7 +327,7 @@
             "act": 3,
             "scene": 7,
             "start": 40,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "So white, and such a traitor!"
@@ -341,7 +341,7 @@
             "act": 3,
             "scene": 7,
             "start": 41,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "Naughty lady,"
@@ -367,7 +367,7 @@
             "act": 3,
             "scene": 7,
             "start": 46,
-            "stop": 46,
+            "end": 46,
             "lines": [
                 {
                     "text": "Come, sir, what letters had you late from France?"
@@ -381,7 +381,7 @@
             "act": 3,
             "scene": 7,
             "start": 47,
-            "stop": 47,
+            "end": 47,
             "lines": [
                 {
                     "text": "Be simple answerer, for we know the truth."
@@ -395,7 +395,7 @@
             "act": 3,
             "scene": 7,
             "start": 48,
-            "stop": 49,
+            "end": 49,
             "lines": [
                 {
                     "text": "And what confederacy have you with the traitors"
@@ -412,7 +412,7 @@
             "act": 3,
             "scene": 7,
             "start": 50,
-            "stop": 50,
+            "end": 50,
             "lines": [
                 {
                     "text": "To whose hands have you sent the lunatic king? Speak."
@@ -426,7 +426,7 @@
             "act": 3,
             "scene": 7,
             "start": 51,
-            "stop": 53,
+            "end": 53,
             "lines": [
                 {
                     "text": "I have a letter guessingly set down,"
@@ -446,7 +446,7 @@
             "act": 3,
             "scene": 7,
             "start": 54,
-            "stop": 54,
+            "end": 54,
             "lines": [
                 {
                     "text": "Cunning."
@@ -460,7 +460,7 @@
             "act": 3,
             "scene": 7,
             "start": 55,
-            "stop": 55,
+            "end": 55,
             "lines": [
                 {
                     "text": "And false."
@@ -474,7 +474,7 @@
             "act": 3,
             "scene": 7,
             "start": 56,
-            "stop": 56,
+            "end": 56,
             "lines": [
                 {
                     "text": "Where hast thou sent the king?"
@@ -488,7 +488,7 @@
             "act": 3,
             "scene": 7,
             "start": 57,
-            "stop": 57,
+            "end": 57,
             "lines": [
                 {
                     "text": "To Dover."
@@ -502,7 +502,7 @@
             "act": 3,
             "scene": 7,
             "start": 58,
-            "stop": 58,
+            "end": 58,
             "lines": [
                 {
                     "text": "Wherefore to Dover? Wast thou not charged at peril--"
@@ -516,7 +516,7 @@
             "act": 3,
             "scene": 7,
             "start": 59,
-            "stop": 59,
+            "end": 59,
             "lines": [
                 {
                     "text": "Wherefore to Dover? Let him first answer that."
@@ -530,7 +530,7 @@
             "act": 3,
             "scene": 7,
             "start": 60,
-            "stop": 60,
+            "end": 60,
             "lines": [
                 {
                     "text": "I am tied to the stake, and I must stand the course."
@@ -544,7 +544,7 @@
             "act": 3,
             "scene": 7,
             "start": 61,
-            "stop": 61,
+            "end": 61,
             "lines": [
                 {
                     "text": "Wherefore to Dover, sir?"
@@ -558,7 +558,7 @@
             "act": 3,
             "scene": 7,
             "start": 62,
-            "stop": 72,
+            "end": 72,
             "lines": [
                 {
                     "text": "Because I would not see thy cruel nails"
@@ -602,7 +602,7 @@
             "act": 3,
             "scene": 7,
             "start": 73,
-            "stop": 74,
+            "end": 74,
             "lines": [
                 {
                     "text": "See't shalt thou never. Fellows, hold the chair."
@@ -619,7 +619,7 @@
             "act": 3,
             "scene": 7,
             "start": 75,
-            "stop": 76,
+            "end": 76,
             "lines": [
                 {
                     "text": "He that will think to live till he be old,"
@@ -636,7 +636,7 @@
             "act": 3,
             "scene": 7,
             "start": 77,
-            "stop": 77,
+            "end": 77,
             "lines": [
                 {
                     "text": "One side will mock another; the other too."
@@ -650,7 +650,7 @@
             "act": 3,
             "scene": 7,
             "start": 78,
-            "stop": 78,
+            "end": 78,
             "lines": [
                 {
                     "text": "If you see vengeance,--"
@@ -664,7 +664,7 @@
             "act": 3,
             "scene": 7,
             "start": 79,
-            "stop": 82,
+            "end": 82,
             "lines": [
                 {
                     "text": "Hold your hand, my lord:"
@@ -687,7 +687,7 @@
             "act": 3,
             "scene": 7,
             "start": 83,
-            "stop": 83,
+            "end": 83,
             "lines": [
                 {
                     "text": "How now, you dog!"
@@ -701,7 +701,7 @@
             "act": 3,
             "scene": 7,
             "start": 84,
-            "stop": 85,
+            "end": 85,
             "lines": [
                 {
                     "text": "If you did wear a beard upon your chin,"
@@ -718,7 +718,7 @@
             "act": 3,
             "scene": 7,
             "start": 86,
-            "stop": 86,
+            "end": 86,
             "lines": [
                 {
                     "text": "My villain!"
@@ -735,7 +735,7 @@
             "act": 3,
             "scene": 7,
             "start": 87,
-            "stop": 87,
+            "end": 87,
             "lines": [
                 {
                     "text": "Nay, then, come on, and take the chance of anger."
@@ -749,7 +749,7 @@
             "act": 3,
             "scene": 7,
             "start": 88,
-            "stop": 88,
+            "end": 88,
             "lines": [
                 {
                     "text": "Give me thy sword. A peasant stand up thus!"
@@ -766,7 +766,7 @@
             "act": 3,
             "scene": 7,
             "start": 89,
-            "stop": 90,
+            "end": 90,
             "lines": [
                 {
                     "text": "O, I am slain! My lord, you have one eye left"
@@ -786,7 +786,7 @@
             "act": 3,
             "scene": 7,
             "start": 91,
-            "stop": 92,
+            "end": 92,
             "lines": [
                 {
                     "text": "Lest it see more, prevent it. Out, vile jelly!"
@@ -803,7 +803,7 @@
             "act": 3,
             "scene": 7,
             "start": 93,
-            "stop": 95,
+            "end": 95,
             "lines": [
                 {
                     "text": "All dark and comfortless. Where's my son Edmund?"
@@ -823,7 +823,7 @@
             "act": 3,
             "scene": 7,
             "start": 96,
-            "stop": 99,
+            "end": 99,
             "lines": [
                 {
                     "text": "Out, treacherous villain!"
@@ -846,7 +846,7 @@
             "act": 3,
             "scene": 7,
             "start": 100,
-            "stop": 101,
+            "end": 101,
             "lines": [
                 {
                     "text": "O my follies! then Edgar was abused."
@@ -863,7 +863,7 @@
             "act": 3,
             "scene": 7,
             "start": 102,
-            "stop": 104,
+            "end": 104,
             "lines": [
                 {
                     "text": "Go thrust him out at gates, and let him smell"
@@ -886,7 +886,7 @@
             "act": 3,
             "scene": 7,
             "start": 105,
-            "stop": 108,
+            "end": 108,
             "lines": [
                 {
                     "text": "I have received a hurt: follow me, lady."
@@ -912,7 +912,7 @@
             "act": 3,
             "scene": 7,
             "start": 109,
-            "stop": 110,
+            "end": 110,
             "lines": [
                 {
                     "text": "I'll never care what wickedness I do,"
@@ -929,7 +929,7 @@
             "act": 3,
             "scene": 7,
             "start": 111,
-            "stop": 113,
+            "end": 113,
             "lines": [
                 {
                     "text": "If she live long,"
@@ -949,7 +949,7 @@
             "act": 3,
             "scene": 7,
             "start": 114,
-            "stop": 116,
+            "end": 116,
             "lines": [
                 {
                     "text": "Let's follow the old earl, and get the Bedlam"
@@ -969,7 +969,7 @@
             "act": 3,
             "scene": 7,
             "start": 117,
-            "stop": 118,
+            "end": 118,
             "lines": [
                 {
                     "text": "Go thou: I'll fetch some flax and whites of eggs"

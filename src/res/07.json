@@ -13,7 +13,7 @@
             "act": 2,
             "scene": 2,
             "start": 1,
-            "stop": 1,
+            "end": 1,
             "lines": [
                 {
                     "text": "Good dawning to thee, friend: art of this house?"
@@ -27,7 +27,7 @@
             "act": 2,
             "scene": 2,
             "start": 2,
-            "stop": 2,
+            "end": 2,
             "lines": [
                 {
                     "text": "Ay."
@@ -41,7 +41,7 @@
             "act": 2,
             "scene": 2,
             "start": 3,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "Where may we set our horses?"
@@ -55,7 +55,7 @@
             "act": 2,
             "scene": 2,
             "start": 4,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "I' the mire."
@@ -69,7 +69,7 @@
             "act": 2,
             "scene": 2,
             "start": 5,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "Prithee, if thou lovest me, tell me."
@@ -83,7 +83,7 @@
             "act": 2,
             "scene": 2,
             "start": 6,
-            "stop": 6,
+            "end": 6,
             "lines": [
                 {
                     "text": "I love thee not."
@@ -97,7 +97,7 @@
             "act": 2,
             "scene": 2,
             "start": 7,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "Why, then, I care not for thee."
@@ -111,7 +111,7 @@
             "act": 2,
             "scene": 2,
             "start": 8,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "If I had thee in Lipsbury pinfold, I would make thee"
@@ -128,7 +128,7 @@
             "act": 2,
             "scene": 2,
             "start": 10,
-            "stop": 10,
+            "end": 10,
             "lines": [
                 {
                     "text": "Why dost thou use me thus? I know thee not."
@@ -142,7 +142,7 @@
             "act": 2,
             "scene": 2,
             "start": 11,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "Fellow, I know thee."
@@ -156,7 +156,7 @@
             "act": 2,
             "scene": 2,
             "start": 12,
-            "stop": 12,
+            "end": 12,
             "lines": [
                 {
                     "text": "What dost thou know me for?"
@@ -170,7 +170,7 @@
             "act": 2,
             "scene": 2,
             "start": 13,
-            "stop": 23,
+            "end": 23,
             "lines": [
                 {
                     "text": "A knave; a rascal; an eater of broken meats; a"
@@ -214,7 +214,7 @@
             "act": 2,
             "scene": 2,
             "start": 24,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "Why, what a monstrous fellow art thou, thus to rail"
@@ -231,7 +231,7 @@
             "act": 2,
             "scene": 2,
             "start": 26,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "What a brazen-faced varlet art thou, to deny thou"
@@ -263,7 +263,7 @@
             "act": 2,
             "scene": 2,
             "start": 32,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "Away! I have nothing to do with thee."
@@ -277,7 +277,7 @@
             "act": 2,
             "scene": 2,
             "start": 33,
-            "stop": 36,
+            "end": 36,
             "lines": [
                 {
                     "text": "Draw, you rascal: you come with letters against the"
@@ -300,7 +300,7 @@
             "act": 2,
             "scene": 2,
             "start": 37,
-            "stop": 37,
+            "end": 37,
             "lines": [
                 {
                     "text": "Help, ho! murder! help!"
@@ -314,7 +314,7 @@
             "act": 2,
             "scene": 2,
             "start": 38,
-            "stop": 39,
+            "end": 39,
             "lines": [
                 {
                     "text": "Strike, you slave; stand, rogue, stand; you neat"
@@ -334,7 +334,7 @@
             "act": 2,
             "scene": 2,
             "start": 40,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "Help, ho! murder! murder!"
@@ -351,7 +351,7 @@
             "act": 2,
             "scene": 2,
             "start": 41,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "How now! What's the matter?"
@@ -365,7 +365,7 @@
             "act": 2,
             "scene": 2,
             "start": 42,
-            "stop": 43,
+            "end": 43,
             "lines": [
                 {
                     "text": "With you, goodman boy, an you please: come, I'll"
@@ -382,7 +382,7 @@
             "act": 2,
             "scene": 2,
             "start": 44,
-            "stop": 44,
+            "end": 44,
             "lines": [
                 {
                     "text": "Weapons! arms! What 's the matter here?"
@@ -396,7 +396,7 @@
             "act": 2,
             "scene": 2,
             "start": 45,
-            "stop": 46,
+            "end": 46,
             "lines": [
                 {
                     "text": "Keep peace, upon your lives:"
@@ -413,7 +413,7 @@
             "act": 2,
             "scene": 2,
             "start": 47,
-            "stop": 47,
+            "end": 47,
             "lines": [
                 {
                     "text": "The messengers from our sister and the king."
@@ -427,7 +427,7 @@
             "act": 2,
             "scene": 2,
             "start": 48,
-            "stop": 48,
+            "end": 48,
             "lines": [
                 {
                     "text": "What is your difference? speak."
@@ -441,7 +441,7 @@
             "act": 2,
             "scene": 2,
             "start": 49,
-            "stop": 49,
+            "end": 49,
             "lines": [
                 {
                     "text": "I am scarce in breath, my lord."
@@ -455,7 +455,7 @@
             "act": 2,
             "scene": 2,
             "start": 50,
-            "stop": 52,
+            "end": 52,
             "lines": [
                 {
                     "text": "No marvel, you have so bestirred your valour. You"
@@ -475,7 +475,7 @@
             "act": 2,
             "scene": 2,
             "start": 53,
-            "stop": 53,
+            "end": 53,
             "lines": [
                 {
                     "text": "Thou art a strange fellow: a tailor make a man?"
@@ -489,7 +489,7 @@
             "act": 2,
             "scene": 2,
             "start": 54,
-            "stop": 56,
+            "end": 56,
             "lines": [
                 {
                     "text": "Ay, a tailor, sir: a stone-cutter or painter could"
@@ -509,7 +509,7 @@
             "act": 2,
             "scene": 2,
             "start": 57,
-            "stop": 57,
+            "end": 57,
             "lines": [
                 {
                     "text": "Speak yet, how grew your quarrel?"
@@ -523,7 +523,7 @@
             "act": 2,
             "scene": 2,
             "start": 58,
-            "stop": 59,
+            "end": 59,
             "lines": [
                 {
                     "text": "This ancient ruffian, sir, whose life I have spared"
@@ -540,7 +540,7 @@
             "act": 2,
             "scene": 2,
             "start": 60,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "Thou whoreson zed! thou unnecessary letter! My"
@@ -563,7 +563,7 @@
             "act": 2,
             "scene": 2,
             "start": 64,
-            "stop": 65,
+            "end": 65,
             "lines": [
                 {
                     "text": "Peace, sirrah!"
@@ -580,7 +580,7 @@
             "act": 2,
             "scene": 2,
             "start": 66,
-            "stop": 66,
+            "end": 66,
             "lines": [
                 {
                     "text": "Yes, sir; but anger hath a privilege."
@@ -594,7 +594,7 @@
             "act": 2,
             "scene": 2,
             "start": 67,
-            "stop": 67,
+            "end": 67,
             "lines": [
                 {
                     "text": "Why art thou angry?"
@@ -608,7 +608,7 @@
             "act": 2,
             "scene": 2,
             "start": 68,
-            "stop": 80,
+            "end": 80,
             "lines": [
                 {
                     "text": "That such a slave as this should wear a sword,"
@@ -658,7 +658,7 @@
             "act": 2,
             "scene": 2,
             "start": 81,
-            "stop": 81,
+            "end": 81,
             "lines": [
                 {
                     "text": "Why, art thou mad, old fellow?"
@@ -672,7 +672,7 @@
             "act": 2,
             "scene": 2,
             "start": 82,
-            "stop": 82,
+            "end": 82,
             "lines": [
                 {
                     "text": "How fell you out? say that."
@@ -686,7 +686,7 @@
             "act": 2,
             "scene": 2,
             "start": 83,
-            "stop": 84,
+            "end": 84,
             "lines": [
                 {
                     "text": "No contraries hold more antipathy"
@@ -703,7 +703,7 @@
             "act": 2,
             "scene": 2,
             "start": 85,
-            "stop": 85,
+            "end": 85,
             "lines": [
                 {
                     "text": "Why dost thou call him a knave? What's his offence?"
@@ -717,7 +717,7 @@
             "act": 2,
             "scene": 2,
             "start": 86,
-            "stop": 86,
+            "end": 86,
             "lines": [
                 {
                     "text": "His countenance likes me not."
@@ -731,7 +731,7 @@
             "act": 2,
             "scene": 2,
             "start": 87,
-            "stop": 87,
+            "end": 87,
             "lines": [
                 {
                     "text": "No more, perchance, does mine, nor his, nor hers."
@@ -745,7 +745,7 @@
             "act": 2,
             "scene": 2,
             "start": 88,
-            "stop": 91,
+            "end": 91,
             "lines": [
                 {
                     "text": "Sir, 'tis my occupation to be plain:"
@@ -768,7 +768,7 @@
             "act": 2,
             "scene": 2,
             "start": 92,
-            "stop": 101,
+            "end": 101,
             "lines": [
                 {
                     "text": "This is some fellow,"
@@ -809,7 +809,7 @@
             "act": 2,
             "scene": 2,
             "start": 102,
-            "stop": 105,
+            "end": 105,
             "lines": [
                 {
                     "text": "Sir, in good sooth, in sincere verity,"
@@ -832,7 +832,7 @@
             "act": 2,
             "scene": 2,
             "start": 106,
-            "stop": 106,
+            "end": 106,
             "lines": [
                 {
                     "text": "What mean'st by this?"
@@ -846,7 +846,7 @@
             "act": 2,
             "scene": 2,
             "start": 107,
-            "stop": 112,
+            "end": 112,
             "lines": [
                 {
                     "text": "To go out of my dialect, which you"
@@ -875,7 +875,7 @@
             "act": 2,
             "scene": 2,
             "start": 113,
-            "stop": 113,
+            "end": 113,
             "lines": [
                 {
                     "text": "What was the offence you gave him?"
@@ -889,7 +889,7 @@
             "act": 2,
             "scene": 2,
             "start": 114,
-            "stop": 123,
+            "end": 123,
             "lines": [
                 {
                     "text": "I never gave him any:"
@@ -930,7 +930,7 @@
             "act": 2,
             "scene": 2,
             "start": 124,
-            "stop": 125,
+            "end": 125,
             "lines": [
                 {
                     "text": "None of these rogues and cowards"
@@ -947,7 +947,7 @@
             "act": 2,
             "scene": 2,
             "start": 126,
-            "stop": 128,
+            "end": 128,
             "lines": [
                 {
                     "text": "Fetch forth the stocks!"
@@ -967,7 +967,7 @@
             "act": 2,
             "scene": 2,
             "start": 129,
-            "stop": 134,
+            "end": 134,
             "lines": [
                 {
                     "text": " Sir, I am too old to learn:"
@@ -996,7 +996,7 @@
             "act": 2,
             "scene": 2,
             "start": 135,
-            "stop": 136,
+            "end": 136,
             "lines": [
                 {
                     "text": "Fetch forth the stocks! As I have life and honour,"
@@ -1013,7 +1013,7 @@
             "act": 2,
             "scene": 2,
             "start": 137,
-            "stop": 137,
+            "end": 137,
             "lines": [
                 {
                     "text": "Till noon! till night, my lord; and all night too."
@@ -1027,7 +1027,7 @@
             "act": 2,
             "scene": 2,
             "start": 138,
-            "stop": 139,
+            "end": 139,
             "lines": [
                 {
                     "text": "Why, madam, if I were your father's dog,"
@@ -1044,7 +1044,7 @@
             "act": 2,
             "scene": 2,
             "start": 140,
-            "stop": 140,
+            "end": 140,
             "lines": [
                 {
                     "text": "Sir, being his knave, I will."
@@ -1058,7 +1058,7 @@
             "act": 2,
             "scene": 2,
             "start": 141,
-            "stop": 142,
+            "end": 142,
             "lines": [
                 {
                     "text": "This is a fellow of the self-same colour"
@@ -1078,7 +1078,7 @@
             "act": 2,
             "scene": 2,
             "start": 143,
-            "stop": 150,
+            "end": 150,
             "lines": [
                 {
                     "text": "Let me beseech your grace not to do so:"
@@ -1113,7 +1113,7 @@
             "act": 2,
             "scene": 2,
             "start": 151,
-            "stop": 151,
+            "end": 151,
             "lines": [
                 {
                     "text": "I'll answer that."
@@ -1127,7 +1127,7 @@
             "act": 2,
             "scene": 2,
             "start": 152,
-            "stop": 155,
+            "end": 155,
             "lines": [
                 {
                     "text": "My sister may receive it much more worse,"
@@ -1156,7 +1156,7 @@
             "act": 2,
             "scene": 2,
             "start": 156,
-            "stop": 158,
+            "end": 158,
             "lines": [
                 {
                     "text": "I am sorry for thee, friend; 'tis the duke's pleasure,"
@@ -1176,7 +1176,7 @@
             "act": 2,
             "scene": 2,
             "start": 159,
-            "stop": 162,
+            "end": 162,
             "lines": [
                 {
                     "text": "Pray, do not, sir: I have watched and travell'd hard;"
@@ -1199,7 +1199,7 @@
             "act": 2,
             "scene": 2,
             "start": 163,
-            "stop": 163,
+            "end": 163,
             "lines": [
                 {
                     "text": "The duke's to blame in this; 'twill be ill taken."
@@ -1216,7 +1216,7 @@
             "act": 2,
             "scene": 2,
             "start": 164,
-            "stop": 177,
+            "end": 177,
             "lines": [
                 {
                     "text": "Good king, that must approve the common saw,"

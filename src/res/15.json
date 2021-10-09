@@ -13,7 +13,7 @@
             "act": 3,
             "scene": 6,
             "start": 1,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "Here is better than the open air; take it"
@@ -33,7 +33,7 @@
             "act": 3,
             "scene": 6,
             "start": 4,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "All the power of his wits have given way to his"
@@ -53,7 +53,7 @@
             "act": 3,
             "scene": 6,
             "start": 6,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "Frateretto calls me; and tells me"
@@ -73,7 +73,7 @@
             "act": 3,
             "scene": 6,
             "start": 9,
-            "stop": 10,
+            "end": 10,
             "lines": [
                 {
                     "text": "Prithee, nuncle, tell me whether a madman be a"
@@ -90,7 +90,7 @@
             "act": 3,
             "scene": 6,
             "start": 11,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "A king, a king!"
@@ -104,7 +104,7 @@
             "act": 3,
             "scene": 6,
             "start": 12,
-            "stop": 14,
+            "end": 14,
             "lines": [
                 {
                     "text": "No, he's a yeoman that has a gentleman to his son;"
@@ -124,7 +124,7 @@
             "act": 3,
             "scene": 6,
             "start": 15,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "To have a thousand with red burning spits"
@@ -141,7 +141,7 @@
             "act": 3,
             "scene": 6,
             "start": 17,
-            "stop": 17,
+            "end": 17,
             "lines": [
                 {
                     "text": "The foul fiend bites my back."
@@ -155,7 +155,7 @@
             "act": 3,
             "scene": 6,
             "start": 18,
-            "stop": 19,
+            "end": 19,
             "lines": [
                 {
                     "text": "He's mad that trusts in the tameness of a wolf, a"
@@ -172,7 +172,7 @@
             "act": 3,
             "scene": 6,
             "start": 20,
-            "stop": 22,
+            "end": 22,
             "lines": [
                 {
                     "text": "It shall be done; I will arraign them straight."
@@ -198,7 +198,7 @@
             "act": 3,
             "scene": 6,
             "start": 23,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": " Look, where he stands and glares!"
@@ -218,7 +218,7 @@
             "act": 3,
             "scene": 6,
             "start": 26,
-            "stop": 28,
+            "end": 28,
             "lines": [
                 {
                     "text": " Her boat hath a leak,"
@@ -238,7 +238,7 @@
             "act": 3,
             "scene": 6,
             "start": 29,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "The foul fiend haunts poor Tom in the voice of a"
@@ -261,7 +261,7 @@
             "act": 3,
             "scene": 6,
             "start": 33,
-            "stop": 34,
+            "end": 34,
             "lines": [
                 {
                     "text": "How do you, sir? Stand you not so amazed:"
@@ -278,7 +278,7 @@
             "act": 3,
             "scene": 6,
             "start": 35,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "I'll see their trial first. Bring in the evidence."
@@ -316,7 +316,7 @@
             "act": 3,
             "scene": 6,
             "start": 41,
-            "stop": 46,
+            "end": 46,
             "lines": [
                 {
                     "text": "Let us deal justly."
@@ -345,7 +345,7 @@
             "act": 3,
             "scene": 6,
             "start": 47,
-            "stop": 49,
+            "end": 49,
             "lines": [
                 {
                     "text": "Arraign her first; 'tis Goneril. I here take my"
@@ -365,7 +365,7 @@
             "act": 3,
             "scene": 6,
             "start": 50,
-            "stop": 50,
+            "end": 50,
             "lines": [
                 {
                     "text": "Come hither, mistress. Is your name Goneril?"
@@ -379,7 +379,7 @@
             "act": 3,
             "scene": 6,
             "start": 51,
-            "stop": 51,
+            "end": 51,
             "lines": [
                 {
                     "text": "She cannot deny it."
@@ -393,7 +393,7 @@
             "act": 3,
             "scene": 6,
             "start": 52,
-            "stop": 52,
+            "end": 52,
             "lines": [
                 {
                     "text": "Cry you mercy, I took you for a joint-stool."
@@ -407,7 +407,7 @@
             "act": 3,
             "scene": 6,
             "start": 53,
-            "stop": 56,
+            "end": 56,
             "lines": [
                 {
                     "text": "And here's another, whose warp'd looks proclaim"
@@ -430,7 +430,7 @@
             "act": 3,
             "scene": 6,
             "start": 57,
-            "stop": 57,
+            "end": 57,
             "lines": [
                 {
                     "text": "Bless thy five wits!"
@@ -444,7 +444,7 @@
             "act": 3,
             "scene": 6,
             "start": 58,
-            "stop": 59,
+            "end": 59,
             "lines": [
                 {
                     "text": "O pity! Sir, where is the patience now,"
@@ -461,7 +461,7 @@
             "act": 3,
             "scene": 6,
             "start": 60,
-            "stop": 61,
+            "end": 61,
             "lines": [
                 {
                     "text": "[Aside] My tears begin to take his part so much,"
@@ -478,7 +478,7 @@
             "act": 3,
             "scene": 6,
             "start": 62,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "The little dogs and all, Tray, Blanch, and"
@@ -495,7 +495,7 @@
             "act": 3,
             "scene": 6,
             "start": 64,
-            "stop": 74,
+            "end": 74,
             "lines": [
                 {
                     "text": "Tom will throw his head at them. Avaunt, you curs!"
@@ -539,7 +539,7 @@
             "act": 3,
             "scene": 6,
             "start": 75,
-            "stop": 80,
+            "end": 80,
             "lines": [
                 {
                     "text": "Then let them anatomize Regan; see what breeds"
@@ -571,7 +571,7 @@
             "act": 3,
             "scene": 6,
             "start": 81,
-            "stop": 81,
+            "end": 81,
             "lines": [
                 {
                     "text": "Now, good my lord, lie here and rest awhile."
@@ -585,7 +585,7 @@
             "act": 3,
             "scene": 6,
             "start": 82,
-            "stop": 83,
+            "end": 83,
             "lines": [
                 {
                     "text": "Make no noise, make no noise; draw the curtains:"
@@ -602,7 +602,7 @@
             "act": 3,
             "scene": 6,
             "start": 84,
-            "stop": 84,
+            "end": 84,
             "lines": [
                 {
                     "text": "And I'll go to bed at noon."
@@ -619,7 +619,7 @@
             "act": 3,
             "scene": 6,
             "start": 85,
-            "stop": 85,
+            "end": 85,
             "lines": [
                 {
                     "text": "Come hither, friend: where is the king my master?"
@@ -633,7 +633,7 @@
             "act": 3,
             "scene": 6,
             "start": 86,
-            "stop": 86,
+            "end": 86,
             "lines": [
                 {
                     "text": "Here, sir; but trouble him not, his wits are gone."
@@ -647,7 +647,7 @@
             "act": 3,
             "scene": 6,
             "start": 87,
-            "stop": 96,
+            "end": 96,
             "lines": [
                 {
                     "text": "Good friend, I prithee, take him in thy arms;"
@@ -688,7 +688,7 @@
             "act": 3,
             "scene": 6,
             "start": 97,
-            "stop": 102,
+            "end": 102,
             "lines": [
                 {
                     "text": "Oppressed nature sleeps:"
@@ -720,7 +720,7 @@
             "act": 3,
             "scene": 6,
             "start": 103,
-            "stop": 103,
+            "end": 103,
             "lines": [
                 {
                     "text": "Come, come, away."
@@ -737,7 +737,7 @@
             "act": 3,
             "scene": 6,
             "start": 104,
-            "stop": 117,
+            "end": 117,
             "lines": [
                 {
                     "text": "When we our betters see bearing our woes,"

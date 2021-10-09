@@ -13,7 +13,7 @@
             "act": 3,
             "scene": 4,
             "start": 1,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "Here is the place, my lord; good my lord, enter:"
@@ -36,7 +36,7 @@
             "act": 3,
             "scene": 4,
             "start": 4,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "Let me alone."
@@ -50,7 +50,7 @@
             "act": 3,
             "scene": 4,
             "start": 5,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "Good my lord, enter here."
@@ -64,7 +64,7 @@
             "act": 3,
             "scene": 4,
             "start": 6,
-            "stop": 6,
+            "end": 6,
             "lines": [
                 {
                     "text": "Wilt break my heart?"
@@ -78,7 +78,7 @@
             "act": 3,
             "scene": 4,
             "start": 7,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "I had rather break mine own. Good my lord, enter."
@@ -92,7 +92,7 @@
             "act": 3,
             "scene": 4,
             "start": 8,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "Thou think'st 'tis much that this contentious storm"
@@ -157,7 +157,7 @@
             "act": 3,
             "scene": 4,
             "start": 26,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": " Good my lord, enter here."
@@ -171,7 +171,7 @@
             "act": 3,
             "scene": 4,
             "start": 27,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "Prithee, go in thyself: seek thine own ease:"
@@ -230,7 +230,7 @@
             "act": 3,
             "scene": 4,
             "start": 41,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "[Within] Fathom and half, fathom and half! Poor Tom!"
@@ -247,7 +247,7 @@
             "act": 3,
             "scene": 4,
             "start": 42,
-            "stop": 43,
+            "end": 43,
             "lines": [
                 {
                     "text": "Come not in here, nuncle, here's a spirit"
@@ -264,7 +264,7 @@
             "act": 3,
             "scene": 4,
             "start": 44,
-            "stop": 44,
+            "end": 44,
             "lines": [
                 {
                     "text": "Give me thy hand. Who's there?"
@@ -278,7 +278,7 @@
             "act": 3,
             "scene": 4,
             "start": 45,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "A spirit, a spirit: he says his name's poor Tom."
@@ -292,7 +292,7 @@
             "act": 3,
             "scene": 4,
             "start": 46,
-            "stop": 47,
+            "end": 47,
             "lines": [
                 {
                     "text": "What art thou that dost grumble there i' the straw?"
@@ -312,7 +312,7 @@
             "act": 3,
             "scene": 4,
             "start": 48,
-            "stop": 50,
+            "end": 50,
             "lines": [
                 {
                     "text": "Away! the foul fiend follows me!"
@@ -332,7 +332,7 @@
             "act": 3,
             "scene": 4,
             "start": 51,
-            "stop": 52,
+            "end": 52,
             "lines": [
                 {
                     "text": "Hast thou given all to thy two daughters?"
@@ -349,7 +349,7 @@
             "act": 3,
             "scene": 4,
             "start": 53,
-            "stop": 64,
+            "end": 64,
             "lines": [
                 {
                     "text": "Who gives any thing to poor Tom? whom the foul"
@@ -399,7 +399,7 @@
             "act": 3,
             "scene": 4,
             "start": 65,
-            "stop": 66,
+            "end": 66,
             "lines": [
                 {
                     "text": "What, have his daughters brought him to this pass?"
@@ -416,7 +416,7 @@
             "act": 3,
             "scene": 4,
             "start": 67,
-            "stop": 67,
+            "end": 67,
             "lines": [
                 {
                     "text": "Nay, he reserved a blanket, else we had been all shamed."
@@ -430,7 +430,7 @@
             "act": 3,
             "scene": 4,
             "start": 68,
-            "stop": 69,
+            "end": 69,
             "lines": [
                 {
                     "text": "Now, all the plagues that in the pendulous air"
@@ -447,7 +447,7 @@
             "act": 3,
             "scene": 4,
             "start": 70,
-            "stop": 70,
+            "end": 70,
             "lines": [
                 {
                     "text": "He hath no daughters, sir."
@@ -461,7 +461,7 @@
             "act": 3,
             "scene": 4,
             "start": 71,
-            "stop": 76,
+            "end": 76,
             "lines": [
                 {
                     "text": "Death, traitor! nothing could have subdued nature"
@@ -490,7 +490,7 @@
             "act": 3,
             "scene": 4,
             "start": 77,
-            "stop": 78,
+            "end": 78,
             "lines": [
                 {
                     "text": "Pillicock sat on Pillicock-hill:"
@@ -507,7 +507,7 @@
             "act": 3,
             "scene": 4,
             "start": 79,
-            "stop": 79,
+            "end": 79,
             "lines": [
                 {
                     "text": "This cold night will turn us all to fools and madmen."
@@ -521,7 +521,7 @@
             "act": 3,
             "scene": 4,
             "start": 80,
-            "stop": 83,
+            "end": 83,
             "lines": [
                 {
                     "text": "Take heed o' the foul fiend: obey thy parents;"
@@ -544,7 +544,7 @@
             "act": 3,
             "scene": 4,
             "start": 84,
-            "stop": 84,
+            "end": 84,
             "lines": [
                 {
                     "text": "What hast thou been?"
@@ -558,7 +558,7 @@
             "act": 3,
             "scene": 4,
             "start": 85,
-            "stop": 101,
+            "end": 101,
             "lines": [
                 {
                     "text": "A serving-man, proud in heart and mind; that curled"
@@ -623,7 +623,7 @@
             "act": 3,
             "scene": 4,
             "start": 102,
-            "stop": 110,
+            "end": 110,
             "lines": [
                 {
                     "text": "Why, thou wert better in thy grave than to answer"
@@ -664,7 +664,7 @@
             "act": 3,
             "scene": 4,
             "start": 111,
-            "stop": 114,
+            "end": 114,
             "lines": [
                 {
                     "text": "Prithee, nuncle, be contented; 'tis a naughty night"
@@ -690,7 +690,7 @@
             "act": 3,
             "scene": 4,
             "start": 115,
-            "stop": 124,
+            "end": 124,
             "lines": [
                 {
                     "text": "This is the foul fiend Flibbertigibbet: he begins"
@@ -731,7 +731,7 @@
             "act": 3,
             "scene": 4,
             "start": 125,
-            "stop": 125,
+            "end": 125,
             "lines": [
                 {
                     "text": "How fares your grace?"
@@ -745,7 +745,7 @@
             "act": 3,
             "scene": 4,
             "start": 126,
-            "stop": 126,
+            "end": 126,
             "lines": [
                 {
                     "text": "What's he?"
@@ -759,7 +759,7 @@
             "act": 3,
             "scene": 4,
             "start": 127,
-            "stop": 127,
+            "end": 127,
             "lines": [
                 {
                     "text": "Who's there? What is't you seek?"
@@ -773,7 +773,7 @@
             "act": 3,
             "scene": 4,
             "start": 128,
-            "stop": 128,
+            "end": 128,
             "lines": [
                 {
                     "text": "What are you there? Your names?"
@@ -787,7 +787,7 @@
             "act": 3,
             "scene": 4,
             "start": 129,
-            "stop": 140,
+            "end": 140,
             "lines": [
                 {
                     "text": "Poor Tom; that eats the swimming frog, the toad,"
@@ -834,7 +834,7 @@
             "act": 3,
             "scene": 4,
             "start": 141,
-            "stop": 141,
+            "end": 141,
             "lines": [
                 {
                     "text": "What, hath your grace no better company?"
@@ -848,7 +848,7 @@
             "act": 3,
             "scene": 4,
             "start": 142,
-            "stop": 143,
+            "end": 143,
             "lines": [
                 {
                     "text": "The prince of darkness is a gentleman:"
@@ -865,7 +865,7 @@
             "act": 3,
             "scene": 4,
             "start": 144,
-            "stop": 145,
+            "end": 145,
             "lines": [
                 {
                     "text": "Our flesh and blood is grown so vile, my lord,"
@@ -882,7 +882,7 @@
             "act": 3,
             "scene": 4,
             "start": 146,
-            "stop": 146,
+            "end": 146,
             "lines": [
                 {
                     "text": "Poor Tom's a-cold."
@@ -896,7 +896,7 @@
             "act": 3,
             "scene": 4,
             "start": 147,
-            "stop": 152,
+            "end": 152,
             "lines": [
                 {
                     "text": "Go in with me: my duty cannot suffer"
@@ -925,7 +925,7 @@
             "act": 3,
             "scene": 4,
             "start": 153,
-            "stop": 154,
+            "end": 154,
             "lines": [
                 {
                     "text": "First let me talk with this philosopher."
@@ -942,7 +942,7 @@
             "act": 3,
             "scene": 4,
             "start": 155,
-            "stop": 155,
+            "end": 155,
             "lines": [
                 {
                     "text": "Good my lord, take his offer; go into the house."
@@ -956,7 +956,7 @@
             "act": 3,
             "scene": 4,
             "start": 156,
-            "stop": 157,
+            "end": 157,
             "lines": [
                 {
                     "text": "I'll talk a word with this same learned Theban."
@@ -973,7 +973,7 @@
             "act": 3,
             "scene": 4,
             "start": 158,
-            "stop": 158,
+            "end": 158,
             "lines": [
                 {
                     "text": "How to prevent the fiend, and to kill vermin."
@@ -987,7 +987,7 @@
             "act": 3,
             "scene": 4,
             "start": 159,
-            "stop": 159,
+            "end": 159,
             "lines": [
                 {
                     "text": "Let me ask you one word in private."
@@ -1001,7 +1001,7 @@
             "act": 3,
             "scene": 4,
             "start": 160,
-            "stop": 161,
+            "end": 161,
             "lines": [
                 {
                     "text": "Importune him once more to go, my lord;"
@@ -1018,7 +1018,7 @@
             "act": 3,
             "scene": 4,
             "start": 162,
-            "stop": 171,
+            "end": 171,
             "lines": [
                 {
                     "text": "Canst thou blame him?"
@@ -1062,7 +1062,7 @@
             "act": 3,
             "scene": 4,
             "start": 172,
-            "stop": 173,
+            "end": 173,
             "lines": [
                 {
                     "text": "O, cry your mercy, sir."
@@ -1079,7 +1079,7 @@
             "act": 3,
             "scene": 4,
             "start": 174,
-            "stop": 174,
+            "end": 174,
             "lines": [
                 {
                     "text": "Tom's a-cold."
@@ -1093,7 +1093,7 @@
             "act": 3,
             "scene": 4,
             "start": 175,
-            "stop": 175,
+            "end": 175,
             "lines": [
                 {
                     "text": "In, fellow, there, into the hovel: keep thee warm."
@@ -1107,7 +1107,7 @@
             "act": 3,
             "scene": 4,
             "start": 176,
-            "stop": 176,
+            "end": 176,
             "lines": [
                 {
                     "text": "Come let's in all."
@@ -1121,7 +1121,7 @@
             "act": 3,
             "scene": 4,
             "start": 177,
-            "stop": 177,
+            "end": 177,
             "lines": [
                 {
                     "text": " This way, my lord."
@@ -1135,7 +1135,7 @@
             "act": 3,
             "scene": 4,
             "start": 178,
-            "stop": 179,
+            "end": 179,
             "lines": [
                 {
                     "text": "With him;"
@@ -1152,7 +1152,7 @@
             "act": 3,
             "scene": 4,
             "start": 180,
-            "stop": 180,
+            "end": 180,
             "lines": [
                 {
                     "text": "Good my lord, soothe him; let him take the fellow."
@@ -1166,7 +1166,7 @@
             "act": 3,
             "scene": 4,
             "start": 181,
-            "stop": 181,
+            "end": 181,
             "lines": [
                 {
                     "text": "Take him you on."
@@ -1180,7 +1180,7 @@
             "act": 3,
             "scene": 4,
             "start": 182,
-            "stop": 182,
+            "end": 182,
             "lines": [
                 {
                     "text": "Sirrah, come on; go along with us."
@@ -1194,7 +1194,7 @@
             "act": 3,
             "scene": 4,
             "start": 183,
-            "stop": 183,
+            "end": 183,
             "lines": [
                 {
                     "text": "Come, good Athenian."
@@ -1208,7 +1208,7 @@
             "act": 3,
             "scene": 4,
             "start": 184,
-            "stop": 184,
+            "end": 184,
             "lines": [
                 {
                     "text": "No words, no words: hush."
@@ -1222,7 +1222,7 @@
             "act": 3,
             "scene": 4,
             "start": 185,
-            "stop": 187,
+            "end": 187,
             "lines": [
                 {
                     "text": " Child Rowland to the dark tower came,"

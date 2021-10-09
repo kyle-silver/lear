@@ -13,7 +13,7 @@
             "act": 4,
             "scene": 1,
             "start": 1,
-            "stop": 12,
+            "end": 12,
             "lines": [
                 {
                     "text": "Yet better thus, and known to be contemn'd,"
@@ -63,7 +63,7 @@
             "act": 4,
             "scene": 1,
             "start": 13,
-            "stop": 14,
+            "end": 14,
             "lines": [
                 {
                     "text": "O, my good lord, I have been your tenant, and"
@@ -80,7 +80,7 @@
             "act": 4,
             "scene": 1,
             "start": 15,
-            "stop": 17,
+            "end": 17,
             "lines": [
                 {
                     "text": "Away, get thee away; good friend, be gone:"
@@ -100,7 +100,7 @@
             "act": 4,
             "scene": 1,
             "start": 18,
-            "stop": 18,
+            "end": 18,
             "lines": [
                 {
                     "text": "Alack, sir, you cannot see your way."
@@ -114,7 +114,7 @@
             "act": 4,
             "scene": 1,
             "start": 19,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "I have no way, and therefore want no eyes;"
@@ -146,7 +146,7 @@
             "act": 4,
             "scene": 1,
             "start": 26,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "How now! Who's there?"
@@ -160,7 +160,7 @@
             "act": 4,
             "scene": 1,
             "start": 27,
-            "stop": 29,
+            "end": 29,
             "lines": [
                 {
                     "text": "[Aside] O gods! Who is't can say 'I am at"
@@ -180,7 +180,7 @@
             "act": 4,
             "scene": 1,
             "start": 30,
-            "stop": 30,
+            "end": 30,
             "lines": [
                 {
                     "text": "'Tis poor mad Tom."
@@ -194,7 +194,7 @@
             "act": 4,
             "scene": 1,
             "start": 31,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "[Aside] And worse I may be yet: the worst is not"
@@ -211,7 +211,7 @@
             "act": 4,
             "scene": 1,
             "start": 33,
-            "stop": 33,
+            "end": 33,
             "lines": [
                 {
                     "text": "Fellow, where goest?"
@@ -225,7 +225,7 @@
             "act": 4,
             "scene": 1,
             "start": 34,
-            "stop": 34,
+            "end": 34,
             "lines": [
                 {
                     "text": "Is it a beggar-man?"
@@ -239,7 +239,7 @@
             "act": 4,
             "scene": 1,
             "start": 35,
-            "stop": 35,
+            "end": 35,
             "lines": [
                 {
                     "text": "Madman and beggar too."
@@ -253,7 +253,7 @@
             "act": 4,
             "scene": 1,
             "start": 36,
-            "stop": 43,
+            "end": 43,
             "lines": [
                 {
                     "text": "He has some reason, else he could not beg."
@@ -288,7 +288,7 @@
             "act": 4,
             "scene": 1,
             "start": 44,
-            "stop": 46,
+            "end": 46,
             "lines": [
                 {
                     "text": "[Aside] How should this be?"
@@ -308,7 +308,7 @@
             "act": 4,
             "scene": 1,
             "start": 47,
-            "stop": 47,
+            "end": 47,
             "lines": [
                 {
                     "text": "Is that the naked fellow?"
@@ -322,7 +322,7 @@
             "act": 4,
             "scene": 1,
             "start": 48,
-            "stop": 48,
+            "end": 48,
             "lines": [
                 {
                     "text": "Ay, my lord."
@@ -336,7 +336,7 @@
             "act": 4,
             "scene": 1,
             "start": 49,
-            "stop": 53,
+            "end": 53,
             "lines": [
                 {
                     "text": "Then, prithee, get thee gone: if, for my sake,"
@@ -362,7 +362,7 @@
             "act": 4,
             "scene": 1,
             "start": 54,
-            "stop": 54,
+            "end": 54,
             "lines": [
                 {
                     "text": "Alack, sir, he is mad."
@@ -376,7 +376,7 @@
             "act": 4,
             "scene": 1,
             "start": 55,
-            "stop": 57,
+            "end": 57,
             "lines": [
                 {
                     "text": "'Tis the times' plague, when madmen lead the blind."
@@ -396,7 +396,7 @@
             "act": 4,
             "scene": 1,
             "start": 58,
-            "stop": 59,
+            "end": 59,
             "lines": [
                 {
                     "text": "I'll bring him the best 'parel that I have,"
@@ -416,7 +416,7 @@
             "act": 4,
             "scene": 1,
             "start": 60,
-            "stop": 60,
+            "end": 60,
             "lines": [
                 {
                     "text": "Sirrah, naked fellow,--"
@@ -430,7 +430,7 @@
             "act": 4,
             "scene": 1,
             "start": 61,
-            "stop": 62,
+            "end": 62,
             "lines": [
                 {
                     "text": "Poor Tom's a-cold."
@@ -450,7 +450,7 @@
             "act": 4,
             "scene": 1,
             "start": 63,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "Come hither, fellow."
@@ -464,7 +464,7 @@
             "act": 4,
             "scene": 1,
             "start": 64,
-            "stop": 64,
+            "end": 64,
             "lines": [
                 {
                     "text": "[Aside] And yet I must.--Bless thy sweet eyes, they bleed."
@@ -478,7 +478,7 @@
             "act": 4,
             "scene": 1,
             "start": 65,
-            "stop": 65,
+            "end": 65,
             "lines": [
                 {
                     "text": "Know'st thou the way to Dover?"
@@ -492,7 +492,7 @@
             "act": 4,
             "scene": 1,
             "start": 66,
-            "stop": 73,
+            "end": 73,
             "lines": [
                 {
                     "text": "Both stile and gate, horse-way and foot-path. Poor"
@@ -527,7 +527,7 @@
             "act": 4,
             "scene": 1,
             "start": 74,
-            "stop": 81,
+            "end": 81,
             "lines": [
                 {
                     "text": "Here, take this purse, thou whom the heavens' plagues"
@@ -562,7 +562,7 @@
             "act": 4,
             "scene": 1,
             "start": 82,
-            "stop": 82,
+            "end": 82,
             "lines": [
                 {
                     "text": "Ay, master."
@@ -576,7 +576,7 @@
             "act": 4,
             "scene": 1,
             "start": 83,
-            "stop": 88,
+            "end": 88,
             "lines": [
                 {
                     "text": "There is a cliff, whose high and bending head"
@@ -605,7 +605,7 @@
             "act": 4,
             "scene": 1,
             "start": 89,
-            "stop": 90,
+            "end": 90,
             "lines": [
                 {
                     "text": "Give me thy arm:"

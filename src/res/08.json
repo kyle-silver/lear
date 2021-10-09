@@ -13,7 +13,7 @@
             "act": 2,
             "scene": 3,
             "start": 1,
-            "stop": 21,
+            "end": 21,
             "lines": [
                 {
                     "text": "I heard myself proclaim'd;"

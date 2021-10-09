@@ -13,7 +13,7 @@
             "act": 4,
             "scene": 5,
             "start": 1,
-            "stop": 1,
+            "end": 1,
             "lines": [
                 {
                     "text": "But are my brother's powers set forth?"
@@ -27,7 +27,7 @@
             "act": 4,
             "scene": 5,
             "start": 2,
-            "stop": 2,
+            "end": 2,
             "lines": [
                 {
                     "text": "Ay, madam."
@@ -41,7 +41,7 @@
             "act": 4,
             "scene": 5,
             "start": 3,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "Himself in person there?"
@@ -55,7 +55,7 @@
             "act": 4,
             "scene": 5,
             "start": 4,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "Madam, with much ado:"
@@ -72,7 +72,7 @@
             "act": 4,
             "scene": 5,
             "start": 6,
-            "stop": 6,
+            "end": 6,
             "lines": [
                 {
                     "text": "Lord Edmund spake not with your lord at home?"
@@ -86,7 +86,7 @@
             "act": 4,
             "scene": 5,
             "start": 7,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "No, madam."
@@ -100,7 +100,7 @@
             "act": 4,
             "scene": 5,
             "start": 8,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "What might import my sister's letter to him?"
@@ -114,7 +114,7 @@
             "act": 4,
             "scene": 5,
             "start": 9,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "I know not, lady."
@@ -128,7 +128,7 @@
             "act": 4,
             "scene": 5,
             "start": 10,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "'Faith, he is posted hence on serious matter."
@@ -160,7 +160,7 @@
             "act": 4,
             "scene": 5,
             "start": 17,
-            "stop": 17,
+            "end": 17,
             "lines": [
                 {
                     "text": "I must needs after him, madam, with my letter."
@@ -174,7 +174,7 @@
             "act": 4,
             "scene": 5,
             "start": 18,
-            "stop": 19,
+            "end": 19,
             "lines": [
                 {
                     "text": "Our troops set forth to-morrow: stay with us;"
@@ -191,7 +191,7 @@
             "act": 4,
             "scene": 5,
             "start": 20,
-            "stop": 21,
+            "end": 21,
             "lines": [
                 {
                     "text": "I may not, madam:"
@@ -208,7 +208,7 @@
             "act": 4,
             "scene": 5,
             "start": 22,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "Why should she write to Edmund? Might not you"
@@ -231,7 +231,7 @@
             "act": 4,
             "scene": 5,
             "start": 26,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "Madam, I had rather--"
@@ -245,7 +245,7 @@
             "act": 4,
             "scene": 5,
             "start": 27,
-            "stop": 30,
+            "end": 30,
             "lines": [
                 {
                     "text": "I know your lady does not love her husband;"
@@ -268,7 +268,7 @@
             "act": 4,
             "scene": 5,
             "start": 31,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "I, madam?"
@@ -282,7 +282,7 @@
             "act": 4,
             "scene": 5,
             "start": 32,
-            "stop": 42,
+            "end": 42,
             "lines": [
                 {
                     "text": "I speak in understanding; you are; I know't:"
@@ -326,7 +326,7 @@
             "act": 4,
             "scene": 5,
             "start": 43,
-            "stop": 44,
+            "end": 44,
             "lines": [
                 {
                     "text": "Would I could meet him, madam! I should show"
@@ -343,7 +343,7 @@
             "act": 4,
             "scene": 5,
             "start": 45,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "Fare thee well."

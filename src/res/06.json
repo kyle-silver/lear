@@ -13,7 +13,7 @@
             "act": 2,
             "scene": 1,
             "start": 1,
-            "stop": 1,
+            "end": 1,
             "lines": [
                 {
                     "text": "Save thee, Curan."
@@ -27,7 +27,7 @@
             "act": 2,
             "scene": 1,
             "start": 2,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "And you, sir. I have been with your father, and"
@@ -47,7 +47,7 @@
             "act": 2,
             "scene": 1,
             "start": 5,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "How comes that?"
@@ -61,7 +61,7 @@
             "act": 2,
             "scene": 1,
             "start": 6,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "Nay, I know not. You have heard of the news abroad;"
@@ -81,7 +81,7 @@
             "act": 2,
             "scene": 1,
             "start": 9,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "Not I pray you, what are they?"
@@ -95,7 +95,7 @@
             "act": 2,
             "scene": 1,
             "start": 10,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "Have you heard of no likely wars toward, 'twixt the"
@@ -112,7 +112,7 @@
             "act": 2,
             "scene": 1,
             "start": 12,
-            "stop": 12,
+            "end": 12,
             "lines": [
                 {
                     "text": "Not a word."
@@ -126,7 +126,7 @@
             "act": 2,
             "scene": 1,
             "start": 13,
-            "stop": 13,
+            "end": 13,
             "lines": [
                 {
                     "text": "You may do, then, in time. Fare you well, sir."
@@ -143,7 +143,7 @@
             "act": 2,
             "scene": 1,
             "start": 14,
-            "stop": 27,
+            "end": 27,
             "lines": [
                 {
                     "text": "The duke be here to-night? The better! best!"
@@ -199,7 +199,7 @@
             "act": 2,
             "scene": 1,
             "start": 28,
-            "stop": 28,
+            "end": 28,
             "lines": [
                 {
                     "text": " I am sure on't, not a word."
@@ -213,7 +213,7 @@
             "act": 2,
             "scene": 1,
             "start": 29,
-            "stop": 37,
+            "end": 37,
             "lines": [
                 {
                     "text": "I hear my father coming: pardon me:"
@@ -260,7 +260,7 @@
             "act": 2,
             "scene": 1,
             "start": 38,
-            "stop": 38,
+            "end": 38,
             "lines": [
                 {
                     "text": "Now, Edmund, where's the villain?"
@@ -274,7 +274,7 @@
             "act": 2,
             "scene": 1,
             "start": 39,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "Here stood he in the dark, his sharp sword out,"
@@ -294,7 +294,7 @@
             "act": 2,
             "scene": 1,
             "start": 42,
-            "stop": 42,
+            "end": 42,
             "lines": [
                 {
                     "text": "But where is he?"
@@ -308,7 +308,7 @@
             "act": 2,
             "scene": 1,
             "start": 43,
-            "stop": 43,
+            "end": 43,
             "lines": [
                 {
                     "text": "Look, sir, I bleed."
@@ -322,7 +322,7 @@
             "act": 2,
             "scene": 1,
             "start": 44,
-            "stop": 44,
+            "end": 44,
             "lines": [
                 {
                     "text": "Where is the villain, Edmund?"
@@ -336,7 +336,7 @@
             "act": 2,
             "scene": 1,
             "start": 45,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "Fled this way, sir. When by no means he could--"
@@ -350,7 +350,7 @@
             "act": 2,
             "scene": 1,
             "start": 46,
-            "stop": 47,
+            "end": 47,
             "lines": [
                 {
                     "text": "Pursue him, ho! Go after."
@@ -370,7 +370,7 @@
             "act": 2,
             "scene": 1,
             "start": 48,
-            "stop": 60,
+            "end": 60,
             "lines": [
                 {
                     "text": "Persuade me to the murder of your lordship;"
@@ -420,7 +420,7 @@
             "act": 2,
             "scene": 1,
             "start": 61,
-            "stop": 68,
+            "end": 68,
             "lines": [
                 {
                     "text": "Let him fly far:"
@@ -455,7 +455,7 @@
             "act": 2,
             "scene": 1,
             "start": 69,
-            "stop": 82,
+            "end": 82,
             "lines": [
                 {
                     "text": "When I dissuaded him from his intent,"
@@ -508,7 +508,7 @@
             "act": 2,
             "scene": 1,
             "start": 83,
-            "stop": 91,
+            "end": 91,
             "lines": [
                 {
                     "text": "Strong and fasten'd villain"
@@ -552,7 +552,7 @@
             "act": 2,
             "scene": 1,
             "start": 92,
-            "stop": 93,
+            "end": 93,
             "lines": [
                 {
                     "text": "How now, my noble friend! since I came hither,"
@@ -569,7 +569,7 @@
             "act": 2,
             "scene": 1,
             "start": 94,
-            "stop": 95,
+            "end": 95,
             "lines": [
                 {
                     "text": "If it be true, all vengeance comes too short"
@@ -586,7 +586,7 @@
             "act": 2,
             "scene": 1,
             "start": 96,
-            "stop": 96,
+            "end": 96,
             "lines": [
                 {
                     "text": "O, madam, my old heart is crack'd, it's crack'd!"
@@ -600,7 +600,7 @@
             "act": 2,
             "scene": 1,
             "start": 97,
-            "stop": 98,
+            "end": 98,
             "lines": [
                 {
                     "text": "What, did my father's godson seek your life?"
@@ -617,7 +617,7 @@
             "act": 2,
             "scene": 1,
             "start": 99,
-            "stop": 99,
+            "end": 99,
             "lines": [
                 {
                     "text": "O, lady, lady, shame would have it hid!"
@@ -631,7 +631,7 @@
             "act": 2,
             "scene": 1,
             "start": 100,
-            "stop": 101,
+            "end": 101,
             "lines": [
                 {
                     "text": "Was he not companion with the riotous knights"
@@ -648,7 +648,7 @@
             "act": 2,
             "scene": 1,
             "start": 102,
-            "stop": 102,
+            "end": 102,
             "lines": [
                 {
                     "text": "I know not, madam: 'tis too bad, too bad."
@@ -662,7 +662,7 @@
             "act": 2,
             "scene": 1,
             "start": 103,
-            "stop": 103,
+            "end": 103,
             "lines": [
                 {
                     "text": "Yes, madam, he was of that consort."
@@ -676,7 +676,7 @@
             "act": 2,
             "scene": 1,
             "start": 104,
-            "stop": 110,
+            "end": 110,
             "lines": [
                 {
                     "text": "No marvel, then, though he were ill affected:"
@@ -708,7 +708,7 @@
             "act": 2,
             "scene": 1,
             "start": 111,
-            "stop": 113,
+            "end": 113,
             "lines": [
                 {
                     "text": "Nor I, assure thee, Regan."
@@ -728,7 +728,7 @@
             "act": 2,
             "scene": 1,
             "start": 114,
-            "stop": 114,
+            "end": 114,
             "lines": [
                 {
                     "text": "'Twas my duty, sir."
@@ -742,7 +742,7 @@
             "act": 2,
             "scene": 1,
             "start": 115,
-            "stop": 116,
+            "end": 116,
             "lines": [
                 {
                     "text": "He did bewray his practise; and received"
@@ -759,7 +759,7 @@
             "act": 2,
             "scene": 1,
             "start": 117,
-            "stop": 117,
+            "end": 117,
             "lines": [
                 {
                     "text": "Is he pursued?"
@@ -773,7 +773,7 @@
             "act": 2,
             "scene": 1,
             "start": 118,
-            "stop": 118,
+            "end": 118,
             "lines": [
                 {
                     "text": " Ay, my good lord."
@@ -787,7 +787,7 @@
             "act": 2,
             "scene": 1,
             "start": 119,
-            "stop": 125,
+            "end": 125,
             "lines": [
                 {
                     "text": "If he be taken, he shall never more"
@@ -819,7 +819,7 @@
             "act": 2,
             "scene": 1,
             "start": 126,
-            "stop": 127,
+            "end": 127,
             "lines": [
                 {
                     "text": "I shall serve you, sir,"
@@ -836,7 +836,7 @@
             "act": 2,
             "scene": 1,
             "start": 128,
-            "stop": 128,
+            "end": 128,
             "lines": [
                 {
                     "text": "For him I thank your grace."
@@ -850,7 +850,7 @@
             "act": 2,
             "scene": 1,
             "start": 129,
-            "stop": 129,
+            "end": 129,
             "lines": [
                 {
                     "text": "You know not why we came to visit you,--"
@@ -864,7 +864,7 @@
             "act": 2,
             "scene": 1,
             "start": 130,
-            "stop": 139,
+            "end": 139,
             "lines": [
                 {
                     "text": "Thus out of season, threading dark-eyed night:"
@@ -905,7 +905,7 @@
             "act": 2,
             "scene": 1,
             "start": 140,
-            "stop": 141,
+            "end": 141,
             "lines": [
                 {
                     "text": "I serve you, madam:"

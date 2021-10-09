@@ -13,7 +13,7 @@
             "act": 3,
             "scene": 3,
             "start": 1,
-            "stop": 6,
+            "end": 6,
             "lines": [
                 {
                     "text": "Alack, alack, Edmund, I like not this unnatural"
@@ -42,7 +42,7 @@
             "act": 3,
             "scene": 3,
             "start": 7,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "Most savage and unnatural!"
@@ -56,7 +56,7 @@
             "act": 3,
             "scene": 3,
             "start": 8,
-            "stop": 20,
+            "end": 20,
             "lines": [
                 {
                     "text": "Go to; say you nothing. There's a division betwixt"
@@ -109,7 +109,7 @@
             "act": 3,
             "scene": 3,
             "start": 21,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "This courtesy, forbid thee, shall the duke"

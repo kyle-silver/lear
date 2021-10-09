@@ -13,7 +13,7 @@
             "act": 1,
             "scene": 1,
             "start": 1,
-            "stop": 2,
+            "end": 2,
             "lines": [
                 {
                     "text": "I thought the king had more affected the Duke of"
@@ -30,7 +30,7 @@
             "act": 1,
             "scene": 1,
             "start": 3,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "It did always seem so to us: but now, in the"
@@ -56,7 +56,7 @@
             "act": 1,
             "scene": 1,
             "start": 8,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "Is not this your son, my lord?"
@@ -70,7 +70,7 @@
             "act": 1,
             "scene": 1,
             "start": 9,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "His breeding, sir, hath been at my charge: I have"
@@ -90,7 +90,7 @@
             "act": 1,
             "scene": 1,
             "start": 12,
-            "stop": 12,
+            "end": 12,
             "lines": [
                 {
                     "text": "I cannot conceive you."
@@ -104,7 +104,7 @@
             "act": 1,
             "scene": 1,
             "start": 13,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "Sir, this young fellow's mother could: whereupon"
@@ -127,7 +127,7 @@
             "act": 1,
             "scene": 1,
             "start": 17,
-            "stop": 18,
+            "end": 18,
             "lines": [
                 {
                     "text": "I cannot wish the fault undone, the issue of it"
@@ -144,7 +144,7 @@
             "act": 1,
             "scene": 1,
             "start": 19,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "But I have, sir, a son by order of law, some year"
@@ -176,7 +176,7 @@
             "act": 1,
             "scene": 1,
             "start": 26,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "No, my lord."
@@ -190,7 +190,7 @@
             "act": 1,
             "scene": 1,
             "start": 27,
-            "stop": 28,
+            "end": 28,
             "lines": [
                 {
                     "text": "My lord of Kent: remember him hereafter as my"
@@ -207,7 +207,7 @@
             "act": 1,
             "scene": 1,
             "start": 29,
-            "stop": 29,
+            "end": 29,
             "lines": [
                 {
                     "text": "My services to your lordship."
@@ -221,7 +221,7 @@
             "act": 1,
             "scene": 1,
             "start": 30,
-            "stop": 30,
+            "end": 30,
             "lines": [
                 {
                     "text": "I must love you, and sue to know you better."
@@ -235,7 +235,7 @@
             "act": 1,
             "scene": 1,
             "start": 31,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "Sir, I shall study deserving."
@@ -249,7 +249,7 @@
             "act": 1,
             "scene": 1,
             "start": 32,
-            "stop": 33,
+            "end": 33,
             "lines": [
                 {
                     "text": "He hath been out nine years, and away he shall"
@@ -269,7 +269,7 @@
             "act": 1,
             "scene": 1,
             "start": 34,
-            "stop": 34,
+            "end": 34,
             "lines": [
                 {
                     "text": "Attend the lords of France and Burgundy, Gloucester."
@@ -283,7 +283,7 @@
             "act": 1,
             "scene": 1,
             "start": 35,
-            "stop": 35,
+            "end": 35,
             "lines": [
                 {
                     "text": "I shall, my liege."
@@ -300,7 +300,7 @@
             "act": 1,
             "scene": 1,
             "start": 36,
-            "stop": 54,
+            "end": 54,
             "lines": [
                 {
                     "text": "Meantime we shall express our darker purpose."
@@ -368,7 +368,7 @@
             "act": 1,
             "scene": 1,
             "start": 55,
-            "stop": 61,
+            "end": 61,
             "lines": [
                 {
                     "text": "Sir, I love you more than words can wield the matter;"
@@ -400,7 +400,7 @@
             "act": 1,
             "scene": 1,
             "start": 62,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "[Aside] What shall Cordelia do?"
@@ -417,7 +417,7 @@
             "act": 1,
             "scene": 1,
             "start": 64,
-            "stop": 69,
+            "end": 69,
             "lines": [
                 {
                     "text": "Of all these bounds, even from this line to this,"
@@ -446,7 +446,7 @@
             "act": 1,
             "scene": 1,
             "start": 70,
-            "stop": 78,
+            "end": 78,
             "lines": [
                 {
                     "text": "Sir, I am made"
@@ -484,7 +484,7 @@
             "act": 1,
             "scene": 1,
             "start": 79,
-            "stop": 81,
+            "end": 81,
             "lines": [
                 {
                     "text": "[Aside] Then poor Cordelia!"
@@ -504,7 +504,7 @@
             "act": 1,
             "scene": 1,
             "start": 82,
-            "stop": 89,
+            "end": 89,
             "lines": [
                 {
                     "text": "To thee and thine hereditary ever"
@@ -539,7 +539,7 @@
             "act": 1,
             "scene": 1,
             "start": 90,
-            "stop": 90,
+            "end": 90,
             "lines": [
                 {
                     "text": "Nothing, my lord."
@@ -553,7 +553,7 @@
             "act": 1,
             "scene": 1,
             "start": 91,
-            "stop": 91,
+            "end": 91,
             "lines": [
                 {
                     "text": "Nothing!"
@@ -567,7 +567,7 @@
             "act": 1,
             "scene": 1,
             "start": 92,
-            "stop": 92,
+            "end": 92,
             "lines": [
                 {
                     "text": "Nothing."
@@ -581,7 +581,7 @@
             "act": 1,
             "scene": 1,
             "start": 93,
-            "stop": 93,
+            "end": 93,
             "lines": [
                 {
                     "text": "Nothing will come of nothing: speak again."
@@ -595,7 +595,7 @@
             "act": 1,
             "scene": 1,
             "start": 94,
-            "stop": 96,
+            "end": 96,
             "lines": [
                 {
                     "text": "Unhappy that I am, I cannot heave"
@@ -615,7 +615,7 @@
             "act": 1,
             "scene": 1,
             "start": 97,
-            "stop": 98,
+            "end": 98,
             "lines": [
                 {
                     "text": "How, how, Cordelia! mend your speech a little,"
@@ -632,7 +632,7 @@
             "act": 1,
             "scene": 1,
             "start": 99,
-            "stop": 108,
+            "end": 108,
             "lines": [
                 {
                     "text": "Good my lord,"
@@ -673,7 +673,7 @@
             "act": 1,
             "scene": 1,
             "start": 109,
-            "stop": 109,
+            "end": 109,
             "lines": [
                 {
                     "text": "But goes thy heart with this?"
@@ -687,7 +687,7 @@
             "act": 1,
             "scene": 1,
             "start": 110,
-            "stop": 110,
+            "end": 110,
             "lines": [
                 {
                     "text": "Ay, good my lord."
@@ -701,7 +701,7 @@
             "act": 1,
             "scene": 1,
             "start": 111,
-            "stop": 111,
+            "end": 111,
             "lines": [
                 {
                     "text": "So young, and so untender?"
@@ -715,7 +715,7 @@
             "act": 1,
             "scene": 1,
             "start": 112,
-            "stop": 112,
+            "end": 112,
             "lines": [
                 {
                     "text": "So young, my lord, and true."
@@ -729,7 +729,7 @@
             "act": 1,
             "scene": 1,
             "start": 113,
-            "stop": 125,
+            "end": 125,
             "lines": [
                 {
                     "text": "Let it be so; thy truth, then, be thy dower:"
@@ -779,7 +779,7 @@
             "act": 1,
             "scene": 1,
             "start": 126,
-            "stop": 126,
+            "end": 126,
             "lines": [
                 {
                     "text": "Good my liege,--"
@@ -793,7 +793,7 @@
             "act": 1,
             "scene": 1,
             "start": 127,
-            "stop": 145,
+            "end": 145,
             "lines": [
                 {
                     "text": "Peace, Kent!"
@@ -864,7 +864,7 @@
             "act": 1,
             "scene": 1,
             "start": 146,
-            "stop": 149,
+            "end": 149,
             "lines": [
                 {
                     "text": "Royal Lear,"
@@ -887,7 +887,7 @@
             "act": 1,
             "scene": 1,
             "start": 150,
-            "stop": 150,
+            "end": 150,
             "lines": [
                 {
                     "text": "The bow is bent and drawn, make from the shaft."
@@ -901,7 +901,7 @@
             "act": 1,
             "scene": 1,
             "start": 151,
-            "stop": 161,
+            "end": 161,
             "lines": [
                 {
                     "text": "Let it fall rather, though the fork invade"
@@ -945,7 +945,7 @@
             "act": 1,
             "scene": 1,
             "start": 162,
-            "stop": 162,
+            "end": 162,
             "lines": [
                 {
                     "text": "Kent, on thy life, no more."
@@ -959,7 +959,7 @@
             "act": 1,
             "scene": 1,
             "start": 163,
-            "stop": 165,
+            "end": 165,
             "lines": [
                 {
                     "text": "My life I never held but as a pawn"
@@ -979,7 +979,7 @@
             "act": 1,
             "scene": 1,
             "start": 166,
-            "stop": 166,
+            "end": 166,
             "lines": [
                 {
                     "text": "Out of my sight!"
@@ -993,7 +993,7 @@
             "act": 1,
             "scene": 1,
             "start": 167,
-            "stop": 168,
+            "end": 168,
             "lines": [
                 {
                     "text": "See better, Lear; and let me still remain"
@@ -1010,7 +1010,7 @@
             "act": 1,
             "scene": 1,
             "start": 169,
-            "stop": 169,
+            "end": 169,
             "lines": [
                 {
                     "text": "Now, by Apollo,--"
@@ -1024,7 +1024,7 @@
             "act": 1,
             "scene": 1,
             "start": 170,
-            "stop": 171,
+            "end": 171,
             "lines": [
                 {
                     "text": " Now, by Apollo, king,"
@@ -1041,7 +1041,7 @@
             "act": 1,
             "scene": 1,
             "start": 172,
-            "stop": 172,
+            "end": 172,
             "lines": [
                 {
                     "text": "O, vassal! miscreant!"
@@ -1058,7 +1058,7 @@
             "act": 1,
             "scene": 1,
             "start": 173,
-            "stop": 173,
+            "end": 173,
             "lines": [
                 {
                     "text": "Dear sir, forbear."
@@ -1072,7 +1072,7 @@
             "act": 1,
             "scene": 1,
             "start": 174,
-            "stop": 178,
+            "end": 178,
             "lines": [
                 {
                     "text": "Do:"
@@ -1098,7 +1098,7 @@
             "act": 1,
             "scene": 1,
             "start": 179,
-            "stop": 192,
+            "end": 192,
             "lines": [
                 {
                     "text": "Hear me, recreant!"
@@ -1151,7 +1151,7 @@
             "act": 1,
             "scene": 1,
             "start": 193,
-            "stop": 200,
+            "end": 200,
             "lines": [
                 {
                     "text": "Fare thee well, king: sith thus thou wilt appear,"
@@ -1198,7 +1198,7 @@
             "act": 1,
             "scene": 1,
             "start": 201,
-            "stop": 201,
+            "end": 201,
             "lines": [
                 {
                     "text": "Here's France and Burgundy, my noble lord."
@@ -1212,7 +1212,7 @@
             "act": 1,
             "scene": 1,
             "start": 202,
-            "stop": 206,
+            "end": 206,
             "lines": [
                 {
                     "text": "My lord of Burgundy."
@@ -1238,7 +1238,7 @@
             "act": 1,
             "scene": 1,
             "start": 207,
-            "stop": 209,
+            "end": 209,
             "lines": [
                 {
                     "text": "Most royal majesty,"
@@ -1258,7 +1258,7 @@
             "act": 1,
             "scene": 1,
             "start": 210,
-            "stop": 216,
+            "end": 216,
             "lines": [
                 {
                     "text": "Right noble Burgundy,"
@@ -1290,7 +1290,7 @@
             "act": 1,
             "scene": 1,
             "start": 217,
-            "stop": 217,
+            "end": 217,
             "lines": [
                 {
                     "text": "I know no answer."
@@ -1304,7 +1304,7 @@
             "act": 1,
             "scene": 1,
             "start": 218,
-            "stop": 221,
+            "end": 221,
             "lines": [
                 {
                     "text": "Will you, with those infirmities she owes,"
@@ -1327,7 +1327,7 @@
             "act": 1,
             "scene": 1,
             "start": 222,
-            "stop": 223,
+            "end": 223,
             "lines": [
                 {
                     "text": "Pardon me, royal sir;"
@@ -1344,7 +1344,7 @@
             "act": 1,
             "scene": 1,
             "start": 224,
-            "stop": 231,
+            "end": 231,
             "lines": [
                 {
                     "text": "Then leave her, sir; for, by the power that made me,"
@@ -1382,7 +1382,7 @@
             "act": 1,
             "scene": 1,
             "start": 232,
-            "stop": 242,
+            "end": 242,
             "lines": [
                 {
                     "text": "This is most strange,"
@@ -1426,7 +1426,7 @@
             "act": 1,
             "scene": 1,
             "start": 243,
-            "stop": 253,
+            "end": 253,
             "lines": [
                 {
                     "text": "I yet beseech your majesty,--"
@@ -1470,7 +1470,7 @@
             "act": 1,
             "scene": 1,
             "start": 254,
-            "stop": 255,
+            "end": 255,
             "lines": [
                 {
                     "text": "Better thou"
@@ -1487,7 +1487,7 @@
             "act": 1,
             "scene": 1,
             "start": 256,
-            "stop": 262,
+            "end": 262,
             "lines": [
                 {
                     "text": "Is it but this,--a tardiness in nature"
@@ -1519,7 +1519,7 @@
             "act": 1,
             "scene": 1,
             "start": 263,
-            "stop": 266,
+            "end": 266,
             "lines": [
                 {
                     "text": "Royal Lear,"
@@ -1542,7 +1542,7 @@
             "act": 1,
             "scene": 1,
             "start": 267,
-            "stop": 267,
+            "end": 267,
             "lines": [
                 {
                     "text": "Nothing: I have sworn; I am firm."
@@ -1556,7 +1556,7 @@
             "act": 1,
             "scene": 1,
             "start": 268,
-            "stop": 269,
+            "end": 269,
             "lines": [
                 {
                     "text": "I am sorry, then, you have so lost a father"
@@ -1573,7 +1573,7 @@
             "act": 1,
             "scene": 1,
             "start": 270,
-            "stop": 272,
+            "end": 272,
             "lines": [
                 {
                     "text": "Peace be with Burgundy!"
@@ -1593,7 +1593,7 @@
             "act": 1,
             "scene": 1,
             "start": 273,
-            "stop": 284,
+            "end": 284,
             "lines": [
                 {
                     "text": "Fairest Cordelia, that art most rich, being poor;"
@@ -1640,7 +1640,7 @@
             "act": 1,
             "scene": 1,
             "start": 285,
-            "stop": 289,
+            "end": 289,
             "lines": [
                 {
                     "text": "Thou hast her, France: let her be thine; for we"
@@ -1669,7 +1669,7 @@
             "act": 1,
             "scene": 1,
             "start": 290,
-            "stop": 290,
+            "end": 290,
             "lines": [
                 {
                     "text": "Bid farewell to your sisters."
@@ -1683,7 +1683,7 @@
             "act": 1,
             "scene": 1,
             "start": 291,
-            "stop": 298,
+            "end": 298,
             "lines": [
                 {
                     "text": "The jewels of our father, with wash'd eyes"
@@ -1718,7 +1718,7 @@
             "act": 1,
             "scene": 1,
             "start": 299,
-            "stop": 299,
+            "end": 299,
             "lines": [
                 {
                     "text": "Prescribe not us our duties."
@@ -1732,7 +1732,7 @@
             "act": 1,
             "scene": 1,
             "start": 300,
-            "stop": 303,
+            "end": 303,
             "lines": [
                 {
                     "text": "Let your study"
@@ -1755,7 +1755,7 @@
             "act": 1,
             "scene": 1,
             "start": 304,
-            "stop": 306,
+            "end": 306,
             "lines": [
                 {
                     "text": "Time shall unfold what plaited cunning hides:"
@@ -1775,7 +1775,7 @@
             "act": 1,
             "scene": 1,
             "start": 307,
-            "stop": 307,
+            "end": 307,
             "lines": [
                 {
                     "text": "Come, my fair Cordelia."
@@ -1792,7 +1792,7 @@
             "act": 1,
             "scene": 1,
             "start": 308,
-            "stop": 310,
+            "end": 310,
             "lines": [
                 {
                     "text": "Sister, it is not a little I have to say of what"
@@ -1812,7 +1812,7 @@
             "act": 1,
             "scene": 1,
             "start": 311,
-            "stop": 311,
+            "end": 311,
             "lines": [
                 {
                     "text": "That's most certain, and with you; next month with us."
@@ -1826,7 +1826,7 @@
             "act": 1,
             "scene": 1,
             "start": 312,
-            "stop": 316,
+            "end": 316,
             "lines": [
                 {
                     "text": "You see how full of changes his age is; the"
@@ -1852,7 +1852,7 @@
             "act": 1,
             "scene": 1,
             "start": 317,
-            "stop": 318,
+            "end": 318,
             "lines": [
                 {
                     "text": "'Tis the infirmity of his age: yet he hath ever"
@@ -1869,7 +1869,7 @@
             "act": 1,
             "scene": 1,
             "start": 319,
-            "stop": 323,
+            "end": 323,
             "lines": [
                 {
                     "text": "The best and soundest of his time hath been but"
@@ -1895,7 +1895,7 @@
             "act": 1,
             "scene": 1,
             "start": 324,
-            "stop": 325,
+            "end": 325,
             "lines": [
                 {
                     "text": "Such unconstant starts are we like to have from"
@@ -1912,7 +1912,7 @@
             "act": 1,
             "scene": 1,
             "start": 326,
-            "stop": 330,
+            "end": 330,
             "lines": [
                 {
                     "text": "There is further compliment of leavetaking"
@@ -1938,7 +1938,7 @@
             "act": 1,
             "scene": 1,
             "start": 331,
-            "stop": 331,
+            "end": 331,
             "lines": [
                 {
                     "text": "We shall further think on't."
@@ -1952,7 +1952,7 @@
             "act": 1,
             "scene": 1,
             "start": 332,
-            "stop": 332,
+            "end": 332,
             "lines": [
                 {
                     "text": "We must do something, and i' the heat."

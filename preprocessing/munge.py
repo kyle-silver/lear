@@ -46,7 +46,7 @@ class Dialogue(TextBlock):
     act: int
     scene: int
     start: int
-    stop: int
+    end: int
     lines: List[Line]
 
     @staticmethod

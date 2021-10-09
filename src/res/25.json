@@ -13,7 +13,7 @@
             "act": 5,
             "scene": 2,
             "start": 1,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "Here, father, take the shadow of this tree"
@@ -36,7 +36,7 @@
             "act": 5,
             "scene": 2,
             "start": 5,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "Grace go with you, sir!"
@@ -56,7 +56,7 @@
             "act": 5,
             "scene": 2,
             "start": 6,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "Away, old man; give me thy hand; away!"
@@ -76,7 +76,7 @@
             "act": 5,
             "scene": 2,
             "start": 9,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "No farther, sir; a man may rot even here."
@@ -90,7 +90,7 @@
             "act": 5,
             "scene": 2,
             "start": 10,
-            "stop": 12,
+            "end": 12,
             "lines": [
                 {
                     "text": "What, in ill thoughts again? Men must endure"
@@ -110,7 +110,7 @@
             "act": 5,
             "scene": 2,
             "start": 13,
-            "stop": 13,
+            "end": 13,
             "lines": [
                 {
                     "text": "And that's true too."

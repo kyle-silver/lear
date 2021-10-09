@@ -186,8 +186,8 @@ pub fn display_contents() {
     );
     println!("{: ^19}\n", "KING LEAR");
     println!("{: ^19}\n", "by");
-    println!("{}{: ^19}{}", style::Italic, "William", style::Italic);
-    println!("{}{: ^19}{}\n", style::Italic, "Shakespeare", style::Italic);
+    println!("{}{: ^19}{}", style::Italic, "William", style::Reset);
+    println!("{}{: ^19}{}\n", style::Italic, "Shakespeare", style::Reset);
     println!(
         "{}{: ^5}{: ^7}{: ^7}{}",
         style::Bold,
@@ -311,33 +311,33 @@ pub struct Dialogue {
     act: usize,
     scene: usize,
     start: usize,
-    stop: usize,
+    end: usize,
 }
 
 impl Dialogue {
     fn selection(&self, range: &RangeInclusive<usize>) -> Option<Dialogue> {
         // no overlap
-        if self.start > *range.end() || self.stop < *range.start() {
+        if self.start > *range.end() || self.end < *range.start() {
             return None;
         }
         // the line numbers from the selection
         let start_line = max(range.start(), &self.start);
-        let stop_line = min(range.end(), &self.stop);
-        // the start and stop indexes in self.lines
+        let end_line = min(range.end(), &self.end);
+        // the start and end indexes in self.lines
         let (start, _) = self
             .lines
             .iter()
             .enumerate()
             .filter(|(_, line)| matches!(line, Line::Text(_)))
             .find(|(i, _)| i + self.start >= *start_line)?;
-        let (stop, _) = self
+        let (end, _) = self
             .lines
             .iter()
             .enumerate()
             .filter(|(_, line)| matches!(line, Line::Text(_)))
-            .find(|(i, _)| i + self.start >= *stop_line)?;
+            .find(|(i, _)| i + self.start >= *end_line)?;
         // grab only the lines we want to display
-        let mut lines: Vec<Line> = self.lines[start..=stop].iter().cloned().collect();
+        let mut lines: Vec<Line> = self.lines[start..=end].iter().cloned().collect();
         // omit empty dialogue blocks
         if lines.is_empty() {
             return None;
@@ -346,13 +346,13 @@ impl Dialogue {
         if range.start() > &self.start {
             lines.insert(0, Line::Text("...".into()));
         }
-        if range.end() < &self.stop {
+        if range.end() < &self.end {
             lines.push(Line::Text("...".into()));
         }
         Some(Dialogue {
             lines,
             start: *start_line,
-            stop: *stop_line,
+            end: *end_line,
             character: self.character.clone(),
             ..*self
         })
@@ -479,7 +479,7 @@ fn attribution(blocks: &[Block]) -> Option<String> {
     let act = first.act;
     let scene = first.scene;
     let start = first.start;
-    let stop = dialogue.last()?.stop;
+    let end = dialogue.last()?.end;
     Some(format!(
         "({}Lr.{} {}.{}.{}-{})",
         style::Italic,
@@ -487,7 +487,7 @@ fn attribution(blocks: &[Block]) -> Option<String> {
         act,
         scene,
         start,
-        stop
+        end
     ))
 }
 

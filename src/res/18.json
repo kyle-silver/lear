@@ -13,7 +13,7 @@
             "act": 4,
             "scene": 2,
             "start": 1,
-            "stop": 3,
+            "end": 3,
             "lines": [
                 {
                     "text": "Welcome, my lord: I marvel our mild husband"
@@ -36,7 +36,7 @@
             "act": 4,
             "scene": 2,
             "start": 4,
-            "stop": 12,
+            "end": 12,
             "lines": [
                 {
                     "text": "Madam, within; but never man so changed."
@@ -74,7 +74,7 @@
             "act": 4,
             "scene": 2,
             "start": 13,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "[To EDMUND] Then shall you go no further."
@@ -130,7 +130,7 @@
             "act": 4,
             "scene": 2,
             "start": 27,
-            "stop": 27,
+            "end": 27,
             "lines": [
                 {
                     "text": "Yours in the ranks of death."
@@ -144,7 +144,7 @@
             "act": 4,
             "scene": 2,
             "start": 28,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "My most dear Gloucester!"
@@ -170,7 +170,7 @@
             "act": 4,
             "scene": 2,
             "start": 32,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "Madam, here comes my lord."
@@ -190,7 +190,7 @@
             "act": 4,
             "scene": 2,
             "start": 33,
-            "stop": 33,
+            "end": 33,
             "lines": [
                 {
                     "text": "I have been worth the whistle."
@@ -204,7 +204,7 @@
             "act": 4,
             "scene": 2,
             "start": 34,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "O Goneril!"
@@ -239,7 +239,7 @@
             "act": 4,
             "scene": 2,
             "start": 42,
-            "stop": 42,
+            "end": 42,
             "lines": [
                 {
                     "text": "No more; the text is foolish."
@@ -253,7 +253,7 @@
             "act": 4,
             "scene": 2,
             "start": 43,
-            "stop": 55,
+            "end": 55,
             "lines": [
                 {
                     "text": "Wisdom and goodness to the vile seem vile:"
@@ -303,7 +303,7 @@
             "act": 4,
             "scene": 2,
             "start": 56,
-            "stop": 65,
+            "end": 65,
             "lines": [
                 {
                     "text": "Milk-liver'd man!"
@@ -344,7 +344,7 @@
             "act": 4,
             "scene": 2,
             "start": 66,
-            "stop": 68,
+            "end": 68,
             "lines": [
                 {
                     "text": "See thyself, devil!"
@@ -364,7 +364,7 @@
             "act": 4,
             "scene": 2,
             "start": 69,
-            "stop": 69,
+            "end": 69,
             "lines": [
                 {
                     "text": "O vain fool!"
@@ -378,7 +378,7 @@
             "act": 4,
             "scene": 2,
             "start": 70,
-            "stop": 75,
+            "end": 75,
             "lines": [
                 {
                     "text": "Thou changed and self-cover'd thing, for shame,"
@@ -407,7 +407,7 @@
             "act": 4,
             "scene": 2,
             "start": 76,
-            "stop": 76,
+            "end": 76,
             "lines": [
                 {
                     "text": "Marry, your manhood now--"
@@ -424,7 +424,7 @@
             "act": 4,
             "scene": 2,
             "start": 77,
-            "stop": 77,
+            "end": 77,
             "lines": [
                 {
                     "text": "What news?"
@@ -438,7 +438,7 @@
             "act": 4,
             "scene": 2,
             "start": 78,
-            "stop": 80,
+            "end": 80,
             "lines": [
                 {
                     "text": "O, my good lord, the Duke of Cornwall's dead:"
@@ -458,7 +458,7 @@
             "act": 4,
             "scene": 2,
             "start": 81,
-            "stop": 81,
+            "end": 81,
             "lines": [
                 {
                     "text": "Gloucester's eye!"
@@ -472,7 +472,7 @@
             "act": 4,
             "scene": 2,
             "start": 82,
-            "stop": 87,
+            "end": 87,
             "lines": [
                 {
                     "text": "A servant that he bred, thrill'd with remorse,"
@@ -501,7 +501,7 @@
             "act": 4,
             "scene": 2,
             "start": 88,
-            "stop": 91,
+            "end": 91,
             "lines": [
                 {
                     "text": "This shows you are above,"
@@ -524,7 +524,7 @@
             "act": 4,
             "scene": 2,
             "start": 92,
-            "stop": 94,
+            "end": 94,
             "lines": [
                 {
                     "text": "Both, both, my lord."
@@ -544,7 +544,7 @@
             "act": 4,
             "scene": 2,
             "start": 95,
-            "stop": 99,
+            "end": 99,
             "lines": [
                 {
                     "text": "[Aside] One way I like this well;"
@@ -573,7 +573,7 @@
             "act": 4,
             "scene": 2,
             "start": 100,
-            "stop": 100,
+            "end": 100,
             "lines": [
                 {
                     "text": "Where was his son when they did take his eyes?"
@@ -587,7 +587,7 @@
             "act": 4,
             "scene": 2,
             "start": 101,
-            "stop": 101,
+            "end": 101,
             "lines": [
                 {
                     "text": "Come with my lady hither."
@@ -601,7 +601,7 @@
             "act": 4,
             "scene": 2,
             "start": 102,
-            "stop": 102,
+            "end": 102,
             "lines": [
                 {
                     "text": "He is not here."
@@ -615,7 +615,7 @@
             "act": 4,
             "scene": 2,
             "start": 103,
-            "stop": 103,
+            "end": 103,
             "lines": [
                 {
                     "text": "No, my good lord; I met him back again."
@@ -629,7 +629,7 @@
             "act": 4,
             "scene": 2,
             "start": 104,
-            "stop": 104,
+            "end": 104,
             "lines": [
                 {
                     "text": "Knows he the wickedness?"
@@ -643,7 +643,7 @@
             "act": 4,
             "scene": 2,
             "start": 105,
-            "stop": 107,
+            "end": 107,
             "lines": [
                 {
                     "text": "Ay, my good lord; 'twas he inform'd against him;"
@@ -663,7 +663,7 @@
             "act": 4,
             "scene": 2,
             "start": 108,
-            "stop": 111,
+            "end": 111,
             "lines": [
                 {
                     "text": "Gloucester, I live"

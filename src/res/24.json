@@ -13,7 +13,7 @@
             "act": 5,
             "scene": 1,
             "start": 1,
-            "stop": 4,
+            "end": 4,
             "lines": [
                 {
                     "text": "Know of the duke if his last purpose hold,"
@@ -39,7 +39,7 @@
             "act": 5,
             "scene": 1,
             "start": 5,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "Our sister's man is certainly miscarried."
@@ -53,7 +53,7 @@
             "act": 5,
             "scene": 1,
             "start": 6,
-            "stop": 6,
+            "end": 6,
             "lines": [
                 {
                     "text": "'Tis to be doubted, madam."
@@ -67,7 +67,7 @@
             "act": 5,
             "scene": 1,
             "start": 7,
-            "stop": 10,
+            "end": 10,
             "lines": [
                 {
                     "text": "Now, sweet lord,"
@@ -90,7 +90,7 @@
             "act": 5,
             "scene": 1,
             "start": 11,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "In honour'd love."
@@ -104,7 +104,7 @@
             "act": 5,
             "scene": 1,
             "start": 12,
-            "stop": 13,
+            "end": 13,
             "lines": [
                 {
                     "text": "But have you never found my brother's way"
@@ -121,7 +121,7 @@
             "act": 5,
             "scene": 1,
             "start": 14,
-            "stop": 14,
+            "end": 14,
             "lines": [
                 {
                     "text": "That thought abuses you."
@@ -135,7 +135,7 @@
             "act": 5,
             "scene": 1,
             "start": 15,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "I am doubtful that you have been conjunct"
@@ -152,7 +152,7 @@
             "act": 5,
             "scene": 1,
             "start": 17,
-            "stop": 17,
+            "end": 17,
             "lines": [
                 {
                     "text": "No, by mine honour, madam."
@@ -166,7 +166,7 @@
             "act": 5,
             "scene": 1,
             "start": 18,
-            "stop": 19,
+            "end": 19,
             "lines": [
                 {
                     "text": "I never shall endure her: dear my lord,"
@@ -183,7 +183,7 @@
             "act": 5,
             "scene": 1,
             "start": 20,
-            "stop": 21,
+            "end": 21,
             "lines": [
                 {
                     "text": "Fear me not:"
@@ -203,7 +203,7 @@
             "act": 5,
             "scene": 1,
             "start": 22,
-            "stop": 23,
+            "end": 23,
             "lines": [
                 {
                     "text": "[Aside] I had rather lose the battle than that sister"
@@ -220,7 +220,7 @@
             "act": 5,
             "scene": 1,
             "start": 24,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "Our very loving sister, well be-met."
@@ -255,7 +255,7 @@
             "act": 5,
             "scene": 1,
             "start": 32,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "Sir, you speak nobly."
@@ -269,7 +269,7 @@
             "act": 5,
             "scene": 1,
             "start": 33,
-            "stop": 33,
+            "end": 33,
             "lines": [
                 {
                     "text": "Why is this reason'd?"
@@ -283,7 +283,7 @@
             "act": 5,
             "scene": 1,
             "start": 34,
-            "stop": 36,
+            "end": 36,
             "lines": [
                 {
                     "text": "Combine together 'gainst the enemy;"
@@ -303,7 +303,7 @@
             "act": 5,
             "scene": 1,
             "start": 37,
-            "stop": 38,
+            "end": 38,
             "lines": [
                 {
                     "text": "Let's then determine"
@@ -320,7 +320,7 @@
             "act": 5,
             "scene": 1,
             "start": 39,
-            "stop": 39,
+            "end": 39,
             "lines": [
                 {
                     "text": "I shall attend you presently at your tent."
@@ -334,7 +334,7 @@
             "act": 5,
             "scene": 1,
             "start": 40,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "Sister, you'll go with us?"
@@ -348,7 +348,7 @@
             "act": 5,
             "scene": 1,
             "start": 41,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "No."
@@ -362,7 +362,7 @@
             "act": 5,
             "scene": 1,
             "start": 42,
-            "stop": 42,
+            "end": 42,
             "lines": [
                 {
                     "text": "'Tis most convenient; pray you, go with us."
@@ -376,7 +376,7 @@
             "act": 5,
             "scene": 1,
             "start": 43,
-            "stop": 43,
+            "end": 43,
             "lines": [
                 {
                     "text": "[Aside] O, ho, I know the riddle.--I will go."
@@ -393,7 +393,7 @@
             "act": 5,
             "scene": 1,
             "start": 44,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "If e'er your grace had speech with man so poor,"
@@ -410,7 +410,7 @@
             "act": 5,
             "scene": 1,
             "start": 46,
-            "stop": 46,
+            "end": 46,
             "lines": [
                 {
                     "text": " I'll overtake you. Speak."
@@ -427,7 +427,7 @@
             "act": 5,
             "scene": 1,
             "start": 47,
-            "stop": 53,
+            "end": 53,
             "lines": [
                 {
                     "text": "Before you fight the battle, ope this letter."
@@ -459,7 +459,7 @@
             "act": 5,
             "scene": 1,
             "start": 54,
-            "stop": 54,
+            "end": 54,
             "lines": [
                 {
                     "text": "Stay till I have read the letter."
@@ -473,7 +473,7 @@
             "act": 5,
             "scene": 1,
             "start": 55,
-            "stop": 57,
+            "end": 57,
             "lines": [
                 {
                     "text": "I was forbid it."
@@ -493,7 +493,7 @@
             "act": 5,
             "scene": 1,
             "start": 58,
-            "stop": 58,
+            "end": 58,
             "lines": [
                 {
                     "text": "Why, fare thee well: I will o'erlook thy paper."
@@ -513,7 +513,7 @@
             "act": 5,
             "scene": 1,
             "start": 59,
-            "stop": 62,
+            "end": 62,
             "lines": [
                 {
                     "text": "The enemy's in view; draw up your powers."
@@ -536,7 +536,7 @@
             "act": 5,
             "scene": 1,
             "start": 63,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "We will greet the time."
@@ -553,7 +553,7 @@
             "act": 5,
             "scene": 1,
             "start": 64,
-            "stop": 78,
+            "end": 78,
             "lines": [
                 {
                     "text": "To both these sisters have I sworn my love;"

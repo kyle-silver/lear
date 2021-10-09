@@ -13,7 +13,7 @@
             "act": 4,
             "scene": 3,
             "start": 1,
-            "stop": 2,
+            "end": 2,
             "lines": [
                 {
                     "text": "Why the King of France is so suddenly gone back"
@@ -30,7 +30,7 @@
             "act": 4,
             "scene": 3,
             "start": 3,
-            "stop": 7,
+            "end": 7,
             "lines": [
                 {
                     "text": "Something he left imperfect in the"
@@ -56,7 +56,7 @@
             "act": 4,
             "scene": 3,
             "start": 8,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "Who hath he left behind him general?"
@@ -70,7 +70,7 @@
             "act": 4,
             "scene": 3,
             "start": 9,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "The Marshal of France, Monsieur La Far."
@@ -84,7 +84,7 @@
             "act": 4,
             "scene": 3,
             "start": 10,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "Did your letters pierce the queen to any"
@@ -101,7 +101,7 @@
             "act": 4,
             "scene": 3,
             "start": 12,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "Ay, sir; she took them, read them in my presence;"
@@ -127,7 +127,7 @@
             "act": 4,
             "scene": 3,
             "start": 17,
-            "stop": 17,
+            "end": 17,
             "lines": [
                 {
                     "text": "O, then it moved her."
@@ -141,7 +141,7 @@
             "act": 4,
             "scene": 3,
             "start": 18,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "Not to a rage: patience and sorrow strove"
@@ -179,7 +179,7 @@
             "act": 4,
             "scene": 3,
             "start": 27,
-            "stop": 27,
+            "end": 27,
             "lines": [
                 {
                     "text": "Made she no verbal question?"
@@ -193,7 +193,7 @@
             "act": 4,
             "scene": 3,
             "start": 28,
-            "stop": 35,
+            "end": 35,
             "lines": [
                 {
                     "text": "'Faith, once or twice she heaved the name of 'father'"
@@ -228,7 +228,7 @@
             "act": 4,
             "scene": 3,
             "start": 36,
-            "stop": 39,
+            "end": 39,
             "lines": [
                 {
                     "text": "It is the stars,"
@@ -251,7 +251,7 @@
             "act": 4,
             "scene": 3,
             "start": 40,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "No."
@@ -265,7 +265,7 @@
             "act": 4,
             "scene": 3,
             "start": 41,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "Was this before the king return'd?"
@@ -279,7 +279,7 @@
             "act": 4,
             "scene": 3,
             "start": 42,
-            "stop": 42,
+            "end": 42,
             "lines": [
                 {
                     "text": "No, since."
@@ -293,7 +293,7 @@
             "act": 4,
             "scene": 3,
             "start": 43,
-            "stop": 46,
+            "end": 46,
             "lines": [
                 {
                     "text": "Well, sir, the poor distressed Lear's i' the town;"
@@ -316,7 +316,7 @@
             "act": 4,
             "scene": 3,
             "start": 47,
-            "stop": 47,
+            "end": 47,
             "lines": [
                 {
                     "text": "Why, good sir?"
@@ -330,7 +330,7 @@
             "act": 4,
             "scene": 3,
             "start": 48,
-            "stop": 53,
+            "end": 53,
             "lines": [
                 {
                     "text": "A sovereign shame so elbows him: his own unkindness,"
@@ -359,7 +359,7 @@
             "act": 4,
             "scene": 3,
             "start": 54,
-            "stop": 54,
+            "end": 54,
             "lines": [
                 {
                     "text": "Alack, poor gentleman!"
@@ -373,7 +373,7 @@
             "act": 4,
             "scene": 3,
             "start": 55,
-            "stop": 55,
+            "end": 55,
             "lines": [
                 {
                     "text": "Of Albany's and Cornwall's powers you heard not?"
@@ -387,7 +387,7 @@
             "act": 4,
             "scene": 3,
             "start": 56,
-            "stop": 56,
+            "end": 56,
             "lines": [
                 {
                     "text": "'Tis so, they are afoot."
@@ -401,7 +401,7 @@
             "act": 4,
             "scene": 3,
             "start": 57,
-            "stop": 62,
+            "end": 62,
             "lines": [
                 {
                     "text": "Well, sir, I'll bring you to our master Lear,"

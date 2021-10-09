@@ -13,7 +13,7 @@
             "act": 4,
             "scene": 4,
             "start": 1,
-            "stop": 11,
+            "end": 11,
             "lines": [
                 {
                     "text": "Alack, 'tis he: why, he was met even now"
@@ -60,7 +60,7 @@
             "act": 4,
             "scene": 4,
             "start": 12,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "There is means, madam:"
@@ -86,7 +86,7 @@
             "act": 4,
             "scene": 4,
             "start": 17,
-            "stop": 22,
+            "end": 22,
             "lines": [
                 {
                     "text": "All blest secrets,"
@@ -118,7 +118,7 @@
             "act": 4,
             "scene": 4,
             "start": 23,
-            "stop": 24,
+            "end": 24,
             "lines": [
                 {
                     "text": "News, madam;"
@@ -135,7 +135,7 @@
             "act": 4,
             "scene": 4,
             "start": 25,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "'Tis known before; our preparation stands"

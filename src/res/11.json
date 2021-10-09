@@ -13,7 +13,7 @@
             "act": 3,
             "scene": 2,
             "start": 1,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "Blow, winds, and crack your cheeks! rage! blow!"
@@ -51,7 +51,7 @@
             "act": 3,
             "scene": 2,
             "start": 10,
-            "stop": 13,
+            "end": 13,
             "lines": [
                 {
                     "text": "O nuncle, court holy-water in a dry"
@@ -74,7 +74,7 @@
             "act": 3,
             "scene": 2,
             "start": 14,
-            "stop": 24,
+            "end": 24,
             "lines": [
                 {
                     "text": "Rumble thy bellyful! Spit, fire! spout, rain!"
@@ -118,7 +118,7 @@
             "act": 3,
             "scene": 2,
             "start": 25,
-            "stop": 36,
+            "end": 36,
             "lines": [
                 {
                     "text": "He that has a house to put's head in has a good"
@@ -165,7 +165,7 @@
             "act": 3,
             "scene": 2,
             "start": 37,
-            "stop": 38,
+            "end": 38,
             "lines": [
                 {
                     "text": "No, I will be the pattern of all patience;"
@@ -185,7 +185,7 @@
             "act": 3,
             "scene": 2,
             "start": 39,
-            "stop": 39,
+            "end": 39,
             "lines": [
                 {
                     "text": "Who's there?"
@@ -199,7 +199,7 @@
             "act": 3,
             "scene": 2,
             "start": 40,
-            "stop": 41,
+            "end": 41,
             "lines": [
                 {
                     "text": "Marry, here's grace and a cod-piece; that's a wise"
@@ -216,7 +216,7 @@
             "act": 3,
             "scene": 2,
             "start": 42,
-            "stop": 49,
+            "end": 49,
             "lines": [
                 {
                     "text": "Alas, sir, are you here? things that love night"
@@ -251,7 +251,7 @@
             "act": 3,
             "scene": 2,
             "start": 50,
-            "stop": 61,
+            "end": 61,
             "lines": [
                 {
                     "text": "Let the great gods,"
@@ -298,7 +298,7 @@
             "act": 3,
             "scene": 2,
             "start": 62,
-            "stop": 69,
+            "end": 69,
             "lines": [
                 {
                     "text": "Alack, bare-headed!"
@@ -333,7 +333,7 @@
             "act": 3,
             "scene": 2,
             "start": 70,
-            "stop": 77,
+            "end": 77,
             "lines": [
                 {
                     "text": "My wits begin to turn."
@@ -368,7 +368,7 @@
             "act": 3,
             "scene": 2,
             "start": 78,
-            "stop": 82,
+            "end": 82,
             "lines": [
                 {
                     "text": "[Singing]"
@@ -394,7 +394,7 @@
             "act": 3,
             "scene": 2,
             "start": 83,
-            "stop": 83,
+            "end": 83,
             "lines": [
                 {
                     "text": "True, my good boy. Come, bring us to this hovel."
@@ -411,7 +411,7 @@
             "act": 3,
             "scene": 2,
             "start": 84,
-            "stop": 100,
+            "end": 100,
             "lines": [
                 {
                     "text": "This is a brave night to cool a courtezan."

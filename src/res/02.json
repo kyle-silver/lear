@@ -13,7 +13,7 @@
             "act": 1,
             "scene": 2,
             "start": 1,
-            "stop": 22,
+            "end": 22,
             "lines": [
                 {
                     "text": "Thou, nature, art my goddess; to thy law"
@@ -93,7 +93,7 @@
             "act": 1,
             "scene": 2,
             "start": 23,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "Kent banish'd thus! and France in choler parted!"
@@ -116,7 +116,7 @@
             "act": 1,
             "scene": 2,
             "start": 27,
-            "stop": 27,
+            "end": 27,
             "lines": [
                 {
                     "text": "So please your lordship, none."
@@ -133,7 +133,7 @@
             "act": 1,
             "scene": 2,
             "start": 28,
-            "stop": 28,
+            "end": 28,
             "lines": [
                 {
                     "text": "Why so earnestly seek you to put up that letter?"
@@ -147,7 +147,7 @@
             "act": 1,
             "scene": 2,
             "start": 29,
-            "stop": 29,
+            "end": 29,
             "lines": [
                 {
                     "text": "I know no news, my lord."
@@ -161,7 +161,7 @@
             "act": 1,
             "scene": 2,
             "start": 30,
-            "stop": 30,
+            "end": 30,
             "lines": [
                 {
                     "text": "What paper were you reading?"
@@ -175,7 +175,7 @@
             "act": 1,
             "scene": 2,
             "start": 31,
-            "stop": 31,
+            "end": 31,
             "lines": [
                 {
                     "text": "Nothing, my lord."
@@ -189,7 +189,7 @@
             "act": 1,
             "scene": 2,
             "start": 32,
-            "stop": 35,
+            "end": 35,
             "lines": [
                 {
                     "text": "No? What needed, then, that terrible dispatch of"
@@ -212,7 +212,7 @@
             "act": 1,
             "scene": 2,
             "start": 36,
-            "stop": 39,
+            "end": 39,
             "lines": [
                 {
                     "text": "I beseech you, sir, pardon me: it is a letter"
@@ -235,7 +235,7 @@
             "act": 1,
             "scene": 2,
             "start": 40,
-            "stop": 40,
+            "end": 40,
             "lines": [
                 {
                     "text": "Give me the letter, sir."
@@ -249,7 +249,7 @@
             "act": 1,
             "scene": 2,
             "start": 41,
-            "stop": 42,
+            "end": 42,
             "lines": [
                 {
                     "text": "I shall offend, either to detain or give it. The"
@@ -266,7 +266,7 @@
             "act": 1,
             "scene": 2,
             "start": 43,
-            "stop": 43,
+            "end": 43,
             "lines": [
                 {
                     "text": "Let's see, let's see."
@@ -280,7 +280,7 @@
             "act": 1,
             "scene": 2,
             "start": 44,
-            "stop": 45,
+            "end": 45,
             "lines": [
                 {
                     "text": "I hope, for my brother's justification, he wrote"
@@ -297,7 +297,7 @@
             "act": 1,
             "scene": 2,
             "start": 46,
-            "stop": 60,
+            "end": 60,
             "lines": [
                 {
                     "text": "[Reads] 'This policy and reverence of age makes"
@@ -353,7 +353,7 @@
             "act": 1,
             "scene": 2,
             "start": 61,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "It was not brought me, my lord; there's the"
@@ -373,7 +373,7 @@
             "act": 1,
             "scene": 2,
             "start": 64,
-            "stop": 64,
+            "end": 64,
             "lines": [
                 {
                     "text": "You know the character to be your brother's?"
@@ -387,7 +387,7 @@
             "act": 1,
             "scene": 2,
             "start": 65,
-            "stop": 67,
+            "end": 67,
             "lines": [
                 {
                     "text": "If the matter were good, my lord, I durst swear"
@@ -407,7 +407,7 @@
             "act": 1,
             "scene": 2,
             "start": 68,
-            "stop": 68,
+            "end": 68,
             "lines": [
                 {
                     "text": "It is his."
@@ -421,7 +421,7 @@
             "act": 1,
             "scene": 2,
             "start": 69,
-            "stop": 70,
+            "end": 70,
             "lines": [
                 {
                     "text": "It is his hand, my lord; but I hope his heart is"
@@ -438,7 +438,7 @@
             "act": 1,
             "scene": 2,
             "start": 71,
-            "stop": 71,
+            "end": 71,
             "lines": [
                 {
                     "text": "Hath he never heretofore sounded you in this business?"
@@ -452,7 +452,7 @@
             "act": 1,
             "scene": 2,
             "start": 72,
-            "stop": 75,
+            "end": 75,
             "lines": [
                 {
                     "text": "Never, my lord: but I have heard him oft"
@@ -475,7 +475,7 @@
             "act": 1,
             "scene": 2,
             "start": 76,
-            "stop": 80,
+            "end": 80,
             "lines": [
                 {
                     "text": "O villain, villain! His very opinion in the"
@@ -501,7 +501,7 @@
             "act": 1,
             "scene": 2,
             "start": 81,
-            "stop": 91,
+            "end": 91,
             "lines": [
                 {
                     "text": "I do not well know, my lord. If it shall please"
@@ -545,7 +545,7 @@
             "act": 1,
             "scene": 2,
             "start": 92,
-            "stop": 92,
+            "end": 92,
             "lines": [
                 {
                     "text": "Think you so?"
@@ -559,7 +559,7 @@
             "act": 1,
             "scene": 2,
             "start": 93,
-            "stop": 96,
+            "end": 96,
             "lines": [
                 {
                     "text": "If your honour judge it meet, I will place you"
@@ -582,7 +582,7 @@
             "act": 1,
             "scene": 2,
             "start": 97,
-            "stop": 97,
+            "end": 97,
             "lines": [
                 {
                     "text": "He cannot be such a monster--"
@@ -596,7 +596,7 @@
             "act": 1,
             "scene": 2,
             "start": 98,
-            "stop": 98,
+            "end": 98,
             "lines": [
                 {
                     "text": "Nor is not, sure."
@@ -610,7 +610,7 @@
             "act": 1,
             "scene": 2,
             "start": 99,
-            "stop": 103,
+            "end": 103,
             "lines": [
                 {
                     "text": "To his father, that so tenderly and entirely"
@@ -636,7 +636,7 @@
             "act": 1,
             "scene": 2,
             "start": 104,
-            "stop": 105,
+            "end": 105,
             "lines": [
                 {
                     "text": "I will seek him, sir, presently: convey the"
@@ -653,7 +653,7 @@
             "act": 1,
             "scene": 2,
             "start": 106,
-            "stop": 122,
+            "end": 122,
             "lines": [
                 {
                     "text": "These late eclipses in the sun and moon portend"
@@ -718,7 +718,7 @@
             "act": 1,
             "scene": 2,
             "start": 123,
-            "stop": 144,
+            "end": 144,
             "lines": [
                 {
                     "text": "This is the excellent foppery of the world, that,"
@@ -798,7 +798,7 @@
             "act": 1,
             "scene": 2,
             "start": 145,
-            "stop": 146,
+            "end": 146,
             "lines": [
                 {
                     "text": "How now, brother Edmund! what serious"
@@ -815,7 +815,7 @@
             "act": 1,
             "scene": 2,
             "start": 147,
-            "stop": 148,
+            "end": 148,
             "lines": [
                 {
                     "text": "I am thinking, brother, of a prediction I read"
@@ -832,7 +832,7 @@
             "act": 1,
             "scene": 2,
             "start": 149,
-            "stop": 149,
+            "end": 149,
             "lines": [
                 {
                     "text": "Do you busy yourself about that?"
@@ -846,7 +846,7 @@
             "act": 1,
             "scene": 2,
             "start": 150,
-            "stop": 156,
+            "end": 156,
             "lines": [
                 {
                     "text": "I promise you, the effects he writes of succeed"
@@ -878,7 +878,7 @@
             "act": 1,
             "scene": 2,
             "start": 157,
-            "stop": 157,
+            "end": 157,
             "lines": [
                 {
                     "text": "How long have you been a sectary astronomical?"
@@ -892,7 +892,7 @@
             "act": 1,
             "scene": 2,
             "start": 158,
-            "stop": 158,
+            "end": 158,
             "lines": [
                 {
                     "text": "Come, come; when saw you my father last?"
@@ -906,7 +906,7 @@
             "act": 1,
             "scene": 2,
             "start": 159,
-            "stop": 159,
+            "end": 159,
             "lines": [
                 {
                     "text": "Why, the night gone by."
@@ -920,7 +920,7 @@
             "act": 1,
             "scene": 2,
             "start": 160,
-            "stop": 160,
+            "end": 160,
             "lines": [
                 {
                     "text": "Spake you with him?"
@@ -934,7 +934,7 @@
             "act": 1,
             "scene": 2,
             "start": 161,
-            "stop": 161,
+            "end": 161,
             "lines": [
                 {
                     "text": "Ay, two hours together."
@@ -948,7 +948,7 @@
             "act": 1,
             "scene": 2,
             "start": 162,
-            "stop": 163,
+            "end": 163,
             "lines": [
                 {
                     "text": "Parted you in good terms? Found you no"
@@ -965,7 +965,7 @@
             "act": 1,
             "scene": 2,
             "start": 164,
-            "stop": 164,
+            "end": 164,
             "lines": [
                 {
                     "text": "None at all."
@@ -979,7 +979,7 @@
             "act": 1,
             "scene": 2,
             "start": 165,
-            "stop": 170,
+            "end": 170,
             "lines": [
                 {
                     "text": "Bethink yourself wherein you may have offended"
@@ -1008,7 +1008,7 @@
             "act": 1,
             "scene": 2,
             "start": 171,
-            "stop": 171,
+            "end": 171,
             "lines": [
                 {
                     "text": "Some villain hath done me wrong."
@@ -1022,7 +1022,7 @@
             "act": 1,
             "scene": 2,
             "start": 172,
-            "stop": 177,
+            "end": 177,
             "lines": [
                 {
                     "text": "That's my fear. I pray you, have a continent"
@@ -1051,7 +1051,7 @@
             "act": 1,
             "scene": 2,
             "start": 178,
-            "stop": 178,
+            "end": 178,
             "lines": [
                 {
                     "text": "Armed, brother!"
@@ -1065,7 +1065,7 @@
             "act": 1,
             "scene": 2,
             "start": 179,
-            "stop": 183,
+            "end": 183,
             "lines": [
                 {
                     "text": "Brother, I advise you to the best; go armed: I"
@@ -1091,7 +1091,7 @@
             "act": 1,
             "scene": 2,
             "start": 184,
-            "stop": 184,
+            "end": 184,
             "lines": [
                 {
                     "text": "Shall I hear from you anon?"
@@ -1105,7 +1105,7 @@
             "act": 1,
             "scene": 2,
             "start": 185,
-            "stop": 191,
+            "end": 191,
             "lines": [
                 {
                     "text": "I do serve you in this business."

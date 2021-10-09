@@ -13,7 +13,7 @@
             "act": 2,
             "scene": 4,
             "start": 1,
-            "stop": 2,
+            "end": 2,
             "lines": [
                 {
                     "text": "'Tis strange that they should so depart from home,"
@@ -30,7 +30,7 @@
             "act": 2,
             "scene": 4,
             "start": 3,
-            "stop": 5,
+            "end": 5,
             "lines": [
                 {
                     "text": "As I learn'd,"
@@ -50,7 +50,7 @@
             "act": 2,
             "scene": 4,
             "start": 6,
-            "stop": 6,
+            "end": 6,
             "lines": [
                 {
                     "text": " Hail to thee, noble master!"
@@ -64,7 +64,7 @@
             "act": 2,
             "scene": 4,
             "start": 7,
-            "stop": 8,
+            "end": 8,
             "lines": [
                 {
                     "text": "Ha!"
@@ -81,7 +81,7 @@
             "act": 2,
             "scene": 4,
             "start": 9,
-            "stop": 9,
+            "end": 9,
             "lines": [
                 {
                     "text": "No, my lord."
@@ -95,7 +95,7 @@
             "act": 2,
             "scene": 4,
             "start": 10,
-            "stop": 14,
+            "end": 14,
             "lines": [
                 {
                     "text": "Ha, ha! he wears cruel garters. Horses are tied"
@@ -121,7 +121,7 @@
             "act": 2,
             "scene": 4,
             "start": 15,
-            "stop": 16,
+            "end": 16,
             "lines": [
                 {
                     "text": "What's he that hath so much thy place mistook"
@@ -138,7 +138,7 @@
             "act": 2,
             "scene": 4,
             "start": 17,
-            "stop": 18,
+            "end": 18,
             "lines": [
                 {
                     "text": " It is both he and she;"
@@ -155,7 +155,7 @@
             "act": 2,
             "scene": 4,
             "start": 19,
-            "stop": 19,
+            "end": 19,
             "lines": [
                 {
                     "text": "No."
@@ -169,7 +169,7 @@
             "act": 2,
             "scene": 4,
             "start": 20,
-            "stop": 20,
+            "end": 20,
             "lines": [
                 {
                     "text": "Yes."
@@ -183,7 +183,7 @@
             "act": 2,
             "scene": 4,
             "start": 21,
-            "stop": 21,
+            "end": 21,
             "lines": [
                 {
                     "text": "No, I say."
@@ -197,7 +197,7 @@
             "act": 2,
             "scene": 4,
             "start": 22,
-            "stop": 22,
+            "end": 22,
             "lines": [
                 {
                     "text": "I say, yea."
@@ -211,7 +211,7 @@
             "act": 2,
             "scene": 4,
             "start": 23,
-            "stop": 23,
+            "end": 23,
             "lines": [
                 {
                     "text": "No, no, they would not."
@@ -225,7 +225,7 @@
             "act": 2,
             "scene": 4,
             "start": 24,
-            "stop": 24,
+            "end": 24,
             "lines": [
                 {
                     "text": "Yes, they have."
@@ -239,7 +239,7 @@
             "act": 2,
             "scene": 4,
             "start": 25,
-            "stop": 25,
+            "end": 25,
             "lines": [
                 {
                     "text": "By Jupiter, I swear, no."
@@ -253,7 +253,7 @@
             "act": 2,
             "scene": 4,
             "start": 26,
-            "stop": 26,
+            "end": 26,
             "lines": [
                 {
                     "text": "By Juno, I swear, ay."
@@ -267,7 +267,7 @@
             "act": 2,
             "scene": 4,
             "start": 27,
-            "stop": 32,
+            "end": 32,
             "lines": [
                 {
                     "text": "They durst not do 't;"
@@ -296,7 +296,7 @@
             "act": 2,
             "scene": 4,
             "start": 33,
-            "stop": 51,
+            "end": 51,
             "lines": [
                 {
                     "text": " My lord, when at their home"
@@ -364,7 +364,7 @@
             "act": 2,
             "scene": 4,
             "start": 52,
-            "stop": 60,
+            "end": 60,
             "lines": [
                 {
                     "text": "Winter's not gone yet, if the wild-geese fly that way."
@@ -402,7 +402,7 @@
             "act": 2,
             "scene": 4,
             "start": 61,
-            "stop": 63,
+            "end": 63,
             "lines": [
                 {
                     "text": "O, how this mother swells up toward my heart!"
@@ -422,7 +422,7 @@
             "act": 2,
             "scene": 4,
             "start": 64,
-            "stop": 64,
+            "end": 64,
             "lines": [
                 {
                     "text": "With the earl, sir, here within."
@@ -436,7 +436,7 @@
             "act": 2,
             "scene": 4,
             "start": 65,
-            "stop": 66,
+            "end": 66,
             "lines": [
                 {
                     "text": "Follow me not;"
@@ -456,7 +456,7 @@
             "act": 2,
             "scene": 4,
             "start": 67,
-            "stop": 67,
+            "end": 67,
             "lines": [
                 {
                     "text": "Made you no more offence but what you speak of?"
@@ -470,7 +470,7 @@
             "act": 2,
             "scene": 4,
             "start": 68,
-            "stop": 69,
+            "end": 69,
             "lines": [
                 {
                     "text": "None."
@@ -487,7 +487,7 @@
             "act": 2,
             "scene": 4,
             "start": 70,
-            "stop": 71,
+            "end": 71,
             "lines": [
                 {
                     "text": "And thou hadst been set i' the stocks for that"
@@ -504,7 +504,7 @@
             "act": 2,
             "scene": 4,
             "start": 72,
-            "stop": 72,
+            "end": 72,
             "lines": [
                 {
                     "text": "Why, fool?"
@@ -518,7 +518,7 @@
             "act": 2,
             "scene": 4,
             "start": 73,
-            "stop": 90,
+            "end": 90,
             "lines": [
                 {
                     "text": "We'll set thee to school to an ant, to teach thee"
@@ -583,7 +583,7 @@
             "act": 2,
             "scene": 4,
             "start": 91,
-            "stop": 91,
+            "end": 91,
             "lines": [
                 {
                     "text": "Where learned you this, fool?"
@@ -597,7 +597,7 @@
             "act": 2,
             "scene": 4,
             "start": 92,
-            "stop": 92,
+            "end": 92,
             "lines": [
                 {
                     "text": "Not i' the stocks, fool."
@@ -614,7 +614,7 @@
             "act": 2,
             "scene": 4,
             "start": 93,
-            "stop": 96,
+            "end": 96,
             "lines": [
                 {
                     "text": "Deny to speak with me? They are sick? they are weary?"
@@ -637,7 +637,7 @@
             "act": 2,
             "scene": 4,
             "start": 97,
-            "stop": 100,
+            "end": 100,
             "lines": [
                 {
                     "text": "My dear lord,"
@@ -660,7 +660,7 @@
             "act": 2,
             "scene": 4,
             "start": 101,
-            "stop": 103,
+            "end": 103,
             "lines": [
                 {
                     "text": "Vengeance! plague! death! confusion!"
@@ -680,7 +680,7 @@
             "act": 2,
             "scene": 4,
             "start": 104,
-            "stop": 104,
+            "end": 104,
             "lines": [
                 {
                     "text": "Well, my good lord, I have inform'd them so."
@@ -694,7 +694,7 @@
             "act": 2,
             "scene": 4,
             "start": 105,
-            "stop": 105,
+            "end": 105,
             "lines": [
                 {
                     "text": "Inform'd them! Dost thou understand me, man?"
@@ -708,7 +708,7 @@
             "act": 2,
             "scene": 4,
             "start": 106,
-            "stop": 106,
+            "end": 106,
             "lines": [
                 {
                     "text": "Ay, my good lord."
@@ -722,7 +722,7 @@
             "act": 2,
             "scene": 4,
             "start": 107,
-            "stop": 125,
+            "end": 125,
             "lines": [
                 {
                     "text": "The king would speak with Cornwall; the dear father"
@@ -793,7 +793,7 @@
             "act": 2,
             "scene": 4,
             "start": 126,
-            "stop": 126,
+            "end": 126,
             "lines": [
                 {
                     "text": "I would have all well betwixt you."
@@ -810,7 +810,7 @@
             "act": 2,
             "scene": 4,
             "start": 127,
-            "stop": 127,
+            "end": 127,
             "lines": [
                 {
                     "text": "O me, my heart, my rising heart! but, down!"
@@ -824,7 +824,7 @@
             "act": 2,
             "scene": 4,
             "start": 128,
-            "stop": 132,
+            "end": 132,
             "lines": [
                 {
                     "text": "Cry to it, nuncle, as the cockney did to the eels"
@@ -853,7 +853,7 @@
             "act": 2,
             "scene": 4,
             "start": 133,
-            "stop": 133,
+            "end": 133,
             "lines": [
                 {
                     "text": "Good morrow to you both."
@@ -867,7 +867,7 @@
             "act": 2,
             "scene": 4,
             "start": 134,
-            "stop": 134,
+            "end": 134,
             "lines": [
                 {
                     "text": "Hail to your grace!"
@@ -884,7 +884,7 @@
             "act": 2,
             "scene": 4,
             "start": 135,
-            "stop": 135,
+            "end": 135,
             "lines": [
                 {
                     "text": "I am glad to see your highness."
@@ -898,7 +898,7 @@
             "act": 2,
             "scene": 4,
             "start": 136,
-            "stop": 145,
+            "end": 145,
             "lines": [
                 {
                     "text": "Regan, I think you are; I know what reason"
@@ -945,7 +945,7 @@
             "act": 2,
             "scene": 4,
             "start": 146,
-            "stop": 148,
+            "end": 148,
             "lines": [
                 {
                     "text": "I pray you, sir, take patience: I have hope."
@@ -965,7 +965,7 @@
             "act": 2,
             "scene": 4,
             "start": 149,
-            "stop": 149,
+            "end": 149,
             "lines": [
                 {
                     "text": "Say, how is that?"
@@ -979,7 +979,7 @@
             "act": 2,
             "scene": 4,
             "start": 150,
-            "stop": 154,
+            "end": 154,
             "lines": [
                 {
                     "text": "I cannot think my sister in the least"
@@ -1005,7 +1005,7 @@
             "act": 2,
             "scene": 4,
             "start": 155,
-            "stop": 155,
+            "end": 155,
             "lines": [
                 {
                     "text": "My curses on her!"
@@ -1019,7 +1019,7 @@
             "act": 2,
             "scene": 4,
             "start": 156,
-            "stop": 162,
+            "end": 162,
             "lines": [
                 {
                     "text": " O, sir, you are old."
@@ -1051,7 +1051,7 @@
             "act": 2,
             "scene": 4,
             "start": 163,
-            "stop": 167,
+            "end": 167,
             "lines": [
                 {
                     "text": "Ask her forgiveness?"
@@ -1080,7 +1080,7 @@
             "act": 2,
             "scene": 4,
             "start": 168,
-            "stop": 169,
+            "end": 169,
             "lines": [
                 {
                     "text": "Good sir, no more; these are unsightly tricks:"
@@ -1097,7 +1097,7 @@
             "act": 2,
             "scene": 4,
             "start": 170,
-            "stop": 176,
+            "end": 176,
             "lines": [
                 {
                     "text": "[Rising] Never, Regan:"
@@ -1129,7 +1129,7 @@
             "act": 2,
             "scene": 4,
             "start": 177,
-            "stop": 177,
+            "end": 177,
             "lines": [
                 {
                     "text": "Fie, sir, fie!"
@@ -1143,7 +1143,7 @@
             "act": 2,
             "scene": 4,
             "start": 178,
-            "stop": 181,
+            "end": 181,
             "lines": [
                 {
                     "text": "You nimble lightnings, dart your blinding flames"
@@ -1166,7 +1166,7 @@
             "act": 2,
             "scene": 4,
             "start": 182,
-            "stop": 183,
+            "end": 183,
             "lines": [
                 {
                     "text": "O the blest gods! so will you wish on me,"
@@ -1183,7 +1183,7 @@
             "act": 2,
             "scene": 4,
             "start": 184,
-            "stop": 195,
+            "end": 195,
             "lines": [
                 {
                     "text": "No, Regan, thou shalt never have my curse:"
@@ -1230,7 +1230,7 @@
             "act": 2,
             "scene": 4,
             "start": 196,
-            "stop": 196,
+            "end": 196,
             "lines": [
                 {
                     "text": "Good sir, to the purpose."
@@ -1244,7 +1244,7 @@
             "act": 2,
             "scene": 4,
             "start": 197,
-            "stop": 197,
+            "end": 197,
             "lines": [
                 {
                     "text": "Who put my man i' the stocks?"
@@ -1261,7 +1261,7 @@
             "act": 2,
             "scene": 4,
             "start": 198,
-            "stop": 198,
+            "end": 198,
             "lines": [
                 {
                     "text": "What trumpet's that?"
@@ -1275,7 +1275,7 @@
             "act": 2,
             "scene": 4,
             "start": 199,
-            "stop": 201,
+            "end": 201,
             "lines": [
                 {
                     "text": "I know't, my sister's: this approves her letter,"
@@ -1298,7 +1298,7 @@
             "act": 2,
             "scene": 4,
             "start": 202,
-            "stop": 204,
+            "end": 204,
             "lines": [
                 {
                     "text": "This is a slave, whose easy-borrow'd pride"
@@ -1318,7 +1318,7 @@
             "act": 2,
             "scene": 4,
             "start": 205,
-            "stop": 205,
+            "end": 205,
             "lines": [
                 {
                     "text": "What means your grace?"
@@ -1332,7 +1332,7 @@
             "act": 2,
             "scene": 4,
             "start": 206,
-            "stop": 212,
+            "end": 212,
             "lines": [
                 {
                     "text": "Who stock'd my servant? Regan, I have good hope"
@@ -1370,7 +1370,7 @@
             "act": 2,
             "scene": 4,
             "start": 213,
-            "stop": 215,
+            "end": 215,
             "lines": [
                 {
                     "text": "Why not by the hand, sir? How have I offended?"
@@ -1390,7 +1390,7 @@
             "act": 2,
             "scene": 4,
             "start": 216,
-            "stop": 217,
+            "end": 217,
             "lines": [
                 {
                     "text": "O sides, you are too tough;"
@@ -1407,7 +1407,7 @@
             "act": 2,
             "scene": 4,
             "start": 218,
-            "stop": 219,
+            "end": 219,
             "lines": [
                 {
                     "text": "I set him there, sir: but his own disorders"
@@ -1424,7 +1424,7 @@
             "act": 2,
             "scene": 4,
             "start": 220,
-            "stop": 220,
+            "end": 220,
             "lines": [
                 {
                     "text": "You! did you?"
@@ -1438,7 +1438,7 @@
             "act": 2,
             "scene": 4,
             "start": 221,
-            "stop": 226,
+            "end": 226,
             "lines": [
                 {
                     "text": "I pray you, father, being weak, seem so."
@@ -1467,7 +1467,7 @@
             "act": 2,
             "scene": 4,
             "start": 227,
-            "stop": 237,
+            "end": 237,
             "lines": [
                 {
                     "text": "Return to her, and fifty men dismiss'd?"
@@ -1514,7 +1514,7 @@
             "act": 2,
             "scene": 4,
             "start": 238,
-            "stop": 238,
+            "end": 238,
             "lines": [
                 {
                     "text": "At your choice, sir."
@@ -1528,7 +1528,7 @@
             "act": 2,
             "scene": 4,
             "start": 239,
-            "stop": 252,
+            "end": 252,
             "lines": [
                 {
                     "text": "I prithee, daughter, do not make me mad:"
@@ -1581,7 +1581,7 @@
             "act": 2,
             "scene": 4,
             "start": 253,
-            "stop": 258,
+            "end": 258,
             "lines": [
                 {
                     "text": "Not altogether so:"
@@ -1610,7 +1610,7 @@
             "act": 2,
             "scene": 4,
             "start": 259,
-            "stop": 259,
+            "end": 259,
             "lines": [
                 {
                     "text": "Is this well spoken?"
@@ -1624,7 +1624,7 @@
             "act": 2,
             "scene": 4,
             "start": 260,
-            "stop": 265,
+            "end": 265,
             "lines": [
                 {
                     "text": "I dare avouch it, sir: what, fifty followers?"
@@ -1653,7 +1653,7 @@
             "act": 2,
             "scene": 4,
             "start": 266,
-            "stop": 267,
+            "end": 267,
             "lines": [
                 {
                     "text": "Why might not you, my lord, receive attendance"
@@ -1670,7 +1670,7 @@
             "act": 2,
             "scene": 4,
             "start": 268,
-            "stop": 272,
+            "end": 272,
             "lines": [
                 {
                     "text": "Why not, my lord? If then they chanced to slack you,"
@@ -1696,7 +1696,7 @@
             "act": 2,
             "scene": 4,
             "start": 273,
-            "stop": 273,
+            "end": 273,
             "lines": [
                 {
                     "text": "I gave you all--"
@@ -1710,7 +1710,7 @@
             "act": 2,
             "scene": 4,
             "start": 274,
-            "stop": 274,
+            "end": 274,
             "lines": [
                 {
                     "text": " And in good time you gave it."
@@ -1724,7 +1724,7 @@
             "act": 2,
             "scene": 4,
             "start": 275,
-            "stop": 278,
+            "end": 278,
             "lines": [
                 {
                     "text": "Made you my guardians, my depositaries;"
@@ -1747,7 +1747,7 @@
             "act": 2,
             "scene": 4,
             "start": 279,
-            "stop": 279,
+            "end": 279,
             "lines": [
                 {
                     "text": "And speak't again, my lord; no more with me."
@@ -1761,7 +1761,7 @@
             "act": 2,
             "scene": 4,
             "start": 280,
-            "stop": 285,
+            "end": 285,
             "lines": [
                 {
                     "text": "Those wicked creatures yet do look well-favour'd,"
@@ -1793,7 +1793,7 @@
             "act": 2,
             "scene": 4,
             "start": 286,
-            "stop": 289,
+            "end": 289,
             "lines": [
                 {
                     "text": "Hear me, my lord;"
@@ -1816,7 +1816,7 @@
             "act": 2,
             "scene": 4,
             "start": 290,
-            "stop": 290,
+            "end": 290,
             "lines": [
                 {
                     "text": "What need one?"
@@ -1830,7 +1830,7 @@
             "act": 2,
             "scene": 4,
             "start": 291,
-            "stop": 313,
+            "end": 313,
             "lines": [
                 {
                     "text": "O, reason not the need: our basest beggars"
@@ -1916,7 +1916,7 @@
             "act": 2,
             "scene": 4,
             "start": 314,
-            "stop": 314,
+            "end": 314,
             "lines": [
                 {
                     "text": "Let us withdraw; 'twill be a storm."
@@ -1930,7 +1930,7 @@
             "act": 2,
             "scene": 4,
             "start": 315,
-            "stop": 316,
+            "end": 316,
             "lines": [
                 {
                     "text": "This house is little: the old man and his people"
@@ -1947,7 +1947,7 @@
             "act": 2,
             "scene": 4,
             "start": 317,
-            "stop": 318,
+            "end": 318,
             "lines": [
                 {
                     "text": "'Tis his own blame; hath put himself from rest,"
@@ -1964,7 +1964,7 @@
             "act": 2,
             "scene": 4,
             "start": 319,
-            "stop": 320,
+            "end": 320,
             "lines": [
                 {
                     "text": "For his particular, I'll receive him gladly,"
@@ -1981,7 +1981,7 @@
             "act": 2,
             "scene": 4,
             "start": 321,
-            "stop": 322,
+            "end": 322,
             "lines": [
                 {
                     "text": "So am I purposed."
@@ -1998,7 +1998,7 @@
             "act": 2,
             "scene": 4,
             "start": 323,
-            "stop": 323,
+            "end": 323,
             "lines": [
                 {
                     "text": "Follow'd the old man forth: he is return'd."
@@ -2015,7 +2015,7 @@
             "act": 2,
             "scene": 4,
             "start": 324,
-            "stop": 324,
+            "end": 324,
             "lines": [
                 {
                     "text": "The king is in high rage."
@@ -2029,7 +2029,7 @@
             "act": 2,
             "scene": 4,
             "start": 325,
-            "stop": 325,
+            "end": 325,
             "lines": [
                 {
                     "text": "Whither is he going?"
@@ -2043,7 +2043,7 @@
             "act": 2,
             "scene": 4,
             "start": 326,
-            "stop": 326,
+            "end": 326,
             "lines": [
                 {
                     "text": "He calls to horse; but will I know not whither."
@@ -2057,7 +2057,7 @@
             "act": 2,
             "scene": 4,
             "start": 327,
-            "stop": 327,
+            "end": 327,
             "lines": [
                 {
                     "text": "'Tis best to give him way; he leads himself."
@@ -2071,7 +2071,7 @@
             "act": 2,
             "scene": 4,
             "start": 328,
-            "stop": 328,
+            "end": 328,
             "lines": [
                 {
                     "text": "My lord, entreat him by no means to stay."
@@ -2085,7 +2085,7 @@
             "act": 2,
             "scene": 4,
             "start": 329,
-            "stop": 331,
+            "end": 331,
             "lines": [
                 {
                     "text": "Alack, the night comes on, and the bleak winds"
@@ -2105,7 +2105,7 @@
             "act": 2,
             "scene": 4,
             "start": 332,
-            "stop": 337,
+            "end": 337,
             "lines": [
                 {
                     "text": "O, sir, to wilful men,"
@@ -2134,7 +2134,7 @@
             "act": 2,
             "scene": 4,
             "start": 338,
-            "stop": 339,
+            "end": 339,
             "lines": [
                 {
                     "text": "Shut up your doors, my lord; 'tis a wild night:"

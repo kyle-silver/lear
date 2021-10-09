@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 1,
-            "setting": "SCENE IV. A hall in the same.",
+            "act": "Act I",
+            "scene": "Scene IV",
+            "setting": "A hall in the same.",
             "staging": "Enter KENT, disguised"
         }
     },

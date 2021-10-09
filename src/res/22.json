@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 4,
-            "setting": "SCENE VI. Fields near Dover.",
+            "act": "Act IV",
+            "scene": "Scene VI",
+            "setting": "Fields near Dover.",
             "staging": "Enter GLOUCESTER, and EDGAR dressed like a peasant"
         }
     },

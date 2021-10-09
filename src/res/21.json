@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 4,
-            "setting": "SCENE V. Gloucester's castle.",
+            "act": "Act IV",
+            "scene": "Scene V",
+            "setting": "Gloucester's castle.",
             "staging": "Enter REGAN and OSWALD"
         }
     },

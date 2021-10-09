@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 2,
-            "setting": "SCENE III. A wood.",
+            "act": "Act II",
+            "scene": "Scene III",
+            "setting": "A wood.",
             "staging": "Enter EDGAR"
         }
     },

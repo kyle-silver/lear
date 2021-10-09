@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 4,
-            "setting": "SCENE II. Before ALBANY's palace.",
+            "act": "Act IV",
+            "scene": "Scene II",
+            "setting": "Before ALBANY's palace.",
             "staging": "Enter GONERIL and EDMUND"
         }
     },

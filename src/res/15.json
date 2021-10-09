@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 3,
-            "setting": "SCENE VI. A chamber in a farmhouse adjoining the castle.",
+            "act": "Act III",
+            "scene": "Scene VI",
+            "setting": "A chamber in a farmhouse adjoining the castle.",
             "staging": "Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR"
         }
     },

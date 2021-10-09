@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 4,
-            "setting": "SCENE IV. The same. A tent.",
+            "act": "Act IV",
+            "scene": "Scene IV",
+            "setting": "The same. A tent.",
             "staging": "Enter, with drum and colours, CORDELIA, Doctor, and Soldiers"
         }
     },

@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 1,
-            "setting": "SCENE V. Court before the same.",
+            "act": "Act I",
+            "scene": "Scene V",
+            "setting": "Court before the same.",
             "staging": "Enter KING LEAR, KENT, and Fool"
         }
     },

@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 2,
-            "setting": "SCENE I. GLOUCESTER's castle.",
+            "act": "Act II",
+            "scene": "Scene I",
+            "setting": "GLOUCESTER's castle.",
             "staging": "Enter EDMUND, and CURAN meets him"
         }
     },

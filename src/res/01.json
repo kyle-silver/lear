@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 1,
-            "setting": "SCENE I. King Lear's palace.",
+            "act": "Act I",
+            "scene": "Scene I",
+            "setting": "King Lear's palace.",
             "staging": "Enter KENT, GLOUCESTER, and EDMUND"
         }
     },

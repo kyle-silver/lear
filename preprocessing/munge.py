@@ -75,13 +75,16 @@ class Dialogue(TextBlock):
 
 @dataclass(frozen=True)
 class Heading(TextBlock):
-    act: int
+    act: str
+    scene: str
     setting: str
     staging: Direction
 
     @staticmethod
-    def from_html(act: int, setting: Tag, staging: Tag) -> Heading:
-        return Heading(act, setting.text.strip(), staging.text.strip())
+    def from_html(act: str, setting: Tag, staging: Tag) -> Heading:
+        print(setting.text)
+        [scene, setting] = setting.text.strip().split(".", 1)
+        return Heading(act, scene.strip(), setting.strip(), staging.text.strip())
 
     def to_dict(self, encode_json=False) -> Dict[str, Any]:
         # return super().to_dict(encode_json=encode_json)
@@ -99,7 +102,7 @@ lear = peekable(tag for tag in soup.body if tag.name is not None)
 
 scenes: List[List[TextBlock]] = []
 current_scene: List[TextBlock] = []
-act = 0
+act = "0"
 
 while lear.peek(None):
     tag: Tag = next(lear)
@@ -107,8 +110,8 @@ while lear.peek(None):
     if tag.name == "h3":
         scenes.append(current_scene)
         current_scene = []
-        if tag.text.startswith("ACT"):
-            act = act + 1
+        if tag.text.startswith("Act"):
+            act = tag.text
             tag = next(lear)
         staging = next(lear)
         scene_info = Heading.from_html(act, tag, staging)

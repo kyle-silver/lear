@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 3,
-            "setting": "SCENE IV. The heath. Before a hovel.",
+            "act": "Act III",
+            "scene": "Scene IV",
+            "setting": "The heath. Before a hovel.",
             "staging": "Enter KING LEAR, KENT, and Fool"
         }
     },

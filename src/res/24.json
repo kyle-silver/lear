@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 5,
-            "setting": "SCENE I. The British camp, near Dover.",
+            "act": "Act V",
+            "scene": "Scene I",
+            "setting": "The British camp, near Dover.",
             "staging": "Enter, with drum and colours, EDMUND, REGAN, Gentlemen, and Soldiers."
         }
     },

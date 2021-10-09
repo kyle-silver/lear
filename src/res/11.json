@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 3,
-            "setting": "SCENE II. Another part of the heath. Storm still.",
+            "act": "Act III",
+            "scene": "Scene II",
+            "setting": "Another part of the heath. Storm still.",
             "staging": "Enter KING LEAR and Fool"
         }
     },

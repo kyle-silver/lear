@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 5,
-            "setting": "SCENE II. A field between the two camps.",
+            "act": "Act V",
+            "scene": "Scene II",
+            "setting": "A field between the two camps.",
             "staging": "Alarum within. Enter, with drum and colours, KING LEAR, CORDELIA, and Soldiers, over the stage; and exeunt. Enter EDGAR and GLOUCESTER"
         }
     },

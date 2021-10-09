@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 2,
-            "setting": "SCENE IV. Before GLOUCESTER's castle. KENT in the stocks.",
+            "act": "Act II",
+            "scene": "Scene IV",
+            "setting": "Before GLOUCESTER's castle. KENT in the stocks.",
             "staging": "Enter KING LEAR, Fool, and Gentleman"
         }
     },

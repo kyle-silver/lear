@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 4,
-            "setting": "SCENE VII. A tent in the French camp. LEAR on a bed asleep,",
+            "act": "Act IV",
+            "scene": "Scene VII",
+            "setting": "A tent in the French camp. LEAR on a bed asleep,",
             "staging": "soft music playing; Gentleman, and others attending.\nEnter CORDELIA, KENT, and Doctor"
         }
     },

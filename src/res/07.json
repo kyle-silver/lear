@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 2,
-            "setting": "SCENE II. Before Gloucester's castle.",
+            "act": "Act II",
+            "scene": "Scene II",
+            "setting": "Before Gloucester's castle.",
             "staging": "Enter KENT and OSWALD, severally"
         }
     },

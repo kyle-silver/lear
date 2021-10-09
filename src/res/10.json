@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 3,
-            "setting": "SCENE I. A heath.",
+            "act": "Act III",
+            "scene": "Scene I",
+            "setting": "A heath.",
             "staging": "Storm still. Enter KENT and a Gentleman, meeting"
         }
     },

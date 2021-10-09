@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 1,
-            "setting": "SCENE II. The Earl of Gloucester's castle.",
+            "act": "Act I",
+            "scene": "Scene II",
+            "setting": "The Earl of Gloucester's castle.",
             "staging": "Enter EDMUND, with a letter"
         }
     },

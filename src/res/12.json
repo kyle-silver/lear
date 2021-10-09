@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 3,
-            "setting": "SCENE III. Gloucester's castle.",
+            "act": "Act III",
+            "scene": "Scene III",
+            "setting": "Gloucester's castle.",
             "staging": "Enter GLOUCESTER and EDMUND"
         }
     },

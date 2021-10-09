@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 1,
-            "setting": "SCENE III. The Duke of Albany's palace.",
+            "act": "Act I",
+            "scene": "Scene III",
+            "setting": "The Duke of Albany's palace.",
             "staging": "Enter GONERIL, and OSWALD, her steward"
         }
     },

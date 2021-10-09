@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 4,
-            "setting": "SCENE III. The French camp near Dover.",
+            "act": "Act IV",
+            "scene": "Scene III",
+            "setting": "The French camp near Dover.",
             "staging": "Enter KENT and a Gentleman"
         }
     },

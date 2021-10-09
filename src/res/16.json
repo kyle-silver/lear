@@ -1,8 +1,9 @@
 [
     {
         "Heading": {
-            "act": 3,
-            "setting": "SCENE VII. Gloucester's castle.",
+            "act": "Act III",
+            "scene": "Scene VII",
+            "setting": "Gloucester's castle.",
             "staging": "Enter CORNWALL, REGAN, GONERIL, EDMUND, and Servants"
         }
     },

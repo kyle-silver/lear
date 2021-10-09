@@ -1,12 +1,12 @@
-# Lear: A Shakespearean Command Line Tool
+# Lear: A Shakespearean Command Line Utility
 
-Lear is a command line &ldquo;tool&rdquo; that you can use to amuse yourself and your friends. Whenever you mistype `clear` into the terminal, `lear` will dutifully print out a passage from everyone&rsquo;s favorite tragedy about a mad king.
+Lear is a command line &ldquo;utility&rdquo; that you can use to amuse yourself and your friends. Whenever you mistype `clear` into the terminal, `lear` will dutifully print out a passage from everyone&rsquo;s favorite tragedy about a mad king.
 
 This idea was loosely inspired by [`sl` (Steam Locomotive)](https://github.com/mtoyoda/sl), [Fortune](<https://en.wikipedia.org/wiki/Fortune_(Unix)>), and all of the other weird command line scripts out there.
 
 ## Usage
 
-To get started, type `lear` into the console, preferably by accident.
+To get started, type `lear` into the console (preferably by accident).
 
 ![a demonstration of lear, with a passage from act 3 scene 2 printed to the console](/img/lear-demo.png)
 

@@ -1,4 +1,4 @@
-# Lear: A Shakespearian Command Line Tool
+# Lear: A Shakespearean Command Line Tool
 
 Lear is a command line &ldquo;tool&rdquo; that you can use to amuse yourself and your friends. Whenever you mistype `clear` into the terminal, `lear` will dutifully print out a passage from everyone&rsquo;s favorite tragedy about a mad king.
 

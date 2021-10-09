@@ -36,8 +36,8 @@ fn main() -> Result<(), Box<dyn Error>> {
         )
         .get_matches();
     match matches.subcommand() {
-        ("contents", Some(arg_matches)) => {
-            println!("contents");
+        ("contents", Some(_)) => {
+            lear::display_contents();
         }
         ("quote", Some(arg_matches)) => {
             let selection = lear::text(5, 4, 2..=1000).unwrap();

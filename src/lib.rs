@@ -37,6 +37,173 @@ const SCENES: [&str; 26] = [
     include_str!("res/26.json"),
 ];
 
+#[derive(Debug)]
+struct Metadata {
+    act: &'static str,
+    scene: usize,
+    lines: usize,
+}
+
+const METADATA: [Metadata; 26] = [
+    Metadata {
+        act: "1",
+        scene: 1,
+        lines: 332,
+    },
+    Metadata {
+        act: "",
+        scene: 2,
+        lines: 191,
+    },
+    Metadata {
+        act: "",
+        scene: 3,
+        lines: 27,
+    },
+    Metadata {
+        act: "",
+        scene: 4,
+        lines: 352,
+    },
+    Metadata {
+        act: "",
+        scene: 5,
+        lines: 48,
+    },
+    Metadata {
+        act: "2",
+        scene: 1,
+        lines: 141,
+    },
+    Metadata {
+        act: "",
+        scene: 2,
+        lines: 177,
+    },
+    Metadata {
+        act: "",
+        scene: 3,
+        lines: 21,
+    },
+    Metadata {
+        act: "",
+        scene: 4,
+        lines: 339,
+    },
+    Metadata {
+        act: "3",
+        scene: 1,
+        lines: 58,
+    },
+    Metadata {
+        act: "",
+        scene: 2,
+        lines: 100,
+    },
+    Metadata {
+        act: "",
+        scene: 3,
+        lines: 25,
+    },
+    Metadata {
+        act: "",
+        scene: 4,
+        lines: 187,
+    },
+    Metadata {
+        act: "",
+        scene: 5,
+        lines: 25,
+    },
+    Metadata {
+        act: "",
+        scene: 6,
+        lines: 117,
+    },
+    Metadata {
+        act: "",
+        scene: 7,
+        lines: 118,
+    },
+    Metadata {
+        act: "4",
+        scene: 1,
+        lines: 90,
+    },
+    Metadata {
+        act: "",
+        scene: 2,
+        lines: 111,
+    },
+    Metadata {
+        act: "",
+        scene: 3,
+        lines: 62,
+    },
+    Metadata {
+        act: "",
+        scene: 4,
+        lines: 32,
+    },
+    Metadata {
+        act: "",
+        scene: 5,
+        lines: 45,
+    },
+    Metadata {
+        act: "",
+        scene: 6,
+        lines: 314,
+    },
+    Metadata {
+        act: "",
+        scene: 7,
+        lines: 110,
+    },
+    Metadata {
+        act: "5",
+        scene: 1,
+        lines: 78,
+    },
+    Metadata {
+        act: "",
+        scene: 2,
+        lines: 13,
+    },
+    Metadata {
+        act: "",
+        scene: 3,
+        lines: 386,
+    },
+];
+
+pub fn display_contents() {
+    println!(
+        "{}{: ^19}{}",
+        style::Italic,
+        "The Tragedie of",
+        style::Reset
+    );
+    println!("{: ^19}\n", "KING LEAR");
+    println!("{: ^19}\n", "by");
+    println!("{}{: ^19}{}", style::Italic, "William", style::Italic);
+    println!("{}{: ^19}{}\n", style::Italic, "Shakespeare", style::Italic);
+    println!(
+        "{}{: ^5}{: ^7}{: ^7}{}",
+        style::Bold,
+        "Act",
+        "Scene",
+        "Lines",
+        style::Reset
+    );
+    for line in &METADATA {
+        if line.act != "" {
+            println!("{:-^19}", "");
+        }
+        println!("{: ^5}{: ^7}{: ^7}", line.act, line.scene, line.lines,);
+    }
+}
+
 struct TableEntry {
     start: usize,
     scenes: RangeInclusive<usize>,

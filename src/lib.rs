@@ -330,12 +330,22 @@ impl Dialogue {
             .enumerate()
             .filter(|(_, line)| matches!(line, Line::Text(_)))
             .find(|(i, _)| i + self.start >= *start_line)?;
-        let (end, _) = self
+        // there's some weirdness when stage directions are in the last block of
+        // text, so we count them separately and add them together. There's
+        // probably a better way to handle this...
+        let (lines_of_text, _) = self
             .lines
             .iter()
+            .filter(|line| matches!(line, Line::Text(_)))
             .enumerate()
-            .filter(|(_, line)| matches!(line, Line::Text(_)))
             .find(|(i, _)| i + self.start >= *end_line)?;
+        let skipped_directions = self
+            .lines
+            .iter()
+            .take(lines_of_text)
+            .filter(|line| matches!(line, Line::Direction(_)))
+            .count();
+        let end = lines_of_text + skipped_directions;
         // grab only the lines we want to display
         let mut lines: Vec<Line> = self.lines[start..=end].to_vec();
         // omit empty dialogue blocks

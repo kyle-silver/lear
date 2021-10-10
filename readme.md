@@ -51,6 +51,8 @@ If you have `cargo` installed on your machine already, `lear` can be installed w
 $ cargo install lear
 ```
 
+Windows and linux users, currently `cargo install` is the only way to guarantee a cross-platform installation. Please open an issue if you want to see your platform supported!
+
 ## Contributing
 
 If you would like to contribute to this tool, please open an issue or submit a pull request

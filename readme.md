@@ -38,13 +38,18 @@ $ lear contents
 
 ## Installation
 
+If you use homebrew, `lear` can be installed with
+
+```console
+$ brew tap kyle-silver/lear
+$ brew install lear
+```
+
 If you have `cargo` installed on your machine already, `lear` can be installed with
 
 ```console
 $ cargo install lear
 ```
-
-A homebrew installation is hopefully coming soon.
 
 ## Contributing
 

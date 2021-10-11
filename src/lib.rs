@@ -320,6 +320,10 @@ impl Dialogue {
         if self.start > *range.end() || self.end < *range.start() {
             return None;
         }
+        // complete overlap
+        if *range.start() <= self.start && self.end <= *range.end() {
+            return Some(self.clone());
+        }
         // the line numbers from the selection
         let start_line = max(range.start(), &self.start);
         let end_line = min(range.end(), &self.end);
@@ -330,22 +334,25 @@ impl Dialogue {
             .enumerate()
             .filter(|(_, line)| matches!(line, Line::Text(_)))
             .find(|(i, _)| i + self.start >= *start_line)?;
-        // there's some weirdness when stage directions are in the last block of
-        // text, so we count them separately and add them together. There's
-        // probably a better way to handle this...
-        let (lines_of_text, _) = self
-            .lines
-            .iter()
-            .filter(|line| matches!(line, Line::Text(_)))
-            .enumerate()
-            .find(|(i, _)| i + self.start >= *end_line)?;
-        let skipped_directions = self
-            .lines
-            .iter()
-            .take(lines_of_text)
-            .filter(|line| matches!(line, Line::Direction(_)))
-            .count();
-        let end = lines_of_text + skipped_directions;
+        // Things get a little weird when stage directions are at the end of a
+        // block because they don't have line numbers associated with them. To
+        // compensate we just walk through the text line by line and count.
+        let mut lines_text = 0;
+        let mut lines_directions = 0;
+        for line in &self.lines {
+            match line {
+                Line::Text(_) => {
+                    lines_text += 1;
+                    if lines_text + self.start >= *end_line {
+                        break;
+                    }
+                }
+                Line::Direction(_) => {
+                    lines_directions += 1;
+                }
+            };
+        }
+        let end = lines_text + lines_directions;
         // grab only the lines we want to display
         let mut lines: Vec<Line> = self.lines[start..=end].to_vec();
         // omit empty dialogue blocks
